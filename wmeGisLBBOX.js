@@ -7,6 +7,7 @@
 // @license             MIT
 // @grant               GM_xmlhttpRequest
 // @connect             github.io
+// @match              *://this-library-is-not-supposed-to-run.com/*
 // @contributionURL     https://github.com/WazeDev/Thank-The-Authors
 // ==/UserScript==
 
