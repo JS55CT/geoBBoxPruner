@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name                wmeGisLBBOX
-// @namespace           https://github.com/WazeDev/
+// @namespace           https://github.com/JS55CT/
 // @author              JS55CT
 // @description         Determines which geographical divisions are in a Viewport intersect with the given BBOX.
-// @version             2026.06.11.00
+// @version             2026.07.13.00
 // @license             MIT
 // @grant               GM_xmlhttpRequest
 // @connect             github.io

@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name                WME Whats in View
-// @namespace           https://github.com/WazeDev
+// @namespace           https://github.com/JS55CT
 // @description         Displays a popup with geographic information for the visible map region in Waze Map Editor.
-// @version             2026.06.11.00
+// @version             2026.07.13.00
 // @author              JS55CT
 // @match               *://*.waze.com/*editor*
 // @exclude             *://*.waze.com/user/editor*
 // @exclude             *://*.waze.com/editor/sdk/*
-// @require             https://WazeDev.github.io/wmeGisLBBOX/wmeGisLBBOX.js
+// @require             https://update.greasyfork.org/scripts/542477/1623802/wmeGisLBBOX.js
 // @connect             github.io
 // @grant               unsafeWindow
 // @grant               GM_xmlhttpRequest
