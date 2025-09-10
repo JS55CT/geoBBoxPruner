@@ -24,6 +24,14 @@
       { "minLon": -65.154118, "minLat": 17.623468, "maxLon": -64.512674, "maxLat": 18.464984 }
     ]
   },
+    "FRA": {
+    "name": "France",
+    "id": "FRA",
+    "ISO_ALPHA2": "FR",
+    "ISO_ALPHA3": "FRA",
+    "Sub_level": 0,
+    "bbox": [{ "minLon": -5.1437511444, "minLat": 41.3337516785, "maxLon": 9.5604162216, "maxLat": 51.0893974304 }]
+  },
     "KEN": {
       "name": "Kenya",
       "id": "KEN",
