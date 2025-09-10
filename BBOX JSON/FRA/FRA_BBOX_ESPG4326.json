@@ -1,1 +1,145 @@
-{}
+{
+  "IDF": {
+   "name": "Île-de-France",
+   "sub_id": "IDF",
+   "sub_num": "11",
+   "bbox": {
+     "minLon": 1.4463000572,
+     "minLat": 48.1200772513,
+     "maxLon": 3.5590271073,
+     "maxLat": 49.2414877589
+   }
+ },
+  "ARA": {
+    "name": "Auvergne-Rhône-Alpes",
+    "sub_id": "ARA",
+    "sub_num": "84",
+    "bbox": {
+      "minLon": 2.062878148,
+      "minLat": 44.1154926128,
+      "maxLon": 7.1855645988,
+      "maxLat": 46.804287049
+    }
+  },
+  "BFC": {
+    "name": "Bourgogne-Franche-Comté",
+    "sub_id": "BFC",
+    "sub_num": "27",
+    "bbox": {
+      "minLon": 2.844894818,
+      "minLat": 46.1560650151,
+      "maxLon": 7.1433628292,
+      "maxLat": 48.4000531098
+    }
+  },
+  "BRE": {
+    "name": "Bretagne",
+    "sub_id": "BRE",
+    "sub_num": "53",
+    "bbox": {
+      "minLon": -5.1412765736,
+      "minLat": 47.277915635,
+      "maxLon": -1.0156128967,
+      "maxLat": 48.9009583467
+    }
+  },
+  "CVL": {
+    "name": "Centre-Val de Loire",
+    "sub_id": "CVL",
+    "sub_num": "24",
+    "bbox": {
+      "minLon": 0.0527388417,
+      "minLat": 46.3469010919,
+      "maxLon": 3.1286776603,
+      "maxLat": 48.9410340369
+    }
+  },
+  "COR": {
+    "name": "Corse",
+    "sub_id": "COR",
+    "sub_num": "94",
+    "bbox": {
+      "minLon": 8.5346864114,
+      "minLat": 41.3335556859,
+      "maxLon": 9.5600936073,
+      "maxLat": 43.0276933941
+    }
+  },
+  "GE": {
+    "name": "Grand Est",
+    "sub_id": "GE",
+    "sub_num": "44",
+    "bbox": {
+      "minLon": 3.3836694268,
+      "minLat": 47.4203409377,
+      "maxLon": 8.2324967961,
+      "maxLat": 50.1693117011
+    }
+  },
+  "HDF": {
+    "name": "Hauts-de-France",
+    "sub_id": "HDF",
+    "sub_num": "32",
+    "bbox": {
+      "minLon": 1.3802175217,
+      "minLat": 48.8372074408,
+      "maxLon": 4.2558368478,
+      "maxLat": 51.0890974639
+    }
+  },
+  "NOR": {
+    "name": "Normandie",
+    "sub_id": "NOR",
+    "sub_num": "28",
+    "bbox": {
+      "minLon": -1.9549718432,
+      "minLat": 48.1798896672,
+      "maxLon": 1.8028630312,
+      "maxLat": 50.0722037198
+    }
+  },
+  "NAQ": {
+    "name": "Nouvelle-Aquitaine",
+    "sub_id": "NAQ",
+    "sub_num": "75",
+    "bbox": {
+      "minLon": -1.792350952,
+      "minLat": 42.7778572122,
+      "maxLon": 2.6112848714,
+      "maxLat": 47.1759905322
+    }
+  },
+  "OCC": {
+    "name": "Occitanie",
+    "sub_id": "OCC",
+    "sub_num": "76",
+    "bbox": {
+      "minLon": -0.3271761346,
+      "minLat": 42.332921474,
+      "maxLon": 4.845568851,
+      "maxLat": 45.0466746428
+    }
+  },
+  "PDL": {
+    "name": "Pays de la Loire",
+    "sub_id": "PDL",
+    "sub_num": "52",
+    "bbox": {
+      "minLon": -2.6257254917,
+      "minLat": 46.2666616232,
+      "maxLon": 0.9166506581,
+      "maxLat": 48.5679940642
+    }
+  },
+  "PACA": {
+    "name": "Provence-Alpes-Côte d'Azur",
+    "sub_id": "PACA",
+    "sub_num": "93",
+    "bbox": {
+      "minLon": 4.2302132353,
+      "minLat": 42.9820293837,
+      "maxLon": 7.7189836863,
+      "maxLat": 45.1268442039
+    }
+  }
+}
