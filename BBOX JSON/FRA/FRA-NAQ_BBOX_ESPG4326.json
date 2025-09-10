@@ -1,0 +1,146 @@
+[
+  {
+    "Charente": {
+      "sub_num": "16",
+      "name": "Charente",
+      "bbox": {
+        "minLon": -0.4631576468,
+        "minLat": 45.1916716912,
+        "maxLon": 0.9471125366,
+        "maxLat": 46.1408445658
+      }
+    }
+  },
+  {
+    "Charente-Maritime": {
+      "sub_num": "17",
+      "name": "Charente-Maritime",
+      "bbox": {
+        "minLon": -1.5626797478,
+        "minLat": 45.0887387447,
+        "maxLon": 0.0058905273,
+        "maxLat": 46.3714494299
+      }
+    }
+  },
+  {
+    "Corrèze": {
+      "sub_num": "19",
+      "name": "Corrèze",
+      "bbox": {
+        "minLon": 1.2264944712,
+        "minLat": 44.9202844118,
+        "maxLon": 2.5287243114,
+        "maxLat": 45.7652669789
+      }
+    }
+  },
+  {
+    "Creuse": {
+      "sub_num": "23",
+      "name": "Creuse",
+      "bbox": {
+        "minLon": 1.3725934974,
+        "minLat": 45.6635457458,
+        "maxLon": 2.611249273,
+        "maxLat": 46.4553659211
+      }
+    }
+  },
+  {
+    "Dordogne": {
+      "sub_num": "24",
+      "name": "Dordogne",
+      "bbox": {
+        "minLon": -0.0418836456,
+        "minLat": 44.5707251643,
+        "maxLon": 1.4482385416,
+        "maxLat": 45.7147612019
+      }
+    }
+  },
+  {
+    "Gironde": {
+      "sub_num": "33",
+      "name": "Gironde",
+      "bbox": {
+        "minLon": -1.2609782573,
+        "minLat": 44.1938881127,
+        "maxLon": 0.3151234869,
+        "maxLat": 45.6048591508
+      }
+    }
+  },
+  {
+    "Landes": {
+      "sub_num": "40",
+      "name": "Landes",
+      "bbox": {
+        "minLon": -1.5235993903,
+        "minLat": 43.4874110527,
+        "maxLon": 0.1367625354,
+        "maxLat": 44.5323683508
+      }
+    }
+  },
+  {
+    "Lot-et-Garonne": {
+      "sub_num": "47",
+      "name": "Lot-et-Garonne",
+      "bbox": {
+        "minLon": -0.14068988,
+        "minLat": 43.9725741762,
+        "maxLon": 1.0783287648,
+        "maxLat": 44.7656651932
+      }
+    }
+  },
+  {
+    "Pyrénées-Atlantiques": {
+      "sub_num": "64",
+      "name": "Pyrénées-Atlantiques",
+      "bbox": {
+        "minLon": -1.792350952,
+        "minLat": 42.7778572122,
+        "maxLon": 0.0297939918,
+        "maxLat": 43.5968355879
+      }
+    }
+  },
+  {
+    "Deux-Sèvres": {
+      "sub_num": "79",
+      "name": "Deux-Sèvres",
+      "bbox": {
+        "minLon": -0.9035178178,
+        "minLat": 45.9696612961,
+        "maxLon": 0.2203941729,
+        "maxLat": 47.108549441
+      }
+    }
+  },
+  {
+    "Vienne": {
+      "sub_num": "86",
+      "name": "Vienne",
+      "bbox": {
+        "minLon": -0.1050271369,
+        "minLat": 46.0482627837,
+        "maxLon": 1.2132219932,
+        "maxLat": 47.1759905322
+      }
+    }
+  },
+  {
+    "Haute-Vienne": {
+      "sub_num": "87",
+      "name": "Haute-Vienne",
+      "bbox": {
+        "minLon": 0.6292391494,
+        "minLat": 45.436622603,
+        "maxLon": 1.911071239,
+        "maxLat": 46.4015814479
+      }
+    }
+  }
+]

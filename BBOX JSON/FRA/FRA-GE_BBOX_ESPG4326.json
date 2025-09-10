@@ -1,0 +1,122 @@
+[
+  {
+    "Ardennes": {
+      "sub_num": "08",
+      "name": "Ardennes",
+      "bbox": {
+        "minLon": 4.4560511529,
+        "minLat": 48.0826757937,
+        "maxLon": 5.2615945384,
+        "maxLat": 49.9983756407
+      }
+    }
+  },
+  {
+    "Aube": {
+      "sub_num": "10",
+      "name": "Aube",
+      "bbox": {
+        "minLon": 3.3941752161,
+        "minLat": 47.7568388999,
+        "maxLon": 4.6896133552,
+        "maxLat": 48.6130447653
+      }
+    }
+  },
+  {
+    "Marne": {
+      "sub_num": "51",
+      "name": "Marne",
+      "bbox": {
+        "minLon": 3.5267782685,
+        "minLat": 48.7152400092,
+        "maxLon": 5.2536616275,
+        "maxLat": 49.3298393372
+      }
+    }
+  },
+  {
+    "Haute-Marne": {
+      "sub_num": "52",
+      "name": "Haute-Marne",
+      "bbox": {
+        "minLon": 4.6781731682,
+        "minLat": 47.7161179756,
+        "maxLon": 5.6800856366,
+        "maxLat": 48.2912037098
+      }
+    }
+  },
+  {
+    "Meurthe-et-Moselle": {
+      "sub_num": "54",
+      "name": "Meurthe-et-Moselle",
+      "bbox": {
+        "minLon": 5.6588010604,
+        "minLat": 48.3933021127,
+        "maxLon": 6.7340285461,
+        "maxLat": 49.5925706663
+      }
+    }
+  },
+  {
+    "Meuse": {
+      "sub_num": "55",
+      "name": "Meuse",
+      "bbox": {
+        "minLon": 4.6971124617,
+        "minLat": 48.6567236377,
+        "maxLon": 6.3225588657,
+        "maxLat": 49.5981550766
+      }
+    }
+  },
+  {
+    "Moselle": {
+      "sub_num": "57",
+      "name": "Moselle",
+      "bbox": {
+        "minLon": 5.6713903335,
+        "minLat": 48.7298703108,
+        "maxLon": 7.5865678098,
+        "maxLat": 49.5864793476
+      }
+    }
+  },
+  {
+    "Bas-Rhin": {
+      "sub_num": "67",
+      "name": "Bas-Rhin",
+      "bbox": {
+        "minLon": 6.9748911718,
+        "minLat": 47.5290670427,
+        "maxLon": 8.2335727732,
+        "maxLat": 49.1221524871
+      }
+    }
+  },
+  {
+    "Haut-Rhin": {
+      "sub_num": "68",
+      "name": "Haut-Rhin",
+      "bbox": {
+        "minLon": 7.0319920446,
+        "minLat": 47.4645251426,
+        "maxLon": 7.544401059,
+        "maxLat": 48.3366674911
+      }
+    }
+  },
+  {
+    "Vosges": {
+      "sub_num": "88",
+      "name": "Vosges",
+      "bbox": {
+        "minLon": 5.4822097217,
+        "minLat": 47.8273762438,
+        "maxLon": 7.0337253383,
+        "maxLat": 48.5213548124
+      }
+    }
+  }
+]

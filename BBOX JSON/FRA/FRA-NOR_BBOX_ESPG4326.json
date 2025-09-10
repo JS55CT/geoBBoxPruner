@@ -1,0 +1,62 @@
+[
+  {
+    "Calvados": {
+      "sub_num": "14",
+      "name": "Calvados",
+      "bbox": {
+        "minLon": -1.159763928,
+        "minLat": 48.7516927331,
+        "maxLon": 0.4464865312,
+        "maxLat": 49.4299241978
+      }
+    }
+  },
+  {
+    "Eure": {
+      "sub_num": "27",
+      "name": "Eure",
+      "bbox": {
+        "minLon": 0.2967357016,
+        "minLat": 48.666432353,
+        "maxLon": 1.8028630312,
+        "maxLat": 49.4852882188
+      }
+    }
+  },
+  {
+    "Manche": {
+      "sub_num": "50",
+      "name": "Manche",
+      "bbox": {
+        "minLon": -1.9549718432,
+        "minLat": 48.4558330048,
+        "maxLon": -0.7347885974,
+        "maxLat": 49.7299926981
+      }
+    }
+  },
+  {
+    "Orne": {
+      "sub_num": "61",
+      "name": "Orne",
+      "bbox": {
+        "minLon": -0.8605678477,
+        "minLat": 48.1798896672,
+        "maxLon": 0.976590529,
+        "maxLat": 48.9725410158
+      }
+    }
+  },
+  {
+    "Seine-Maritime": {
+      "sub_num": "76",
+      "name": "Seine-Maritime",
+      "bbox": {
+        "minLon": 0.0655814076,
+        "minLat": 49.2506486489,
+        "maxLon": 1.7907762161,
+        "maxLat": 50.0722037198
+      }
+    }
+  }
+]

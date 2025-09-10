@@ -1,0 +1,50 @@
+[
+  {
+    "Côtes-d'Armor": {
+      "sub_num": "22",
+      "name": "Côtes-d'Armor",
+      "bbox": {
+        "minLon": -3.5743613894,
+        "minLat": 48.0804332389,
+        "maxLon": -1.7969989421,
+        "maxLat": 48.8048925801
+      }
+    }
+  },
+  {
+    "Finistère": {
+      "sub_num": "29",
+      "name": "Finistère",
+      "bbox": {
+        "minLon": -5.0793559535,
+        "minLat": 47.8183339738,
+        "maxLon": -3.3573536215,
+        "maxLat": 48.8269937191
+      }
+    }
+  },
+  {
+    "Ille-et-Vilaine": {
+      "sub_num": "35",
+      "name": "Ille-et-Vilaine",
+      "bbox": {
+        "minLon": -2.2444330647,
+        "minLat": 47.6874883673,
+        "maxLon": -1.003377594,
+        "maxLat": 48.8676521657
+      }
+    }
+  },
+  {
+    "Morbihan": {
+      "sub_num": "56",
+      "name": "Morbihan",
+      "bbox": {
+        "minLon": -3.3683403378,
+        "minLat": 47.4101845639,
+        "maxLon": -2.059006461,
+        "maxLat": 48.207720169
+      }
+    }
+  }
+]

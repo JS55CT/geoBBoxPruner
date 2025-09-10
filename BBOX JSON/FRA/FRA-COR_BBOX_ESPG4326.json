@@ -1,0 +1,26 @@
+[
+  {
+    "Corse-du-Sud": {
+      "sub_num": "2A",
+      "name": "Corse-du-Sud",
+      "bbox": {
+        "minLon": 8.5248898837,
+        "minLat": 41.3388334743,
+        "maxLon": 9.3268932821,
+        "maxLat": 42.3426078809
+      }
+    }
+  },
+  {
+    "Haute-Corse": {
+      "sub_num": "2B",
+      "name": "Haute-Corse",
+      "bbox": {
+        "minLon": 8.7614069163,
+        "minLat": 42.1367746534,
+        "maxLon": 9.5368254347,
+        "maxLat": 42.9888768772
+      }
+    }
+  }
+]

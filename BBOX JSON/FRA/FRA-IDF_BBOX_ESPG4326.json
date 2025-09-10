@@ -1,0 +1,98 @@
+[
+  {
+    "Paris": {
+      "sub_num": "75",
+      "name": "Paris",
+      "bbox": {
+        "minLon": 2.2242191061,
+        "minLat": 48.8155622382,
+        "maxLon": 2.4698510669,
+        "maxLat": 48.9021475928
+      }
+    }
+  },
+  {
+    "Seine-et-Marne": {
+      "sub_num": "77",
+      "name": "Seine-et-Marne",
+      "bbox": {
+        "minLon": 2.3923399488,
+        "minLat": 48.1200772513,
+        "maxLon": 3.5589849673,
+        "maxLat": 49.1179046421
+      }
+    }
+  },
+  {
+    "Yvelines": {
+      "sub_num": "78",
+      "name": "Yvelines",
+      "bbox": {
+        "minLon": 1.4463000572,
+        "minLat": 48.4385593527,
+        "maxLon": 2.2291438322,
+        "maxLat": 49.0854073479
+      }
+    }
+  },
+  {
+    "Essonne": {
+      "sub_num": "91",
+      "name": "Essonne",
+      "bbox": {
+        "minLon": 1.9145276418,
+        "minLat": 48.2845586699,
+        "maxLon": 2.5856503039,
+        "maxLat": 48.7761349858
+      }
+    }
+  },
+  {
+    "Hauts-de-Seine": {
+      "sub_num": "92",
+      "name": "Hauts-de-Seine",
+      "bbox": {
+        "minLon": 2.1457190066,
+        "minLat": 48.729353585,
+        "maxLon": 2.3369603287,
+        "maxLat": 48.9509658648
+      }
+    }
+  },
+  {
+    "Seine-Saint-Denis": {
+      "sub_num": "93",
+      "name": "Seine-Saint-Denis",
+      "bbox": {
+        "minLon": 2.2883296742,
+        "minLat": 48.807249681,
+        "maxLon": 2.60331381,
+        "maxLat": 49.0123323141
+      }
+    }
+  },
+  {
+    "Val-de-Marne": {
+      "sub_num": "94",
+      "name": "Val-de-Marne",
+      "bbox": {
+        "minLon": 2.3086935034,
+        "minLat": 48.6876307382,
+        "maxLon": 2.6156201661,
+        "maxLat": 48.8614874441
+      }
+    }
+  },
+  {
+    "Val-d'Oise": {
+      "sub_num": "95",
+      "name": "Val-d'Oise",
+      "bbox": {
+        "minLon": 1.6087475951,
+        "minLat": 48.90867933,
+        "maxLon": 2.5950015262,
+        "maxLat": 49.2414628433
+      }
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "Ain": {
+      "sub_num": "01",
+      "name": "Ain",
+      "bbox": {
+        "minLon": 4.7281319439,
+        "minLat": 45.6110863639,
+        "maxLon": 6.1700308401,
+        "maxLat": 46.5199186802
+      }
+    }
+  },
+  {
+    "Allier": {
+      "sub_num": "03",
+      "name": "Allier",
+      "bbox": {
+        "minLon": 2.2767857982,
+        "minLat": 45.9307278703,
+        "maxLon": 4.0057365653,
+        "maxLat": 46.804287049
+      }
+    }
+  },
+  {
+    "Ardèche": {
+      "sub_num": "07",
+      "name": "Ardèche",
+      "bbox": {
+        "minLon": 3.8610991628,
+        "minLat": 44.2643371032,
+        "maxLon": 4.8864723933,
+        "maxLat": 45.3661939217
+      }
+    }
+  },
+  {
+    "Cantal": {
+      "sub_num": "15",
+      "name": "Cantal",
+      "bbox": {
+        "minLon": 2.062878148,
+        "minLat": 44.6157662353,
+        "maxLon": 3.3714604471,
+        "maxLat": 45.4834691991
+      }
+    }
+  },
+  {
+    "Drôme": {
+      "sub_num": "26",
+      "name": "Drôme",
+      "bbox": {
+        "minLon": 4.6468645878,
+        "minLat": 44.1154926128,
+        "maxLon": 5.8304424668,
+        "maxLat": 45.3439696583
+      }
+    }
+  },
+  {
+    "Isère": {
+      "sub_num": "38",
+      "name": "Isère",
+      "bbox": {
+        "minLon": 4.7420403591,
+        "minLat": 44.6958696019,
+        "maxLon": 6.3593031378,
+        "maxLat": 45.8833677852
+      }
+    }
+  },
+  {
+    "Loire": {
+      "sub_num": "42",
+      "name": "Loire",
+      "bbox": {
+        "minLon": 3.6884201542,
+        "minLat": 45.2310339179,
+        "maxLon": 4.7603778244,
+        "maxLat": 46.2765576352
+      }
+    }
+  },
+  {
+    "Haute-Loire": {
+      "sub_num": "43",
+      "name": "Haute-Loire",
+      "bbox": {
+        "minLon": 3.0821923506,
+        "minLat": 44.7439573308,
+        "maxLon": 4.4908226433,
+        "maxLat": 45.4276050858
+      }
+    }
+  },
+  {
+    "Puy-de-Dôme": {
+      "sub_num": "63",
+      "name": "Puy-de-Dôme",
+      "bbox": {
+        "minLon": 2.388058862,
+        "minLat": 45.2870664029,
+        "maxLon": 3.9853463858,
+        "maxLat": 46.2565944198
+      }
+    }
+  },
+  {
+    "Rhône": {
+      "sub_num": "69",
+      "name": "Rhône",
+      "bbox": {
+        "minLon": 4.2436610537,
+        "minLat": 45.4541235739,
+        "maxLon": 5.1601109133,
+        "maxLat": 46.3064837539
+      }
+    }
+  },
+  {
+    "Savoie": {
+      "sub_num": "73",
+      "name": "Savoie",
+      "bbox": {
+        "minLon": 5.6219019494,
+        "minLat": 45.0516834888,
+        "maxLon": 7.1855645988,
+        "maxLat": 45.9385294321
+      }
+    }
+  },
+  {
+    "Haute-Savoie": {
+      "sub_num": "74",
+      "name": "Haute-Savoie",
+      "bbox": {
+        "minLon": 5.8050207407,
+        "minLat": 45.6816517538,
+        "maxLon": 7.0444710617,
+        "maxLat": 46.4082359559
+      }
+    }
+  }
+]

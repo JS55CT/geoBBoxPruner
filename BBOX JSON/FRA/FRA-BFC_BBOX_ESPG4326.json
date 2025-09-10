@@ -1,0 +1,98 @@
+[
+  {
+    "Côte-d'Or": {
+      "sub_num": "21",
+      "name": "Côte-d'Or",
+      "bbox": {
+        "minLon": 4.0651908177,
+        "minLat": 46.8998373782,
+        "maxLon": 5.5187632033,
+        "maxLat": 48.0312967521
+      }
+    }
+  },
+  {
+    "Doubs": {
+      "sub_num": "25",
+      "name": "Doubs",
+      "bbox": {
+        "minLon": 5.6987026744,
+        "minLat": 46.5537984909,
+        "maxLon": 7.0623888746,
+        "maxLat": 47.5796933432
+      }
+    }
+  },
+  {
+    "Jura": {
+      "sub_num": "39",
+      "name": "Jura",
+      "bbox": {
+        "minLon": 5.2520368602,
+        "minLat": 46.2606869701,
+        "maxLon": 6.2071856094,
+        "maxLat": 47.3059042021
+      }
+    }
+  },
+  {
+    "Nièvre": {
+      "sub_num": "58",
+      "name": "Nièvre",
+      "bbox": {
+        "minLon": 2.844894818,
+        "minLat": 46.6510170972,
+        "maxLon": 4.2319105571,
+        "maxLat": 47.5882799188
+      }
+    }
+  },
+  {
+    "Haute-Saône": {
+      "sub_num": "70",
+      "name": "Haute-Saône",
+      "bbox": {
+        "minLon": 5.3669651796,
+        "minLat": 47.2525419762,
+        "maxLon": 6.8249355992,
+        "maxLat": 48.0241354708
+      }
+    }
+  },
+  {
+    "Saône-et-Loire": {
+      "sub_num": "71",
+      "name": "Saône-et-Loire",
+      "bbox": {
+        "minLon": 3.6225898827,
+        "minLat": 46.1560650151,
+        "maxLon": 5.4652854102,
+        "maxLat": 47.1557623959
+      }
+    }
+  },
+  {
+    "Yonne": {
+      "sub_num": "89",
+      "name": "Yonne",
+      "bbox": {
+        "minLon": 2.8484388667,
+        "minLat": 47.3103535687,
+        "maxLon": 4.340300787,
+        "maxLat": 48.4000531098
+      }
+    }
+  },
+  {
+    "Territoire de Belfort": {
+      "sub_num": "90",
+      "name": "Territoire de Belfort",
+      "bbox": {
+        "minLon": 6.7562449903,
+        "minLat": 47.4333229089,
+        "maxLon": 7.1433628292,
+        "maxLat": 47.8250975798
+      }
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "Alpes-de-Haute-Provence": {
+      "sub_num": "04",
+      "name": "Alpes-de-Haute-Provence",
+      "bbox": {
+        "minLon": 5.7096280215,
+        "minLat": 43.697754531,
+        "maxLon": 6.9114634744,
+        "maxLat": 44.6006336684
+      }
+    }
+  },
+  {
+    "Hautes-Alpes": {
+      "sub_num": "05",
+      "name": "Hautes-Alpes",
+      "bbox": {
+        "minLon": 5.6882061705,
+        "minLat": 44.4547065204,
+        "maxLon": 7.0772496697,
+        "maxLat": 45.1738840467
+      }
+    }
+  },
+  {
+    "Alpes-Maritimes": {
+      "sub_num": "06",
+      "name": "Alpes-Maritimes",
+      "bbox": {
+        "minLon": 6.5913142457,
+        "minLat": 43.5330944824,
+        "maxLon": 7.6806233612,
+        "maxLat": 44.2526632358
+      }
+    }
+  },
+  {
+    "Bouches-du-Rhône": {
+      "sub_num": "13",
+      "name": "Bouches-du-Rhône",
+      "bbox": {
+        "minLon": 4.3063776696,
+        "minLat": 43.1861384051,
+        "maxLon": 5.6802051911,
+        "maxLat": 44.0265589554
+      }
+    }
+  },
+  {
+    "Var": {
+      "sub_num": "83",
+      "name": "Var",
+      "bbox": {
+        "minLon": 5.6191519536,
+        "minLat": 43.0315998846,
+        "maxLon": 6.8060705692,
+        "maxLat": 43.769420897
+      }
+    }
+  },
+  {
+    "Vaucluse": {
+      "sub_num": "84",
+      "name": "Vaucluse",
+      "bbox": {
+        "minLon": 4.888910275,
+        "minLat": 43.785314061,
+        "maxLon": 5.6076171482,
+        "maxLat": 44.2789415261
+      }
+    }
+  }
+]

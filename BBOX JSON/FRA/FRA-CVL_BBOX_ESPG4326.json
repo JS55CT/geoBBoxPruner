@@ -1,0 +1,74 @@
+[
+  {
+    "Cher": {
+      "sub_num": "18",
+      "name": "Cher",
+      "bbox": {
+        "minLon": 1.7736742909,
+        "minLat": 46.4204731763,
+        "maxLon": 3.0797386581,
+        "maxLat": 47.6291138148
+      }
+    }
+  },
+  {
+    "Eure-et-Loir": {
+      "sub_num": "28",
+      "name": "Eure-et-Loir",
+      "bbox": {
+        "minLon": 0.7556893964,
+        "minLat": 47.9538217138,
+        "maxLon": 1.9945714126,
+        "maxLat": 48.9410340369
+      }
+    }
+  },
+  {
+    "Indre": {
+      "sub_num": "36",
+      "name": "Indre",
+      "bbox": {
+        "minLon": 0.8674070184,
+        "minLat": 46.3469010919,
+        "maxLon": 2.204562074,
+        "maxLat": 47.2774358718
+      }
+    }
+  },
+  {
+    "Indre-et-Loire": {
+      "sub_num": "37",
+      "name": "Indre-et-Loire",
+      "bbox": {
+        "minLon": 0.0527388417,
+        "minLat": 46.7367109751,
+        "maxLon": 1.3660473464,
+        "maxLat": 47.70987244
+      }
+    }
+  },
+  {
+    "Loir-et-Cher": {
+      "sub_num": "41",
+      "name": "Loir-et-Cher",
+      "bbox": {
+        "minLon": 0.5804932464,
+        "minLat": 47.186390432,
+        "maxLon": 2.2478931364,
+        "maxLat": 48.133240439
+      }
+    }
+  },
+  {
+    "Loiret": {
+      "sub_num": "45",
+      "name": "Loiret",
+      "bbox": {
+        "minLon": 1.5123790874,
+        "minLat": 47.4830313311,
+        "maxLon": 3.1286776603,
+        "maxLat": 48.3449490821
+      }
+    }
+  }
+]

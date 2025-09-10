@@ -1,0 +1,62 @@
+[
+  {
+    "Aisne": {
+      "sub_num": "02",
+      "name": "Aisne",
+      "bbox": {
+        "minLon": 2.9580355619,
+        "minLat": 48.8372074408,
+        "maxLon": 4.2558368478,
+        "maxLat": 50.0694988328
+      }
+    }
+  },
+  {
+    "Nord": {
+      "sub_num": "59",
+      "name": "Nord",
+      "bbox": {
+        "minLon": 2.0156749928,
+        "minLat": 50.0108049228,
+        "maxLon": 4.1631473089,
+        "maxLat": 51.0896717107
+      }
+    }
+  },
+  {
+    "Oise": {
+      "sub_num": "60",
+      "name": "Oise",
+      "bbox": {
+        "minLon": 1.3531005386,
+        "minLat": 49.1733643661,
+        "maxLon": 3.1864624836,
+        "maxLat": 49.777338804
+      }
+    }
+  },
+  {
+    "Pas-de-Calais": {
+      "sub_num": "62",
+      "name": "Pas-de-Calais",
+      "bbox": {
+        "minLon": 1.6428666881,
+        "minLat": 50.2342512711,
+        "maxLon": 4.0161783515,
+        "maxLat": 51.0715276527
+      }
+    }
+  },
+  {
+    "Somme": {
+      "sub_num": "80",
+      "name": "Somme",
+      "bbox": {
+        "minLon": 1.5823130569,
+        "minLat": 49.630892106,
+        "maxLon": 2.4769685445,
+        "maxLat": 50.2858829157
+      }
+    }
+  }
+]

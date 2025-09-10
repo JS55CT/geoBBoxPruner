@@ -1,0 +1,62 @@
+[
+  {
+    "Loire-Atlantique": {
+      "sub_num": "44",
+      "name": "Loire-Atlantique",
+      "bbox": {
+        "minLon": -2.1018706627,
+        "minLat": 46.9451617479,
+        "maxLon": -0.9174733368,
+        "maxLat": 47.7237718046
+      }
+    }
+  },
+  {
+    "Maine-et-Loire": {
+      "sub_num": "49",
+      "name": "Maine-et-Loire",
+      "bbox": {
+        "minLon": -0.1385872311,
+        "minLat": 47.0963690533,
+        "maxLon": 0.5845012926,
+        "maxLat": 47.8373709719
+      }
+    }
+  },
+  {
+    "Mayenne": {
+      "sub_num": "53",
+      "name": "Mayenne",
+      "bbox": {
+        "minLon": -0.9527428014,
+        "minLat": 47.9292281584,
+        "maxLon": -0.0732075646,
+        "maxLat": 48.5482414461
+      }
+    }
+  },
+  {
+    "Sarthe": {
+      "sub_num": "72",
+      "name": "Sarthe",
+      "bbox": {
+        "minLon": -0.5563601272,
+        "minLat": 47.6133668362,
+        "maxLon": 0.6224291048,
+        "maxLat": 48.2831561003
+      }
+    }
+  },
+  {
+    "Vendée": {
+      "sub_num": "85",
+      "name": "Vendée",
+      "bbox": {
+        "minLon": -2.0805887207,
+        "minLat": 46.3368280918,
+        "maxLon": -0.9604993986,
+        "maxLat": 47.0255405293
+      }
+    }
+  }
+]

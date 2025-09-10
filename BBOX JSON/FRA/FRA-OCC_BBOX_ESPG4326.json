@@ -1,0 +1,158 @@
+[
+  {
+    "Ariège": {
+      "sub_num": "09",
+      "name": "Ariège",
+      "bbox": {
+        "minLon": 0.8259955004,
+        "minLat": 42.5714741349,
+        "maxLon": 2.1758616023,
+        "maxLat": 43.3162054578
+      }
+    }
+  },
+  {
+    "Aude": {
+      "sub_num": "11",
+      "name": "Aude",
+      "bbox": {
+        "minLon": 1.6884309007,
+        "minLat": 42.6489009818,
+        "maxLon": 3.2401478154,
+        "maxLat": 43.4600544651
+      }
+    }
+  },
+  {
+    "Aveyron": {
+      "sub_num": "12",
+      "name": "Aveyron",
+      "bbox": {
+        "minLon": 1.8395943104,
+        "minLat": 43.6906095148,
+        "maxLon": 3.4517589414,
+        "maxLat": 44.9414350198
+      }
+    }
+  },
+  {
+    "Gard": {
+      "sub_num": "30",
+      "name": "Gard",
+      "bbox": {
+        "minLon": 3.2624466696,
+        "minLat": 43.4601571427,
+        "maxLon": 4.845568851,
+        "maxLat": 44.459659736
+      }
+    }
+  },
+  {
+    "Haute-Garonne": {
+      "sub_num": "31",
+      "name": "Haute-Garonne",
+      "bbox": {
+        "minLon": 0.4416817096,
+        "minLat": 42.6891605888,
+        "maxLon": 2.0483036266,
+        "maxLat": 43.9215181352
+      }
+    }
+  },
+  {
+    "Gers": {
+      "sub_num": "32",
+      "name": "Gers",
+      "bbox": {
+        "minLon": -0.2823143861,
+        "minLat": 43.3108472488,
+        "maxLon": 1.2032491888,
+        "maxLat": 44.0800115328
+      }
+    }
+  },
+  {
+    "Hérault": {
+      "sub_num": "34",
+      "name": "Hérault",
+      "bbox": {
+        "minLon": 2.539556383,
+        "minLat": 43.2102011519,
+        "maxLon": 4.194503504,
+        "maxLat": 43.9727531503
+      }
+    }
+  },
+  {
+    "Lot": {
+      "sub_num": "46",
+      "name": "Lot",
+      "bbox": {
+        "minLon": 0.9815133506,
+        "minLat": 44.2033360573,
+        "maxLon": 2.2108886516,
+        "maxLat": 45.0466542363
+      }
+    }
+  },
+  {
+    "Lozère": {
+      "sub_num": "48",
+      "name": "Lozère",
+      "bbox": {
+        "minLon": 2.9811976927,
+        "minLat": 44.1095839423,
+        "maxLon": 3.9983704779,
+        "maxLat": 44.9757544619
+      }
+    }
+  },
+  {
+    "Hautes-Pyrénées": {
+      "sub_num": "65",
+      "name": "Hautes-Pyrénées",
+      "bbox": {
+        "minLon": -0.3271761346,
+        "minLat": 42.6732251443,
+        "maxLon": 0.6460519671,
+        "maxLat": 43.6133173093
+      }
+    }
+  },
+  {
+    "Pyrénées-Orientales": {
+      "sub_num": "66",
+      "name": "Pyrénées-Orientales",
+      "bbox": {
+        "minLon": 1.7214626103,
+        "minLat": 42.332921474,
+        "maxLon": 3.1778422923,
+        "maxLat": 42.9185320458
+      }
+    }
+  },
+  {
+    "Tarn": {
+      "sub_num": "81",
+      "name": "Tarn",
+      "bbox": {
+        "minLon": 1.535197635,
+        "minLat": 43.3822690751,
+        "maxLon": 2.9374795453,
+        "maxLat": 44.201481792
+      }
+    }
+  },
+  {
+    "Tarn-et-Garonne": {
+      "sub_num": "82",
+      "name": "Tarn-et-Garonne",
+      "bbox": {
+        "minLon": 0.7378049317,
+        "minLat": 43.7675752829,
+        "maxLon": 2.0008986927,
+        "maxLat": 44.3939129463
+      }
+    }
+  }
+]
