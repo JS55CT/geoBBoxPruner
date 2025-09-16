@@ -1,0 +1,74 @@
+[
+  {
+    "Balassagyarmat": {
+      "sub_num": "13.1",
+      "name": "Balassagyarmat",
+      "bbox": {
+        "minLon": 18.92593956,
+        "minLat": 47.816886902,
+        "maxLon": 19.554048538,
+        "maxLat": 48.105018616
+      }
+    }
+  },
+  {
+    "Bátonyterenye": {
+      "sub_num": "13.2",
+      "name": "Bátonyterenye",
+      "bbox": {
+        "minLon": 19.651329041,
+        "minLat": 47.923862457,
+        "maxLon": 20.034275054,
+        "maxLat": 48.0822258
+      }
+    }
+  },
+  {
+    "Pásztó": {
+      "sub_num": "13.3",
+      "name": "Pásztó",
+      "bbox": {
+        "minLon": 19.422283174,
+        "minLat": 47.691188812,
+        "maxLon": 19.857578277,
+        "maxLat": 47.99622345
+      }
+    }
+  },
+  {
+    "Rétság": {
+      "sub_num": "13.4",
+      "name": "Rétság",
+      "bbox": {
+        "minLon": 18.930288314,
+        "minLat": 47.822425842,
+        "maxLon": 19.38607788,
+        "maxLat": 48.035629272
+      }
+    }
+  },
+  {
+    "Salgótarján": {
+      "sub_num": "13.5",
+      "name": "Salgótarján",
+      "bbox": {
+        "minLon": 19.543394089,
+        "minLat": 48.033107759,
+        "maxLon": 20.090570449,
+        "maxLat": 48.252696991
+      }
+    }
+  },
+  {
+    "Szécsény": {
+      "sub_num": "13.6",
+      "name": "Szécsény",
+      "bbox": {
+        "minLon": 19.445934295,
+        "minLat": 47.964702606,
+        "maxLon": 19.68437767,
+        "maxLat": 48.210884094
+      }
+    }
+  }
+]

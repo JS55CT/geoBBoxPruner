@@ -1,0 +1,86 @@
+[
+  {
+    "Dorog": {
+      "sub_num": "12.1",
+      "name": "Dorog",
+      "bbox": {
+        "minLon": 18.542617798,
+        "minLat": 47.60238266,
+        "maxLon": 18.868589401,
+        "maxLat": 47.736198426
+      }
+    }
+  },
+  {
+    "Esztergom": {
+      "sub_num": "12.2",
+      "name": "Esztergom",
+      "bbox": {
+        "minLon": 18.42944336,
+        "minLat": 47.658779145,
+        "maxLon": 18.937309266,
+        "maxLat": 47.819484711
+      }
+    }
+  },
+  {
+    "Kisbér": {
+      "sub_num": "12.3",
+      "name": "Kisbér",
+      "bbox": {
+        "minLon": 17.879652022,
+        "minLat": 47.332584381,
+        "maxLon": 18.183134078,
+        "maxLat": 47.620239257
+      }
+    }
+  },
+  {
+    "Komárom": {
+      "sub_num": "12.4",
+      "name": "Komárom",
+      "bbox": {
+        "minLon": 17.887542725,
+        "minLat": 47.573799133,
+        "maxLon": 18.300836564,
+        "maxLat": 47.757652284
+      }
+    }
+  },
+  {
+    "Oroszlány": {
+      "sub_num": "12.5",
+      "name": "Oroszlány",
+      "bbox": {
+        "minLon": 18.11595726,
+        "minLat": 47.406665802,
+        "maxLon": 18.364549637,
+        "maxLat": 47.591861725
+      }
+    }
+  },
+  {
+    "Tata": {
+      "sub_num": "12.6",
+      "name": "Tata",
+      "bbox": {
+        "minLon": 18.137847901,
+        "minLat": 47.563228608,
+        "maxLon": 18.490074158,
+        "maxLat": 47.759479522
+      }
+    }
+  },
+  {
+    "Tatabánya": {
+      "sub_num": "12.7",
+      "name": "Tatabánya",
+      "bbox": {
+        "minLon": 18.26976776,
+        "minLat": 47.460853576,
+        "maxLon": 18.719282149,
+        "maxLat": 47.681247711
+      }
+    }
+  }
+]

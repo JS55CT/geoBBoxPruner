@@ -1,0 +1,222 @@
+{
+  "BK": {
+    "name": "Bács-Kiskun",
+    "sub_id": "BK",
+    "sub_num": "1",
+    "bbox": {
+      "minLon": 18.971212387,
+      "minLat": 46.692314148,
+      "maxLon": 20.776483536,
+      "maxLat": 47.573501587
+    }
+  },
+  "BA": {
+    "name": "Baranya",
+    "sub_id": "BA",
+    "sub_num": "2",
+    "bbox": {
+      "minLon": 17.613882066,
+      "minLat": 45.747829437,
+      "maxLon": 18.851669312,
+      "maxLat": 46.419200897
+    }
+  },
+  "BE": {
+    "name": "Békés",
+    "sub_id": "BE",
+    "sub_num": "3",
+    "bbox": {
+      "minLon": 20.404533386,
+      "minLat": 46.24308777,
+      "maxLon": 21.69059372,
+      "maxLat": 47.239658356
+    }
+  },
+  "BZ": {
+    "name": "Borsod-Abaúj-Zemplén",
+    "sub_id": "BZ",
+    "sub_num": "4",
+    "bbox": {
+      "minLon": 20.050693513,
+      "minLat": 47.640399932,
+      "maxLon": 22.137245178,
+      "maxLat": 48.58637619
+    }
+  },
+  "BU": {
+    "name": "Budapest",
+    "sub_id": "BU",
+    "sub_num": "5",
+    "bbox": {
+      "minLon": 18.927503586,
+      "minLat": 47.347782135,
+      "maxLon": 19.340049743,
+      "maxLat": 47.620918274
+    }
+  },
+  "CS": {
+    "name": "Csongrád",
+    "sub_id": "CS",
+    "sub_num": "6",
+    "bbox": {
+      "minLon": 19.639968872,
+      "minLat": 46.119014741,
+      "maxLon": 20.776483536,
+      "maxLat": 46.817375183
+    }
+  },
+  "FE": {
+    "name": "Fejér",
+    "sub_id": "FE",
+    "sub_num": "7",
+    "bbox": {
+      "minLon": 18.024063109,
+      "minLat": 46.692314148,
+      "maxLon": 18.971212387,
+      "maxLat": 47.573501587
+    }
+  },
+  "GS": {
+    "name": "Gyor-Moson-Sopron",
+    "sub_id": "GS",
+    "sub_num": "8",
+    "bbox": {
+      "minLon": 16.422711986,
+      "minLat": 47.273071289,
+      "maxLon": 17.928056718,
+      "maxLat": 48.020790099
+    }
+  },
+  "HB": {
+    "name": "Hajdú-Bihar",
+    "sub_id": "HB",
+    "sub_num": "9",
+    "bbox": {
+      "minLon": 20.820386886,
+      "minLat": 46.945049286,
+      "maxLon": 22.140182495,
+      "maxLat": 47.966869355
+    }
+  },
+  "HE": {
+    "name": "Heves",
+    "sub_id": "HE",
+    "sub_num": "10",
+    "bbox": {
+      "minLon": 19.580671311,
+      "minLat": 47.422355652,
+      "maxLon": 20.769344329,
+      "maxLat": 48.143684388
+    }
+  },
+  "JN": {
+    "name": "Jász-Nagykun-Szolnok",
+    "sub_id": "JN",
+    "sub_num": "11",
+    "bbox": {
+      "minLon": 19.649560929,
+      "minLat": 46.76214981,
+      "maxLon": 21.03425789,
+      "maxLat": 47.695930481
+    }
+  },
+  "KE": {
+    "name": "Komárom-Esztergom",
+    "sub_id": "KE",
+    "sub_num": "12",
+    "bbox": {
+      "minLon": 17.879652022,
+      "minLat": 47.332584381,
+      "maxLon": 18.937309266,
+      "maxLat": 47.819484711
+    }
+  },
+  "NO": {
+    "name": "Nógrád",
+    "sub_id": "NO",
+    "sub_num": "13",
+    "bbox": {
+      "minLon": 18.92593956,
+      "minLat": 47.691188812,
+      "maxLon": 20.090570449,
+      "maxLat": 48.252696991
+    }
+  },
+  "PE": {
+    "name": "Pest",
+    "sub_id": "PE",
+    "sub_num": "14",
+    "bbox": {
+      "minLon": 18.674852372,
+      "minLat": 46.944740296,
+      "maxLon": 20.099132538,
+      "maxLat": 48.057949066
+    }
+  },
+  "SO": {
+    "name": "Somogy",
+    "sub_id": "SO",
+    "sub_num": "15",
+    "bbox": {
+      "minLon": 16.878118516,
+      "minLat": 45.856079102,
+      "maxLon": 18.20483017,
+      "maxLat": 46.971935273
+    }
+  },
+  "SZ": {
+    "name": "Szabolcs-Szatmár-Bereg",
+    "sub_id": "SZ",
+    "sub_num": "16",
+    "bbox": {
+      "minLon": 21.083150863,
+      "minLat": 47.591991426,
+      "maxLon": 22.905584336,
+      "maxLat": 48.427272797
+    }
+  },
+  "TO": {
+    "name": "Tolna",
+    "sub_id": "TO",
+    "sub_num": "17",
+    "bbox": {
+      "minLon": 17.992994308,
+      "minLat": 46.101947784,
+      "maxLon": 19.007595062,
+      "maxLat": 46.867549897
+    }
+  },
+  "VA": {
+    "name": "Vas",
+    "sub_id": "VA",
+    "sub_num": "18",
+    "bbox": {
+      "minLon": 16.113840435,
+      "minLat": 46.712730407,
+      "maxLon": 17.302413941,
+      "maxLat": 47.46296692
+    }
+  },
+  "VE": {
+    "name": "Veszprém",
+    "sub_id": "VE",
+    "sub_num": "19",
+    "bbox": {
+      "minLon": 17.099189758,
+      "minLat": 46.763721466,
+      "maxLon": 18.237936019,
+      "maxLat": 47.480175019
+    }
+  },
+  "ZA": {
+    "name": "Zala",
+    "sub_id": "ZA",
+    "sub_num": "20",
+    "bbox": {
+      "minLon": 16.36841774,
+      "minLat": 46.305030823,
+      "maxLon": 17.433090209,
+      "maxLat": 47.0534935
+    }
+  }
+}

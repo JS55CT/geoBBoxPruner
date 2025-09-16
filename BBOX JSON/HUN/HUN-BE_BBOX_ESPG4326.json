@@ -1,0 +1,98 @@
+[
+  {
+    "Békéscsabai": {
+      "sub_num": "3.1",
+      "name": "Békéscsabai",
+      "bbox": {
+        "minLon": 20.823246002,
+        "minLat": 46.559928894,
+        "maxLon": 21.298875809,
+        "maxLat": 46.779586792
+      }
+    }
+  },
+  {
+    "Békési": {
+      "sub_num": "3.2",
+      "name": "Békési",
+      "bbox": {
+        "minLon": 20.701286317,
+        "minLat": 46.718868257,
+        "maxLon": 21.311014176,
+        "maxLat": 47.070758819
+      }
+    }
+  },
+  {
+    "Gyulai": {
+      "sub_num": "3.3",
+      "name": "Gyulai",
+      "bbox": {
+        "minLon": 20.957267762,
+        "minLat": 46.403499604,
+        "maxLon": 21.457326889,
+        "maxLat": 46.714431764
+      }
+    }
+  },
+  {
+    "Mezőkovácsház": {
+      "sub_num": "3.4",
+      "name": "Mezőkovácsház",
+      "bbox": {
+        "minLon": 20.746551513,
+        "minLat": 46.24308777,
+        "maxLon": 21.22082138,
+        "maxLat": 46.579433441
+      }
+    }
+  },
+  {
+    "Orosház": {
+      "sub_num": "3.5",
+      "name": "Orosház",
+      "bbox": {
+        "minLon": 20.548185348,
+        "minLat": 46.362850189,
+        "maxLon": 20.912574768,
+        "maxLat": 46.768623351
+      }
+    }
+  },
+  {
+    "Sarkad": {
+      "sub_num": "3.6",
+      "name": "Sarkad",
+      "bbox": {
+        "minLon": 21.265605926,
+        "minLat": 46.686077118,
+        "maxLon": 21.69059372,
+        "maxLat": 47.03546524
+      }
+    }
+  },
+  {
+    "Szarvas": {
+      "sub_num": "3.7",
+      "name": "Szarvas",
+      "bbox": {
+        "minLon": 20.404533386,
+        "minLat": 46.698356628,
+        "maxLon": 20.88734436,
+        "maxLat": 46.931602478
+      }
+    }
+  },
+  {
+    "Szeghalmi": {
+      "sub_num": "3.8",
+      "name": "Szeghalmi",
+      "bbox": {
+        "minLon": 20.844564438,
+        "minLat": 46.837825776,
+        "maxLon": 21.414592742,
+        "maxLat": 47.239658356
+      }
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "Csorna": {
+      "sub_num": "8.1",
+      "name": "Csorna",
+      "bbox": {
+        "minLon": 17.100803376,
+        "minLat": 47.429584503,
+        "maxLon": 17.452182769,
+        "maxLat": 47.73015976
+      }
+    }
+  },
+  {
+    "Győr": {
+      "sub_num": "8.2",
+      "name": "Győr",
+      "bbox": {
+        "minLon": 17.403549195,
+        "minLat": 47.530906678,
+        "maxLon": 17.928056718,
+        "maxLat": 47.811019897
+      }
+    }
+  },
+  {
+    "Kapuvár-Beled": {
+      "sub_num": "8.3",
+      "name": "Kapuvár-Beled",
+      "bbox": {
+        "minLon": 16.905710221,
+        "minLat": 47.400234223,
+        "maxLon": 17.167865753,
+        "maxLat": 47.708570474
+      }
+    }
+  },
+  {
+    "Mosonmagyaróvár": {
+      "sub_num": "8.4",
+      "name": "Mosonmagyaróvár",
+      "bbox": {
+        "minLon": 17.011213754,
+        "minLat": 47.690910339,
+        "maxLon": 17.626039506,
+        "maxLat": 48.020790099
+      }
+    }
+  },
+  {
+    "Pannonhalm": {
+      "sub_num": "8.5",
+      "name": "Pannonhalm",
+      "bbox": {
+        "minLon": 17.675104142,
+        "minLat": 47.273071289,
+        "maxLon": 17.904310225,
+        "maxLat": 47.600479126
+      }
+    }
+  },
+  {
+    "Sopron-Fertőd": {
+      "sub_num": "8.6",
+      "name": "Sopron-Fertőd",
+      "bbox": {
+        "minLon": 16.422711986,
+        "minLat": 47.399192809,
+        "maxLon": 17.012187958,
+        "maxLat": 47.760823189
+      }
+    }
+  },
+  {
+    "Téti": {
+      "sub_num": "8.7",
+      "name": "Téti",
+      "bbox": {
+        "minLon": 17.332393646,
+        "minLat": 47.425926209,
+        "maxLon": 17.736995697,
+        "maxLat": 47.626453401
+      }
+    }
+  }
+]

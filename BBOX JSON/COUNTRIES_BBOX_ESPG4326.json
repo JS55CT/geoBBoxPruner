@@ -1,4 +1,4 @@
-{ 
+{
   "CAN": {
     "name": "Canada",
     "id": "CAN",
@@ -7,7 +7,39 @@
     "Sub_level": 2,
     "bbox": [{ "minLon": -141.018073157628, "minLat": 41.6814354249861, "maxLon": -52.6194085038461, "maxLat": 83.1355025243594 }]
   },
-    "USA": {
+  "FRA": {
+    "name": "France",
+    "id": "FRA",
+    "ISO_ALPHA2": "FR",
+    "ISO_ALPHA3": "FRA",
+    "Sub_level": 2,
+    "bbox": [{ "minLon": -5.143751144, "minLat": 41.333751678, "maxLon": 9.560416221, "maxLat": 51.089397430 }]
+  },
+  "HUN": {
+    "name": "Hungary",
+    "id": "HUN",
+    "ISO_ALPHA2": "HU",
+    "ISO_ALPHA3": "HUN",
+    "Sub_level": 2,
+    "bbox": [{ "minLon": 16.1138404350, "minLat": 45.7478294370, "maxLon": 22.9055843360, "maxLat": 48.5863761900 }]
+  },
+  "KEN": {
+    "name": "Kenya",
+    "id": "KEN",
+    "ISO_ALPHA2": "KE",
+    "ISO_ALPHA3": "KEN",
+    "Sub_level": 0,
+    "bbox": [{ "minLon": 33.9102886550, "minLat": -4.6768798830, "maxLon": 41.9060214590, "maxLat": 5.4141235350 }]
+  },
+  "QAT": {
+    "name": "Qatar",
+    "id": "QAT",
+    "ISO_ALPHA2": "QA",
+    "ISO_ALPHA3": "QAT",
+    "Sub_level": 1,
+    "bbox": [{ "minLon": 50.7334054860, "minLat": 24.4704362390, "maxLon": 51.6621674230, "maxLat": 26.5842665950 }]
+  },
+  "USA": {
     "name": "United States",
     "id": "USA",
     "ISO_ALPHA2": "US",
@@ -23,29 +55,5 @@
       { "minLon": -67.998751, "minLat": 17.831509, "maxLon": -65.168503, "maxLat": 18.568002 },
       { "minLon": -65.154118, "minLat": 17.623468, "maxLon": -64.512674, "maxLat": 18.464984 }
     ]
-  },
-    "FRA": {
-    "name": "France",
-    "id": "FRA",
-    "ISO_ALPHA2": "FR",
-    "ISO_ALPHA3": "FRA",
-    "Sub_level": 2,
-    "bbox": [{ "minLon": -5.143751144, "minLat": 41.333751678, "maxLon": 9.560416221, "maxLat": 51.089397430 }]
-  },
-    "KEN": {
-      "name": "Kenya",
-      "id": "KEN",
-      "ISO_ALPHA2": "KE",
-      "ISO_ALPHA3": "KEN",
-      "Sub_level": 0,
-      "bbox": [{ "minLon": 33.9102886550, "minLat": -4.6768798830, "maxLon": 41.9060214590, "maxLat": 5.4141235350 }]
-  },
-    "QAT": {
-      "name": "Qatar",
-      "id": "QAT",
-      "ISO_ALPHA2": "QA",
-      "ISO_ALPHA3": "QAT",
-      "Sub_level": 1,
-      "bbox": [{ "minLon": 50.7334054860, "minLat": 24.4704362390, "maxLon": 51.6621674230, "maxLat": 26.5842665950 }]
   }
 }

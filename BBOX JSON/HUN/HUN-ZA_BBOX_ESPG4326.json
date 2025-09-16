@@ -1,0 +1,74 @@
+[
+  {
+    "Hévíz/Keszthely": {
+      "sub_num": "20.1",
+      "name": "Hévíz/Keszthely",
+      "bbox": {
+        "minLon": 17.037782668,
+        "minLat": 46.649551392,
+        "maxLon": 17.433090209,
+        "maxLat": 46.933151246
+      }
+    }
+  },
+  {
+    "Lenti": {
+      "sub_num": "20.2",
+      "name": "Lenti",
+      "bbox": {
+        "minLon": 16.36841774,
+        "minLat": 46.502998352,
+        "maxLon": 16.809946059,
+        "maxLat": 46.836002351
+      }
+    }
+  },
+  {
+    "Letenye": {
+      "sub_num": "20.3",
+      "name": "Letenye",
+      "bbox": {
+        "minLon": 16.528697968,
+        "minLat": 46.364269256,
+        "maxLon": 16.894573212,
+        "maxLat": 46.63943863
+      }
+    }
+  },
+  {
+    "Nagykanizsai/Zalakaros": {
+      "sub_num": "20.4",
+      "name": "Nagykanizsai/Zalakaros",
+      "bbox": {
+        "minLon": 16.846229554,
+        "minLat": 46.305030823,
+        "maxLon": 17.238338471,
+        "maxLat": 46.716003418
+      }
+    }
+  },
+  {
+    "Pacsa/Zalaegerszeg": {
+      "sub_num": "20.5",
+      "name": "Pacsa/Zalaegerszeg",
+      "bbox": {
+        "minLon": 16.51958084,
+        "minLat": 46.622287751,
+        "maxLon": 17.091072082,
+        "maxLat": 46.983051301
+      }
+    }
+  },
+  {
+    "Zalaszentgrót": {
+      "sub_num": "20.6",
+      "name": "Zalaszentgrót",
+      "bbox": {
+        "minLon": 16.988351822,
+        "minLat": 46.788406373,
+        "maxLon": 17.256006241,
+        "maxLat": 47.0534935
+      }
+    }
+  }
+]

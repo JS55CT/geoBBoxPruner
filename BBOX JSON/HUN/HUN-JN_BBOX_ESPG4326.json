@@ -1,0 +1,86 @@
+[
+  {
+    "Jászberény": {
+      "sub_num": "11.1",
+      "name": "Jászberény",
+      "bbox": {
+        "minLon": 19.649560929,
+        "minLat": 47.310356141,
+        "maxLon": 20.331331254,
+        "maxLat": 47.678375244
+      }
+    }
+  },
+  {
+    "Karcag": {
+      "sub_num": "11.2",
+      "name": "Karcag",
+      "bbox": {
+        "minLon": 20.542312622,
+        "minLat": 47.132019042,
+        "maxLon": 21.03425789,
+        "maxLat": 47.479419708
+      }
+    }
+  },
+  {
+    "Kunszentmárton": {
+      "sub_num": "11.3",
+      "name": "Kunszentmárton",
+      "bbox": {
+        "minLon": 20.002975464,
+        "minLat": 46.76214981,
+        "maxLon": 20.448501587,
+        "maxLat": 47.018981933
+      }
+    }
+  },
+  {
+    "Mezőtúri": {
+      "sub_num": "11.4",
+      "name": "Mezőtúri",
+      "bbox": {
+        "minLon": 20.318363189,
+        "minLat": 46.901119232,
+        "maxLon": 20.861164094,
+        "maxLat": 47.183418273
+      }
+    }
+  },
+  {
+    "Szolnok": {
+      "sub_num": "11.5",
+      "name": "Szolnok",
+      "bbox": {
+        "minLon": 19.993980408,
+        "minLat": 46.958976746,
+        "maxLon": 20.524238586,
+        "maxLat": 47.442222595
+      }
+    }
+  },
+  {
+    "Tiszafüred": {
+      "sub_num": "11.6",
+      "name": "Tiszafüred",
+      "bbox": {
+        "minLon": 20.370090485,
+        "minLat": 47.278057098,
+        "maxLon": 20.997217179,
+        "maxLat": 47.695930481
+      }
+    }
+  },
+  {
+    "Törökszentmiklós": {
+      "sub_num": "11.7",
+      "name": "Törökszentmiklós",
+      "bbox": {
+        "minLon": 20.242473602,
+        "minLat": 47.023075104,
+        "maxLon": 20.622543335,
+        "maxLat": 47.341701508
+      }
+    }
+  }
+]

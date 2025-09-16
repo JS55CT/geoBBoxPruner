@@ -1,0 +1,182 @@
+[
+  {
+    "Abaúj-Hegyközi": {
+      "sub_num": "4.1",
+      "name": "Abaúj-Hegyközi",
+      "bbox": {
+        "minLon": 21.133928298,
+        "minLat": 48.240776062,
+        "maxLon": 21.445400238,
+        "maxLat": 48.56520462
+      }
+    }
+  },
+  {
+    "Bodrogközi": {
+      "sub_num": "4.2",
+      "name": "Bodrogközi",
+      "bbox": {
+        "minLon": 21.66166687,
+        "minLat": 48.198665619,
+        "maxLon": 22.137245178,
+        "maxLat": 48.392688751
+      }
+    }
+  },
+  {
+    "Edelényi": {
+      "sub_num": "4.3",
+      "name": "Edelényi",
+      "bbox": {
+        "minLon": 20.502424241,
+        "minLat": 48.196868897,
+        "maxLon": 20.942440032,
+        "maxLat": 48.58637619
+      }
+    }
+  },
+  {
+    "Encsi": {
+      "sub_num": "4.4",
+      "name": "Encsi",
+      "bbox": {
+        "minLon": 20.911682129,
+        "minLat": 48.253570557,
+        "maxLon": 21.297880173,
+        "maxLat": 48.537319183
+      }
+    }
+  },
+  {
+    "Kazincbarcikai": {
+      "sub_num": "4.5",
+      "name": "Kazincbarcikai",
+      "bbox": {
+        "minLon": 20.408035278,
+        "minLat": 48.097076416,
+        "maxLon": 20.723745347,
+        "maxLat": 48.530506134
+      }
+    }
+  },
+  {
+    "Mezőcsáti": {
+      "sub_num": "4.6",
+      "name": "Mezőcsáti",
+      "bbox": {
+        "minLon": 20.721189499,
+        "minLat": 47.640399932,
+        "maxLon": 21.071537017,
+        "maxLat": 47.8931427
+      }
+    }
+  },
+  {
+    "Mezőkövesdi": {
+      "sub_num": "4.7",
+      "name": "Mezőkövesdi",
+      "bbox": {
+        "minLon": 20.435998916,
+        "minLat": 47.690624238,
+        "maxLon": 20.876394272,
+        "maxLat": 48.034221649
+      }
+    }
+  },
+  {
+    "Miskolci": {
+      "sub_num": "4.8",
+      "name": "Miskolci",
+      "bbox": {
+        "minLon": 20.47524643,
+        "minLat": 47.877605439,
+        "maxLon": 21.102479934,
+        "maxLat": 48.250782014
+      }
+    }
+  },
+  {
+    "Ózdi": {
+      "sub_num": "4.9",
+      "name": "Ózdi",
+      "bbox": {
+        "minLon": 20.050693513,
+        "minLat": 48.084373474,
+        "maxLon": 20.514209748,
+        "maxLat": 48.385643006
+      }
+    }
+  },
+  {
+    "Sárospatak": {
+      "sub_num": "4.10",
+      "name": "Sárospatak",
+      "bbox": {
+        "minLon": 21.35420227,
+        "minLat": 48.162792206,
+        "maxLon": 21.69795227,
+        "maxLat": 48.414020538
+      }
+    }
+  },
+  {
+    "Sátoraljaújhely": {
+      "sub_num": "4.11",
+      "name": "Sátoraljaújhely",
+      "bbox": {
+        "minLon": 21.382188796,
+        "minLat": 48.32127762,
+        "maxLon": 21.711799621,
+        "maxLat": 48.58557892
+      }
+    }
+  },
+  {
+    "Szerencs": {
+      "sub_num": "4.12",
+      "name": "Szerencs",
+      "bbox": {
+        "minLon": 20.96676445,
+        "minLat": 48.001308441,
+        "maxLon": 21.346733092,
+        "maxLat": 48.271305085
+      }
+    }
+  },
+  {
+    "Szikszó": {
+      "sub_num": "4.13",
+      "name": "Szikszó",
+      "bbox": {
+        "minLon": 20.864160537,
+        "minLat": 48.157478332,
+        "maxLon": 21.134687423,
+        "maxLat": 48.455848693
+      }
+    }
+  },
+  {
+    "Tiszaújváros": {
+      "sub_num": "4.14",
+      "name": "Tiszaújváros",
+      "bbox": {
+        "minLon": 20.852031708,
+        "minLat": 47.833427429,
+        "maxLon": 21.115480423,
+        "maxLat": 48.016910553
+      }
+    }
+  },
+  {
+    "Tokaji": {
+      "sub_num": "4.15",
+      "name": "Tokaji",
+      "bbox": {
+        "minLon": 21.268337249,
+        "minLat": 48.024177551,
+        "maxLon": 21.446710587,
+        "maxLat": 48.300422668
+      }
+    }
+  }
+]

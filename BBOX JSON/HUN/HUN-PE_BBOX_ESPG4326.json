@@ -1,0 +1,182 @@
+[
+  {
+    "Aszód": {
+      "sub_num": "14.1",
+      "name": "Aszód",
+      "bbox": {
+        "minLon": 19.373901367,
+        "minLat": 47.557826995,
+        "maxLon": 19.659194946,
+        "maxLat": 47.747081756
+      }
+    }
+  },
+  {
+    "Ceglédi": {
+      "sub_num": "14.2",
+      "name": "Ceglédi",
+      "bbox": {
+        "minLon": 19.511173249,
+        "minLat": 46.944740296,
+        "maxLon": 20.099132538,
+        "maxLat": 47.324497224
+      }
+    }
+  },
+  {
+    "Dabasi": {
+      "sub_num": "14.3",
+      "name": "Dabasi",
+      "bbox": {
+        "minLon": 19.205904007,
+        "minLat": 46.999687196,
+        "maxLon": 19.614433288,
+        "maxLat": 47.281059266
+      }
+    }
+  },
+  {
+    "Dunakeszi": {
+      "sub_num": "14.4",
+      "name": "Dunakeszi",
+      "bbox": {
+        "minLon": 19.109283447,
+        "minLat": 47.564350128,
+        "maxLon": 19.232601166,
+        "maxLat": 47.726486206
+      }
+    }
+  },
+  {
+    "Érd": {
+      "sub_num": "14.5",
+      "name": "Érd",
+      "bbox": {
+        "minLon": 18.722343445,
+        "minLat": 47.273445129,
+        "maxLon": 18.975721358,
+        "maxLat": 47.513336183
+      }
+    }
+  },
+  {
+    "Gödöllő": {
+      "sub_num": "14.6",
+      "name": "Gödöllő",
+      "bbox": {
+        "minLon": 19.166952134,
+        "minLat": 47.448963166,
+        "maxLon": 19.673685074,
+        "maxLat": 47.650238038
+      }
+    }
+  },
+  {
+    "Gyál": {
+      "sub_num": "14.7",
+      "name": "Gyál",
+      "bbox": {
+        "minLon": 19.083347321,
+        "minLat": 47.081615448,
+        "maxLon": 19.411037444,
+        "maxLat": 47.436145783
+      }
+    }
+  },
+  {
+    "Monor": {
+      "sub_num": "14.8",
+      "name": "Monor",
+      "bbox": {
+        "minLon": 19.278064728,
+        "minLat": 47.225711822,
+        "maxLon": 19.632900238,
+        "maxLat": 47.499156953
+      }
+    }
+  },
+  {
+    "Nagykáta": {
+      "sub_num": "14.9",
+      "name": "Nagykáta",
+      "bbox": {
+        "minLon": 19.527908326,
+        "minLat": 47.267345428,
+        "maxLon": 20.015411377,
+        "maxLat": 47.545143128
+      }
+    }
+  },
+  {
+    "Pilisvörösvár": {
+      "sub_num": "14.10",
+      "name": "Pilisvörösvár",
+      "bbox": {
+        "minLon": 18.674852372,
+        "minLat": 47.473415375,
+        "maxLon": 19.029827118,
+        "maxLat": 47.705051422
+      }
+    }
+  },
+  {
+    "Ráckeve": {
+      "sub_num": "14.11",
+      "name": "Ráckeve",
+      "bbox": {
+        "minLon": 18.868083954,
+        "minLat": 47.037616731,
+        "maxLon": 19.182556153,
+        "maxLat": 47.401554107
+      }
+    }
+  },
+  {
+    "Szentendre": {
+      "sub_num": "14.12",
+      "name": "Szentendre",
+      "bbox": {
+        "minLon": 18.854923248,
+        "minLat": 47.593700409,
+        "maxLon": 19.134439468,
+        "maxLat": 47.828552246
+      }
+    }
+  },
+  {
+    "Szob": {
+      "sub_num": "14.13",
+      "name": "Szob",
+      "bbox": {
+        "minLon": 18.753313064,
+        "minLat": 47.802639007,
+        "maxLon": 18.989917756,
+        "maxLat": 48.057949066
+      }
+    }
+  },
+  {
+    "Vác": {
+      "sub_num": "14.14",
+      "name": "Vác",
+      "bbox": {
+        "minLon": 18.902999878,
+        "minLat": 47.685432434,
+        "maxLon": 19.442523957,
+        "maxLat": 47.941951752
+      }
+    }
+  },
+  {
+    "Veresegyház": {
+      "sub_num": "14.15",
+      "name": "Veresegyház",
+      "bbox": {
+        "minLon": 19.180332184,
+        "minLat": 47.630352021,
+        "maxLon": 19.480348587,
+        "maxLat": 47.77437973
+      }
+    }
+  }
+]

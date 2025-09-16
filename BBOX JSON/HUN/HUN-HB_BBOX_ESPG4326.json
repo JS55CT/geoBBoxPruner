@@ -1,0 +1,110 @@
+[
+  {
+    "Balmazújváros": {
+      "sub_num": "9.1",
+      "name": "Balmazújváros",
+      "bbox": {
+        "minLon": 20.820386886,
+        "minLat": 47.468162536,
+        "maxLon": 21.45739746,
+        "maxLat": 47.743804932
+      }
+    }
+  },
+  {
+    "Berettyóújfalu": {
+      "sub_num": "9.2",
+      "name": "Berettyóújfalu",
+      "bbox": {
+        "minLon": 21.219697952,
+        "minLat": 46.945049286,
+        "maxLon": 21.889753342,
+        "maxLat": 47.348640443
+      }
+    }
+  },
+  {
+    "Debrecen": {
+      "sub_num": "9.3",
+      "name": "Debrecen",
+      "bbox": {
+        "minLon": 21.427915574,
+        "minLat": 47.439064025,
+        "maxLon": 21.870456696,
+        "maxLat": 47.642814637
+      }
+    }
+  },
+  {
+    "Derecske-Létavértes": {
+      "sub_num": "9.4",
+      "name": "Derecske-Létavértes",
+      "bbox": {
+        "minLon": 21.433641434,
+        "minLat": 47.277252198,
+        "maxLon": 22.037111283,
+        "maxLat": 47.539344789
+      }
+    }
+  },
+  {
+    "Hajdúböszörmény": {
+      "sub_num": "9.5",
+      "name": "Hajdúböszörmény",
+      "bbox": {
+        "minLon": 21.224611282,
+        "minLat": 47.599891663,
+        "maxLon": 21.617948531,
+        "maxLat": 47.944274903
+      }
+    }
+  },
+  {
+    "Hajdúhadház": {
+      "sub_num": "9.6",
+      "name": "Hajdúhadház",
+      "bbox": {
+        "minLon": 21.548835755,
+        "minLat": 47.447204589,
+        "maxLon": 22.140182495,
+        "maxLat": 47.784797668
+      }
+    }
+  },
+  {
+    "Hajdúszoboszló": {
+      "sub_num": "9.7",
+      "name": "Hajdúszoboszló",
+      "bbox": {
+        "minLon": 21.104570389,
+        "minLat": 47.346122742,
+        "maxLon": 21.556779862,
+        "maxLat": 47.576343537
+      }
+    }
+  },
+  {
+    "Polgár": {
+      "sub_num": "9.8",
+      "name": "Polgár",
+      "bbox": {
+        "minLon": 20.985109329,
+        "minLat": 47.684078216,
+        "maxLon": 21.256029129,
+        "maxLat": 47.966869355
+      }
+    }
+  },
+  {
+    "Püspökladány": {
+      "sub_num": "9.9",
+      "name": "Püspökladány",
+      "bbox": {
+        "minLon": 20.99029541,
+        "minLat": 47.144008636,
+        "maxLon": 21.486415863,
+        "maxLat": 47.503551484
+      }
+    }
+  }
+]

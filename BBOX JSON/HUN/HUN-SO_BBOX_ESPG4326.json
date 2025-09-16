@@ -1,0 +1,122 @@
+[
+  {
+    "Balatonföldvári": {
+      "sub_num": "15.1",
+      "name": "Balatonföldvári",
+      "bbox": {
+        "minLon": 17.710548401,
+        "minLat": 46.722984315,
+        "maxLon": 17.998641968,
+        "maxLat": 46.88399887
+      }
+    }
+  },
+  {
+    "Barcs": {
+      "sub_num": "15.2",
+      "name": "Barcs",
+      "bbox": {
+        "minLon": 17.174846648,
+        "minLat": 45.856079102,
+        "maxLon": 17.734460831,
+        "maxLat": 46.18749237
+      }
+    }
+  },
+  {
+    "Csurgó": {
+      "sub_num": "15.3",
+      "name": "Csurgó",
+      "bbox": {
+        "minLon": 16.878118516,
+        "minLat": 46.138687135,
+        "maxLon": 17.264232636,
+        "maxLat": 46.437316894
+      }
+    }
+  },
+  {
+    "Fonyód": {
+      "sub_num": "15.4",
+      "name": "Fonyód",
+      "bbox": {
+        "minLon": 17.282585144,
+        "minLat": 46.591621399,
+        "maxLon": 17.820648193,
+        "maxLat": 46.838710785
+      }
+    }
+  },
+  {
+    "Kadarkút": {
+      "sub_num": "15.5",
+      "name": "Kadarkút",
+      "bbox": {
+        "minLon": 17.452993392,
+        "minLat": 46.167949676,
+        "maxLon": 18.073368072,
+        "maxLat": 46.614757538
+      }
+    }
+  },
+  {
+    "Lengyeltóti": {
+      "sub_num": "15.6",
+      "name": "Lengyeltóti",
+      "bbox": {
+        "minLon": 17.526863098,
+        "minLat": 46.530410766,
+        "maxLon": 17.744598389,
+        "maxLat": 46.766124726
+      }
+    }
+  },
+  {
+    "Marcali": {
+      "sub_num": "15.7",
+      "name": "Marcali",
+      "bbox": {
+        "minLon": 17.189884185,
+        "minLat": 46.355045319,
+        "maxLon": 17.633609773,
+        "maxLat": 46.726020812
+      }
+    }
+  },
+  {
+    "Nagyatád": {
+      "sub_num": "15.8",
+      "name": "Nagyatád",
+      "bbox": {
+        "minLon": 17.179431915,
+        "minLat": 46.064346314,
+        "maxLon": 17.578414917,
+        "maxLat": 46.412765503
+      }
+    }
+  },
+  {
+    "Siófok": {
+      "sub_num": "15.9",
+      "name": "Siófok",
+      "bbox": {
+        "minLon": 17.883480072,
+        "minLat": 46.750358582,
+        "maxLon": 18.20483017,
+        "maxLat": 46.971935273
+      }
+    }
+  },
+  {
+    "Tab": {
+      "sub_num": "15.10",
+      "name": "Tab",
+      "bbox": {
+        "minLon": 17.804380417,
+        "minLat": 46.565727234,
+        "maxLon": 18.147972108,
+        "maxLat": 46.82479477
+      }
+    }
+  }
+]

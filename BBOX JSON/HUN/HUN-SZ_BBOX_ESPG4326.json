@@ -1,0 +1,134 @@
+[
+  {
+    "Baktalórántháza": {
+      "sub_num": "16.1",
+      "name": "Baktalórántháza",
+      "bbox": {
+        "minLon": 21.87597084,
+        "minLat": 47.903175355,
+        "maxLon": 22.258426666,
+        "maxLat": 48.156787872
+      }
+    }
+  },
+  {
+    "Csenger": {
+      "sub_num": "16.2",
+      "name": "Csenger",
+      "bbox": {
+        "minLon": 22.461935042,
+        "minLat": 47.772281647,
+        "maxLon": 22.779207229,
+        "maxLat": 47.922245026
+      }
+    }
+  },
+  {
+    "Fehérgyarmat": {
+      "sub_num": "16.3",
+      "name": "Fehérgyarmat",
+      "bbox": {
+        "minLon": 22.357374192,
+        "minLat": 47.884002687,
+        "maxLon": 22.905584336,
+        "maxLat": 48.124210358
+      }
+    }
+  },
+  {
+    "Ibrány-Nagyhalász": {
+      "sub_num": "16.4",
+      "name": "Ibrány-Nagyhalász",
+      "bbox": {
+        "minLon": 21.522081376,
+        "minLat": 48.023803711,
+        "maxLon": 21.961868287,
+        "maxLat": 48.245418548
+      }
+    }
+  },
+  {
+    "Kisvárda": {
+      "sub_num": "16.5",
+      "name": "Kisvárda",
+      "bbox": {
+        "minLon": 21.826684952,
+        "minLat": 48.125152587,
+        "maxLon": 22.271358489,
+        "maxLat": 48.427272797
+      }
+    }
+  },
+  {
+    "Mátészalka": {
+      "sub_num": "16.6",
+      "name": "Mátészalka",
+      "bbox": {
+        "minLon": 22.101148606,
+        "minLat": 47.741264343,
+        "maxLon": 22.56576538,
+        "maxLat": 48.080791473
+      }
+    }
+  },
+  {
+    "Nagykálló": {
+      "sub_num": "16.7",
+      "name": "Nagykálló",
+      "bbox": {
+        "minLon": 21.542955399,
+        "minLat": 47.681114197,
+        "maxLon": 21.981777192,
+        "maxLat": 47.917659759
+      }
+    }
+  },
+  {
+    "Nyírbátor": {
+      "sub_num": "16.8",
+      "name": "Nyírbátor",
+      "bbox": {
+        "minLon": 21.927288056,
+        "minLat": 47.591991426,
+        "maxLon": 22.340675355,
+        "maxLat": 47.928588866
+      }
+    }
+  },
+  {
+    "Nyíregyháza": {
+      "sub_num": "16.9",
+      "name": "Nyíregyháza",
+      "bbox": {
+        "minLon": 21.509504319,
+        "minLat": 47.833831788,
+        "maxLon": 21.914110184,
+        "maxLat": 48.086227418
+      }
+    }
+  },
+  {
+    "Tiszavasvár": {
+      "sub_num": "16.10",
+      "name": "Tiszavasvár",
+      "bbox": {
+        "minLon": 21.083150863,
+        "minLat": 47.91165924,
+        "maxLon": 21.56373024,
+        "maxLat": 48.185508728
+      }
+    }
+  },
+  {
+    "Vásárosnamény": {
+      "sub_num": "16.11",
+      "name": "Vásárosnamény",
+      "bbox": {
+        "minLon": 22.156597137,
+        "minLat": 48.05368805,
+        "maxLon": 22.60487175,
+        "maxLat": 48.367931366
+      }
+    }
+  }
+]

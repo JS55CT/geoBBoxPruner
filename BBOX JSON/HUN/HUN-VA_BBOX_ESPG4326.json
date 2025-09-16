@@ -1,0 +1,110 @@
+[
+  {
+    "Celldömölk": {
+      "sub_num": "18.1",
+      "name": "Celldömölk",
+      "bbox": {
+        "minLon": 16.992704391,
+        "minLat": 47.07447052,
+        "maxLon": 17.302413941,
+        "maxLat": 47.435890199
+      }
+    }
+  },
+  {
+    "Csepreg": {
+      "sub_num": "18.2",
+      "name": "Csepreg",
+      "bbox": {
+        "minLon": 16.608039856,
+        "minLat": 47.319385529,
+        "maxLon": 16.949840545,
+        "maxLat": 47.445690155
+      }
+    }
+  },
+  {
+    "Körmend": {
+      "sub_num": "18.3",
+      "name": "Körmend",
+      "bbox": {
+        "minLon": 16.440013524,
+        "minLat": 46.905231475,
+        "maxLon": 16.75945282,
+        "maxLat": 47.124637604
+      }
+    }
+  },
+  {
+    "Kőszeg": {
+      "sub_num": "18.4",
+      "name": "Kőszeg",
+      "bbox": {
+        "minLon": 16.434866978,
+        "minLat": 47.277610779,
+        "maxLon": 16.675727845,
+        "maxLat": 47.438611788
+      }
+    }
+  },
+  {
+    "Őriszentpéter": {
+      "sub_num": "18.5",
+      "name": "Őriszentpéter",
+      "bbox": {
+        "minLon": 16.309303284,
+        "minLat": 46.712730407,
+        "maxLon": 16.618610383,
+        "maxLat": 46.966007233
+      }
+    }
+  },
+  {
+    "Sárvár": {
+      "sub_num": "18.6",
+      "name": "Sárvár",
+      "bbox": {
+        "minLon": 16.768428803,
+        "minLat": 47.039520265,
+        "maxLon": 17.115177155,
+        "maxLat": 47.46296692
+      }
+    }
+  },
+  {
+    "Szentgotthárd": {
+      "sub_num": "18.7",
+      "name": "Szentgotthárd",
+      "bbox": {
+        "minLon": 16.113840435,
+        "minLat": 46.856117249,
+        "maxLon": 16.51295662,
+        "maxLat": 47.014399488
+      }
+    }
+  },
+  {
+    "Szombathely": {
+      "sub_num": "18.8",
+      "name": "Szombathely",
+      "bbox": {
+        "minLon": 16.418031805,
+        "minLat": 47.049797059,
+        "maxLon": 16.899023056,
+        "maxLat": 47.354602814
+      }
+    }
+  },
+  {
+    "Vasvár": {
+      "sub_num": "18.9",
+      "name": "Vasvár",
+      "bbox": {
+        "minLon": 16.712543487,
+        "minLat": 46.931045532,
+        "maxLon": 17.045415878,
+        "maxLat": 47.149387361
+      }
+    }
+  }
+]

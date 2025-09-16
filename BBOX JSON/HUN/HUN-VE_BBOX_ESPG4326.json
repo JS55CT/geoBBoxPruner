@@ -1,0 +1,110 @@
+[
+  {
+    "Ajka": {
+      "sub_num": "19.1",
+      "name": "Ajka",
+      "bbox": {
+        "minLon": 17.205295562,
+        "minLat": 46.953163148,
+        "maxLon": 17.752443314,
+        "maxLat": 47.265693666
+      }
+    }
+  },
+  {
+    "Balatonalmádi": {
+      "sub_num": "19.2",
+      "name": "Balatonalmádi",
+      "bbox": {
+        "minLon": 17.908786773,
+        "minLat": 46.941082,
+        "maxLon": 18.237936019,
+        "maxLat": 47.110126496
+      }
+    }
+  },
+  {
+    "Balatonfüred": {
+      "sub_num": "19.3",
+      "name": "Balatonfüred",
+      "bbox": {
+        "minLon": 17.633729934,
+        "minLat": 46.821769714,
+        "maxLon": 17.971855163,
+        "maxLat": 47.018882751
+      }
+    }
+  },
+  {
+    "Pápa": {
+      "sub_num": "19.4",
+      "name": "Pápa",
+      "bbox": {
+        "minLon": 17.176618576,
+        "minLat": 47.186912537,
+        "maxLon": 17.790065765,
+        "maxLat": 47.480175019
+      }
+    }
+  },
+  {
+    "Sümeg": {
+      "sub_num": "19.5",
+      "name": "Sümeg",
+      "bbox": {
+        "minLon": 17.099189758,
+        "minLat": 46.919490815,
+        "maxLon": 17.424907683,
+        "maxLat": 47.12343216
+      }
+    }
+  },
+  {
+    "Tapolca": {
+      "sub_num": "19.6",
+      "name": "Tapolca",
+      "bbox": {
+        "minLon": 17.319553376,
+        "minLat": 46.763721466,
+        "maxLon": 17.67067337,
+        "maxLat": 47.021911622
+      }
+    }
+  },
+  {
+    "Várpalota": {
+      "sub_num": "19.7",
+      "name": "Várpalota",
+      "bbox": {
+        "minLon": 17.98290062,
+        "minLat": 47.073200226,
+        "maxLon": 18.22042656,
+        "maxLat": 47.281589508
+      }
+    }
+  },
+  {
+    "Veszprém": {
+      "sub_num": "19.8",
+      "name": "Veszprém",
+      "bbox": {
+        "minLon": 17.592578888,
+        "minLat": 46.93826294,
+        "maxLon": 18.139703751,
+        "maxLat": 47.228961945
+      }
+    }
+  },
+  {
+    "Zirc": {
+      "sub_num": "19.9",
+      "name": "Zirc",
+      "bbox": {
+        "minLon": 17.706150055,
+        "minLat": 47.175556182,
+        "maxLon": 18.064865111,
+        "maxLat": 47.385082245
+      }
+    }
+  }
+]

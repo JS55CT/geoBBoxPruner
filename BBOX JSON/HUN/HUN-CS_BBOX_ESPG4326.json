@@ -1,0 +1,86 @@
+[
+  {
+    "Csongrádi": {
+      "sub_num": "6.1",
+      "name": "Csongrádi",
+      "bbox": {
+        "minLon": 19.958812713,
+        "minLat": 46.553058625,
+        "maxLon": 20.211780549,
+        "maxLat": 46.817375183
+      }
+    }
+  },
+  {
+    "Hódmezővásárhely": {
+      "sub_num": "6.2",
+      "name": "Hódmezővásárhely",
+      "bbox": {
+        "minLon": 20.127796174,
+        "minLat": 46.302696228,
+        "maxLon": 20.619447707,
+        "maxLat": 46.583309175
+      }
+    }
+  },
+  {
+    "Kistelek": {
+      "sub_num": "6.3",
+      "name": "Kistelek",
+      "bbox": {
+        "minLon": 19.775981903,
+        "minLat": 46.375408173,
+        "maxLon": 20.18544197,
+        "maxLat": 46.59695816
+      }
+    }
+  },
+  {
+    "Makó": {
+      "sub_num": "6.4",
+      "name": "Makó",
+      "bbox": {
+        "minLon": 20.284215928,
+        "minLat": 46.126804351,
+        "maxLon": 20.776483536,
+        "maxLat": 46.403835297
+      }
+    }
+  },
+  {
+    "Mórahalm": {
+      "sub_num": "6.5",
+      "name": "Mórahalm",
+      "bbox": {
+        "minLon": 19.639968872,
+        "minLat": 46.130329133,
+        "maxLon": 19.975355148,
+        "maxLat": 46.415309905
+      }
+    }
+  },
+  {
+    "Szeged": {
+      "sub_num": "6.6",
+      "name": "Szeged",
+      "bbox": {
+        "minLon": 19.923164367,
+        "minLat": 46.119014741,
+        "maxLon": 20.356636047,
+        "maxLat": 46.487899781
+      }
+    }
+  },
+  {
+    "Szentes": {
+      "sub_num": "6.7",
+      "name": "Szentes",
+      "bbox": {
+        "minLon": 20.129983901,
+        "minLat": 46.513214112,
+        "maxLon": 20.588600159,
+        "maxLat": 46.807750702
+      }
+    }
+  }
+]

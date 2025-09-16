@@ -1,0 +1,110 @@
+[
+  {
+    "Komlói": {
+      "sub_num": "2.1",
+      "name": "Komlói",
+      "bbox": {
+        "minLon": 18.077365875,
+        "minLat": 46.120944976,
+        "maxLon": 18.41797638,
+        "maxLat": 46.373695375
+      }
+    }
+  },
+  {
+    "Mohácsi": {
+      "sub_num": "2.2",
+      "name": "Mohácsi",
+      "bbox": {
+        "minLon": 18.372861861,
+        "minLat": 45.800254822,
+        "maxLon": 18.851669312,
+        "maxLat": 46.211040498
+      }
+    }
+  },
+  {
+    "Pécs": {
+      "sub_num": "2.3",
+      "name": "Pécs",
+      "bbox": {
+        "minLon": 18.008371354,
+        "minLat": 45.919799806,
+        "maxLon": 18.400699616,
+        "maxLat": 46.20708084
+      }
+    }
+  },
+  {
+    "Pécsváradi": {
+      "sub_num": "2.4",
+      "name": "Pécsváradi",
+      "bbox": {
+        "minLon": 18.351144791,
+        "minLat": 46.034145356,
+        "maxLon": 18.569574356,
+        "maxLat": 46.295337678
+      }
+    }
+  },
+  {
+    "Sásdi": {
+      "sub_num": "2.5",
+      "name": "Sásdi",
+      "bbox": {
+        "minLon": 17.911809922,
+        "minLat": 46.184150696,
+        "maxLon": 18.347644807,
+        "maxLat": 46.419200897
+      }
+    }
+  },
+  {
+    "Sellyei": {
+      "sub_num": "2.6",
+      "name": "Sellyei",
+      "bbox": {
+        "minLon": 17.647140502,
+        "minLat": 45.772888184,
+        "maxLon": 18.118907929,
+        "maxLat": 45.983188629
+      }
+    }
+  },
+  {
+    "Siklósi": {
+      "sub_num": "2.7",
+      "name": "Siklósi",
+      "bbox": {
+        "minLon": 18.033494949,
+        "minLat": 45.747829437,
+        "maxLon": 18.557313919,
+        "maxLat": 45.991771698
+      }
+    }
+  },
+  {
+    "Szentlőrinci": {
+      "sub_num": "2.8",
+      "name": "Szentlőrinci",
+      "bbox": {
+        "minLon": 17.878978728,
+        "minLat": 45.930511475,
+        "maxLon": 18.131723404,
+        "maxLat": 46.204574585
+      }
+    }
+  },
+  {
+    "Szigetvári": {
+      "sub_num": "2.9",
+      "name": "Szigetvári",
+      "bbox": {
+        "minLon": 17.613882066,
+        "minLat": 45.925994874,
+        "maxLon": 17.977632523,
+        "maxLat": 46.253299713
+      }
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "Bonyhád": {
+      "sub_num": "17.1",
+      "name": "Bonyhád",
+      "bbox": {
+        "minLon": 18.328268051,
+        "minLat": 46.188034058,
+        "maxLon": 18.655902862,
+        "maxLat": 46.465698241
+      }
+    }
+  },
+  {
+    "Dombóvár": {
+      "sub_num": "17.2",
+      "name": "Dombóvár",
+      "bbox": {
+        "minLon": 17.992994308,
+        "minLat": 46.293045043,
+        "maxLon": 18.369592666,
+        "maxLat": 46.591621399
+      }
+    }
+  },
+  {
+    "Paks": {
+      "sub_num": "17.3",
+      "name": "Paks",
+      "bbox": {
+        "minLon": 18.549623489,
+        "minLat": 46.443229676,
+        "maxLon": 19.007595062,
+        "maxLat": 46.867549897
+      }
+    }
+  },
+  {
+    "Szekszárd": {
+      "sub_num": "17.4",
+      "name": "Szekszárd",
+      "bbox": {
+        "minLon": 18.454309463,
+        "minLat": 46.101947784,
+        "maxLon": 18.912551881,
+        "maxLat": 46.578369141
+      }
+    }
+  },
+  {
+    "Tamás": {
+      "sub_num": "17.5",
+      "name": "Tamás",
+      "bbox": {
+        "minLon": 18.065765381,
+        "minLat": 46.410133362,
+        "maxLon": 18.617837906,
+        "maxLat": 46.820808411
+      }
+    }
+  }
+]

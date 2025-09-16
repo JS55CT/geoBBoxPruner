@@ -1,0 +1,122 @@
+[
+  {
+    "Aba": {
+      "sub_num": "7.1",
+      "name": "Aba",
+      "bbox": {
+        "minLon": 18.352111816,
+        "minLat": 46.909191133,
+        "maxLon": 18.715112686,
+        "maxLat": 47.163593292
+      }
+    }
+  },
+  {
+    "Adony": {
+      "sub_num": "7.2",
+      "name": "Adony",
+      "bbox": {
+        "minLon": 18.64310646,
+        "minLat": 47.007522583,
+        "maxLon": 18.937461853,
+        "maxLat": 47.237045288
+      }
+    }
+  },
+  {
+    "Bicske": {
+      "sub_num": "7.3",
+      "name": "Bicske",
+      "bbox": {
+        "minLon": 18.286188125,
+        "minLat": 47.310535432,
+        "maxLon": 18.778526306,
+        "maxLat": 47.573501587
+      }
+    }
+  },
+  {
+    "Dunaújváros": {
+      "sub_num": "7.4",
+      "name": "Dunaújváros",
+      "bbox": {
+        "minLon": 18.705986023,
+        "minLat": 46.790519715,
+        "maxLon": 18.971212387,
+        "maxLat": 47.052986146
+      }
+    }
+  },
+  {
+    "Enying": {
+      "sub_num": "7.5",
+      "name": "Enying",
+      "bbox": {
+        "minLon": 18.176988602,
+        "minLat": 46.784473419,
+        "maxLon": 18.49778366,
+        "maxLat": 47.027214051
+      }
+    }
+  },
+  {
+    "Ercs": {
+      "sub_num": "7.6",
+      "name": "Ercs",
+      "bbox": {
+        "minLon": 18.659721375,
+        "minLat": 47.166141511,
+        "maxLon": 18.904996872,
+        "maxLat": 47.395870208
+      }
+    }
+  },
+  {
+    "Gárdony": {
+      "sub_num": "7.7",
+      "name": "Gárdony",
+      "bbox": {
+        "minLon": 18.486825944,
+        "minLat": 47.112621308,
+        "maxLon": 18.74656105,
+        "maxLat": 47.314746857
+      }
+    }
+  },
+  {
+    "Mór": {
+      "sub_num": "7.8",
+      "name": "Mór",
+      "bbox": {
+        "minLon": 18.024063109,
+        "minLat": 47.224288941,
+        "maxLon": 18.371009827,
+        "maxLat": 47.476810456
+      }
+    }
+  },
+  {
+    "Sárbogárd": {
+      "sub_num": "7.9",
+      "name": "Sárbogárd",
+      "bbox": {
+        "minLon": 18.380203248,
+        "minLat": 46.692314148,
+        "maxLon": 18.797239304,
+        "maxLat": 47.030307771
+      }
+    }
+  },
+  {
+    "Székesfehérvár": {
+      "sub_num": "7.10",
+      "name": "Székesfehérvár",
+      "bbox": {
+        "minLon": 18.203619003,
+        "minLat": 46.995689391,
+        "maxLon": 18.659721375,
+        "maxLat": 47.362197876
+      }
+    }
+  }
+]

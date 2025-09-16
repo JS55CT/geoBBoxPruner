@@ -1,0 +1,86 @@
+[
+  {
+    "Bélapátfalva": {
+      "sub_num": "10.1",
+      "name": "Bélapátfalva",
+      "bbox": {
+        "minLon": 20.155826569,
+        "minLat": 47.952461242,
+        "maxLon": 20.491281509,
+        "maxLat": 48.139472961
+      }
+    }
+  },
+  {
+    "Eger": {
+      "sub_num": "10.2",
+      "name": "Eger",
+      "bbox": {
+        "minLon": 20.228622436,
+        "minLat": 47.746288299,
+        "maxLon": 20.514461517,
+        "maxLat": 48.042385101
+      }
+    }
+  },
+  {
+    "Füzesabony": {
+      "sub_num": "10.3",
+      "name": "Füzesabony",
+      "bbox": {
+        "minLon": 19.99161148,
+        "minLat": 47.422355652,
+        "maxLon": 20.600967406,
+        "maxLat": 47.710720062
+      }
+    }
+  },
+  {
+    "Gyöngyös": {
+      "sub_num": "10.4",
+      "name": "Gyöngyös",
+      "bbox": {
+        "minLon": 19.728370667,
+        "minLat": 47.620605469,
+        "maxLon": 20.191770554,
+        "maxLat": 47.935718538
+      }
+    }
+  },
+  {
+    "Hatvani": {
+      "sub_num": "10.5",
+      "name": "Hatvani",
+      "bbox": {
+        "minLon": 19.580671311,
+        "minLat": 47.592712402,
+        "maxLon": 19.879003525,
+        "maxLat": 47.821063995
+      }
+    }
+  },
+  {
+    "Heves": {
+      "sub_num": "10.6",
+      "name": "Heves",
+      "bbox": {
+        "minLon": 20.096822739,
+        "minLat": 47.527198792,
+        "maxLon": 20.769344329,
+        "maxLat": 47.90952301
+      }
+    }
+  },
+  {
+    "Pétervására": {
+      "sub_num": "10.7",
+      "name": "Pétervására",
+      "bbox": {
+        "minLon": 19.942401886,
+        "minLat": 47.879577637,
+        "maxLon": 20.256095886,
+        "maxLat": 48.143684388
+      }
+    }
+  }
+]

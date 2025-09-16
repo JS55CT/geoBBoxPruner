@@ -1,0 +1,14 @@
+[
+  {
+    "Budapesti": {
+      "sub_num": "5.1",
+      "name": "Budapesti",
+      "bbox": {
+        "minLon": 18.927503586,
+        "minLat": 47.347782135,
+        "maxLon": 19.340049743,
+        "maxLat": 47.620918274
+      }
+    }
+  }
+]

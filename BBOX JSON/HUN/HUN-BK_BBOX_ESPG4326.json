@@ -1,0 +1,122 @@
+[
+  {
+    "Bácsalmás": {
+      "sub_num": "1.1",
+      "name": "Bácsalmás",
+      "bbox": {
+        "minLon": 19.119867325,
+        "minLat": 45.996879578,
+        "maxLon": 19.521417617,
+        "maxLat": 46.215576173
+      }
+    }
+  },
+  {
+    "Baja": {
+      "sub_num": "1.2",
+      "name": "Baja",
+      "bbox": {
+        "minLon": 18.726175307,
+        "minLat": 45.90202713,
+        "maxLon": 19.256479264,
+        "maxLat": 46.396034242
+      }
+    }
+  },
+  {
+    "Jánoshalma": {
+      "sub_num": "1.3",
+      "name": "Jánoshalma",
+      "bbox": {
+        "minLon": 19.119941711,
+        "minLat": 46.163093567,
+        "maxLon": 19.487522126,
+        "maxLat": 46.399822235
+      }
+    }
+  },
+  {
+    "Kalocsa": {
+      "sub_num": "1.4",
+      "name": "Kalocsa",
+      "bbox": {
+        "minLon": 18.86661148,
+        "minLat": 46.313476563,
+        "maxLon": 19.214319229,
+        "maxLat": 46.87355423
+      }
+    }
+  },
+  {
+    "Kecskemét": {
+      "sub_num": "1.5",
+      "name": "Kecskemét",
+      "bbox": {
+        "minLon": 19.339168549,
+        "minLat": 46.678058625,
+        "maxLon": 20.155925752,
+        "maxLat": 47.112548827
+      }
+    }
+  },
+  {
+    "Kiskőrös": {
+      "sub_num": "1.6",
+      "name": "Kiskőrös",
+      "bbox": {
+        "minLon": 19.1322937,
+        "minLat": 46.368995667,
+        "maxLon": 19.600336075,
+        "maxLat": 46.874328614
+      }
+    }
+  },
+  {
+    "Kiskunfélegyháza": {
+      "sub_num": "1.7",
+      "name": "Kiskunfélegyháza",
+      "bbox": {
+        "minLon": 19.541772843,
+        "minLat": 46.529777527,
+        "maxLon": 20.034637451,
+        "maxLat": 46.855701447
+      }
+    }
+  },
+  {
+    "Kiskunhalas": {
+      "sub_num": "1.8",
+      "name": "Kiskunhalas",
+      "bbox": {
+        "minLon": 19.291139603,
+        "minLat": 46.150115968,
+        "maxLon": 19.73456192,
+        "maxLat": 46.535438537
+      }
+    }
+  },
+  {
+    "Kiskunmajsa": {
+      "sub_num": "1.9",
+      "name": "Kiskunmajsa",
+      "bbox": {
+        "minLon": 19.549993516,
+        "minLat": 46.356788635,
+        "maxLon": 19.889633179,
+        "maxLat": 46.623657228
+      }
+    }
+  },
+  {
+    "Kunszentmiklós": {
+      "sub_num": "1.10",
+      "name": "Kunszentmiklós",
+      "bbox": {
+        "minLon": 18.934238434,
+        "minLat": 46.803993226,
+        "maxLon": 19.439931869,
+        "maxLat": 47.11869812
+      }
+    }
+  }
+]
