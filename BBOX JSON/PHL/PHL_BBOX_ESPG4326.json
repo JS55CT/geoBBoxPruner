@@ -1,0 +1,189 @@
+{
+  "PH01": {
+    "name": "Ilocos Region",
+    "alt_name": "Region I (Ilocos Region)",
+    "sub_id": "PH01",
+    "bbox": {
+      "minLon": 119.749719464,
+      "minLat": 15.617769571,
+      "maxLon": 120.976453677,
+      "maxLat": 18.651224169
+    }
+  },
+  "PH02": {
+    "name": "Cagayan Valley",
+    "alt_name": "Region II (Cagayan Valley)",
+    "sub_id": "PH02",
+    "bbox": {
+      "minLon": 120.768965908,
+      "minLat": 15.754418537,
+      "maxLon": 122.528524828,
+      "maxLat": 21.121885479
+    }
+  },
+  "PH03": {
+    "name": "Central Luzon",
+    "alt_name": "Region III (Central Luzon)",
+    "sub_id": "PH03",
+    "bbox": {
+      "minLon": 119.785833189,
+      "minLat": 14.407525703,
+      "maxLon": 122.242992104,
+      "maxLat": 16.509254778
+    }
+  },
+  "PH04": {
+    "name": "Calabarzon",
+    "alt_name": "Region IV-A (Calabarzon)",
+    "sub_id": "PH04",
+    "bbox": {
+      "minLon": 120.486864785,
+      "minLat": 13.161969906,
+      "maxLon": 122.792517997,
+      "maxLat": 15.216888696
+    }
+  },
+  "PH05": {
+    "name": "Bicol Region",
+    "alt_name": "Region V (Bicol Region)",
+    "sub_id": "PH05",
+    "bbox": {
+      "minLon": 122.298647797,
+      "minLat": 11.720480376,
+      "maxLon": 124.424870131,
+      "maxLat": 14.501163696
+    }
+  },
+  "PH06": {
+    "name": "Western Visayas",
+    "alt_name": "Region VI (Western Visayas)",
+    "sub_id": "PH06",
+    "bbox": {
+      "minLon": 121.282668662,
+      "minLat": 9.44419323,
+      "maxLon": 123.572898971,
+      "maxLat": 12.208995585
+    }
+  },
+  "PH07": {
+    "name": "Central Visayas",
+    "alt_name": "Region VII (Central Visayas)",
+    "sub_id": "PH07",
+    "bbox": {
+      "minLon": 122.588891966,
+      "minLat": 9.038367713,
+      "maxLon": 124.645374649,
+      "maxLat": 11.524288693
+    }
+  },
+  "PH08": {
+    "name": "Eastern Visayas",
+    "alt_name": "Region VIII (Eastern Visayas)",
+    "sub_id": "PH08",
+    "bbox": {
+      "minLon": 124.002618248,
+      "minLat": 9.89520022,
+      "maxLon": 125.96918136,
+      "maxLat": 12.697746186
+    }
+  },
+  "PH09": {
+    "name": "Zamboanga Peninsula",
+    "alt_name": "Region IX (Zamboanga Peninsula)",
+    "sub_id": "PH09",
+    "bbox": {
+      "minLon": 121.874599857,
+      "minLat": 6.559809032,
+      "maxLon": 123.666222005,
+      "maxLat": 8.860214525
+    }
+  },
+  "PH10": {
+    "name": "Northern Mindanao",
+    "alt_name": "Region X (Northern Mindanao)",
+    "sub_id": "PH10",
+    "bbox": {
+      "minLon": 123.553826723,
+      "minLat": 7.400869115,
+      "maxLon": 125.443481988,
+      "maxLat": 9.258024086
+    }
+  },
+  "PH11": {
+    "name": "Davao Region",
+    "alt_name": "Region XI (Davao Region)",
+    "sub_id": "PH11",
+    "bbox": {
+      "minLon": 125.046790032,
+      "minLat": 5.36550554,
+      "maxLon": 126.604965596,
+      "maxLat": 8.003247176
+    }
+  },
+  "PH12": {
+    "name": "Soccsksargen",
+    "alt_name": "Region XII (Soccsksargen)",
+    "sub_id": "PH12",
+    "bbox": {
+      "minLon": 124.016017847,
+      "minLat": 5.568640287,
+      "maxLon": 125.538566383,
+      "maxLat": 7.638289207
+    }
+  },
+  "PH13": {
+    "name": "NCR",
+    "alt_name": "National Capital Region (NCR)",
+    "sub_id": "PH13",
+    "bbox": {
+      "minLon": 120.906395432,
+      "minLat": 14.351729568,
+      "maxLon": 121.135036414,
+      "maxLat": 14.785291728
+    }
+  },
+  "PH14": {
+    "name": "CAR",
+    "alt_name": "Cordillera Administrative Region (CAR)",
+    "sub_id": "PH14",
+    "bbox": {
+      "minLon": 120.444614374,
+      "minLat": 16.18025614,
+      "maxLon": 121.647230678,
+      "maxLat": 18.544093043
+    }
+  },
+  "PH16": {
+    "name": "Caraga",
+    "alt_name": "Region XIII (Caraga)",
+    "sub_id": "PH16",
+    "bbox": {
+      "minLon": 125.169786476,
+      "minLat": 7.918803003,
+      "maxLon": 126.459590415,
+      "maxLat": 10.471594696
+    }
+  },
+  "PH17": {
+    "name": "Mimaropa Region",
+    "alt_name": "Mimaropa Region",
+    "sub_id": "PH17",
+    "bbox": {
+      "minLon": 114.277892253,
+      "minLat": 7.506560156,
+      "maxLon": 122.698784583,
+      "maxLat": 13.899175728
+    }
+  },
+  "PH19": {
+    "name": "BARMM",
+    "alt_name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "sub_id": "PH19",
+    "bbox": {
+      "minLon": 118.064236348,
+      "minLat": 4.587294497,
+      "maxLon": 125.007743394,
+      "maxLat": 8.16348651
+    }
+  }
+}

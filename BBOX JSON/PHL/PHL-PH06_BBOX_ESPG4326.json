@@ -1,0 +1,74 @@
+[
+  {
+    "Aklan": {
+      "sub_num": "PH06004",
+      "name": "Aklan",
+      "bbox": {
+        "minLon": 121.843595945,
+        "minLat": 11.311229724,
+        "maxLon": 122.577606538,
+        "maxLat": 11.999383694
+      }
+    }
+  },
+  {
+    "Antique": {
+      "sub_num": "PH06006",
+      "name": "Antique",
+      "bbox": {
+        "minLon": 121.282668662,
+        "minLat": 10.406292322,
+        "maxLon": 122.324600831,
+        "maxLat": 12.208995585
+      }
+    }
+  },
+  {
+    "Capiz": {
+      "sub_num": "PH06019",
+      "name": "Capiz",
+      "bbox": {
+        "minLon": 122.199907728,
+        "minLat": 11.133468934,
+        "maxLon": 123.09835891,
+        "maxLat": 11.646015148
+      }
+    }
+  },
+  {
+    "Iloilo": {
+      "sub_num": "PH06030",
+      "name": "Iloilo",
+      "bbox": {
+        "minLon": 122.012161078,
+        "minLat": 10.466848482,
+        "maxLon": 123.372769909,
+        "maxLat": 11.638852106
+      }
+    }
+  },
+  {
+    "Negros Occidental": {
+      "sub_num": "PH06045",
+      "name": "Negros Occidental",
+      "bbox": {
+        "minLon": 122.364870663,
+        "minLat": 9.44419323,
+        "maxLon": 123.572898971,
+        "maxLat": 11.044571328
+      }
+    }
+  },
+  {
+    "Guimaras": {
+      "sub_num": "PH06079",
+      "name": "Guimaras",
+      "bbox": {
+        "minLon": 122.474694622,
+        "minLat": 10.38612,
+        "maxLon": 122.74382,
+        "maxLat": 10.75427847
+      }
+    }
+  }
+]

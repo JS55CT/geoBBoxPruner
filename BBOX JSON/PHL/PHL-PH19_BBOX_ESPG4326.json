@@ -1,0 +1,86 @@
+[
+  {
+    "Basilan": {
+      "sub_num": "PH19007",
+      "name": "Basilan",
+      "bbox": {
+        "minLon": 121.429436712,
+        "minLat": 6.278956992,
+        "maxLon": 122.407318955,
+        "maxLat": 6.90714049
+      }
+    }
+  },
+  {
+    "Lanao del Sur": {
+      "sub_num": "PH19036",
+      "name": "Lanao del Sur",
+      "bbox": {
+        "minLon": 123.849652093,
+        "minLat": 7.400376763,
+        "maxLon": 124.828505683,
+        "maxLat": 8.16348651
+      }
+    }
+  },
+  {
+    "Sulu": {
+      "sub_num": "PH19066",
+      "name": "Sulu",
+      "bbox": {
+        "minLon": 119.919324566,
+        "minLat": 5.443678307,
+        "maxLon": 121.948722552,
+        "maxLat": 6.437405284
+      }
+    }
+  },
+  {
+    "Tawi-Tawi": {
+      "sub_num": "PH19070",
+      "name": "Tawi-Tawi",
+      "bbox": {
+        "minLon": 118.064236348,
+        "minLat": 4.587294497,
+        "maxLon": 120.696472168,
+        "maxLat": 7.179072901
+      }
+    }
+  },
+  {
+    "Maguindanao del Norte": {
+      "sub_num": "PH19087",
+      "name": "Maguindanao del Norte",
+      "bbox": {
+        "minLon": 123.943478606,
+        "minLat": 6.740810256,
+        "maxLon": 124.528049197,
+        "maxLat": 7.638289207
+      }
+    }
+  },
+  {
+    "Maguindanao del Sur": {
+      "sub_num": "PH19088",
+      "name": "Maguindanao del Sur",
+      "bbox": {
+        "minLon": 124.12262076,
+        "minLat": 6.600941185,
+        "maxLon": 125.007743394,
+        "maxLat": 7.183829604
+      }
+    }
+  },
+  {
+    "Special Geographic Area": {
+      "sub_num": "PH19099",
+      "name": "Special Geographic Area",
+      "bbox": {
+        "minLon": 124.33905723,
+        "minLat": 6.946601725,
+        "maxLon": 124.910479715,
+        "maxLat": 7.423535557
+      }
+    }
+  }
+]

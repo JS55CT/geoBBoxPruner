@@ -1,0 +1,50 @@
+[
+  {
+    "Bohol": {
+      "sub_num": "PH07012",
+      "name": "Bohol",
+      "bbox": {
+        "minLon": 123.681254118,
+        "minLat": 9.485585839,
+        "maxLon": 124.645374649,
+        "maxLat": 10.252671705
+      }
+    }
+  },
+  {
+    "Cebu": {
+      "sub_num": "PH07022",
+      "name": "Cebu",
+      "bbox": {
+        "minLon": 123.296367801,
+        "minLat": 9.412867487,
+        "maxLon": 124.570972329,
+        "maxLat": 11.524288693
+      }
+    }
+  },
+  {
+    "Negros Oriental": {
+      "sub_num": "PH07046",
+      "name": "Negros Oriental",
+      "bbox": {
+        "minLon": 122.588891966,
+        "minLat": 9.038367713,
+        "maxLon": 123.335915073,
+        "maxLat": 10.439600951
+      }
+    }
+  },
+  {
+    "Siquijor": {
+      "sub_num": "PH07061",
+      "name": "Siquijor",
+      "bbox": {
+        "minLon": 123.451942636,
+        "minLat": 9.094668095,
+        "maxLon": 123.701978969,
+        "maxLat": 9.301050557
+      }
+    }
+  }
+]

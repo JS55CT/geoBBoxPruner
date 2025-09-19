@@ -1,0 +1,62 @@
+[
+  {
+    "Batanes": {
+      "sub_num": "PH02009",
+      "name": "Batanes",
+      "bbox": {
+        "minLon": 121.77738793,
+        "minLat": 20.260209426,
+        "maxLon": 122.035716756,
+        "maxLat": 21.121885479
+      }
+    }
+  },
+  {
+    "Cagayan": {
+      "sub_num": "PH02015",
+      "name": "Cagayan",
+      "bbox": {
+        "minLon": 120.958673098,
+        "minLat": 17.499331217,
+        "maxLon": 122.337620959,
+        "maxLat": 19.573923976
+      }
+    }
+  },
+  {
+    "Isabela": {
+      "sub_num": "PH02031",
+      "name": "Isabela",
+      "bbox": {
+        "minLon": 121.326168365,
+        "minLat": 16.393169809,
+        "maxLon": 122.528524828,
+        "maxLat": 17.585863014
+      }
+    }
+  },
+  {
+    "Nueva Vizcaya": {
+      "sub_num": "PH02050",
+      "name": "Nueva Vizcaya",
+      "bbox": {
+        "minLon": 120.768965908,
+        "minLat": 15.754418537,
+        "maxLon": 121.520757752,
+        "maxLat": 16.757178165
+      }
+    }
+  },
+  {
+    "Quirino": {
+      "sub_num": "PH02057",
+      "name": "Quirino",
+      "bbox": {
+        "minLon": 121.277400991,
+        "minLat": 15.926616156,
+        "maxLon": 122.058808191,
+        "maxLat": 16.642962467
+      }
+    }
+  }
+]

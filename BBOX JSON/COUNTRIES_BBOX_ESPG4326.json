@@ -31,6 +31,14 @@
     "Sub_level": 0,
     "bbox": [{ "minLon": 33.9102886550, "minLat": -4.6768798830, "maxLon": 41.9060214590, "maxLat": 5.4141235350 }]
   },
+  "PHL": {
+    "name": "Philippines",
+    "id": "PHL",
+    "ISO_ALPHA2": "PH",
+    "ISO_ALPHA3": "PHL",
+    "Sub_level": 2,
+    "bbox": [{ "minLon": 114.2778922530, "minLat": 4.5872944970, "maxLon": 126.6049655960, "maxLat": 21.1218854790 }]
+  },
   "QAT": {
     "name": "Qatar",
     "id": "QAT",

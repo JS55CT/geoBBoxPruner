@@ -1,0 +1,62 @@
+[
+  {
+    "Marinduque": {
+      "sub_num": "PH17040",
+      "name": "Marinduque",
+      "bbox": {
+        "minLon": 121.804827633,
+        "minLat": 13.18959948,
+        "maxLon": 122.188153757,
+        "maxLat": 13.570707358
+      }
+    }
+  },
+  {
+    "Occidental Mindoro": {
+      "sub_num": "PH17051",
+      "name": "Occidental Mindoro",
+      "bbox": {
+        "minLon": 120.018022582,
+        "minLat": 12.153010055,
+        "maxLon": 121.261273361,
+        "maxLat": 13.899175728
+      }
+    }
+  },
+  {
+    "Oriental Mindoro": {
+      "sub_num": "PH17052",
+      "name": "Oriental Mindoro",
+      "bbox": {
+        "minLon": 120.800676066,
+        "minLat": 12.2071814,
+        "maxLon": 121.558353795,
+        "maxLat": 13.531510606
+      }
+    }
+  },
+  {
+    "Palawan": {
+      "sub_num": "PH17053",
+      "name": "Palawan",
+      "bbox": {
+        "minLon": 114.277892253,
+        "minLat": 7.506560156,
+        "maxLon": 121.291002826,
+        "maxLat": 12.381896972
+      }
+    }
+  },
+  {
+    "Romblon": {
+      "sub_num": "PH17059",
+      "name": "Romblon",
+      "bbox": {
+        "minLon": 121.680847239,
+        "minLat": 12.031182614,
+        "maxLon": 122.698784583,
+        "maxLat": 12.963085883
+      }
+    }
+  }
+]

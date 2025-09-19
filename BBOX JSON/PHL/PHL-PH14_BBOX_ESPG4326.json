@@ -1,0 +1,74 @@
+[
+  {
+    "Abra": {
+      "sub_num": "PH14001",
+      "name": "Abra",
+      "bbox": {
+        "minLon": 120.467786026,
+        "minLat": 17.155256325,
+        "maxLon": 121.117116751,
+        "maxLat": 17.973635974
+      }
+    }
+  },
+  {
+    "Benguet": {
+      "sub_num": "PH14011",
+      "name": "Benguet",
+      "bbox": {
+        "minLon": 120.444614374,
+        "minLat": 16.18025614,
+        "maxLon": 120.929506148,
+        "maxLat": 16.926593121
+      }
+    }
+  },
+  {
+    "Ifugao": {
+      "sub_num": "PH14027",
+      "name": "Ifugao",
+      "bbox": {
+        "minLon": 120.892321812,
+        "minLat": 16.569449608,
+        "maxLon": 121.572874067,
+        "maxLat": 17.079485199
+      }
+    }
+  },
+  {
+    "Kalinga": {
+      "sub_num": "PH14032",
+      "name": "Kalinga",
+      "bbox": {
+        "minLon": 120.911899627,
+        "minLat": 17.169494195,
+        "maxLon": 121.647230678,
+        "maxLat": 17.69322616
+      }
+    }
+  },
+  {
+    "Mountain Province": {
+      "sub_num": "PH14044",
+      "name": "Mountain Province",
+      "bbox": {
+        "minLon": 120.767612847,
+        "minLat": 16.82106441,
+        "maxLon": 121.568219466,
+        "maxLat": 17.293315748
+      }
+    }
+  },
+  {
+    "Apayao": {
+      "sub_num": "PH14081",
+      "name": "Apayao",
+      "bbox": {
+        "minLon": 120.916666361,
+        "minLat": 17.635551159,
+        "maxLon": 121.489483607,
+        "maxLat": 18.544093043
+      }
+    }
+  }
+]

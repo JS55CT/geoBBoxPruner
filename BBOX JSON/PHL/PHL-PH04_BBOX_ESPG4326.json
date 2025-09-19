@@ -1,0 +1,62 @@
+[
+  {
+    "Batangas": {
+      "sub_num": "PH04010",
+      "name": "Batangas",
+      "bbox": {
+        "minLon": 120.486864785,
+        "minLat": 13.526201687,
+        "maxLon": 121.471580621,
+        "maxLat": 14.239822663
+      }
+    }
+  },
+  {
+    "Cavite": {
+      "sub_num": "PH04021",
+      "name": "Cavite",
+      "bbox": {
+        "minLon": 120.562060159,
+        "minLat": 14.05654967,
+        "maxLon": 121.077498833,
+        "maxLat": 14.500226307
+      }
+    }
+  },
+  {
+    "Laguna": {
+      "sub_num": "PH04034",
+      "name": "Laguna",
+      "bbox": {
+        "minLon": 121.005296101,
+        "minLat": 13.963490883,
+        "maxLon": 121.634625765,
+        "maxLat": 14.595771359
+      }
+    }
+  },
+  {
+    "Quezon": {
+      "sub_num": "PH04056",
+      "name": "Quezon",
+      "bbox": {
+        "minLon": 121.236960571,
+        "minLat": 13.161969906,
+        "maxLon": 122.792517997,
+        "maxLat": 15.216888696
+      }
+    }
+  },
+  {
+    "Rizal": {
+      "sub_num": "PH04058",
+      "name": "Rizal",
+      "bbox": {
+        "minLon": 121.095891447,
+        "minLat": 14.27824359,
+        "maxLon": 121.451050535,
+        "maxLat": 14.834802543
+      }
+    }
+  }
+]

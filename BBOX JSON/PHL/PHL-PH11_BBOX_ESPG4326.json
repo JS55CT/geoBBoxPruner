@@ -1,0 +1,62 @@
+[
+  {
+    "Davao del Norte": {
+      "sub_num": "PH11023",
+      "name": "Davao del Norte",
+      "bbox": {
+        "minLon": 125.300924002,
+        "minLat": 6.892521363,
+        "maxLon": 125.939152534,
+        "maxLat": 8.003247176
+      }
+    }
+  },
+  {
+    "Davao del Sur": {
+      "sub_num": "PH11024",
+      "name": "Davao del Sur",
+      "bbox": {
+        "minLon": 125.046790032,
+        "minLat": 6.431130764,
+        "maxLon": 125.681018037,
+        "maxLat": 7.565447
+      }
+    }
+  },
+  {
+    "Davao Oriental": {
+      "sub_num": "PH11025",
+      "name": "Davao Oriental",
+      "bbox": {
+        "minLon": 125.944117591,
+        "minLat": 6.269284704,
+        "maxLon": 126.604965596,
+        "maxLat": 8.002065937
+      }
+    }
+  },
+  {
+    "Davao de Oro": {
+      "sub_num": "PH11082",
+      "name": "Davao de Oro",
+      "bbox": {
+        "minLon": 125.658279843,
+        "minLat": 7.073460178,
+        "maxLon": 126.305359113,
+        "maxLat": 7.999984
+      }
+    }
+  },
+  {
+    "Davao Occidental": {
+      "sub_num": "PH11086",
+      "name": "Davao Occidental",
+      "bbox": {
+        "minLon": 125.317031926,
+        "minLat": 5.36550554,
+        "maxLon": 125.715152978,
+        "maxLat": 6.633033406
+      }
+    }
+  }
+]

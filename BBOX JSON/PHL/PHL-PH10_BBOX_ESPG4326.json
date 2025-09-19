@@ -1,0 +1,62 @@
+[
+  {
+    "Bukidnon": {
+      "sub_num": "PH10013",
+      "name": "Bukidnon",
+      "bbox": {
+        "minLon": 124.498928754,
+        "minLat": 7.400869115,
+        "maxLon": 125.443481988,
+        "maxLat": 8.609524551
+      }
+    }
+  },
+  {
+    "Camiguin": {
+      "sub_num": "PH10018",
+      "name": "Camiguin",
+      "bbox": {
+        "minLon": 124.633316966,
+        "minLat": 9.078753495,
+        "maxLon": 124.825978986,
+        "maxLat": 9.258024086
+      }
+    }
+  },
+  {
+    "Lanao del Norte": {
+      "sub_num": "PH10035",
+      "name": "Lanao del Norte",
+      "bbox": {
+        "minLon": 123.621689067,
+        "minLat": 7.696532008,
+        "maxLon": 124.567185967,
+        "maxLat": 8.332102494
+      }
+    }
+  },
+  {
+    "Misamis Occidental": {
+      "sub_num": "PH10042",
+      "name": "Misamis Occidental",
+      "bbox": {
+        "minLon": 123.553826723,
+        "minLat": 8.012310001,
+        "maxLon": 123.868979207,
+        "maxLat": 8.670148136
+      }
+    }
+  },
+  {
+    "Misamis Oriental": {
+      "sub_num": "PH10043",
+      "name": "Misamis Oriental",
+      "bbox": {
+        "minLon": 124.246434134,
+        "minLat": 8.160145672,
+        "maxLon": 125.262598647,
+        "maxLat": 9.093653081
+      }
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "NCR District 1": {
+      "sub_num": "PH13039",
+      "name": "NCR District 1",
+      "bbox": {
+        "minLon": 120.932796493,
+        "minLat": 14.558607406,
+        "maxLon": 121.02617047,
+        "maxLat": 14.639979368
+      }
+    }
+  },
+  {
+    "NCR District 2": {
+      "sub_num": "PH13074",
+      "name": "NCR District 2",
+      "bbox": {
+        "minLon": 120.989817435,
+        "minLat": 14.531997657,
+        "maxLon": 121.135036414,
+        "maxLat": 14.777701209
+      }
+    }
+  },
+  {
+    "NCR District 3": {
+      "sub_num": "PH13075",
+      "name": "NCR District 3",
+      "bbox": {
+        "minLon": 120.906395432,
+        "minLat": 14.633909253,
+        "maxLon": 121.099879118,
+        "maxLat": 14.785291728
+      }
+    }
+  },
+  {
+    "NCR District 4": {
+      "sub_num": "PH13076",
+      "name": "NCR District 4",
+      "bbox": {
+        "minLon": 120.965950965,
+        "minLat": 14.351729568,
+        "maxLon": 121.103845708,
+        "maxLat": 14.579408116
+      }
+    }
+  }
+]

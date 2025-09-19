@@ -1,0 +1,86 @@
+[
+  {
+    "Bataan": {
+      "sub_num": "PH03008",
+      "name": "Bataan",
+      "bbox": {
+        "minLon": 120.248181797,
+        "minLat": 14.407525703,
+        "maxLon": 120.618271386,
+        "maxLat": 14.922759493
+      }
+    }
+  },
+  {
+    "Bulacan": {
+      "sub_num": "PH03014",
+      "name": "Bulacan",
+      "bbox": {
+        "minLon": 120.686622715,
+        "minLat": 14.688489937,
+        "maxLon": 121.347856533,
+        "maxLat": 15.272196883
+      }
+    }
+  },
+  {
+    "Nueva Ecija": {
+      "sub_num": "PH03049",
+      "name": "Nueva Ecija",
+      "bbox": {
+        "minLon": 120.615063664,
+        "minLat": 15.175592349,
+        "maxLon": 121.378521524,
+        "maxLat": 16.138304424
+      }
+    }
+  },
+  {
+    "Pampanga": {
+      "sub_num": "PH03054",
+      "name": "Pampanga",
+      "bbox": {
+        "minLon": 120.356057375,
+        "minLat": 14.767216859,
+        "maxLon": 120.951658592,
+        "maxLat": 15.278676208
+      }
+    }
+  },
+  {
+    "Tarlac": {
+      "sub_num": "PH03069",
+      "name": "Tarlac",
+      "bbox": {
+        "minLon": 120.16519461,
+        "minLat": 15.16679164,
+        "maxLon": 120.764495122,
+        "maxLat": 15.862431135
+      }
+    }
+  },
+  {
+    "Zambales": {
+      "sub_num": "PH03071",
+      "name": "Zambales",
+      "bbox": {
+        "minLon": 119.785833189,
+        "minLat": 14.737884599,
+        "maxLon": 120.463027143,
+        "maxLat": 15.874149902
+      }
+    }
+  },
+  {
+    "Aurora": {
+      "sub_num": "PH03077",
+      "name": "Aurora",
+      "bbox": {
+        "minLon": 121.284763493,
+        "minLat": 14.996370968,
+        "maxLon": 122.242992104,
+        "maxLat": 16.509254778
+      }
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "North Cotabato": {
+      "sub_num": "PH12047",
+      "name": "North Cotabato",
+      "bbox": {
+        "minLon": 124.366263437,
+        "minLat": 6.727055452,
+        "maxLon": 125.292738646,
+        "maxLat": 7.638289207
+      }
+    }
+  },
+  {
+    "South Cotabato": {
+      "sub_num": "PH12063",
+      "name": "South Cotabato",
+      "bbox": {
+        "minLon": 124.37863842,
+        "minLat": 5.955319112,
+        "maxLon": 125.269537922,
+        "maxLat": 6.668010838
+      }
+    }
+  },
+  {
+    "Sultan Kudarat": {
+      "sub_num": "PH12065",
+      "name": "Sultan Kudarat",
+      "bbox": {
+        "minLon": 124.016017847,
+        "minLat": 6.114065602,
+        "maxLon": 125.105531018,
+        "maxLat": 6.888110593
+      }
+    }
+  },
+  {
+    "Sarangani": {
+      "sub_num": "PH12080",
+      "name": "Sarangani",
+      "bbox": {
+        "minLon": 124.363986948,
+        "minLat": 5.568640287,
+        "maxLon": 125.538566383,
+        "maxLat": 6.540611111
+      }
+    }
+  }
+]

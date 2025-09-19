@@ -1,0 +1,62 @@
+[
+  {
+    "Agusan del Norte": {
+      "sub_num": "PH16002",
+      "name": "Agusan del Norte",
+      "bbox": {
+        "minLon": 125.207724707,
+        "minLat": 8.69425299,
+        "maxLon": 125.767509461,
+        "maxLat": 9.467170705
+      }
+    }
+  },
+  {
+    "Agusan del Sur": {
+      "sub_num": "PH16003",
+      "name": "Agusan del Sur",
+      "bbox": {
+        "minLon": 125.169786476,
+        "minLat": 7.930862946,
+        "maxLon": 126.263387355,
+        "maxLat": 9.230010033
+      }
+    }
+  },
+  {
+    "Surigao del Norte": {
+      "sub_num": "PH16067",
+      "name": "Surigao del Norte",
+      "bbox": {
+        "minLon": 125.391031992,
+        "minLat": 9.326040268,
+        "maxLon": 126.182522259,
+        "maxLat": 10.062595968
+      }
+    }
+  },
+  {
+    "Surigao del Sur": {
+      "sub_num": "PH16068",
+      "name": "Surigao del Sur",
+      "bbox": {
+        "minLon": 125.743438721,
+        "minLat": 7.918803003,
+        "maxLon": 126.459590415,
+        "maxLat": 9.501763924
+      }
+    }
+  },
+  {
+    "Dinagat Islands": {
+      "sub_num": "PH16085",
+      "name": "Dinagat Islands",
+      "bbox": {
+        "minLon": 125.460460764,
+        "minLat": 9.851670001,
+        "maxLon": 125.707244319,
+        "maxLat": 10.471594696
+      }
+    }
+  }
+]

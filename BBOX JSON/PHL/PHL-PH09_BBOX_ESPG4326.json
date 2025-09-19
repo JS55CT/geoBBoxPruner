@@ -1,0 +1,50 @@
+[
+  {
+    "Zamboanga del Norte": {
+      "sub_num": "PH09072",
+      "name": "Zamboanga del Norte",
+      "bbox": {
+        "minLon": 121.909699278,
+        "minLat": 7.139034716,
+        "maxLon": 123.566568308,
+        "maxLat": 8.860214525
+      }
+    }
+  },
+  {
+    "Zamboanga del Sur": {
+      "sub_num": "PH09073",
+      "name": "Zamboanga del Sur",
+      "bbox": {
+        "minLon": 121.897504618,
+        "minLat": 6.858104329,
+        "maxLon": 123.666222005,
+        "maxLat": 8.271610939
+      }
+    }
+  },
+  {
+    "Zamboanga Sibugay": {
+      "sub_num": "PH09083",
+      "name": "Zamboanga Sibugay",
+      "bbox": {
+        "minLon": 122.259431441,
+        "minLat": 7.267823561,
+        "maxLon": 123.106923757,
+        "maxLat": 7.952614371
+      }
+    }
+  },
+  {
+    "City of Isabela": {
+      "sub_num": "PH09097",
+      "name": "City of Isabela",
+      "bbox": {
+        "minLon": 121.874599857,
+        "minLat": 6.559809032,
+        "maxLon": 122.0515345,
+        "maxLat": 6.755143183
+      }
+    }
+  }
+]

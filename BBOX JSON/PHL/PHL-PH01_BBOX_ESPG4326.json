@@ -1,0 +1,50 @@
+[
+  {
+    "Ilocos Norte": {
+      "sub_num": "PH01028",
+      "name": "Ilocos Norte",
+      "bbox": {
+        "minLon": 120.42925503,
+        "minLat": 17.786033365,
+        "maxLon": 120.976453677,
+        "maxLat": 18.651224169
+      }
+    }
+  },
+  {
+    "Ilocos Sur": {
+      "sub_num": "PH01029",
+      "name": "Ilocos Sur",
+      "bbox": {
+        "minLon": 120.34394896,
+        "minLat": 16.669766382,
+        "maxLon": 120.812355205,
+        "maxLat": 17.905160716
+      }
+    }
+  },
+  {
+    "La Union": {
+      "sub_num": "PH01033",
+      "name": "La Union",
+      "bbox": {
+        "minLon": 120.277875484,
+        "minLat": 16.201300003,
+        "maxLon": 120.5653646,
+        "maxLat": 16.920904919
+      }
+    }
+  },
+  {
+    "Pangasinan": {
+      "sub_num": "PH01055",
+      "name": "Pangasinan",
+      "bbox": {
+        "minLon": 119.749719464,
+        "minLat": 15.617769571,
+        "maxLon": 120.920529407,
+        "maxLat": 16.443908683
+      }
+    }
+  }
+]

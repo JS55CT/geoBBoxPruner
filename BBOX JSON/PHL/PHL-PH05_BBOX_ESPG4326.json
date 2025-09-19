@@ -1,0 +1,74 @@
+[
+  {
+    "Albay": {
+      "sub_num": "PH05005",
+      "name": "Albay",
+      "bbox": {
+        "minLon": 123.280548179,
+        "minLat": 12.98618489,
+        "maxLon": 124.220111144,
+        "maxLat": 13.523255226
+      }
+    }
+  },
+  {
+    "Camarines Norte": {
+      "sub_num": "PH05016",
+      "name": "Camarines Norte",
+      "bbox": {
+        "minLon": 122.298647797,
+        "minLat": 13.837581502,
+        "maxLon": 123.118057971,
+        "maxLat": 14.501163696
+      }
+    }
+  },
+  {
+    "Camarines Sur": {
+      "sub_num": "PH05017",
+      "name": "Camarines Sur",
+      "bbox": {
+        "minLon": 122.550910448,
+        "minLat": 13.258541065,
+        "maxLon": 124.002333134,
+        "maxLat": 14.128891138
+      }
+    }
+  },
+  {
+    "Catanduanes": {
+      "sub_num": "PH05020",
+      "name": "Catanduanes",
+      "bbox": {
+        "minLon": 124.012611468,
+        "minLat": 13.516627809,
+        "maxLon": 124.424870131,
+        "maxLat": 14.100210746
+      }
+    }
+  },
+  {
+    "Masbate": {
+      "sub_num": "PH05041",
+      "name": "Masbate",
+      "bbox": {
+        "minLon": 122.800096194,
+        "minLat": 11.720480376,
+        "maxLon": 124.103475265,
+        "maxLat": 13.180158511
+      }
+    }
+  },
+  {
+    "Sorsogon": {
+      "sub_num": "PH05062",
+      "name": "Sorsogon",
+      "bbox": {
+        "minLon": 123.482158666,
+        "minLat": 12.523464615,
+        "maxLon": 124.198408588,
+        "maxLat": 13.122402547
+      }
+    }
+  }
+]

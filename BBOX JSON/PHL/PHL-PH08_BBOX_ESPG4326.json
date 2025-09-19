@@ -1,0 +1,74 @@
+[
+  {
+    "Eastern Samar": {
+      "sub_num": "PH08026",
+      "name": "Eastern Samar",
+      "bbox": {
+        "minLon": 125.125405412,
+        "minLat": 10.687790872,
+        "maxLon": 125.96918136,
+        "maxLat": 12.349578051
+      }
+    }
+  },
+  {
+    "Leyte": {
+      "sub_num": "PH08037",
+      "name": "Leyte",
+      "bbox": {
+        "minLon": 124.285674574,
+        "minLat": 10.18513572,
+        "maxLon": 125.17412479,
+        "maxLat": 11.563612304
+      }
+    }
+  },
+  {
+    "Northern Samar": {
+      "sub_num": "PH08048",
+      "name": "Northern Samar",
+      "bbox": {
+        "minLon": 124.002618248,
+        "minLat": 12.137552355,
+        "maxLon": 125.342275411,
+        "maxLat": 12.697746186
+      }
+    }
+  },
+  {
+    "Samar (Western Samar)": {
+      "sub_num": "PH08060",
+      "name": "Samar (Western Samar)",
+      "bbox": {
+        "minLon": 124.145165255,
+        "minLat": 11.085855618,
+        "maxLon": 125.309116457,
+        "maxLat": 12.340963423
+      }
+    }
+  },
+  {
+    "Southern Leyte": {
+      "sub_num": "PH08064",
+      "name": "Southern Leyte",
+      "bbox": {
+        "minLon": 124.753313726,
+        "minLat": 9.89520022,
+        "maxLon": 125.299070723,
+        "maxLat": 10.600862
+      }
+    }
+  },
+  {
+    "Biliran": {
+      "sub_num": "PH08078",
+      "name": "Biliran",
+      "bbox": {
+        "minLon": 124.254349894,
+        "minLat": 11.461438621,
+        "maxLon": 124.619655813,
+        "maxLat": 11.817285548
+      }
+    }
+  }
+]
