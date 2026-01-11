@@ -1,0 +1,195 @@
+[
+    {
+      "Senapati": {
+        "sub_num": "272",
+        "name": "Senapati",
+        "bbox": {
+          "minLon": 93.76061175920034,
+          "minLat": 25.1644844571807,
+          "maxLon": 94.48969695822196,
+          "maxLat": 25.616248729807705
+        }
+      }
+    },
+    {
+      "Tamenglong": {
+        "sub_num": "273",
+        "name": "Tamenglong",
+        "bbox": {
+          "minLon": 93.1529685206446,
+          "minLat": 24.66669874285401,
+          "maxLon": 93.95527880758131,
+          "maxLat": 25.461589358762648
+        }
+      }
+    },
+    {
+      "Churachandpur": {
+        "sub_num": "274",
+        "name": "Churachandpur",
+        "bbox": {
+          "minLon": 93.36503592709583,
+          "minLat": 23.94211563935888,
+          "maxLon": 93.87714330374442,
+          "maxLat": 24.612187064742486
+        }
+      }
+    },
+    {
+      "Bishnupur": {
+        "sub_num": "275",
+        "name": "Bishnupur",
+        "bbox": {
+          "minLon": 93.70478556330494,
+          "minLat": 24.306497937698992,
+          "maxLon": 93.8943166431693,
+          "maxLat": 24.739607763397355
+        }
+      }
+    },
+    {
+      "Thoubal": {
+        "sub_num": "276",
+        "name": "Thoubal",
+        "bbox": {
+          "minLon": 93.88868940488845,
+          "minLat": 24.512896043358317,
+          "maxLon": 94.13212418532885,
+          "maxLat": 24.72363296624891
+        }
+      }
+    },
+    {
+      "Imphal West": {
+        "sub_num": "277",
+        "name": "Imphal West",
+        "bbox": {
+          "minLon": 93.770567185623,
+          "minLat": 24.455898028869672,
+          "maxLon": 93.96584863943748,
+          "maxLat": 25.134835962269257
+        }
+      }
+    },
+    {
+      "Imphal East": {
+        "sub_num": "278",
+        "name": "Imphal East",
+        "bbox": {
+          "minLon": 93.89532252991208,
+          "minLat": 24.65451929769656,
+          "maxLon": 94.1417401824231,
+          "maxLat": 25.050304349594764
+        }
+      }
+    },
+    {
+      "Ukhrul": {
+        "sub_num": "279",
+        "name": "Ukhrul",
+        "bbox": {
+          "minLon": 94.1175450582736,
+          "minLat": 24.88451536873237,
+          "maxLon": 94.7448900623007,
+          "maxLat": 25.692090243182655
+        }
+      }
+    },
+    {
+      "Chandel": {
+        "sub_num": "280",
+        "name": "Chandel",
+        "bbox": {
+          "minLon": 93.73497968632913,
+          "minLat": 23.83284842270268,
+          "maxLon": 94.25488989062099,
+          "maxLat": 24.491947728382407
+        }
+      }
+    },
+    {
+      "Jiribam": {
+        "sub_num": "766",
+        "name": "Jiribam",
+        "bbox": {
+          "minLon": 93.07115128059888,
+          "minLat": 24.552460966721455,
+          "maxLon": 93.238733691074,
+          "maxLat": 24.85614482577275
+        }
+      }
+    },
+    {
+      "Kangpokpi": {
+        "sub_num": "767",
+        "name": "Kangpokpi",
+        "bbox": {
+          "minLon": 93.66049555833938,
+          "minLat": 24.61856077037163,
+          "maxLon": 94.19495369389162,
+          "maxLat": 25.323612112796308
+        }
+      }
+    },
+    {
+      "Kakching": {
+        "sub_num": "768",
+        "name": "Kakching",
+        "bbox": {
+          "minLon": 93.83748950755343,
+          "minLat": 24.220705005165446,
+          "maxLon": 94.04772951164635,
+          "maxLat": 24.564122188686714
+        }
+      }
+    },
+    {
+      "Tengnoupal": {
+        "sub_num": "769",
+        "name": "Tengnoupal",
+        "bbox": {
+          "minLon": 94.03314604482999,
+          "minLat": 24.106269084607362,
+          "maxLon": 94.40869379124968,
+          "maxLat": 24.648698276600705
+        }
+      }
+    },
+    {
+      "Kamjong": {
+        "sub_num": "770",
+        "name": "Kamjong",
+        "bbox": {
+          "minLon": 94.13430328081584,
+          "minLat": 24.478345527103492,
+          "maxLon": 94.74468638008982,
+          "maxLat": 25.102888786374894
+        }
+      }
+    },
+    {
+      "Noney": {
+        "sub_num": "771",
+        "name": "Noney",
+        "bbox": {
+          "minLon": 93.1692760952397,
+          "minLat": 24.494482109872482,
+          "maxLon": 93.73814862195294,
+          "maxLat": 24.84646036414207
+        }
+      }
+    },
+    {
+      "Pherzawl": {
+        "sub_num": "772",
+        "name": "Pherzawl",
+        "bbox": {
+          "minLon": 92.96943383723556,
+          "minLat": 24.020712362617267,
+          "maxLon": 93.49635101213467,
+          "maxLat": 24.72113784936565
+        }
+      }
+    }
+  ]
+  

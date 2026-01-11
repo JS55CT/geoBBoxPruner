@@ -1,0 +1,15 @@
+[
+    {
+      "Lakshadweep District": {
+        "sub_num": "587",
+        "name": "Lakshadweep District",
+        "bbox": {
+          "minLon": 72.16402778214473,
+          "minLat": 8.265202694328957,
+          "maxLon": 73.70091894002576,
+          "maxLat": 11.704975707788016
+        }
+      }
+    }
+  ]
+  

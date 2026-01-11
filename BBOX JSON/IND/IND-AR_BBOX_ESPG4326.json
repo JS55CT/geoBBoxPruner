@@ -1,0 +1,327 @@
+[
+    {
+      "Tawang": {
+        "sub_num": "245",
+        "name": "Tawang",
+        "bbox": {
+          "minLon": 91.55354484981015,
+          "minLat": 27.450099512166027,
+          "maxLon": 92.47054827636704,
+          "maxLat": 27.872100480336762
+        }
+      }
+    },
+    {
+      "West Kameng": {
+        "sub_num": "246",
+        "name": "West Kameng",
+        "bbox": {
+          "minLon": 92.02186084756127,
+          "minLat": 26.888983698143495,
+          "maxLon": 92.8442495015842,
+          "maxLat": 27.74696458232022
+        }
+      }
+    },
+    {
+      "East Kameng": {
+        "sub_num": "247",
+        "name": "East Kameng",
+        "bbox": {
+          "minLon": 92.45046639596971,
+          "minLat": 27.150334872807417,
+          "maxLon": 93.3727558986289,
+          "maxLat": 27.979105320324376
+        }
+      }
+    },
+    {
+      "Papum Pare": {
+        "sub_num": "248",
+        "name": "Papum Pare",
+        "bbox": {
+          "minLon": 93.21066240205057,
+          "minLat": 26.936176835697516,
+          "maxLon": 94.20702635062428,
+          "maxLat": 27.633242036383113
+        }
+      }
+    },
+    {
+      "Upper Subansiri": {
+        "sub_num": "249",
+        "name": "Upper Subansiri",
+        "bbox": {
+          "minLon": 93.18045103855947,
+          "minLat": 27.757777193103113,
+          "maxLon": 94.59483598658616,
+          "maxLat": 28.70731979677579
+        }
+      }
+    },
+    {
+      "West Siang": {
+        "sub_num": "250",
+        "name": "West Siang",
+        "bbox": {
+          "minLon": 94.35649722119177,
+          "minLat": 27.985924246135305,
+          "maxLon": 94.94381884864525,
+          "maxLat": 28.41778887175303
+        }
+      }
+    },
+    {
+      "East Siang": {
+        "sub_num": "251",
+        "name": "East Siang",
+        "bbox": {
+          "minLon": 95.06736718687421,
+          "minLat": 27.81564697567297,
+          "maxLon": 95.56997120079211,
+          "maxLat": 28.322680777339794
+        }
+      }
+    },
+    {
+      "Upper Siang": {
+        "sub_num": "252",
+        "name": "Upper Siang",
+        "bbox": {
+          "minLon": 94.19158787091372,
+          "minLat": 28.163164973268223,
+          "maxLon": 95.40957749908935,
+          "maxLat": 29.341236414963777
+        }
+      }
+    },
+    {
+      "Changlang": {
+        "sub_num": "253",
+        "name": "Changlang",
+        "bbox": {
+          "minLon": 95.60599649493803,
+          "minLat": 26.87845963590445,
+          "maxLon": 97.16589747600227,
+          "maxLat": 27.660455343653148
+        }
+      }
+    },
+    {
+      "Tirap": {
+        "sub_num": "254",
+        "name": "Tirap",
+        "bbox": {
+          "minLon": 95.36021107402904,
+          "minLat": 26.799635387797746,
+          "maxLon": 95.69511223315517,
+          "maxLat": 27.264587458377093
+        }
+      }
+    },
+    {
+      "Lower Subansiri": {
+        "sub_num": "255",
+        "name": "Lower Subansiri",
+        "bbox": {
+          "minLon": 93.76431784424491,
+          "minLat": 27.47857040802897,
+          "maxLon": 93.96376584065402,
+          "maxLat": 27.7498615810574
+        }
+      }
+    },
+    {
+      "Kurung Kumey": {
+        "sub_num": "256",
+        "name": "Kurung Kumey",
+        "bbox": {
+          "minLon": 92.66533634218982,
+          "minLat": 27.594673919347112,
+          "maxLon": 93.6185113391636,
+          "maxLat": 28.366994919378307
+        }
+      }
+    },
+    {
+      "Dibang Valley": {
+        "sub_num": "257",
+        "name": "Dibang Valley",
+        "bbox": {
+          "minLon": 95.24360116764609,
+          "minLat": 28.27470094123847,
+          "maxLon": 96.6101400829426,
+          "maxLat": 29.46594731388326
+        }
+      }
+    },
+    {
+      "Lower Dibang Valley": {
+        "sub_num": "258",
+        "name": "Lower Dibang Valley",
+        "bbox": {
+          "minLon": 95.32004417901238,
+          "minLat": 27.8797121152394,
+          "maxLon": 96.36355547494277,
+          "maxLat": 28.555625919138233
+        }
+      }
+    },
+    {
+      "Lohit": {
+        "sub_num": "259",
+        "name": "Lohit",
+        "bbox": {
+          "minLon": 95.77429730341724,
+          "minLat": 27.556995782188174,
+          "maxLon": 96.71909612122099,
+          "maxLat": 28.386356723205157
+        }
+      }
+    },
+    {
+      "Anjaw": {
+        "sub_num": "260",
+        "name": "Anjaw",
+        "bbox": {
+          "minLon": 96.27473374094508,
+          "minLat": 27.61466111323919,
+          "maxLon": 97.41289651367362,
+          "maxLat": 28.457785323813756
+        }
+      }
+    },
+    {
+      "Longding": {
+        "sub_num": "761",
+        "name": "Longding",
+        "bbox": {
+          "minLon": 95.18114303429988,
+          "minLat": 26.650822626743345,
+          "maxLon": 95.50568466526269,
+          "maxLat": 27.108184203604154
+        }
+      }
+    },
+    {
+      "Namsai": {
+        "sub_num": "762",
+        "name": "Namsai",
+        "bbox": {
+          "minLon": 95.75226271466265,
+          "minLat": 27.543050714811415,
+          "maxLon": 96.30227599413139,
+          "maxLat": 27.85024430067972
+        }
+      }
+    },
+    {
+      "Kra Daadi": {
+        "sub_num": "763",
+        "name": "Kra Daadi",
+        "bbox": {
+          "minLon": 93.44689774513918,
+          "minLat": 27.599292360875438,
+          "maxLon": 93.9772176862323,
+          "maxLat": 28.322935598003948
+        }
+      }
+    },
+    {
+      "Siang": {
+        "sub_num": "764",
+        "name": "Siang",
+        "bbox": {
+          "minLon": 94.37850104983438,
+          "minLat": 28.023449166009854,
+          "maxLon": 95.24207373342242,
+          "maxLat": 28.932122800353127
+        }
+      }
+    },
+    {
+      "Kamle": {
+        "sub_num": "778",
+        "name": "Kamle",
+        "bbox": {
+          "minLon": 93.88094424728972,
+          "minLat": 27.487871934273926,
+          "maxLon": 94.35603810931805,
+          "maxLat": 27.977340114638217
+        }
+      }
+    },
+    {
+      "Lower Siang": {
+        "sub_num": "779",
+        "name": "Lower Siang",
+        "bbox": {
+          "minLon": 94.21044172377493,
+          "minLat": 27.555242438197183,
+          "maxLon": 95.13640185497444,
+          "maxLat": 28.05043730293121
+        }
+      }
+    },
+    {
+      "Pakke Kessang": {
+        "sub_num": "783",
+        "name": "Pakke Kessang",
+        "bbox": {
+          "minLon": 92.59026130510112,
+          "minLat": 26.913381750040948,
+          "maxLon": 93.38958160980178,
+          "maxLat": 27.390192448936663
+        }
+      }
+    },
+    {
+      "Leparada": {
+        "sub_num": "784",
+        "name": "Leparada",
+        "bbox": {
+          "minLon": 94.48429494015922,
+          "minLat": 27.77296248735519,
+          "maxLon": 94.92622125197967,
+          "maxLat": 28.06206699879605
+        }
+      }
+    },
+    {
+      "Shi Yomi": {
+        "sub_num": "785",
+        "name": "Shi Yomi",
+        "bbox": {
+          "minLon": 93.96771075629162,
+          "minLat": 28.335837582858268,
+          "maxLon": 94.56096138858784,
+          "maxLat": 29.037249196759515
+        }
+      }
+    },
+    {
+      "Bichom": {
+        "sub_num": "848",
+        "name": "Bichom",
+        "bbox": {
+          "minLon": 92.79940397126043,
+          "minLat": 27.162985866646338,
+          "maxLon": 92.92733354943685,
+          "maxLat": 27.46300395795987
+        }
+      }
+    },
+    {
+      "Keyi Panyor": {
+        "sub_num": "849",
+        "name": "Keyi Panyor",
+        "bbox": {
+          "minLon": 93.53095575540601,
+          "minLat": 27.291471421119912,
+          "maxLon": 93.9158644088203,
+          "maxLat": 27.79885396925598
+        }
+      }
+    }
+  ]
+  

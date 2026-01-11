@@ -1,0 +1,279 @@
+[
+    {
+      "Darjeeling": {
+        "sub_num": "327",
+        "name": "Darjeeling",
+        "bbox": {
+          "minLon": 87.98683047957167,
+          "minLat": 26.45150956976702,
+          "maxLon": 88.5124697228257,
+          "maxLat": 27.221067412233854
+        }
+      }
+    },
+    {
+      "Jalpaiguri": {
+        "sub_num": "328",
+        "name": "Jalpaiguri",
+        "bbox": {
+          "minLon": 88.38983238139774,
+          "minLat": 26.258904844940453,
+          "maxLon": 89.126282910553,
+          "maxLat": 26.993927236180745
+        }
+      }
+    },
+    {
+      "Cooch Behar": {
+        "sub_num": "329",
+        "name": "Cooch Behar",
+        "bbox": {
+          "minLon": 88.74800291843373,
+          "minLat": 25.965216487206963,
+          "maxLon": 89.8643078621095,
+          "maxLat": 26.54649464870917
+        }
+      }
+    },
+    {
+      "Uttar Dinajpur": {
+        "sub_num": "330",
+        "name": "Uttar Dinajpur",
+        "bbox": {
+          "minLon": 87.80735460470352,
+          "minLat": 25.244700841146695,
+          "maxLon": 88.52483991325853,
+          "maxLat": 26.499456420187077
+        }
+      }
+    },
+    {
+      "Dakshin Dinajpur": {
+        "sub_num": "331",
+        "name": "Dakshin Dinajpur",
+        "bbox": {
+          "minLon": 88.16526410838594,
+          "minLat": 25.16490885913632,
+          "maxLon": 89.00944194939414,
+          "maxLat": 25.607020690802738
+        }
+      }
+    },
+    {
+      "Malda": {
+        "sub_num": "332",
+        "name": "Malda",
+        "bbox": {
+          "minLon": 87.71307356528075,
+          "minLat": 24.655245342703793,
+          "maxLon": 88.4639656615735,
+          "maxLat": 25.539771014082085
+        }
+      }
+    },
+    {
+      "Murshidabad": {
+        "sub_num": "333",
+        "name": "Murshidabad",
+        "bbox": {
+          "minLon": 87.81636491541236,
+          "minLat": 23.722320845738775,
+          "maxLon": 88.74649069538276,
+          "maxLat": 24.857768428178215
+        }
+      }
+    },
+    {
+      "Birbhum": {
+        "sub_num": "334",
+        "name": "Birbhum",
+        "bbox": {
+          "minLon": 87.08670735840074,
+          "minLat": 23.540301988281698,
+          "maxLon": 88.02507136775453,
+          "maxLat": 24.583253679714367
+        }
+      }
+    },
+    {
+      "Purba Bardhaman": {
+        "sub_num": "335",
+        "name": "Purba Bardhaman",
+        "bbox": {
+          "minLon": 87.47516727311867,
+          "minLat": 22.93217183466719,
+          "maxLon": 88.41502267359199,
+          "maxLat": 23.84466520561781
+        }
+      }
+    },
+    {
+      "Nadia": {
+        "sub_num": "336",
+        "name": "Nadia",
+        "bbox": {
+          "minLon": 88.13433546259834,
+          "minLat": 22.87525068577141,
+          "maxLon": 88.80143930911079,
+          "maxLat": 24.09470877313676
+        }
+      }
+    },
+    {
+      "North 24 Parganas": {
+        "sub_num": "337",
+        "name": "North 24 Parganas",
+        "bbox": {
+          "minLon": 88.33179923056349,
+          "minLat": 22.120154459384164,
+          "maxLon": 89.09870804582691,
+          "maxLat": 23.25608775797855
+        }
+      }
+    },
+    {
+      "Hooghly": {
+        "sub_num": "338",
+        "name": "Hooghly",
+        "bbox": {
+          "minLon": 87.50421725418629,
+          "minLat": 22.595159885669762,
+          "maxLon": 88.50766358603701,
+          "maxLat": 23.224746863042082
+        }
+      }
+    },
+    {
+      "Bankura": {
+        "sub_num": "339",
+        "name": "Bankura",
+        "bbox": {
+          "minLon": 86.60894847699542,
+          "minLat": 22.626420811116017,
+          "maxLon": 87.7642817756254,
+          "maxLat": 23.63813905609828
+        }
+      }
+    },
+    {
+      "Purulia": {
+        "sub_num": "340",
+        "name": "Purulia",
+        "bbox": {
+          "minLon": 85.81967347336501,
+          "minLat": 22.70499576797305,
+          "maxLon": 86.90633295175448,
+          "maxLat": 23.699203268616824
+        }
+      }
+    },
+    {
+      "Howrah": {
+        "sub_num": "341",
+        "name": "Howrah",
+        "bbox": {
+          "minLon": 87.84334885486983,
+          "minLat": 22.205770532196194,
+          "maxLon": 88.36611021216052,
+          "maxLat": 22.782244929851657
+        }
+      }
+    },
+    {
+      "Kolkata": {
+        "sub_num": "342",
+        "name": "Kolkata",
+        "bbox": {
+          "minLon": 88.23362800356517,
+          "minLat": 22.45202922204042,
+          "maxLon": 88.4610775860199,
+          "maxLat": 22.61882551814329
+        }
+      }
+    },
+    {
+      "South 24 Parganas": {
+        "sub_num": "343",
+        "name": "South 24 Parganas",
+        "bbox": {
+          "minLon": 88.00955288498311,
+          "minLat": 21.527081529657302,
+          "maxLon": 89.15123091004715,
+          "maxLat": 22.6250659638721
+        }
+      }
+    },
+    {
+      "Paschim Medinipur": {
+        "sub_num": "344",
+        "name": "Paschim Medinipur",
+        "bbox": {
+          "minLon": 87.05350946040762,
+          "minLat": 21.764990511848318,
+          "maxLon": 87.89063729881155,
+          "maxLat": 22.95519496037362
+        }
+      }
+    },
+    {
+      "Purba Medinipur": {
+        "sub_num": "345",
+        "name": "Purba Medinipur",
+        "bbox": {
+          "minLon": 87.42598888610856,
+          "minLat": 21.611261208128294,
+          "maxLon": 88.19053919705145,
+          "maxLat": 22.519393299084296
+        }
+      }
+    },
+    {
+      "Alipurduar": {
+        "sub_num": "774",
+        "name": "Alipurduar",
+        "bbox": {
+          "minLon": 89.04492226979316,
+          "minLat": 26.395334386140487,
+          "maxLon": 89.88260219031282,
+          "maxLat": 26.862178267396903
+        }
+      }
+    },
+    {
+      "Kalimpong": {
+        "sub_num": "775",
+        "name": "Kalimpong",
+        "bbox": {
+          "minLon": 88.39148126066131,
+          "minLat": 26.865499497919316,
+          "maxLon": 88.88117188008059,
+          "maxLat": 27.191263515614853
+        }
+      }
+    },
+    {
+      "Jhargram": {
+        "sub_num": "776",
+        "name": "Jhargram",
+        "bbox": {
+          "minLon": 86.55800631170537,
+          "minLat": 21.865872615793275,
+          "maxLon": 87.25833637739686,
+          "maxLat": 22.798771934242858
+        }
+      }
+    },
+    {
+      "Paschim Bardhaman": {
+        "sub_num": "777",
+        "name": "Paschim Bardhaman",
+        "bbox": {
+          "minLon": 86.79912844682046,
+          "minLat": 23.31812901477032,
+          "maxLon": 87.57824511886007,
+          "maxLat": 23.88243164720902
+        }
+      }
+    }
+  ]
+  

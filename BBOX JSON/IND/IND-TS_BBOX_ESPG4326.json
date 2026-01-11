@@ -1,0 +1,399 @@
+[
+    {
+      "Adilabad": {
+        "sub_num": "532",
+        "name": "Adilabad",
+        "bbox": {
+          "minLon": 78.17172945715467,
+          "minLat": 19.172402975237794,
+          "maxLon": 78.97756554444494,
+          "maxLat": 19.91680698568637
+        }
+      }
+    },
+    {
+      "Nizamabad": {
+        "sub_num": "533",
+        "name": "Nizamabad",
+        "bbox": {
+          "minLon": 77.7299742474464,
+          "minLat": 18.436148573813167,
+          "maxLon": 78.66988804559969,
+          "maxLat": 19.016340392418858
+        }
+      }
+    },
+    {
+      "Karimnagar": {
+        "sub_num": "534",
+        "name": "Karimnagar",
+        "bbox": {
+          "minLon": 78.92250762461147,
+          "minLat": 18.129987051147467,
+          "maxLon": 79.58047993456411,
+          "maxLat": 18.678314816886108
+        }
+      }
+    },
+    {
+      "Medak": {
+        "sub_num": "535",
+        "name": "Medak",
+        "bbox": {
+          "minLon": 77.85126359941685,
+          "minLat": 17.663378601886258,
+          "maxLon": 78.58788436919994,
+          "maxLat": 18.217514881894328
+        }
+      }
+    },
+    {
+      "Hyderabad": {
+        "sub_num": "536",
+        "name": "Hyderabad",
+        "bbox": {
+          "minLon": 78.36752954790856,
+          "minLat": 17.297519339181534,
+          "maxLon": 78.54898250961416,
+          "maxLat": 17.483021786122453
+        }
+      }
+    },
+    {
+      "Ranga Reddy": {
+        "sub_num": "537",
+        "name": "Ranga Reddy",
+        "bbox": {
+          "minLon": 77.9227439946585,
+          "minLat": 16.74607679461604,
+          "maxLon": 78.8442066493026,
+          "maxLat": 17.52247282094498
+        }
+      }
+    },
+    {
+      "Mahabubnagar": {
+        "sub_num": "538",
+        "name": "Mahabubnagar",
+        "bbox": {
+          "minLon": 77.67437243364098,
+          "minLat": 16.370889119080687,
+          "maxLon": 78.49371763141394,
+          "maxLat": 17.013442841244082
+        }
+      }
+    },
+    {
+      "Nalgonda": {
+        "sub_num": "539",
+        "name": "Nalgonda",
+        "bbox": {
+          "minLon": 78.66188433130267,
+          "minLat": 16.35617474772355,
+          "maxLon": 79.6998293387459,
+          "maxLat": 17.360161256206936
+        }
+      }
+    },
+    {
+      "Warangal": {
+        "sub_num": "540",
+        "name": "Warangal",
+        "bbox": {
+          "minLon": 79.48099674594111,
+          "minLat": 17.617801582870317,
+          "maxLon": 79.9944437271723,
+          "maxLat": 18.111971779601795
+        }
+      }
+    },
+    {
+      "Khammam": {
+        "sub_num": "541",
+        "name": "Khammam",
+        "bbox": {
+          "minLon": 79.80152520816937,
+          "minLat": 16.768009017805362,
+          "maxLon": 80.92645283142406,
+          "maxLat": 17.573089944296008
+        }
+      }
+    },
+    {
+      "Kumuram Bheem Asifabad": {
+        "sub_num": "733",
+        "name": "Kumuram Bheem Asifabad",
+        "bbox": {
+          "minLon": 78.80898478768555,
+          "minLat": 19.029473645919307,
+          "maxLon": 79.9797172943768,
+          "maxLat": 19.616688944269036
+        }
+      }
+    },
+    {
+      "Nirmal": {
+        "sub_num": "734",
+        "name": "Nirmal",
+        "bbox": {
+          "minLon": 77.76179020864743,
+          "minLat": 18.843289168390918,
+          "maxLon": 78.95436073204785,
+          "maxLat": 19.342740980650323
+        }
+      }
+    },
+    {
+      "Mancherial": {
+        "sub_num": "735",
+        "name": "Mancherial",
+        "bbox": {
+          "minLon": 78.87732741884373,
+          "minLat": 18.670454791672384,
+          "maxLon": 79.96167198725507,
+          "maxLat": 19.264906690925283
+        }
+      }
+    },
+    {
+      "Kamareddy": {
+        "sub_num": "736",
+        "name": "Kamareddy",
+        "bbox": {
+          "minLon": 77.52020634306955,
+          "minLat": 18.059867048340386,
+          "maxLon": 78.5694960367937,
+          "maxLat": 18.556788709638333
+        }
+      }
+    },
+    {
+      "Jagitial": {
+        "sub_num": "737",
+        "name": "Jagitial",
+        "bbox": {
+          "minLon": 78.51411698900907,
+          "minLat": 18.549990844810846,
+          "maxLon": 79.30744342960519,
+          "maxLat": 19.07770047296429
+        }
+      }
+    },
+    {
+      "Peddapalli": {
+        "sub_num": "738",
+        "name": "Peddapalli",
+        "bbox": {
+          "minLon": 79.11054184531116,
+          "minLat": 18.385223784310668,
+          "maxLon": 79.83242302467474,
+          "maxLat": 18.857061024210108
+        }
+      }
+    },
+    {
+      "Rajanna Sircilla": {
+        "sub_num": "739",
+        "name": "Rajanna Sircilla",
+        "bbox": {
+          "minLon": 78.52120571259536,
+          "minLat": 18.20654771300206,
+          "maxLon": 79.02473827280168,
+          "maxLat": 18.641839063088785
+        }
+      }
+    },
+    {
+      "Sangareddy": {
+        "sub_num": "740",
+        "name": "Sangareddy",
+        "bbox": {
+          "minLon": 77.44310028519206,
+          "minLat": 17.427414559303298,
+          "maxLon": 78.450030578362,
+          "maxLat": 18.286074302263753
+        }
+      }
+    },
+    {
+      "Siddipet": {
+        "sub_num": "741",
+        "name": "Siddipet",
+        "bbox": {
+          "minLon": 78.49915735536243,
+          "minLat": 17.667848598915263,
+          "maxLon": 79.30120960123378,
+          "maxLat": 18.424724891119087
+        }
+      }
+    },
+    {
+      "Medchal Malkajgiri": {
+        "sub_num": "742",
+        "name": "Medchal Malkajgiri",
+        "bbox": {
+          "minLon": 78.34763586366495,
+          "minLat": 17.360575094704892,
+          "maxLon": 78.76067345009612,
+          "maxLat": 17.707934881619877
+        }
+      }
+    },
+    {
+      "Vikarabad": {
+        "sub_num": "743",
+        "name": "Vikarabad",
+        "bbox": {
+          "minLon": 77.36244563760056,
+          "minLat": 16.846823677109892,
+          "maxLon": 78.07297049300868,
+          "maxLat": 17.638719831253088
+        }
+      }
+    },
+    {
+      "Jogulamba Gadwal": {
+        "sub_num": "744",
+        "name": "Jogulamba Gadwal",
+        "bbox": {
+          "minLon": 77.48615199128456,
+          "minLat": 15.836003294146044,
+          "maxLon": 78.2536238579917,
+          "maxLat": 16.363958777971543
+        }
+      }
+    },
+    {
+      "Wanaparthy": {
+        "sub_num": "745",
+        "name": "Wanaparthy",
+        "bbox": {
+          "minLon": 77.66467947607971,
+          "minLat": 15.943062073399167,
+          "maxLon": 78.31504220307465,
+          "maxLat": 16.626211540841286
+        }
+      }
+    },
+    {
+      "Nagarkurnool": {
+        "sub_num": "746",
+        "name": "Nagarkurnool",
+        "bbox": {
+          "minLon": 78.09989305237939,
+          "minLat": 16.00815184804386,
+          "maxLon": 79.23429589055365,
+          "maxLat": 16.832407942212658
+        }
+      }
+    },
+    {
+      "Yadadri Bhuvanagiri": {
+        "sub_num": "747",
+        "name": "Yadadri Bhuvanagiri",
+        "bbox": {
+          "minLon": 78.67651324209265,
+          "minLat": 17.04360093493392,
+          "maxLon": 79.45370016042546,
+          "maxLat": 17.812543317412654
+        }
+      }
+    },
+    {
+      "Suryapet": {
+        "sub_num": "748",
+        "name": "Suryapet",
+        "bbox": {
+          "minLon": 79.36297036164514,
+          "minLat": 16.63127783371965,
+          "maxLon": 80.07325398436524,
+          "maxLat": 17.528909034757802
+        }
+      }
+    },
+    {
+      "Hanumakonda": {
+        "sub_num": "749",
+        "name": "Hanumakonda",
+        "bbox": {
+          "minLon": 79.22865290929738,
+          "minLat": 17.786602569214235,
+          "maxLon": 79.84199694288442,
+          "maxLat": 18.285260987644115
+        }
+      }
+    },
+    {
+      "Jayashankar Bhupalapally": {
+        "sub_num": "750",
+        "name": "Jayashankar Bhupalapally",
+        "bbox": {
+          "minLon": 79.55977089265625,
+          "minLat": 18.132452622032833,
+          "maxLon": 80.34400385202291,
+          "maxLat": 18.87195701589558
+        }
+      }
+    },
+    {
+      "Mahabubabad": {
+        "sub_num": "751",
+        "name": "Mahabubabad",
+        "bbox": {
+          "minLon": 79.57728152431748,
+          "minLat": 17.32431164622321,
+          "maxLon": 80.31617838068874,
+          "maxLat": 18.11702708722463
+        }
+      }
+    },
+    {
+      "Jangoan": {
+        "sub_num": "752",
+        "name": "Jangoan",
+        "bbox": {
+          "minLon": 78.86591468518006,
+          "minLat": 17.450811680852407,
+          "maxLon": 79.60259567442648,
+          "maxLat": 18.0016331451474
+        }
+      }
+    },
+    {
+      "Bhadradri Kothagudem": {
+        "sub_num": "753",
+        "name": "Bhadradri Kothagudem",
+        "bbox": {
+          "minLon": 80.20189883081528,
+          "minLat": 17.190329893806023,
+          "maxLon": 81.32264131455234,
+          "maxLat": 18.23891978532643
+        }
+      }
+    },
+    {
+      "Mulugu": {
+        "sub_num": "780",
+        "name": "Mulugu",
+        "bbox": {
+          "minLon": 79.81449418412957,
+          "minLat": 17.995965456166893,
+          "maxLon": 80.79428445017156,
+          "maxLat": 18.631112458947815
+        }
+      }
+    },
+    {
+      "Narayanpet": {
+        "sub_num": "781",
+        "name": "Narayanpet",
+        "bbox": {
+          "minLon": 77.23576101930497,
+          "minLat": 16.34073547601196,
+          "maxLon": 77.79889796282923,
+          "maxLat": 17.040233494049833
+        }
+      }
+    }
+  ]
+  

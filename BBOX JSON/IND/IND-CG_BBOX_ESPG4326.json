@@ -1,0 +1,399 @@
+[
+    {
+      "Korea": {
+        "sub_num": "400",
+        "name": "Korea",
+        "bbox": {
+          "minLon": 82.24848545977395,
+          "minLat": 23.14091593684671,
+          "maxLon": 82.7721516478295,
+          "maxLat": 23.81187492821769
+        }
+      }
+    },
+    {
+      "Surguja": {
+        "sub_num": "401",
+        "name": "Surguja",
+        "bbox": {
+          "minLon": 82.75579759709655,
+          "minLat": 22.622868874901386,
+          "maxLon": 83.69056724038606,
+          "maxLat": 23.270154129104306
+        }
+      }
+    },
+    {
+      "Jashpur": {
+        "sub_num": "402",
+        "name": "Jashpur",
+        "bbox": {
+          "minLon": 83.37981474274628,
+          "minLat": 22.288953373037437,
+          "maxLon": 84.39555052175714,
+          "maxLat": 23.251649263855644
+        }
+      }
+    },
+    {
+      "Raigarh": {
+        "sub_num": "403",
+        "name": "Raigarh",
+        "bbox": {
+          "minLon": 82.93663384020677,
+          "minLat": 21.679809575390767,
+          "maxLon": 83.8036339182006,
+          "maxLat": 22.791195112237446
+        }
+      }
+    },
+    {
+      "Korba": {
+        "sub_num": "404",
+        "name": "Korba",
+        "bbox": {
+          "minLon": 82.13425333376095,
+          "minLat": 22.039390970116067,
+          "maxLon": 83.1232259801095,
+          "maxLat": 23.000416866369797
+        }
+      }
+    },
+    {
+      "Janjgir-Champa": {
+        "sub_num": "405",
+        "name": "Janjgir-Champa",
+        "bbox": {
+          "minLon": 82.3040752110017,
+          "minLat": 21.709495677325705,
+          "maxLon": 82.84236425969381,
+          "maxLat": 22.26343971019238
+        }
+      }
+    },
+    {
+      "Bilaspur": {
+        "sub_num": "406",
+        "name": "Bilaspur",
+        "bbox": {
+          "minLon": 81.73070439565606,
+          "minLat": 21.711457727584744,
+          "maxLon": 82.47291333329335,
+          "maxLat": 22.615835574022384
+        }
+      }
+    },
+    {
+      "Kabeerdham": {
+        "sub_num": "407",
+        "name": "Kabeerdham",
+        "bbox": {
+          "minLon": 80.82549438003419,
+          "minLat": 21.703643147819733,
+          "maxLon": 81.55606313776435,
+          "maxLat": 22.526144135812228
+        }
+      }
+    },
+    {
+      "Rajnandgaon": {
+        "sub_num": "408",
+        "name": "Rajnandgaon",
+        "bbox": {
+          "minLon": 80.4241715624248,
+          "minLat": 20.764644569058337,
+          "maxLon": 81.21663259033069,
+          "maxLat": 21.37184715598854
+        }
+      }
+    },
+    {
+      "Durg": {
+        "sub_num": "409",
+        "name": "Durg",
+        "bbox": {
+          "minLon": 81.14842257476298,
+          "minLat": 20.8490980809901,
+          "maxLon": 81.62542898326883,
+          "maxLat": 21.544526452293482
+        }
+      }
+    },
+    {
+      "Raipur": {
+        "sub_num": "410",
+        "name": "Raipur",
+        "bbox": {
+          "minLon": 81.53408970990759,
+          "minLat": 20.940294165091043,
+          "maxLon": 82.1934679569417,
+          "maxLat": 21.626139135592638
+        }
+      }
+    },
+    {
+      "Mahasamund": {
+        "sub_num": "411",
+        "name": "Mahasamund",
+        "bbox": {
+          "minLon": 81.98818325399209,
+          "minLat": 20.82750615923664,
+          "maxLon": 83.27935675358096,
+          "maxLat": 21.55652260863188
+        }
+      }
+    },
+    {
+      "Dhamtari": {
+        "sub_num": "412",
+        "name": "Dhamtari",
+        "bbox": {
+          "minLon": 81.41011753125625,
+          "minLat": 20.04380774829579,
+          "maxLon": 82.18022381443356,
+          "maxLat": 21.02690854504179
+        }
+      }
+    },
+    {
+      "Uttar Bastar Kanker": {
+        "sub_num": "413",
+        "name": "Uttar Bastar Kanker",
+        "bbox": {
+          "minLon": 80.40143473456143,
+          "minLat": 19.702067114071102,
+          "maxLon": 81.81423120604427,
+          "maxLat": 20.562796598615705
+        }
+      }
+    },
+    {
+      "Bastar": {
+        "sub_num": "414",
+        "name": "Bastar",
+        "bbox": {
+          "minLon": 81.34392887329983,
+          "minLat": 18.696371025595425,
+          "maxLon": 82.24605395925171,
+          "maxLat": 19.55236585281131
+        }
+      }
+    },
+    {
+      "Narayanpur": {
+        "sub_num": "415",
+        "name": "Narayanpur",
+        "bbox": {
+          "minLon": 80.66261736298357,
+          "minLat": 19.227826580194883,
+          "maxLon": 81.51673953532239,
+          "maxLat": 19.947327870744108
+        }
+      }
+    },
+    {
+      "Dakshin Bastar Dantewada": {
+        "sub_num": "416",
+        "name": "Dakshin Bastar Dantewada",
+        "bbox": {
+          "minLon": 81.14643734200253,
+          "minLat": 18.392629840111198,
+          "maxLon": 81.77744251907832,
+          "maxLat": 19.217548596204455
+        }
+      }
+    },
+    {
+      "Bijapur": {
+        "sub_num": "417",
+        "name": "Bijapur",
+        "bbox": {
+          "minLon": 80.24442751978306,
+          "minLat": 18.135554572018513,
+          "maxLon": 81.50211755503484,
+          "maxLat": 19.402483211149093
+        }
+      }
+    },
+    {
+      "Surajpur": {
+        "sub_num": "715",
+        "name": "Surajpur",
+        "bbox": {
+          "minLon": 82.49740356928503,
+          "minLat": 22.79547272139779,
+          "maxLon": 83.35845837574298,
+          "maxLat": 23.918939641207018
+        }
+      }
+    },
+    {
+      "Balrampur Ramanujganj": {
+        "sub_num": "716",
+        "name": "Balrampur Ramanujganj",
+        "bbox": {
+          "minLon": 82.69270996662003,
+          "minLat": 23.15061682169604,
+          "maxLon": 84.07484151702141,
+          "maxLat": 24.106277134279622
+        }
+      }
+    },
+    {
+      "Mungeli": {
+        "sub_num": "717",
+        "name": "Mungeli",
+        "bbox": {
+          "minLon": 81.46994083221232,
+          "minLat": 21.813905906399466,
+          "maxLon": 82.03700007538855,
+          "maxLat": 22.67407807813297
+        }
+      }
+    },
+    {
+      "Bemetara": {
+        "sub_num": "718",
+        "name": "Bemetara",
+        "bbox": {
+          "minLon": 81.13882065157429,
+          "minLat": 21.331911979348778,
+          "maxLon": 81.9371066297686,
+          "maxLat": 22.024491730295075
+        }
+      }
+    },
+    {
+      "Balod": {
+        "sub_num": "719",
+        "name": "Balod",
+        "bbox": {
+          "minLon": 80.80319176543986,
+          "minLat": 20.376983478145608,
+          "maxLon": 81.51703332933603,
+          "maxLat": 21.078572956796975
+        }
+      }
+    },
+    {
+      "Gariyaband": {
+        "sub_num": "720",
+        "name": "Gariyaband",
+        "bbox": {
+          "minLon": 81.87316185469574,
+          "minLat": 19.77529281499174,
+          "maxLon": 82.7245844575534,
+          "maxLat": 21.083335301128717
+        }
+      }
+    },
+    {
+      "Balodabazar-Bhatapara": {
+        "sub_num": "721",
+        "name": "Balodabazar-Bhatapara",
+        "bbox": {
+          "minLon": 81.65729883081052,
+          "minLat": 21.262292274694804,
+          "maxLon": 82.70290180357432,
+          "maxLat": 21.883836893585897
+        }
+      }
+    },
+    {
+      "Kondagaon": {
+        "sub_num": "722",
+        "name": "Kondagaon",
+        "bbox": {
+          "minLon": 81.29165287689945,
+          "minLat": 19.222656529158677,
+          "maxLon": 82.06625723491013,
+          "maxLat": 20.19551879669875
+        }
+      }
+    },
+    {
+      "Sukma": {
+        "sub_num": "723",
+        "name": "Sukma",
+        "bbox": {
+          "minLon": 80.9114891481721,
+          "minLat": 17.782307305686725,
+          "maxLon": 81.96914823070104,
+          "maxLat": 18.777330739423473
+        }
+      }
+    },
+    {
+      "Gaurela Pendra Marwahi": {
+        "sub_num": "791",
+        "name": "Gaurela Pendra Marwahi",
+        "bbox": {
+          "minLon": 81.72642243481883,
+          "minLat": 22.54416772934915,
+          "maxLon": 82.23988276860838,
+          "maxLat": 23.118324681256915
+        }
+      }
+    },
+    {
+      "Khairagarh Chhuikhadan Gandai": {
+        "sub_num": "821",
+        "name": "Khairagarh Chhuikhadan Gandai",
+        "bbox": {
+          "minLon": 80.67116393010511,
+          "minLat": 21.222906681779037,
+          "maxLon": 81.19541668121029,
+          "maxLat": 21.83547767811675
+        }
+      }
+    },
+    {
+      "Manendragarh Chirmiri Bharatpur Mcb": {
+        "sub_num": "822",
+        "name": "Manendragarh Chirmiri Bharatpur Mcb",
+        "bbox": {
+          "minLon": 81.5766845436264,
+          "minLat": 22.93792240691439,
+          "maxLon": 82.6077063941767,
+          "maxLat": 23.9253673343632
+        }
+      }
+    },
+    {
+      "Mohla Manpur Ambagarh Chouki": {
+        "sub_num": "823",
+        "name": "Mohla Manpur Ambagarh Chouki",
+        "bbox": {
+          "minLon": 80.38852391463443,
+          "minLat": 20.11796153913633,
+          "maxLon": 81.00663109074235,
+          "maxLat": 20.870852339769602
+        }
+      }
+    },
+    {
+      "Sakti": {
+        "sub_num": "824",
+        "name": "Sakti",
+        "bbox": {
+          "minLon": 82.74451334407807,
+          "minLat": 21.681439296246555,
+          "maxLon": 83.31714096791778,
+          "maxLat": 22.17226936760259
+        }
+      }
+    },
+    {
+      "Sarangarh Bilaigarh": {
+        "sub_num": "825",
+        "name": "Sarangarh Bilaigarh",
+        "bbox": {
+          "minLon": 82.61122249631849,
+          "minLat": 21.342635365677694,
+          "maxLon": 83.4920007625619,
+          "maxLat": 21.74344744735067
+        }
+      }
+    }
+  ]
+  

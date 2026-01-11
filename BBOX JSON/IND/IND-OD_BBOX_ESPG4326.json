@@ -1,0 +1,363 @@
+[
+    {
+      "Bargarh": {
+        "sub_num": "370",
+        "name": "Bargarh",
+        "bbox": {
+          "minLon": 82.6356394261897,
+          "minLat": 20.722286232359263,
+          "maxLon": 83.91269987703207,
+          "maxLat": 21.74438874220722
+        }
+      }
+    },
+    {
+      "Jharsuguda": {
+        "sub_num": "371",
+        "name": "Jharsuguda",
+        "bbox": {
+          "minLon": 83.41869341232298,
+          "minLat": 21.564344437159033,
+          "maxLon": 84.39087104472857,
+          "maxLat": 22.039534758320645
+        }
+      }
+    },
+    {
+      "Sambalpur": {
+        "sub_num": "372",
+        "name": "Sambalpur",
+        "bbox": {
+          "minLon": 83.79827995820892,
+          "minLat": 20.922323282360217,
+          "maxLon": 84.768372820029,
+          "maxLat": 22.189997295048634
+        }
+      }
+    },
+    {
+      "Deogarh": {
+        "sub_num": "373",
+        "name": "Deogarh",
+        "bbox": {
+          "minLon": 84.39210971909743,
+          "minLat": 21.130907845180186,
+          "maxLon": 85.21286055660953,
+          "maxLat": 21.764284928105834
+        }
+      }
+    },
+    {
+      "Sundargarh": {
+        "sub_num": "374",
+        "name": "Sundargarh",
+        "bbox": {
+          "minLon": 83.53644328708968,
+          "minLat": 21.589553277063942,
+          "maxLon": 85.37657201872754,
+          "maxLat": 22.531041656896186
+        }
+      }
+    },
+    {
+      "Kendujhar": {
+        "sub_num": "375",
+        "name": "Kendujhar",
+        "bbox": {
+          "minLon": 85.18421757434939,
+          "minLat": 21.01576431612581,
+          "maxLon": 86.37225237092962,
+          "maxLat": 22.163202256106665
+        }
+      }
+    },
+    {
+      "Mayurbhanj": {
+        "sub_num": "376",
+        "name": "Mayurbhanj",
+        "bbox": {
+          "minLon": 85.66215176467732,
+          "minLat": 21.26478458611789,
+          "maxLon": 87.18374071907301,
+          "maxLat": 22.56750735413042
+        }
+      }
+    },
+    {
+      "Baleshwar": {
+        "sub_num": "377",
+        "name": "Baleshwar",
+        "bbox": {
+          "minLon": 86.35289765339859,
+          "minLat": 21.062370837948894,
+          "maxLon": 87.48613506313731,
+          "maxLat": 21.979937904618993
+        }
+      }
+    },
+    {
+      "Bhadrak": {
+        "sub_num": "378",
+        "name": "Bhadrak",
+        "bbox": {
+          "minLon": 86.27060947156517,
+          "minLat": 20.727459024113966,
+          "maxLon": 87.10201684542638,
+          "maxLat": 21.23751792641148
+        }
+      }
+    },
+    {
+      "Kendrapara": {
+        "sub_num": "379",
+        "name": "Kendrapara",
+        "bbox": {
+          "minLon": 86.24566702635441,
+          "minLat": 20.29684406921414,
+          "maxLon": 87.05824806634482,
+          "maxLat": 20.798758211876716
+        }
+      }
+    },
+    {
+      "Jagatsinghapur": {
+        "sub_num": "380",
+        "name": "Jagatsinghapur",
+        "bbox": {
+          "minLon": 86.0108844468281,
+          "minLat": 19.966833493361147,
+          "maxLon": 86.77971655780979,
+          "maxLat": 20.402439284383433
+        }
+      }
+    },
+    {
+      "Cuttack": {
+        "sub_num": "381",
+        "name": "Cuttack",
+        "bbox": {
+          "minLon": 84.84851660110833,
+          "minLat": 20.039084496647877,
+          "maxLon": 86.28002814023253,
+          "maxLat": 20.70280607925926
+        }
+      }
+    },
+    {
+      "Jajapur": {
+        "sub_num": "382",
+        "name": "Jajapur",
+        "bbox": {
+          "minLon": 85.68123548563992,
+          "minLat": 20.579182457408944,
+          "maxLon": 86.62463558702044,
+          "maxLat": 21.170350094675317
+        }
+      }
+    },
+    {
+      "Dhenkanal": {
+        "sub_num": "383",
+        "name": "Dhenkanal",
+        "bbox": {
+          "minLon": 85.11313386166249,
+          "minLat": 20.48447169384984,
+          "maxLon": 86.03184741641567,
+          "maxLat": 21.186447771246687
+        }
+      }
+    },
+    {
+      "Anugul": {
+        "sub_num": "384",
+        "name": "Anugul",
+        "bbox": {
+          "minLon": 84.26173134872785,
+          "minLat": 20.52803120738185,
+          "maxLon": 85.39327757663793,
+          "maxLat": 21.680155085852117
+        }
+      }
+    },
+    {
+      "Nayagarh": {
+        "sub_num": "385",
+        "name": "Nayagarh",
+        "bbox": {
+          "minLon": 84.48321762327238,
+          "minLat": 19.89740921635539,
+          "maxLon": 85.45503604005712,
+          "maxLat": 20.581270224385527
+        }
+      }
+    },
+    {
+      "Khordha": {
+        "sub_num": "386",
+        "name": "Khordha",
+        "bbox": {
+          "minLon": 84.93573445604834,
+          "minLat": 19.672234161131886,
+          "maxLon": 86.07917084704276,
+          "maxLat": 20.43567100581324
+        }
+      }
+    },
+    {
+      "Puri": {
+        "sub_num": "387",
+        "name": "Puri",
+        "bbox": {
+          "minLon": 85.1354376386768,
+          "minLat": 19.46682901198051,
+          "maxLon": 86.4117013153032,
+          "maxLat": 20.20359136865609
+        }
+      }
+    },
+    {
+      "Ganjam": {
+        "sub_num": "388",
+        "name": "Ganjam",
+        "bbox": {
+          "minLon": 84.13016266389438,
+          "minLat": 18.93932366711517,
+          "maxLon": 85.18274907679489,
+          "maxLat": 20.28113665385244
+        }
+      }
+    },
+    {
+      "Gajapati": {
+        "sub_num": "389",
+        "name": "Gajapati",
+        "bbox": {
+          "minLon": 83.79348061358209,
+          "minLat": 18.75678040436325,
+          "maxLon": 84.43946573431485,
+          "maxLat": 19.63762051924077
+        }
+      }
+    },
+    {
+      "Kandhamal": {
+        "sub_num": "390",
+        "name": "Kandhamal",
+        "bbox": {
+          "minLon": 83.49516374235537,
+          "minLat": 19.573281791802494,
+          "maxLon": 84.58758877173173,
+          "maxLat": 20.689699265781435
+        }
+      }
+    },
+    {
+      "Boudh": {
+        "sub_num": "391",
+        "name": "Boudh",
+        "bbox": {
+          "minLon": 83.5694634408274,
+          "minLat": 20.384269103636,
+          "maxLon": 84.7912988941766,
+          "maxLat": 20.896097610947074
+        }
+      }
+    },
+    {
+      "Sonepur": {
+        "sub_num": "392",
+        "name": "Sonepur",
+        "bbox": {
+          "minLon": 83.44547848723441,
+          "minLat": 20.527720957388237,
+          "maxLon": 84.27893120282666,
+          "maxLat": 21.177894864844042
+        }
+      }
+    },
+    {
+      "Balangir": {
+        "sub_num": "393",
+        "name": "Balangir",
+        "bbox": {
+          "minLon": 82.68330499815907,
+          "minLat": 20.14735787769561,
+          "maxLon": 83.67724090382606,
+          "maxLat": 21.07115427834276
+        }
+      }
+    },
+    {
+      "Nuapada": {
+        "sub_num": "394",
+        "name": "Nuapada",
+        "bbox": {
+          "minLon": 82.33221011871358,
+          "minLat": 19.990136192642087,
+          "maxLon": 82.86087053460864,
+          "maxLat": 21.090859437196876
+        }
+      }
+    },
+    {
+      "Kalahandi": {
+        "sub_num": "395",
+        "name": "Kalahandi",
+        "bbox": {
+          "minLon": 82.52451472455976,
+          "minLat": 19.19833617774095,
+          "maxLon": 83.79078873817137,
+          "maxLat": 20.454243098111448
+        }
+      }
+    },
+    {
+      "Rayagada": {
+        "sub_num": "396",
+        "name": "Rayagada",
+        "bbox": {
+          "minLon": 82.86976080793767,
+          "minLat": 18.911363387622675,
+          "maxLon": 84.03377627078802,
+          "maxLat": 19.97375456106077
+        }
+      }
+    },
+    {
+      "Nabarangpur": {
+        "sub_num": "397",
+        "name": "Nabarangpur",
+        "bbox": {
+          "minLon": 81.8448822876804,
+          "minLat": 19.114238132621104,
+          "maxLon": 82.85642307894321,
+          "maxLat": 20.105169526732357
+        }
+      }
+    },
+    {
+      "Koraput": {
+        "sub_num": "398",
+        "name": "Koraput",
+        "bbox": {
+          "minLon": 82.08874066240487,
+          "minLat": 18.2366521918919,
+          "maxLon": 83.4148476967439,
+          "maxLat": 19.211297890576
+        }
+      }
+    },
+    {
+      "Malkangiri": {
+        "sub_num": "399",
+        "name": "Malkangiri",
+        "bbox": {
+          "minLon": 81.38837841366997,
+          "minLat": 17.81244989476422,
+          "maxLon": 82.43043995359763,
+          "maxLat": 18.738477509398518
+        }
+      }
+    }
+  ]
+  

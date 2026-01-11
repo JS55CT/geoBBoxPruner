@@ -1,0 +1,423 @@
+[
+    {
+      "Kokrajhar": {
+        "sub_num": "300",
+        "name": "Kokrajhar",
+        "bbox": {
+          "minLon": 89.82995352242693,
+          "minLat": 26.119847489970397,
+          "maxLon": 90.44557581113527,
+          "maxLat": 26.869427091101336
+        }
+      }
+    },
+    {
+      "Dhubri": {
+        "sub_num": "301",
+        "name": "Dhubri",
+        "bbox": {
+          "minLon": 89.69860048177071,
+          "minLat": 25.878997419313947,
+          "maxLon": 90.48373960320549,
+          "maxLat": 26.3841797563208
+        }
+      }
+    },
+    {
+      "Goalpara": {
+        "sub_num": "302",
+        "name": "Goalpara",
+        "bbox": {
+          "minLon": 90.1158723311925,
+          "minLat": 25.884172928943418,
+          "maxLon": 91.10011389229943,
+          "maxLat": 26.211511433107688
+        }
+      }
+    },
+    {
+      "Barpeta": {
+        "sub_num": "303",
+        "name": "Barpeta",
+        "bbox": {
+          "minLon": 90.65339585176915,
+          "minLat": 26.08965658719605,
+          "maxLon": 91.28266502827019,
+          "maxLat": 26.627007672885515
+        }
+      }
+    },
+    {
+      "Marigaon": {
+        "sub_num": "304",
+        "name": "Marigaon",
+        "bbox": {
+          "minLon": 91.95285715696531,
+          "minLat": 26.06176552038978,
+          "maxLon": 92.56817306177125,
+          "maxLat": 26.516914926255293
+        }
+      }
+    },
+    {
+      "Nagaon": {
+        "sub_num": "305",
+        "name": "Nagaon",
+        "bbox": {
+          "minLon": 92.39532925371134,
+          "minLat": 25.961658181189353,
+          "maxLon": 93.31791719557249,
+          "maxLat": 26.70041170932774
+        }
+      }
+    },
+    {
+      "Sonitpur": {
+        "sub_num": "306",
+        "name": "Sonitpur",
+        "bbox": {
+          "minLon": 92.31314562859048,
+          "minLat": 26.49572027360276,
+          "maxLon": 92.98303595568946,
+          "maxLat": 27.031660505185847
+        }
+      }
+    },
+    {
+      "Lakhimpur": {
+        "sub_num": "307",
+        "name": "Lakhimpur",
+        "bbox": {
+          "minLon": 93.6977834283289,
+          "minLat": 26.821491924804146,
+          "maxLon": 94.62897137269795,
+          "maxLat": 27.52081224423715
+        }
+      }
+    },
+    {
+      "Dhemaji": {
+        "sub_num": "308",
+        "name": "Dhemaji",
+        "bbox": {
+          "minLon": 94.20917445962382,
+          "minLat": 27.308456897355104,
+          "maxLon": 95.51541420940885,
+          "maxLat": 27.879455586300864
+        }
+      }
+    },
+    {
+      "Tinsukia": {
+        "sub_num": "309",
+        "name": "Tinsukia",
+        "bbox": {
+          "minLon": 95.21714790255285,
+          "minLat": 27.222907422381777,
+          "maxLon": 96.01787644941203,
+          "maxLat": 27.971475095719736
+        }
+      }
+    },
+    {
+      "Dibrugarh": {
+        "sub_num": "310",
+        "name": "Dibrugarh",
+        "bbox": {
+          "minLon": 94.56794305455179,
+          "minLat": 27.091166075335277,
+          "maxLon": 95.48472512184965,
+          "maxLat": 27.704891265770677
+        }
+      }
+    },
+    {
+      "Sivasagar": {
+        "sub_num": "311",
+        "name": "Sivasagar",
+        "bbox": {
+          "minLon": 94.39528286932247,
+          "minLat": 26.7119599456002,
+          "maxLon": 94.9419178095865,
+          "maxLat": 27.27549753307185
+        }
+      }
+    },
+    {
+      "Jorhat": {
+        "sub_num": "312",
+        "name": "Jorhat",
+        "bbox": {
+          "minLon": 93.9712429265989,
+          "minLat": 26.347568194731593,
+          "maxLon": 94.60334711337308,
+          "maxLat": 26.952614119577714
+        }
+      }
+    },
+    {
+      "Golaghat": {
+        "sub_num": "313",
+        "name": "Golaghat",
+        "bbox": {
+          "minLon": 93.28684059366435,
+          "minLat": 25.808927800991555,
+          "maxLon": 94.1778539390649,
+          "maxLat": 26.816152654830958
+        }
+      }
+    },
+    {
+      "Karbi Anglong": {
+        "sub_num": "314",
+        "name": "Karbi Anglong",
+        "bbox": {
+          "minLon": 92.7932661745895,
+          "minLat": 25.530321423011983,
+          "maxLon": 93.89491374255888,
+          "maxLat": 26.612480028802892
+        }
+      }
+    },
+    {
+      "Dima Hasao": {
+        "sub_num": "315",
+        "name": "Dima Hasao",
+        "bbox": {
+          "minLon": 92.52063944692722,
+          "minLat": 24.97032806073014,
+          "maxLon": 93.47370422241227,
+          "maxLat": 25.82675708364476
+        }
+      }
+    },
+    {
+      "Cachar": {
+        "sub_num": "316",
+        "name": "Cachar",
+        "bbox": {
+          "minLon": 92.41634675193495,
+          "minLat": 24.373592716166627,
+          "maxLon": 93.26300557626453,
+          "maxLat": 25.14334462761288
+        }
+      }
+    },
+    {
+      "Karimganj": {
+        "sub_num": "317",
+        "name": "Karimganj",
+        "bbox": {
+          "minLon": 92.21287240401446,
+          "minLat": 24.24992683937439,
+          "maxLon": 92.58632869728123,
+          "maxLat": 24.916012690854917
+        }
+      }
+    },
+    {
+      "Hailakandi": {
+        "sub_num": "318",
+        "name": "Hailakandi",
+        "bbox": {
+          "minLon": 92.41857354437022,
+          "minLat": 24.13613519737949,
+          "maxLon": 92.78059751620856,
+          "maxLat": 24.879441594792805
+        }
+      }
+    },
+    {
+      "Bongaigaon": {
+        "sub_num": "319",
+        "name": "Bongaigaon",
+        "bbox": {
+          "minLon": 90.36850024477347,
+          "minLat": 26.165723097838754,
+          "maxLon": 90.86203638304082,
+          "maxLat": 26.53213574696044
+        }
+      }
+    },
+    {
+      "Chirang": {
+        "sub_num": "320",
+        "name": "Chirang",
+        "bbox": {
+          "minLon": 90.3375092532102,
+          "minLat": 26.38581849599133,
+          "maxLon": 90.95692437637179,
+          "maxLat": 26.90453189872417
+        }
+      }
+    },
+    {
+      "Kamrup": {
+        "sub_num": "321",
+        "name": "Kamrup",
+        "bbox": {
+          "minLon": 90.93588294882565,
+          "minLat": 25.72256326223058,
+          "maxLon": 91.8229548344075,
+          "maxLat": 26.55653590506192
+        }
+      }
+    },
+    {
+      "Kamrup Metro": {
+        "sub_num": "322",
+        "name": "Kamrup Metro",
+        "bbox": {
+          "minLon": 91.56081717556577,
+          "minLat": 25.997755332933714,
+          "maxLon": 92.17613322320385,
+          "maxLat": 26.25430775531693
+        }
+      }
+    },
+    {
+      "Nalbari": {
+        "sub_num": "323",
+        "name": "Nalbari",
+        "bbox": {
+          "minLon": 91.21528863042153,
+          "minLat": 26.136046910171736,
+          "maxLon": 91.58855367236428,
+          "maxLat": 26.577138007342114
+        }
+      }
+    },
+    {
+      "Baksa": {
+        "sub_num": "324",
+        "name": "Baksa",
+        "bbox": {
+          "minLon": 90.8696039419112,
+          "minLat": 26.426415680307155,
+          "maxLon": 91.52809385663895,
+          "maxLat": 26.838393888249765
+        }
+      }
+    },
+    {
+      "Darrang": {
+        "sub_num": "325",
+        "name": "Darrang",
+        "bbox": {
+          "minLon": 91.74500695180252,
+          "minLat": 26.198479117849036,
+          "maxLon": 92.38184488911982,
+          "maxLat": 26.659644530302707
+        }
+      }
+    },
+    {
+      "Udalguri": {
+        "sub_num": "326",
+        "name": "Udalguri",
+        "bbox": {
+          "minLon": 91.70486016108191,
+          "minLat": 26.473759682833688,
+          "maxLon": 92.4074021179548,
+          "maxLat": 26.925145601018087
+        }
+      }
+    },
+    {
+      "Charaideo": {
+        "sub_num": "755",
+        "name": "Charaideo",
+        "bbox": {
+          "minLon": 94.79045904904194,
+          "minLat": 26.91299824565089,
+          "maxLon": 95.37211518705145,
+          "maxLat": 27.22715745775161
+        }
+      }
+    },
+    {
+      "Biswanath": {
+        "sub_num": "756",
+        "name": "Biswanath",
+        "bbox": {
+          "minLon": 92.9037024954206,
+          "minLat": 26.576791386989623,
+          "maxLon": 93.78948342288743,
+          "maxLat": 26.994203072624636
+        }
+      }
+    },
+    {
+      "Hojai": {
+        "sub_num": "757",
+        "name": "Hojai",
+        "bbox": {
+          "minLon": 92.70240357696241,
+          "minLat": 25.718372469653154,
+          "maxLon": 93.24786411372288,
+          "maxLat": 26.2079785482976
+        }
+      }
+    },
+    {
+      "South Salmara Mancachar": {
+        "sub_num": "758",
+        "name": "South Salmara Mancachar",
+        "bbox": {
+          "minLon": 89.81654470165925,
+          "minLat": 25.46588150838633,
+          "maxLon": 90.19732244595129,
+          "maxLat": 26.054671052941977
+        }
+      }
+    },
+    {
+      "West Karbi Anglong": {
+        "sub_num": "759",
+        "name": "West Karbi Anglong",
+        "bbox": {
+          "minLon": 92.14424688259354,
+          "minLat": 25.550358537338145,
+          "maxLon": 93.07540994183262,
+          "maxLat": 26.15539841080417
+        }
+      }
+    },
+    {
+      "Majuli": {
+        "sub_num": "760",
+        "name": "Majuli",
+        "bbox": {
+          "minLon": 93.73906548565105,
+          "minLat": 26.7636629951245,
+          "maxLon": 94.59303549056723,
+          "maxLat": 27.18386445263169
+        }
+      }
+    },
+    {
+      "Bajali": {
+        "sub_num": "799",
+        "name": "Bajali",
+        "bbox": {
+          "minLon": 90.99071429557814,
+          "minLat": 26.38179504911961,
+          "maxLon": 91.29845296969424,
+          "maxLat": 26.632045451197857
+        }
+      }
+    },
+    {
+      "Tamulpur": {
+        "sub_num": "816",
+        "name": "Tamulpur",
+        "bbox": {
+          "minLon": 91.40680679357583,
+          "minLat": 26.446315455835585,
+          "maxLon": 91.78724885990407,
+          "maxLat": 26.83960256113498
+        }
+      }
+    }
+  ]
+  

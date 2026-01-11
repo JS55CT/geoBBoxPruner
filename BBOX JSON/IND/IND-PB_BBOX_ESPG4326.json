@@ -1,0 +1,279 @@
+[
+    {
+      "Gurdaspur": {
+        "sub_num": "035",
+        "name": "Gurdaspur",
+        "bbox": {
+          "minLon": 74.88869213641546,
+          "minLat": 31.593547484465848,
+          "maxLon": 75.60075910272242,
+          "maxLat": 32.213897130289
+        }
+      }
+    },
+    {
+      "Kapurthala": {
+        "sub_num": "036",
+        "name": "Kapurthala",
+        "bbox": {
+          "minLon": 74.95985482179562,
+          "minLat": 31.119738003320656,
+          "maxLon": 75.91025295464794,
+          "maxLat": 31.651567344375803
+        }
+      }
+    },
+    {
+      "Jalandhar": {
+        "sub_num": "037",
+        "name": "Jalandhar",
+        "bbox": {
+          "minLon": 75.07614195720873,
+          "minLat": 30.96609393630402,
+          "maxLon": 75.9580916229894,
+          "maxLat": 31.61813109482067
+        }
+      }
+    },
+    {
+      "Hoshiarpur": {
+        "sub_num": "038",
+        "name": "Hoshiarpur",
+        "bbox": {
+          "minLon": 75.47139028062867,
+          "minLat": 31.132740619186574,
+          "maxLon": 76.34936009259536,
+          "maxLat": 32.08574088878405
+        }
+      }
+    },
+    {
+      "Shahid Bhagat Singh Nagar": {
+        "sub_num": "039",
+        "name": "Shahid Bhagat Singh Nagar",
+        "bbox": {
+          "minLon": 75.78795836182339,
+          "minLat": 30.96904296298933,
+          "maxLon": 76.51865654971803,
+          "maxLat": 31.28458262328883
+        }
+      }
+    },
+    {
+      "Fatehgarh Sahib": {
+        "sub_num": "040",
+        "name": "Fatehgarh Sahib",
+        "bbox": {
+          "minLon": 76.07579695299611,
+          "minLat": 30.44826436298573,
+          "maxLon": 76.6338883623017,
+          "maxLat": 30.878785543239825
+        }
+      }
+    },
+    {
+      "Ludhiana": {
+        "sub_num": "041",
+        "name": "Ludhiana",
+        "bbox": {
+          "minLon": 75.35616286799323,
+          "minLat": 30.560445667617834,
+          "maxLon": 76.3237120890009,
+          "maxLat": 31.01827248634716
+        }
+      }
+    },
+    {
+      "Moga": {
+        "sub_num": "042",
+        "name": "Moga",
+        "bbox": {
+          "minLon": 74.90179079586504,
+          "minLat": 30.486364694231025,
+          "maxLon": 75.41961621519836,
+          "maxLat": 31.089508323226994
+        }
+      }
+    },
+    {
+      "Ferozepur": {
+        "sub_num": "043",
+        "name": "Ferozepur",
+        "bbox": {
+          "minLon": 74.2131887293828,
+          "minLat": 30.58803395465263,
+          "maxLon": 75.15006485284329,
+          "maxLat": 31.16229420723628
+        }
+      }
+    },
+    {
+      "Sri Muktsar Sahib": {
+        "sub_num": "044",
+        "name": "Sri Muktsar Sahib",
+        "bbox": {
+          "minLon": 74.24428594044016,
+          "minLat": 29.904539625192257,
+          "maxLon": 74.82169887542535,
+          "maxLat": 30.669251449131785
+        }
+      }
+    },
+    {
+      "Faridkot": {
+        "sub_num": "045",
+        "name": "Faridkot",
+        "bbox": {
+          "minLon": 74.46883143037974,
+          "minLat": 30.36627376185824,
+          "maxLon": 75.05409295768038,
+          "maxLat": 30.836432661002686
+        }
+      }
+    },
+    {
+      "Bathinda": {
+        "sub_num": "046",
+        "name": "Bathinda",
+        "bbox": {
+          "minLon": 74.62974009940396,
+          "minLat": 29.775523391382738,
+          "maxLon": 75.37707362929311,
+          "maxLat": 30.582384600209554
+        }
+      }
+    },
+    {
+      "Mansa": {
+        "sub_num": "047",
+        "name": "Mansa",
+        "bbox": {
+          "minLon": 75.16756580605568,
+          "minLat": 29.542070143897313,
+          "maxLon": 75.77575621743411,
+          "maxLat": 30.20980275734964
+        }
+      }
+    },
+    {
+      "Patiala": {
+        "sub_num": "048",
+        "name": "Patiala",
+        "bbox": {
+          "minLon": 75.92929393556598,
+          "minLat": 29.79091164429889,
+          "maxLon": 76.78803710460836,
+          "maxLat": 30.62785653965971
+        }
+      }
+    },
+    {
+      "Amritsar": {
+        "sub_num": "049",
+        "name": "Amritsar",
+        "bbox": {
+          "minLon": 74.4865964730143,
+          "minLat": 31.481692780888963,
+          "maxLon": 75.40427130580444,
+          "maxLat": 32.055206056071604
+        }
+      }
+    },
+    {
+      "Tarn Taran": {
+        "sub_num": "050",
+        "name": "Tarn Taran",
+        "bbox": {
+          "minLon": 74.5100325441049,
+          "minLat": 31.071985950031838,
+          "maxLon": 75.27988167105741,
+          "maxLat": 31.570815692716266
+        }
+      }
+    },
+    {
+      "Rupnagar": {
+        "sub_num": "051",
+        "name": "Rupnagar",
+        "bbox": {
+          "minLon": 76.28659960069757,
+          "minLat": 30.745515989102824,
+          "maxLon": 76.73771668219102,
+          "maxLat": 31.43819190495633
+        }
+      }
+    },
+    {
+      "S.A.S Nagar": {
+        "sub_num": "052",
+        "name": "S.A.S Nagar",
+        "bbox": {
+          "minLon": 76.52153037888957,
+          "minLat": 30.358818674943965,
+          "maxLon": 76.94146149757219,
+          "maxLat": 30.9383700119549
+        }
+      }
+    },
+    {
+      "Sangrur": {
+        "sub_num": "053",
+        "name": "Sangrur",
+        "bbox": {
+          "minLon": 75.55534451122566,
+          "minLat": 29.727107841358084,
+          "maxLon": 76.20349035240625,
+          "maxLat": 30.545166060678632
+        }
+      }
+    },
+    {
+      "Barnala": {
+        "sub_num": "054",
+        "name": "Barnala",
+        "bbox": {
+          "minLon": 75.25365054855413,
+          "minLat": 30.137619657664725,
+          "maxLon": 75.73114628466662,
+          "maxLat": 30.60578692906753
+        }
+      }
+    },
+    {
+      "Fazilka": {
+        "sub_num": "701",
+        "name": "Fazilka",
+        "bbox": {
+          "minLon": 73.87977595920648,
+          "minLat": 29.94717619328905,
+          "maxLon": 74.46291376317426,
+          "maxLat": 30.692439947120555
+        }
+      }
+    },
+    {
+      "Pathankot": {
+        "sub_num": "773",
+        "name": "Pathankot",
+        "bbox": {
+          "minLon": 75.32049648763429,
+          "minLat": 32.09305753879083,
+          "maxLon": 75.93798921429124,
+          "maxLat": 32.511562574200106
+        }
+      }
+    },
+    {
+      "Malerkotla": {
+        "sub_num": "797",
+        "name": "Malerkotla",
+        "bbox": {
+          "minLon": 75.65217814496927,
+          "minLat": 30.37826954077551,
+          "maxLon": 76.08903189585742,
+          "maxLat": 30.692320418289345
+        }
+      }
+    }
+  ]
+  

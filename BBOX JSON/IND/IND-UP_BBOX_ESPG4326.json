@@ -1,0 +1,902 @@
+[
+  {
+    "Saharanpur": {
+      "sub_num": "132",
+      "name": "Saharanpur",
+      "bbox": {
+        "minLon": 77.11977682275509,
+        "minLat": 29.56464852118464,
+        "maxLon": 77.96169728189598,
+        "maxLat": 30.406275764279105
+      }
+    }
+  },
+  {
+    "Muzaffarnagar": {
+      "sub_num": "133",
+      "name": "Muzaffarnagar",
+      "bbox": {
+        "minLon": 77.31609835588701,
+        "minLat": 29.184941384885335,
+        "maxLon": 78.11483938736662,
+        "maxLat": 29.71448416522896
+      }
+    }
+  },
+  {
+    "Bijnor": {
+      "sub_num": "134",
+      "name": "Bijnor",
+      "bbox": {
+        "minLon": 77.98595401789751,
+        "minLat": 29.017402519361376,
+        "maxLon": 78.94311786621114,
+        "maxLat": 29.79660563716898
+      }
+    }
+  },
+  {
+    "Moradabad": {
+      "sub_num": "135",
+      "name": "Moradabad",
+      "bbox": {
+        "minLon": 78.52639685743334,
+        "minLat": 28.49109337737403,
+        "maxLon": 79.00107961984493,
+        "maxLat": 29.268160950340892
+      }
+    }
+  },
+  {
+    "Rampur": {
+      "sub_num": "136",
+      "name": "Rampur",
+      "bbox": {
+        "minLon": 78.8585028627389,
+        "minLat": 28.41728567398903,
+        "maxLon": 79.4279452186846,
+        "maxLat": 29.16939207733821
+      }
+    }
+  },
+  {
+    "Amroha": {
+      "sub_num": "137",
+      "name": "Amroha",
+      "bbox": {
+        "minLon": 78.04956229035315,
+        "minLat": 28.43319426035346,
+        "maxLon": 78.67022548336314,
+        "maxLat": 29.082977624736124
+      }
+    }
+  },
+  {
+    "Meerut": {
+      "sub_num": "138",
+      "name": "Meerut",
+      "bbox": {
+        "minLon": 77.42261099096564,
+        "minLat": 28.761175297178646,
+        "maxLon": 78.12385826261338,
+        "maxLat": 29.266483834368813
+      }
+    }
+  },
+  {
+    "Baghpat": {
+      "sub_num": "139",
+      "name": "Baghpat",
+      "bbox": {
+        "minLon": 77.13141416668087,
+        "minLat": 28.776643016772898,
+        "maxLon": 77.50450218661373,
+        "maxLat": 29.298147907944013
+      }
+    }
+  },
+  {
+    "Ghaziabad": {
+      "sub_num": "140",
+      "name": "Ghaziabad",
+      "bbox": {
+        "minLon": 77.19912951325927,
+        "minLat": 28.607695086945636,
+        "maxLon": 77.70952781004553,
+        "maxLat": 28.927779830610522
+      }
+    }
+  },
+  {
+    "Gautam Buddha Nagar": {
+      "sub_num": "141",
+      "name": "Gautam Buddha Nagar",
+      "bbox": {
+        "minLon": 77.29709446011884,
+        "minLat": 28.085117499606227,
+        "maxLon": 77.73791864778184,
+        "maxLat": 28.654442733022353
+      }
+    }
+  },
+  {
+    "Bulandshahr": {
+      "sub_num": "142",
+      "name": "Bulandshahr",
+      "bbox": {
+        "minLon": 77.62159044858043,
+        "minLat": 28.059198041654184,
+        "maxLon": 78.47747707563062,
+        "maxLat": 28.71535553629437
+      }
+    }
+  },
+  {
+    "Aligarh": {
+      "sub_num": "143",
+      "name": "Aligarh",
+      "bbox": {
+        "minLon": 77.47560625493927,
+        "minLat": 27.571218846793553,
+        "maxLon": 78.60772053072263,
+        "maxLat": 28.179720505690362
+      }
+    }
+  },
+  {
+    "Hathras": {
+      "sub_num": "144",
+      "name": "Hathras",
+      "bbox": {
+        "minLon": 77.87383998008559,
+        "minLat": 27.296951513155015,
+        "maxLon": 78.52728231782577,
+        "maxLat": 27.847936615695083
+      }
+    }
+  },
+  {
+    "Mathura": {
+      "sub_num": "145",
+      "name": "Mathura",
+      "bbox": {
+        "minLon": 77.28290365320137,
+        "minLat": 27.2331399883288,
+        "maxLon": 77.98956422575185,
+        "maxLat": 27.967659202244135
+      }
+    }
+  },
+  {
+    "Agra": {
+      "sub_num": "146",
+      "name": "Agra",
+      "bbox": {
+        "minLon": 77.39787199440379,
+        "minLat": 26.741709263277315,
+        "maxLon": 78.85394877525262,
+        "maxLat": 27.409394274304095
+      }
+    }
+  },
+  {
+    "Firozabad": {
+      "sub_num": "147",
+      "name": "Firozabad",
+      "bbox": {
+        "minLon": 78.19398396606721,
+        "minLat": 26.87801242967001,
+        "maxLon": 78.82142277756616,
+        "maxLat": 27.51072431961242
+      }
+    }
+  },
+  {
+    "Mainpuri": {
+      "sub_num": "148",
+      "name": "Mainpuri",
+      "bbox": {
+        "minLon": 78.68838515141044,
+        "minLat": 26.94513926572824,
+        "maxLon": 79.43686298135964,
+        "maxLat": 27.473385348339207
+      }
+    }
+  },
+  {
+    "Budaun": {
+      "sub_num": "149",
+      "name": "Budaun",
+      "bbox": {
+        "minLon": 78.57196785729916,
+        "minLat": 27.657804435112187,
+        "maxLon": 79.51004118530173,
+        "maxLat": 28.4722546811537
+      }
+    }
+  },
+  {
+    "Bareilly": {
+      "sub_num": "150",
+      "name": "Bareilly",
+      "bbox": {
+        "minLon": 78.96949698705578,
+        "minLat": 28.015352006109136,
+        "maxLon": 79.79142711310993,
+        "maxLat": 28.901190077661017
+      }
+    }
+  },
+  {
+    "Pilibhit": {
+      "sub_num": "151",
+      "name": "Pilibhit",
+      "bbox": {
+        "minLon": 79.6215782423932,
+        "minLat": 28.10084384662731,
+        "maxLon": 80.44997077583777,
+        "maxLat": 28.88780618187792
+      }
+    }
+  },
+  {
+    "Shahjahanpur": {
+      "sub_num": "152",
+      "name": "Shahjahanpur",
+      "bbox": {
+        "minLon": 79.32288667128505,
+        "minLat": 27.444834693649963,
+        "maxLon": 80.35867625384903,
+        "maxLat": 28.381225502373496
+      }
+    }
+  },
+  {
+    "Kheri": {
+      "sub_num": "153",
+      "name": "Kheri",
+      "bbox": {
+        "minLon": 80.03010380584956,
+        "minLat": 27.675520145952596,
+        "maxLon": 81.30549110944095,
+        "maxLat": 28.69174187319498
+      }
+    }
+  },
+  {
+    "Sitapur": {
+      "sub_num": "154",
+      "name": "Sitapur",
+      "bbox": {
+        "minLon": 80.29862686490229,
+        "minLat": 27.099427738086952,
+        "maxLon": 81.41642385367112,
+        "maxLat": 27.906296881813358
+      }
+    }
+  },
+  {
+    "Hardoi": {
+      "sub_num": "155",
+      "name": "Hardoi",
+      "bbox": {
+        "minLon": 79.68434277042157,
+        "minLat": 26.889732890882343,
+        "maxLon": 80.82691100706757,
+        "maxLat": 27.784457256816562
+      }
+    }
+  },
+  {
+    "Unnao": {
+      "sub_num": "156",
+      "name": "Unnao",
+      "bbox": {
+        "minLon": 80.04398882893929,
+        "minLat": 26.103550161114764,
+        "maxLon": 81.04988010999037,
+        "maxLat": 27.031360785626394
+      }
+    }
+  },
+  {
+    "Lucknow": {
+      "sub_num": "157",
+      "name": "Lucknow",
+      "bbox": {
+        "minLon": 80.56038595571697,
+        "minLat": 26.503772841775117,
+        "maxLon": 81.2175667627677,
+        "maxLat": 27.158634215226556
+      }
+    }
+  },
+  {
+    "Rae Bareli": {
+      "sub_num": "158",
+      "name": "Rae Bareli",
+      "bbox": {
+        "minLon": 80.66986791717,
+        "minLat": 25.81070254124165,
+        "maxLon": 81.61829623684372,
+        "maxLat": 26.606634987638454
+      }
+    }
+  },
+  {
+    "Farrukhabad": {
+      "sub_num": "159",
+      "name": "Farrukhabad",
+      "bbox": {
+        "minLon": 79.12020277613593,
+        "minLat": 27.1567828648164,
+        "maxLon": 79.73719678958813,
+        "maxLat": 27.715325932251293
+      }
+    }
+  },
+  {
+    "Kannauj": {
+      "sub_num": "160",
+      "name": "Kannauj",
+      "bbox": {
+        "minLon": 79.31637579259855,
+        "minLat": 26.76892763366552,
+        "maxLon": 80.02160328457288,
+        "maxLat": 27.2286886836024
+      }
+    }
+  },
+  {
+    "Etawah": {
+      "sub_num": "161",
+      "name": "Etawah",
+      "bbox": {
+        "minLon": 78.74133396978897,
+        "minLat": 26.424992134396614,
+        "maxLon": 79.34965343044615,
+        "maxLat": 27.006447598255637
+      }
+    }
+  },
+  {
+    "Auraiya": {
+      "sub_num": "162",
+      "name": "Auraiya",
+      "bbox": {
+        "minLon": 79.20506500316085,
+        "minLat": 26.364239775716634,
+        "maxLon": 79.75686462658955,
+        "maxLat": 26.947382238711576
+      }
+    }
+  },
+  {
+    "Kanpur Dehat": {
+      "sub_num": "163",
+      "name": "Kanpur Dehat",
+      "bbox": {
+        "minLon": 79.50578868022264,
+        "minLat": 26.09010168865668,
+        "maxLon": 80.1897439872173,
+        "maxLat": 26.827612466070136
+      }
+    }
+  },
+  {
+    "Kanpur Nagar": {
+      "sub_num": "164",
+      "name": "Kanpur Nagar",
+      "bbox": {
+        "minLon": 79.89077312988731,
+        "minLat": 25.919686162013754,
+        "maxLon": 80.59143462540966,
+        "maxLat": 26.96337694764626
+      }
+    }
+  },
+  {
+    "Jalaun": {
+      "sub_num": "165",
+      "name": "Jalaun",
+      "bbox": {
+        "minLon": 78.93049814175868,
+        "minLat": 25.766405010892825,
+        "maxLon": 79.95440474955717,
+        "maxLat": 26.442608342674813
+      }
+    }
+  },
+  {
+    "Jhansi": {
+      "sub_num": "166",
+      "name": "Jhansi",
+      "bbox": {
+        "minLon": 78.30053267389437,
+        "minLat": 25.107194521163773,
+        "maxLon": 79.4200072332186,
+        "maxLat": 25.952756739622345
+      }
+    }
+  },
+  {
+    "Lalitpur": {
+      "sub_num": "167",
+      "name": "Lalitpur",
+      "bbox": {
+        "minLon": 78.16887344606678,
+        "minLat": 24.176828722213497,
+        "maxLon": 78.99364769490434,
+        "maxLat": 25.224744341605234
+      }
+    }
+  },
+  {
+    "Hamirpur": {
+      "sub_num": "168",
+      "name": "Hamirpur",
+      "bbox": {
+        "minLon": 79.35526863220053,
+        "minLat": 25.476617810897597,
+        "maxLon": 80.35151287038119,
+        "maxLat": 26.162666548897285
+      }
+    }
+  },
+  {
+    "Mahoba": {
+      "sub_num": "169",
+      "name": "Mahoba",
+      "bbox": {
+        "minLon": 79.27354265020792,
+        "minLat": 25.032083976050313,
+        "maxLon": 80.22669389842052,
+        "maxLat": 25.64324497570342
+      }
+    }
+  },
+  {
+    "Banda": {
+      "sub_num": "170",
+      "name": "Banda",
+      "bbox": {
+        "minLon": 80.10370885687533,
+        "minLat": 24.973930829777736,
+        "maxLon": 81.03661783858146,
+        "maxLat": 25.913746596734125
+      }
+    }
+  },
+  {
+    "Chitrakoot": {
+      "sub_num": "171",
+      "name": "Chitrakoot",
+      "bbox": {
+        "minLon": 80.68405012721021,
+        "minLat": 24.887527421688834,
+        "maxLon": 81.5621995177921,
+        "maxLat": 25.54687975634752
+      }
+    }
+  },
+  {
+    "Fatehpur": {
+      "sub_num": "172",
+      "name": "Fatehpur",
+      "bbox": {
+        "minLon": 80.21298740920534,
+        "minLat": 25.43835998290348,
+        "maxLon": 81.33837335291794,
+        "maxLat": 26.231231679868905
+      }
+    }
+  },
+  {
+    "Pratapgarh": {
+      "sub_num": "173",
+      "name": "Pratapgarh",
+      "bbox": {
+        "minLon": 81.3249698546683,
+        "minLat": 25.572380805897733,
+        "maxLon": 82.43438498511789,
+        "maxLat": 26.180690347321956
+      }
+    }
+  },
+  {
+    "Kaushambi": {
+      "sub_num": "174",
+      "name": "Kaushambi",
+      "bbox": {
+        "minLon": 81.14666218043665,
+        "minLat": 25.25833745634463,
+        "maxLon": 81.71335534306664,
+        "maxLat": 25.81070254124165
+      }
+    }
+  },
+  {
+    "Prayagraj": {
+      "sub_num": "175",
+      "name": "Prayagraj",
+      "bbox": {
+        "minLon": 81.51701766271749,
+        "minLat": 24.804611976910657,
+        "maxLon": 82.35273390734858,
+        "maxLat": 25.75389906963575
+      }
+    }
+  },
+  {
+    "Bara Banki": {
+      "sub_num": "176",
+      "name": "Bara Banki",
+      "bbox": {
+        "minLon": 80.92392714074767,
+        "minLat": 26.525272935604427,
+        "maxLon": 81.76115074405246,
+        "maxLat": 27.359307792352574
+      }
+    }
+  },
+  {
+    "Ayodhya": {
+      "sub_num": "177",
+      "name": "Ayodhya",
+      "bbox": {
+        "minLon": 81.54312975125912,
+        "minLat": 26.407419325259678,
+        "maxLon": 82.47709909264852,
+        "maxLat": 26.869886353632463
+      }
+    }
+  },
+  {
+    "Ambedkar Nagar": {
+      "sub_num": "178",
+      "name": "Ambedkar Nagar",
+      "bbox": {
+        "minLon": 82.22000528637925,
+        "minLat": 26.15664541271994,
+        "maxLon": 83.13217259667148,
+        "maxLat": 26.652525118380957
+      }
+    }
+  },
+  {
+    "Sultanpur": {
+      "sub_num": "179",
+      "name": "Sultanpur",
+      "bbox": {
+        "minLon": 81.71620151221225,
+        "minLat": 25.973673872094505,
+        "maxLon": 82.6925725091102,
+        "maxLat": 26.547227574346554
+      }
+    }
+  },
+  {
+    "Bahraich": {
+      "sub_num": "180",
+      "name": "Bahraich",
+      "bbox": {
+        "minLon": 81.03857276757412,
+        "minLat": 27.059049035844183,
+        "maxLon": 81.99041063212897,
+        "maxLat": 28.403861473392983
+      }
+    }
+  },
+  {
+    "Shrawasti": {
+      "sub_num": "181",
+      "name": "Shrawasti",
+      "bbox": {
+        "minLon": 81.60786098609184,
+        "minLat": 27.404414719839703,
+        "maxLon": 82.2087694759108,
+        "maxLat": 27.952834333185223
+      }
+    }
+  },
+  {
+    "Balrampur": {
+      "sub_num": "182",
+      "name": "Balrampur",
+      "bbox": {
+        "minLon": 82.02165949856924,
+        "minLat": 27.051701268114982,
+        "maxLon": 82.76468242573664,
+        "maxLat": 27.84352851070007
+      }
+    }
+  },
+  {
+    "Gonda": {
+      "sub_num": "183",
+      "name": "Gonda",
+      "bbox": {
+        "minLon": 81.51485307502236,
+        "minLat": 26.781103176169488,
+        "maxLon": 82.61394188892298,
+        "maxLat": 27.43964790686184
+      }
+    }
+  },
+  {
+    "Siddharthnagar": {
+      "sub_num": "184",
+      "name": "Siddharthnagar",
+      "bbox": {
+        "minLon": 82.43841967838499,
+        "minLat": 26.999822342778693,
+        "maxLon": 83.29291506479171,
+        "maxLat": 27.502659694880833
+      }
+    }
+  },
+  {
+    "Basti": {
+      "sub_num": "185",
+      "name": "Basti",
+      "bbox": {
+        "minLon": 82.22877677008837,
+        "minLat": 26.553012270686153,
+        "maxLon": 82.9776218771398,
+        "maxLat": 27.12429395183401
+      }
+    }
+  },
+  {
+    "Sant Kabir Nagar": {
+      "sub_num": "186",
+      "name": "Sant Kabir Nagar",
+      "bbox": {
+        "minLon": 82.81937373322117,
+        "minLat": 26.408151320821954,
+        "maxLon": 83.22659253540009,
+        "maxLat": 27.101758025161512
+      }
+    }
+  },
+  {
+    "Mahrajganj": {
+      "sub_num": "187",
+      "name": "Mahrajganj",
+      "bbox": {
+        "minLon": 83.11961535992849,
+        "minLat": 26.888547493920456,
+        "maxLon": 83.93443484709671,
+        "maxLat": 27.479755210639436
+      }
+    }
+  },
+  {
+    "Gorakhpur": {
+      "sub_num": "188",
+      "name": "Gorakhpur",
+      "bbox": {
+        "minLon": 83.06776704514668,
+        "minLat": 26.21875204960611,
+        "maxLon": 83.67104299998114,
+        "maxLat": 27.116212295618453
+      }
+    }
+  },
+  {
+    "Kushinagar": {
+      "sub_num": "189",
+      "name": "Kushinagar",
+      "bbox": {
+        "minLon": 83.52440694924397,
+        "minLat": 26.551090004867838,
+        "maxLon": 84.41970873502993,
+        "maxLat": 27.29724509873051
+      }
+    }
+  },
+  {
+    "Deoria": {
+      "sub_num": "190",
+      "name": "Deoria",
+      "bbox": {
+        "minLon": 83.47675046103878,
+        "minLat": 26.0894695496839,
+        "maxLon": 84.18597354800575,
+        "maxLat": 26.75917647339171
+      }
+    }
+  },
+  {
+    "Azamgarh": {
+      "sub_num": "191",
+      "name": "Azamgarh",
+      "bbox": {
+        "minLon": 82.66486203021725,
+        "minLat": 25.635857901399373,
+        "maxLon": 83.46829392756658,
+        "maxLat": 26.411759518170268
+      }
+    }
+  },
+  {
+    "Mau": {
+      "sub_num": "192",
+      "name": "Mau",
+      "bbox": {
+        "minLon": 83.2954937902059,
+        "minLat": 25.797243304402777,
+        "maxLon": 83.86119743429589,
+        "maxLat": 26.280771632204996
+      }
+    }
+  },
+  {
+    "Ballia": {
+      "sub_num": "193",
+      "name": "Ballia",
+      "bbox": {
+        "minLon": 83.67597388222009,
+        "minLat": 25.557476470746444,
+        "maxLon": 84.63466011981873,
+        "maxLat": 26.191678707752832
+      }
+    }
+  },
+  {
+    "Jaunpur": {
+      "sub_num": "194",
+      "name": "Jaunpur",
+      "bbox": {
+        "minLon": 82.1225215580342,
+        "minLat": 25.39265701602852,
+        "maxLon": 83.0901200696015,
+        "maxLat": 26.201226371849533
+      }
+    }
+  },
+  {
+    "Ghazipur": {
+      "sub_num": "195",
+      "name": "Ghazipur",
+      "bbox": {
+        "minLon": 83.06280740244561,
+        "minLat": 25.306102012391438,
+        "maxLon": 83.96257526237954,
+        "maxLat": 25.90004089785699
+      }
+    }
+  },
+  {
+    "Chandauli": {
+      "sub_num": "196",
+      "name": "Chandauli",
+      "bbox": {
+        "minLon": 83.00912321958228,
+        "minLat": 24.716474947359778,
+        "maxLon": 83.55426289159797,
+        "maxLat": 25.535268694377894
+      }
+    }
+  },
+  {
+    "Varanasi": {
+      "sub_num": "197",
+      "name": "Varanasi",
+      "bbox": {
+        "minLon": 82.66660497207423,
+        "minLat": 25.164354010261526,
+        "maxLon": 83.18817620444558,
+        "maxLat": 25.5802416003262
+      }
+    }
+  },
+  {
+    "Bhadohi": {
+      "sub_num": "198",
+      "name": "Bhadohi",
+      "bbox": {
+        "minLon": 82.19559804843163,
+        "minLat": 25.17817893403019,
+        "maxLon": 82.71059558742023,
+        "maxLat": 25.536589564312077
+      }
+    }
+  },
+  {
+    "Mirzapur": {
+      "sub_num": "199",
+      "name": "Mirzapur",
+      "bbox": {
+        "minLon": 82.0801358251641,
+        "minLat": 24.5911984381402,
+        "maxLon": 83.18165615216337,
+        "maxLat": 25.272222587010624
+      }
+    }
+  },
+  {
+    "Sonbhadra": {
+      "sub_num": "200",
+      "name": "Sonbhadra",
+      "bbox": {
+        "minLon": 82.52331688760373,
+        "minLat": 23.870109899375294,
+        "maxLon": 83.54797921840638,
+        "maxLat": 24.96029398414371
+      }
+    }
+  },
+  {
+    "Etah": {
+      "sub_num": "201",
+      "name": "Etah",
+      "bbox": {
+        "minLon": 78.17385011543577,
+        "minLat": 27.32367570610666,
+        "maxLon": 79.27723417715502,
+        "maxLat": 27.786184937160325
+      }
+    }
+  },
+  {
+    "Kasganj": {
+      "sub_num": "202",
+      "name": "Kasganj",
+      "bbox": {
+        "minLon": 78.47093077188086,
+        "minLat": 27.54930060118479,
+        "maxLon": 79.21486058965006,
+        "maxLat": 28.02794541338949
+      }
+    }
+  },
+  {
+    "Shamli": {
+      "sub_num": "704",
+      "name": "Shamli",
+      "bbox": {
+        "minLon": 77.08394821923225,
+        "minLat": 29.257264358138958,
+        "maxLon": 77.50233390863943,
+        "maxLat": 29.69728048779921
+      }
+    }
+  },
+  {
+    "Hapur": {
+      "sub_num": "705",
+      "name": "Hapur",
+      "bbox": {
+        "minLon": 77.54437144103065,
+        "minLat": 28.549538180697464,
+        "maxLon": 78.21217534015244,
+        "maxLat": 28.88385512632481
+      }
+    }
+  },
+  {
+    "Amethi": {
+      "sub_num": "706",
+      "name": "Amethi",
+      "bbox": {
+        "minLon": 81.34402495171274,
+        "minLat": 26.026937177277947,
+        "maxLon": 82.07048252462938,
+        "maxLat": 26.66625457080456
+      }
+    }
+  },
+  {
+    "Sambhal": {
+      "sub_num": "754",
+      "name": "Sambhal",
+      "bbox": {
+        "minLon": 78.25848559510658,
+        "minLat": 28.043878504078812,
+        "maxLon": 78.9594320685764,
+        "maxLat": 28.810375579887506
+      }
+    }
+  }
+]

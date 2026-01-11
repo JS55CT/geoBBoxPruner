@@ -1,0 +1,398 @@
+{
+  "JK": {
+    "name": "Jammu & Kashmir",
+    "sub_id": "JK",
+    "sub_num": "1",
+    "bbox": {
+      "minLon": 73.3960600311,
+      "minLat": 32.276005285,
+      "maxLon": 76.7794134144,
+      "maxLat": 35.1300675491
+    }
+  },
+  "HP": {
+    "name": "Himachal Pradesh",
+    "sub_id": "HP",
+    "sub_num": "2",
+    "bbox": {
+      "minLon": 75.5945924881,
+      "minLat": 30.3773360687,
+      "maxLon": 79.0089170084,
+      "maxLat": 33.256426009
+    }
+  },
+  "PB": {
+    "name": "Punjab",
+    "sub_id": "PB",
+    "sub_num": "3",
+    "bbox": {
+      "minLon": 73.8797759592,
+      "minLat": 29.5420701439,
+      "maxLon": 76.9414614976,
+      "maxLat": 32.5115625742
+    }
+  },
+  "CH": {
+    "name": "Chandigarh",
+    "sub_id": "CH",
+    "sub_num": "4",
+    "bbox": {
+      "minLon": 76.7051833713,
+      "minLat": 30.6663591258,
+      "maxLon": 76.8494452646,
+      "maxLat": 30.7952085621
+    }
+  },
+  "UK": {
+    "name": "Uttarakhand",
+    "sub_id": "UK",
+    "sub_num": "5",
+    "bbox": {
+      "minLon": 77.5723156912,
+      "minLat": 28.7228310347,
+      "maxLon": 81.046605537,
+      "maxLat": 31.4620794811
+    }
+  },
+  "HR": {
+    "name": "Haryana",
+    "sub_id": "HR",
+    "sub_num": "6",
+    "bbox": {
+      "minLon": 74.4732586524,
+      "minLat": 27.6522709709,
+      "maxLon": 77.6045912664,
+      "maxLat": 30.9285428694
+    }
+  },
+  "DL": {
+    "name": "Delhi",
+    "sub_id": "DL",
+    "sub_num": "7",
+    "bbox": {
+      "minLon": 76.8388921531,
+      "minLat": 28.4046675913,
+      "maxLon": 77.3475704698,
+      "maxLat": 28.883499628
+    }
+  },
+  "RJ": {
+    "name": "Rajasthan",
+    "sub_id": "RJ",
+    "sub_num": "8",
+    "bbox": {
+      "minLon": 69.4844256696,
+      "minLat": 23.0586612933,
+      "maxLon": 78.2722573433,
+      "maxLat": 30.198148089
+    }
+  },
+  "UP": {
+    "name": "Uttar Pradesh",
+    "sub_id": "UP",
+    "sub_num": "9",
+    "bbox": {
+      "minLon": 77.0839482192,
+      "minLat": 23.8701098994,
+      "maxLon": 84.6346601198,
+      "maxLat": 30.4062757643
+    }
+  },
+  "BR": {
+    "name": "Bihar",
+    "sub_id": "BR",
+    "sub_num": "10",
+    "bbox": {
+      "minLon": 83.3202158868,
+      "minLat": 24.2860064691,
+      "maxLon": 88.2937958102,
+      "maxLat": 27.5217774749
+    }
+  },
+  "SK": {
+    "name": "Sikkim",
+    "sub_id": "SK",
+    "sub_num": "11",
+    "bbox": {
+      "minLon": 88.0123316832,
+      "minLat": 27.0792595817,
+      "maxLon": 88.9192602891,
+      "maxLat": 28.1286913152
+    }
+  },
+  "AR": {
+    "name": "Arunachal Pradesh",
+    "sub_id": "AR",
+    "sub_num": "12",
+    "bbox": {
+      "minLon": 91.5535448498,
+      "minLat": 26.6508226267,
+      "maxLon": 97.4128965137,
+      "maxLat": 29.4659473139
+    }
+  },
+  "NL": {
+    "name": "Nagaland",
+    "sub_id": "NL",
+    "sub_num": "13",
+    "bbox": {
+      "minLon": 93.3266867003,
+      "minLat": 25.1983559421,
+      "maxLon": 95.2413503974,
+      "maxLat": 27.0352067526
+    }
+  },
+  "MN": {
+    "name": "Manipur",
+    "sub_id": "MN",
+    "sub_num": "14",
+    "bbox": {
+      "minLon": 92.9694338372,
+      "minLat": 23.8328484227,
+      "maxLon": 94.7448900623,
+      "maxLat": 25.6920902432
+    }
+  },
+  "MZ": {
+    "name": "Mizoram",
+    "sub_id": "MZ",
+    "sub_num": "15",
+    "bbox": {
+      "minLon": 92.2570647891,
+      "minLat": 21.9400395052,
+      "maxLon": 93.4369061732,
+      "maxLat": 24.5211499033
+    }
+  },
+  "TR": {
+    "name": "Tripura",
+    "sub_id": "TR",
+    "sub_num": "16",
+    "bbox": {
+      "minLon": 91.1491985177,
+      "minLat": 22.9383514917,
+      "maxLon": 92.3320574461,
+      "maxLat": 24.5318671263
+    }
+  },
+  "ML": {
+    "name": "Meghalaya",
+    "sub_id": "ML",
+    "sub_num": "17",
+    "bbox": {
+      "minLon": 89.8195453864,
+      "minLat": 25.0277953609,
+      "maxLon": 92.8029146664,
+      "maxLat": 26.1194057651
+    }
+  },
+  "AS": {
+    "name": "Assam",
+    "sub_id": "AS",
+    "sub_num": "18",
+    "bbox": {
+      "minLon": 89.6986004818,
+      "minLat": 24.1361351974,
+      "maxLon": 96.0178764494,
+      "maxLat": 27.9714750957
+    }
+  },
+  "WB": {
+    "name": "West Bengal",
+    "sub_id": "WB",
+    "sub_num": "19",
+    "bbox": {
+      "minLon": 85.8196734734,
+      "minLat": 21.5270815297,
+      "maxLon": 89.8826021903,
+      "maxLat": 27.2210674122
+    }
+  },
+  "JH": {
+    "name": "Jharkhand",
+    "sub_id": "JH",
+    "sub_num": "20",
+    "bbox": {
+      "minLon": 83.3293463723,
+      "minLat": 21.9701292409,
+      "maxLon": 87.9628253033,
+      "maxLat": 25.3491809357
+    }
+  },
+  "OD": {
+    "name": "Odisha",
+    "sub_id": "OD",
+    "sub_num": "21",
+    "bbox": {
+      "minLon": 81.3883784137,
+      "minLat": 17.8124498948,
+      "maxLon": 87.4861350631,
+      "maxLat": 22.5675073541
+    }
+  },
+  "CG": {
+    "name": "Chhattisgarh",
+    "sub_id": "CG",
+    "sub_num": "22",
+    "bbox": {
+      "minLon": 80.2444275198,
+      "minLat": 17.7823073057,
+      "maxLon": 84.3955505218,
+      "maxLat": 24.1062771343
+    }
+  },
+  "MP": {
+    "name": "Madhya Pradesh",
+    "sub_id": "MP",
+    "sub_num": "23",
+    "bbox": {
+      "minLon": 74.0293819903,
+      "minLat": 21.0706885246,
+      "maxLon": 82.812611647,
+      "maxLat": 26.8695616491
+    }
+  },
+  "GL": {
+    "name": "Gujarat",
+    "sub_id": "GL",
+    "sub_num": "24",
+    "bbox": {
+      "minLon": 68.1775118689,
+      "minLat": 20.1192287616,
+      "maxLon": 74.4764325252,
+      "maxLat": 24.7125363246
+    }
+  },
+  "MH": {
+    "name": "Maharashtra",
+    "sub_id": "MH",
+    "sub_num": "27",
+    "bbox": {
+      "minLon": 72.6419905703,
+      "minLat": 15.6060851846,
+      "maxLon": 80.8976843177,
+      "maxLat": 22.0302693728
+    }
+  },
+  "KA": {
+    "name": "Karnataka",
+    "sub_id": "KA",
+    "sub_num": "29",
+    "bbox": {
+      "minLon": 74.0539934009,
+      "minLat": 11.5944707246,
+      "maxLon": 78.5877023454,
+      "maxLat": 18.4777264663
+    }
+  },
+  "GA": {
+    "name": "Goa",
+    "sub_id": "GA",
+    "sub_num": "30",
+    "bbox": {
+      "minLon": 73.6769517787,
+      "minLat": 14.8984403802,
+      "maxLon": 74.3364371444,
+      "maxLat": 15.8010166393
+    }
+  },
+  "LD": {
+    "name": "Lakshadweep",
+    "sub_id": "LD",
+    "sub_num": "31",
+    "bbox": {
+      "minLon": 72.1640277821,
+      "minLat": 8.2652026943,
+      "maxLon": 73.70091894,
+      "maxLat": 11.7049757078
+    }
+  },
+  "KL": {
+    "name": "Kerala",
+    "sub_id": "KL",
+    "sub_num": "32",
+    "bbox": {
+      "minLon": 74.8643370996,
+      "minLat": 8.293018226,
+      "maxLon": 77.412396415,
+      "maxLat": 12.7955344738
+    }
+  },
+  "TN": {
+    "name": "Tamil Nadu",
+    "sub_id": "TN",
+    "sub_num": "33",
+    "bbox": {
+      "minLon": 76.2329831257,
+      "minLat": 8.0777044157,
+      "maxLon": 80.3465467284,
+      "maxLat": 13.5646281977
+    }
+  },
+  "PY": {
+    "name": "Puducherry",
+    "sub_id": "PY",
+    "sub_num": "34",
+    "bbox": {
+      "minLon": 75.5265559004,
+      "minLat": 10.8273827413,
+      "maxLon": 82.3106160808,
+      "maxLat": 16.7636951544
+    }
+  },
+  "AN": {
+    "name": "Andaman & Nicobar",
+    "sub_id": "AN",
+    "sub_num": "35",
+    "bbox": {
+      "minLon": 92.1958925913,
+      "minLat": 6.7527826321,
+      "maxLon": 94.2673984468,
+      "maxLat": 13.6770590491
+    }
+  },
+  "TS": {
+    "name": "Telangana",
+    "sub_id": "TS",
+    "sub_num": "36",
+    "bbox": {
+      "minLon": 77.2357610193,
+      "minLat": 15.8360032941,
+      "maxLon": 81.3226413146,
+      "maxLat": 19.9168069857
+    }
+  },
+  "AP": {
+    "name": "Andhra Pradesh",
+    "sub_id": "AP",
+    "sub_num": "37",
+    "bbox": {
+      "minLon": 76.7605690972,
+      "minLat": 12.6240111222,
+      "maxLon": 84.7614637559,
+      "maxLat": 19.1669129682
+    }
+  },
+  "LA": {
+    "name": "Ladakh",
+    "sub_id": "LA",
+    "sub_num": "38",
+    "bbox": {
+      "minLon": 72.5127625565,
+      "minLat": 32.3356935883,
+      "maxLon": 80.3450836117,
+      "maxLat": 37.0883417727
+    }
+  },
+  "DH": {
+    "name": "Dadra & Nagar Haveli & Daman & Diu",
+    "sub_id": "DH",
+    "sub_num": "39",
+    "bbox": {
+      "minLon": 70.8707879688,
+      "minLat": 20.047018149,
+      "maxLon": 73.2181920849,
+      "maxLat": 20.7714367504
+    }
+  }
+}

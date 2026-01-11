@@ -1,0 +1,147 @@
+[
+    {
+      "West Garo Hills": {
+        "sub_num": "293",
+        "name": "West Garo Hills",
+        "bbox": {
+          "minLon": 89.89362709431887,
+          "minLat": 25.20013765859496,
+          "maxLon": 90.42560703132716,
+          "maxLat": 26.01251616505525
+        }
+      }
+    },
+    {
+      "East Garo Hills": {
+        "sub_num": "294",
+        "name": "East Garo Hills",
+        "bbox": {
+          "minLon": 90.31575681001499,
+          "minLat": 25.41539694963662,
+          "maxLon": 90.97465808756587,
+          "maxLat": 25.81444236891416
+        }
+      }
+    },
+    {
+      "South Garo Hills": {
+        "sub_num": "295",
+        "name": "South Garo Hills",
+        "bbox": {
+          "minLon": 90.23402302256086,
+          "minLat": 25.144508447961304,
+          "maxLon": 90.97150522639575,
+          "maxLat": 25.55431770662674
+        }
+      }
+    },
+    {
+      "West Khasi Hills": {
+        "sub_num": "296",
+        "name": "West Khasi Hills",
+        "bbox": {
+          "minLon": 90.7491359429612,
+          "minLat": 25.293618494644107,
+          "maxLon": 91.44448046842032,
+          "maxLat": 25.861393548125115
+        }
+      }
+    },
+    {
+      "Ri Bhoi": {
+        "sub_num": "297",
+        "name": "Ri Bhoi",
+        "bbox": {
+          "minLon": 91.34189417271755,
+          "minLat": 25.62935259303341,
+          "maxLon": 92.27489295810435,
+          "maxLat": 26.119405765138833
+        }
+      }
+    },
+    {
+      "East Khasi Hills": {
+        "sub_num": "298",
+        "name": "East Khasi Hills",
+        "bbox": {
+          "minLon": 91.35381336486033,
+          "minLat": 25.122544537370462,
+          "maxLon": 92.15819044529708,
+          "maxLat": 25.690557032401454
+        }
+      }
+    },
+    {
+      "West Jaintia Hills": {
+        "sub_num": "299",
+        "name": "West Jaintia Hills",
+        "bbox": {
+          "minLon": 91.98212001899233,
+          "minLat": 25.1179210731107,
+          "maxLon": 92.6614614771781,
+          "maxLat": 25.754523028248965
+        }
+      }
+    },
+    {
+      "South West Garo Hills": {
+        "sub_num": "711",
+        "name": "South West Garo Hills",
+        "bbox": {
+          "minLon": 89.81954538642361,
+          "minLat": 25.285328328171364,
+          "maxLon": 90.16405100288584,
+          "maxLat": 25.591752134824016
+        }
+      }
+    },
+    {
+      "North Garo Hills": {
+        "sub_num": "712",
+        "name": "North Garo Hills",
+        "bbox": {
+          "minLon": 90.33102830189736,
+          "minLat": 25.704937445682614,
+          "maxLon": 91.03054838813826,
+          "maxLat": 26.00958672529163
+        }
+      }
+    },
+    {
+      "South West Khasi Hills": {
+        "sub_num": "713",
+        "name": "South West Khasi Hills",
+        "bbox": {
+          "minLon": 90.85706039639146,
+          "minLat": 25.167953327313544,
+          "maxLon": 91.55607535815143,
+          "maxLat": 25.45165636819849
+        }
+      }
+    },
+    {
+      "East Jaintia Hills": {
+        "sub_num": "714",
+        "name": "East Jaintia Hills",
+        "bbox": {
+          "minLon": 92.17125299965875,
+          "minLat": 25.02779536088338,
+          "maxLon": 92.8029146664425,
+          "maxLat": 25.472106219672813
+        }
+      }
+    },
+    {
+      "Eastern West Khasi Hills": {
+        "sub_num": "800",
+        "name": "Eastern West Khasi Hills",
+        "bbox": {
+          "minLon": 91.28832460500301,
+          "minLat": 25.40677362097926,
+          "maxLon": 91.82860577294052,
+          "maxLat": 25.828861757396616
+        }
+      }
+    }
+  ]
+  

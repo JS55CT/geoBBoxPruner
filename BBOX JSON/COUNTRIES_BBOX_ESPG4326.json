@@ -23,6 +23,18 @@
     "Sub_level": 2,
     "bbox": [{ "minLon": 16.1138404350, "minLat": 45.7478294370, "maxLon": 22.9055843360, "maxLat": 48.5863761900 }]
   },
+  "IND": {
+    "name": "India",
+    "id": "IND",
+    "ISO_ALPHA2": "IN",
+    "ISO_ALPHA3": "IND",
+    "Sub_level": 2,
+    "bbox": [
+      { "minLon": 68.1775118689, "minLat": 8.0777044157, "maxLon": 97.4128965137, "maxLat": 37.088341772 },
+      { "minLon": 92.1958925913, "minLat": 6.7527826321, "maxLon": 94.2673984468, "maxLat": 13.6770590491 },
+      { "minLon": 72.1640277821, "minLat": 8.2652026943, "maxLon": 73.70091894, "maxLat": 11.7049757078 }
+    ]
+  },
   "KEN": {
     "name": "Kenya",
     "id": "KEN",

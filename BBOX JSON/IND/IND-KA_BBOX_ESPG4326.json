@@ -1,0 +1,375 @@
+[
+    {
+      "Belagavi": {
+        "sub_num": "555",
+        "name": "Belagavi",
+        "bbox": {
+          "minLon": 74.08806250934045,
+          "minLat": 15.35845881026198,
+          "maxLon": 75.45783277071511,
+          "maxLat": 16.956954754021883
+        }
+      }
+    },
+    {
+      "Bagalkote": {
+        "sub_num": "556",
+        "name": "Bagalkote",
+        "bbox": {
+          "minLon": 74.9862696982835,
+          "minLat": 15.812732395052617,
+          "maxLon": 76.33227592533547,
+          "maxLat": 16.768133002281115
+        }
+      }
+    },
+    {
+      "Vijayapura": {
+        "sub_num": "557",
+        "name": "Vijayapura",
+        "bbox": {
+          "minLon": 75.33375297928265,
+          "minLat": 16.151403153704692,
+          "maxLon": 76.47097735030582,
+          "maxLat": 17.477214425112923
+        }
+      }
+    },
+    {
+      "Bidar": {
+        "sub_num": "558",
+        "name": "Bidar",
+        "bbox": {
+          "minLon": 76.69066899483026,
+          "minLat": 17.583079489404664,
+          "maxLon": 77.65585520017801,
+          "maxLat": 18.47772646632495
+        }
+      }
+    },
+    {
+      "Raichur": {
+        "sub_num": "559",
+        "name": "Raichur",
+        "bbox": {
+          "minLon": 76.23416173776445,
+          "minLat": 15.547436171769682,
+          "maxLon": 77.59780965888103,
+          "maxLat": 16.562045092632943
+        }
+      }
+    },
+    {
+      "Koppal": {
+        "sub_num": "560",
+        "name": "Koppal",
+        "bbox": {
+          "minLon": 75.77352644079545,
+          "minLat": 15.137658824137624,
+          "maxLon": 76.81261753414951,
+          "maxLat": 16.011814536097443
+        }
+      }
+    },
+    {
+      "Gadag": {
+        "sub_num": "561",
+        "name": "Gadag",
+        "bbox": {
+          "minLon": 75.27362177537307,
+          "minLat": 14.944010032792384,
+          "maxLon": 76.04505945432793,
+          "maxLat": 15.886972044012385
+        }
+      }
+    },
+    {
+      "Dharwad": {
+        "sub_num": "562",
+        "name": "Dharwad",
+        "bbox": {
+          "minLon": 74.7271305224354,
+          "minLat": 15.038694530618004,
+          "maxLon": 75.55436579672362,
+          "maxLat": 15.702537554298997
+        }
+      }
+    },
+    {
+      "Uttara Kannada": {
+        "sub_num": "563",
+        "name": "Uttara Kannada",
+        "bbox": {
+          "minLon": 74.05399340093027,
+          "minLat": 13.92524214990572,
+          "maxLon": 75.10292061545411,
+          "maxLat": 15.52496082495373
+        }
+      }
+    },
+    {
+      "Haveri": {
+        "sub_num": "564",
+        "name": "Haveri",
+        "bbox": {
+          "minLon": 75.01512735813363,
+          "minLat": 14.274241295340634,
+          "maxLon": 75.82024998905223,
+          "maxLat": 15.161773760782362
+        }
+      }
+    },
+    {
+      "Ballari": {
+        "sub_num": "565",
+        "name": "Ballari",
+        "bbox": {
+          "minLon": 76.36141876615231,
+          "minLat": 14.858639733308921,
+          "maxLon": 77.16913361158737,
+          "maxLat": 15.837509233836974
+        }
+      }
+    },
+    {
+      "Chitradurga": {
+        "sub_num": "566",
+        "name": "Chitradurga",
+        "bbox": {
+          "minLon": 76.0249577903331,
+          "minLat": 13.575971495676711,
+          "maxLon": 77.02384350843703,
+          "maxLat": 15.035999058808708
+        }
+      }
+    },
+    {
+      "Davangere": {
+        "sub_num": "567",
+        "name": "Davangere",
+        "bbox": {
+          "minLon": 75.39879312408033,
+          "minLat": 13.80620662898309,
+          "maxLon": 76.53363334388156,
+          "maxLat": 14.70533939257213
+        }
+      }
+    },
+    {
+      "Shivamogga": {
+        "sub_num": "568",
+        "name": "Shivamogga",
+        "bbox": {
+          "minLon": 74.6252159294099,
+          "minLat": 13.45680248285066,
+          "maxLon": 75.8787561280364,
+          "maxLat": 14.655214681406317
+        }
+      }
+    },
+    {
+      "Udupi": {
+        "sub_num": "569",
+        "name": "Udupi",
+        "bbox": {
+          "minLon": 74.5819857792744,
+          "minLat": 13.071521812396155,
+          "maxLon": 75.20579923462842,
+          "maxLat": 13.982151511980204
+        }
+      }
+    },
+    {
+      "Chikkamagaluru": {
+        "sub_num": "570",
+        "name": "Chikkamagaluru",
+        "bbox": {
+          "minLon": 75.07852533767617,
+          "minLat": 12.912800093658298,
+          "maxLon": 76.36386529369264,
+          "maxLat": 13.899395907609868
+        }
+      }
+    },
+    {
+      "Tumakuru": {
+        "sub_num": "571",
+        "name": "Tumakuru",
+        "bbox": {
+          "minLon": 76.3462278046419,
+          "minLat": 12.745538542994803,
+          "maxLon": 77.5170719171257,
+          "maxLat": 14.342165290580539
+        }
+      }
+    },
+    {
+      "Bengaluru Urban": {
+        "sub_num": "572",
+        "name": "Bengaluru Urban",
+        "bbox": {
+          "minLon": 77.325612834371,
+          "minLat": 12.657439535158385,
+          "maxLon": 77.83602720740757,
+          "maxLat": 13.233037141396206
+        }
+      }
+    },
+    {
+      "Mandya": {
+        "sub_num": "573",
+        "name": "Mandya",
+        "bbox": {
+          "minLon": 76.32956466607754,
+          "minLat": 12.217912379860536,
+          "maxLon": 77.33380346023088,
+          "maxLat": 13.055335363105769
+        }
+      }
+    },
+    {
+      "Hassan": {
+        "sub_num": "574",
+        "name": "Hassan",
+        "bbox": {
+          "minLon": 75.55450297755235,
+          "minLat": 12.512437146257477,
+          "maxLon": 76.63375906778288,
+          "maxLat": 13.547941020908615
+        }
+      }
+    },
+    {
+      "Dakshina Kannada": {
+        "sub_num": "575",
+        "name": "Dakshina Kannada",
+        "bbox": {
+          "minLon": 74.77633198806348,
+          "minLat": 12.46008599426374,
+          "maxLon": 75.670641772366,
+          "maxLat": 13.185162565781132
+        }
+      }
+    },
+    {
+      "Kodagu": {
+        "sub_num": "576",
+        "name": "Kodagu",
+        "bbox": {
+          "minLon": 75.36563038524915,
+          "minLat": 11.931391668807663,
+          "maxLon": 76.18926165724503,
+          "maxLat": 12.834236839170279
+        }
+      }
+    },
+    {
+      "Mysuru": {
+        "sub_num": "577",
+        "name": "Mysuru",
+        "bbox": {
+          "minLon": 75.90867977821,
+          "minLat": 11.738187793804723,
+          "maxLon": 77.13428401541736,
+          "maxLat": 12.655682942009387
+        }
+      }
+    },
+    {
+      "Chamarajanagara": {
+        "sub_num": "578",
+        "name": "Chamarajanagara",
+        "bbox": {
+          "minLon": 76.40337520223297,
+          "minLat": 11.594470724629366,
+          "maxLon": 77.77672201068997,
+          "maxLat": 12.314134205717119
+        }
+      }
+    },
+    {
+      "Kalaburagi": {
+        "sub_num": "579",
+        "name": "Kalaburagi",
+        "bbox": {
+          "minLon": 76.06498621633692,
+          "minLat": 16.71052349729436,
+          "maxLon": 77.69251869343434,
+          "maxLat": 17.77085372258851
+        }
+      }
+    },
+    {
+      "Yadgir": {
+        "sub_num": "580",
+        "name": "Yadgir",
+        "bbox": {
+          "minLon": 76.29134887862034,
+          "minLat": 16.19376017803722,
+          "maxLon": 77.47650134976308,
+          "maxLat": 16.953988725759032
+        }
+      }
+    },
+    {
+      "Kolar": {
+        "sub_num": "581",
+        "name": "Kolar",
+        "bbox": {
+          "minLon": 77.83954313707281,
+          "minLat": 12.76065858990117,
+          "maxLon": 78.58770234537053,
+          "maxLat": 13.598597906032886
+        }
+      }
+    },
+    {
+      "Chikkaballapura": {
+        "sub_num": "582",
+        "name": "Chikkaballapura",
+        "bbox": {
+          "minLon": 77.35989653772612,
+          "minLat": 13.21950130510489,
+          "maxLon": 78.21038598234477,
+          "maxLat": 13.96018795491352
+        }
+      }
+    },
+    {
+      "Bengaluru Rural": {
+        "sub_num": "583",
+        "name": "Bengaluru Rural",
+        "bbox": {
+          "minLon": 77.18265667560135,
+          "minLat": 12.8661103863819,
+          "maxLon": 77.96498664566678,
+          "maxLat": 13.499068250602457
+        }
+      }
+    },
+    {
+      "Ramanagara": {
+        "sub_num": "584",
+        "name": "Ramanagara",
+        "bbox": {
+          "minLon": 77.06806383557759,
+          "minLat": 12.24323126698754,
+          "maxLon": 77.63480476791943,
+          "maxLat": 13.19697229942951
+        }
+      }
+    },
+    {
+      "Vijayanagar": {
+        "sub_num": "798",
+        "name": "Vijayanagar",
+        "bbox": {
+          "minLon": 75.66357205084293,
+          "minLat": 14.50570674628231,
+          "maxLon": 76.74239854065343,
+          "maxLat": 15.38110615437186
+        }
+      }
+    }
+  ]
+  

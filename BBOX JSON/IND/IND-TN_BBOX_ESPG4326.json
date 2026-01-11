@@ -1,0 +1,459 @@
+[
+    {
+      "Thiruvallur": {
+        "sub_num": "602",
+        "name": "Thiruvallur",
+        "bbox": {
+          "minLon": 79.28401760559704,
+          "minLat": 12.94505157739663,
+          "maxLon": 80.34654672836902,
+          "maxLat": 13.56462819768922
+        }
+      }
+    },
+    {
+      "Chennai": {
+        "sub_num": "603",
+        "name": "Chennai",
+        "bbox": {
+          "minLon": 80.13438906638456,
+          "minLat": 12.852149628276425,
+          "maxLon": 80.33342513942182,
+          "maxLat": 13.235440511575506
+        }
+      }
+    },
+    {
+      "Kancheepuram": {
+        "sub_num": "604",
+        "name": "Kancheepuram",
+        "bbox": {
+          "minLon": 79.55626414377319,
+          "minLat": 12.531894122123088,
+          "maxLon": 80.16516851637651,
+          "maxLat": 13.056176133737448
+        }
+      }
+    },
+    {
+      "Vellore": {
+        "sub_num": "605",
+        "name": "Vellore",
+        "bbox": {
+          "minLon": 78.5092717162167,
+          "minLat": 12.631655622223684,
+          "maxLon": 79.29454384939899,
+          "maxLat": 13.171966968617236
+        }
+      }
+    },
+    {
+      "Tiruvannamalai": {
+        "sub_num": "606",
+        "name": "Tiruvannamalai",
+        "bbox": {
+          "minLon": 78.63029888229511,
+          "minLat": 11.984127375772056,
+          "maxLon": 79.75615046144708,
+          "maxLat": 12.874319060037186
+        }
+      }
+    },
+    {
+      "Viluppuram": {
+        "sub_num": "607",
+        "name": "Viluppuram",
+        "bbox": {
+          "minLon": 79.16735262260572,
+          "minLat": 11.798470704749153,
+          "maxLon": 80.00863868520474,
+          "maxLat": 12.450775874612482
+        }
+      }
+    },
+    {
+      "Salem": {
+        "sub_num": "608",
+        "name": "Salem",
+        "bbox": {
+          "minLon": 77.41539356485026,
+          "minLat": 11.315246322015744,
+          "maxLon": 78.84304725574916,
+          "maxLat": 11.979278227022613
+        }
+      }
+    },
+    {
+      "Namakkal": {
+        "sub_num": "609",
+        "name": "Namakkal",
+        "bbox": {
+          "minLon": 77.68305507756176,
+          "minLat": 11.012725852362214,
+          "maxLon": 78.4899109673969,
+          "maxLat": 11.598112938794019
+        }
+      }
+    },
+    {
+      "Erode": {
+        "sub_num": "610",
+        "name": "Erode",
+        "bbox": {
+          "minLon": 76.8303139176486,
+          "minLat": 11.02325322927485,
+          "maxLon": 77.93312714132728,
+          "maxLat": 11.84847573892417
+        }
+      }
+    },
+    {
+      "The Nilgiris": {
+        "sub_num": "611",
+        "name": "The Nilgiris",
+        "bbox": {
+          "minLon": 76.23298312565383,
+          "minLat": 11.18768146940938,
+          "maxLon": 77.01231583623107,
+          "maxLat": 11.704978588592612
+        }
+      }
+    },
+    {
+      "Dindigul": {
+        "sub_num": "612",
+        "name": "Dindigul",
+        "bbox": {
+          "minLon": 77.26658265867425,
+          "minLat": 10.018052249394987,
+          "maxLon": 78.3398929132269,
+          "maxLat": 10.835151192804204
+        }
+      }
+    },
+    {
+      "Karur": {
+        "sub_num": "613",
+        "name": "Karur",
+        "bbox": {
+          "minLon": 77.75017489500573,
+          "minLat": 10.546688697823667,
+          "maxLon": 78.58781440840562,
+          "maxLat": 11.09687603096148
+        }
+      }
+    },
+    {
+      "Tiruchirappalli": {
+        "sub_num": "614",
+        "name": "Tiruchirappalli",
+        "bbox": {
+          "minLon": 78.16249408073786,
+          "minLat": 10.293705853413895,
+          "maxLon": 79.01231997039883,
+          "maxLat": 11.408907972310576
+        }
+      }
+    },
+    {
+      "Perambalur": {
+        "sub_num": "615",
+        "name": "Perambalur",
+        "bbox": {
+          "minLon": 78.63424715763186,
+          "minLat": 11.055597320255387,
+          "maxLon": 79.16814751395285,
+          "maxLat": 11.523477857272693
+        }
+      }
+    },
+    {
+      "Ariyalur": {
+        "sub_num": "616",
+        "name": "Ariyalur",
+        "bbox": {
+          "minLon": 78.94621208535949,
+          "minLat": 10.886481820369474,
+          "maxLon": 79.51021149060826,
+          "maxLat": 11.41969600804891
+        }
+      }
+    },
+    {
+      "Cuddalore": {
+        "sub_num": "617",
+        "name": "Cuddalore",
+        "bbox": {
+          "minLon": 78.87763396444285,
+          "minLat": 11.150554685663915,
+          "maxLon": 79.81287900157062,
+          "maxLat": 11.904986756927315
+        }
+      }
+    },
+    {
+      "Nagapattinam": {
+        "sub_num": "618",
+        "name": "Nagapattinam",
+        "bbox": {
+          "minLon": 79.6274199220071,
+          "minLat": 10.27178377267029,
+          "maxLon": 79.88160288671853,
+          "maxLat": 10.93153423187002
+        }
+      }
+    },
+    {
+      "Thiruvarur": {
+        "sub_num": "619",
+        "name": "Thiruvarur",
+        "bbox": {
+          "minLon": 79.2678976010299,
+          "minLat": 10.280775180017319,
+          "maxLon": 79.77043357744652,
+          "maxLat": 11.017258215979243
+        }
+      }
+    },
+    {
+      "Thanjavur": {
+        "sub_num": "620",
+        "name": "Thanjavur",
+        "bbox": {
+          "minLon": 78.77576934559497,
+          "minLat": 10.135790483260175,
+          "maxLon": 79.57278210111288,
+          "maxLat": 11.183726530769128
+        }
+      }
+    },
+    {
+      "Pudukkottai": {
+        "sub_num": "621",
+        "name": "Pudukkottai",
+        "bbox": {
+          "minLon": 78.44562640442527,
+          "minLat": 9.849074122571672,
+          "maxLon": 79.26611175743157,
+          "maxLat": 10.734638338638064
+        }
+      }
+    },
+    {
+      "Sivaganga": {
+        "sub_num": "622",
+        "name": "Sivaganga",
+        "bbox": {
+          "minLon": 78.12323123225684,
+          "minLat": 9.52005328391035,
+          "maxLon": 79.01392222620085,
+          "maxLat": 10.409883819321493
+        }
+      }
+    },
+    {
+      "Madurai": {
+        "sub_num": "623",
+        "name": "Madurai",
+        "bbox": {
+          "minLon": 77.46414776917985,
+          "minLat": 9.563081064900256,
+          "maxLon": 78.47369653641866,
+          "maxLat": 10.310319011171522
+        }
+      }
+    },
+    {
+      "Theni": {
+        "sub_num": "624",
+        "name": "Theni",
+        "bbox": {
+          "minLon": 77.16572993629836,
+          "minLat": 9.519122977311666,
+          "maxLon": 77.72971589915717,
+          "maxLat": 10.218746154017806
+        }
+      }
+    },
+    {
+      "Virudhunagar": {
+        "sub_num": "625",
+        "name": "Virudhunagar",
+        "bbox": {
+          "minLon": 77.33937488618317,
+          "minLat": 9.200055204297108,
+          "maxLon": 78.42946126221008,
+          "maxLat": 9.786431726540465
+        }
+      }
+    },
+    {
+      "Ramanathapuram": {
+        "sub_num": "626",
+        "name": "Ramanathapuram",
+        "bbox": {
+          "minLon": 78.21504390160314,
+          "minLat": 9.0863661322115,
+          "maxLon": 79.49698143727701,
+          "maxLat": 9.94400991938312
+        }
+      }
+    },
+    {
+      "Thoothukkudi": {
+        "sub_num": "627",
+        "name": "Thoothukkudi",
+        "bbox": {
+          "minLon": 77.6731579131735,
+          "minLat": 8.32114572556001,
+          "maxLon": 78.38488733302084,
+          "maxLat": 9.371974377565413
+        }
+      }
+    },
+    {
+      "Tirunelveli": {
+        "sub_num": "628",
+        "name": "Tirunelveli",
+        "bbox": {
+          "minLon": 77.1697672247983,
+          "minLat": 8.142107005100687,
+          "maxLon": 77.97361165008564,
+          "maxLat": 8.957008223903067
+        }
+      }
+    },
+    {
+      "Kanniyakumari": {
+        "sub_num": "629",
+        "name": "Kanniyakumari",
+        "bbox": {
+          "minLon": 77.09607082229466,
+          "minLat": 8.07770441572396,
+          "maxLon": 77.58861959887706,
+          "maxLat": 8.579382047407371
+        }
+      }
+    },
+    {
+      "Dharmapuri": {
+        "sub_num": "630",
+        "name": "Dharmapuri",
+        "bbox": {
+          "minLon": 77.67402064888414,
+          "minLat": 11.775981266642455,
+          "maxLon": 78.74521726099805,
+          "maxLat": 12.513678027907444
+        }
+      }
+    },
+    {
+      "Krishnagiri": {
+        "sub_num": "631",
+        "name": "Krishnagiri",
+        "bbox": {
+          "minLon": 77.47111820171122,
+          "minLat": 12.139230471903092,
+          "maxLon": 78.68864720794512,
+          "maxLat": 12.890915584437435
+        }
+      }
+    },
+    {
+      "Coimbatore": {
+        "sub_num": "632",
+        "name": "Coimbatore",
+        "bbox": {
+          "minLon": 76.65579714020414,
+          "minLat": 10.220120441154435,
+          "maxLon": 77.29902960820897,
+          "maxLat": 11.406422931383787
+        }
+      }
+    },
+    {
+      "Tiruppur": {
+        "sub_num": "633",
+        "name": "Tiruppur",
+        "bbox": {
+          "minLon": 77.04179834532816,
+          "minLat": 10.230274146040664,
+          "maxLon": 77.89299252008385,
+          "maxLat": 11.352613170132729
+        }
+      }
+    },
+    {
+      "Ranipet": {
+        "sub_num": "786",
+        "name": "Ranipet",
+        "bbox": {
+          "minLon": 79.1778901699089,
+          "minLat": 12.628267034171175,
+          "maxLon": 79.79202076476545,
+          "maxLat": 13.210545895988925
+        }
+      }
+    },
+    {
+      "Chengalpattu": {
+        "sub_num": "787",
+        "name": "Chengalpattu",
+        "bbox": {
+          "minLon": 79.64039070088609,
+          "minLat": 12.228831734403029,
+          "maxLon": 80.25527540357587,
+          "maxLat": 12.998036346772492
+        }
+      }
+    },
+    {
+      "Tirupathur": {
+        "sub_num": "788",
+        "name": "Tirupathur",
+        "bbox": {
+          "minLon": 78.40673275274628,
+          "minLat": 12.25837701943663,
+          "maxLon": 78.91797810425157,
+          "maxLat": 12.91067358791478
+        }
+      }
+    },
+    {
+      "Kallakurichi": {
+        "sub_num": "789",
+        "name": "Kallakurichi",
+        "bbox": {
+          "minLon": 78.62682174996867,
+          "minLat": 11.504575370371526,
+          "maxLon": 79.48269092993942,
+          "maxLat": 12.08107831924603
+        }
+      }
+    },
+    {
+      "Tenkasi": {
+        "sub_num": "790",
+        "name": "Tenkasi",
+        "bbox": {
+          "minLon": 77.14655534625315,
+          "minLat": 8.763870463259728,
+          "maxLon": 77.7448606692957,
+          "maxLat": 9.420136716008761
+        }
+      }
+    },
+    {
+      "Mayiladuthurai": {
+        "sub_num": "796",
+        "name": "Mayiladuthurai",
+        "bbox": {
+          "minLon": 79.50856018140183,
+          "minLat": 10.959556840055118,
+          "maxLon": 79.85843451358261,
+          "maxLat": 11.422687561024157
+        }
+      }
+    }
+  ]
+  

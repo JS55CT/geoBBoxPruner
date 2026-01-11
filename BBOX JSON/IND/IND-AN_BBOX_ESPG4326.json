@@ -1,0 +1,39 @@
+[
+    {
+      "Nicobars": {
+        "sub_num": "638",
+        "name": "Nicobars",
+        "bbox": {
+          "minLon": 92.71431328109915,
+          "minLat": 6.752782632099458,
+          "maxLon": 93.95069207441931,
+          "maxLat": 9.258922268138411
+        }
+      }
+    },
+    {
+      "North And Middle Andaman": {
+        "sub_num": "639",
+        "name": "North And Middle Andaman",
+        "bbox": {
+          "minLon": 92.6468539364104,
+          "minLat": 12.063223543735024,
+          "maxLon": 94.26739844676042,
+          "maxLat": 13.677059049113764
+        }
+      }
+    },
+    {
+      "South Andamans": {
+        "sub_num": "640",
+        "name": "South Andamans",
+        "bbox": {
+          "minLon": 92.19589259134618,
+          "minLat": 10.510807337041696,
+          "maxLon": 93.12495279601474,
+          "maxLat": 12.319651880421885
+        }
+      }
+    }
+  ]
+  

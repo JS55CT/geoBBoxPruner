@@ -1,0 +1,171 @@
+[
+    {
+      "Kasaragod": {
+        "sub_num": "588",
+        "name": "Kasaragod",
+        "bbox": {
+          "minLon": 74.864337099569,
+          "minLat": 12.044206105248906,
+          "maxLon": 75.43219504115257,
+          "maxLat": 12.795534473801288
+        }
+      }
+    },
+    {
+      "Kannur": {
+        "sub_num": "589",
+        "name": "Kannur",
+        "bbox": {
+          "minLon": 75.16779880568417,
+          "minLat": 11.675081044038535,
+          "maxLon": 75.9396017827527,
+          "maxLat": 12.300710596765253
+        }
+      }
+    },
+    {
+      "Wayanad": {
+        "sub_num": "590",
+        "name": "Wayanad",
+        "bbox": {
+          "minLon": 75.77204760363202,
+          "minLat": 11.451632619372816,
+          "maxLon": 76.44405702414687,
+          "maxLat": 11.97865510734912
+        }
+      }
+    },
+    {
+      "Kozhikode": {
+        "sub_num": "591",
+        "name": "Kozhikode",
+        "bbox": {
+          "minLon": 75.536226103615,
+          "minLat": 11.123833668730995,
+          "maxLon": 76.14600480558605,
+          "maxLat": 11.805870912197719
+        }
+      }
+    },
+    {
+      "Malappuram": {
+        "sub_num": "592",
+        "name": "Malappuram",
+        "bbox": {
+          "minLon": 75.82505073774585,
+          "minLat": 10.685360389282264,
+          "maxLon": 76.54996694356876,
+          "maxLat": 11.528754612586154
+        }
+      }
+    },
+    {
+      "Palakkad": {
+        "sub_num": "593",
+        "name": "Palakkad",
+        "bbox": {
+          "minLon": 76.02721892626005,
+          "minLat": 10.334158688306399,
+          "maxLon": 76.90753453497933,
+          "maxLat": 11.239601638611079
+        }
+      }
+    },
+    {
+      "Thrissur": {
+        "sub_num": "594",
+        "name": "Thrissur",
+        "bbox": {
+          "minLon": 75.95615748909727,
+          "minLat": 10.174687736420738,
+          "maxLon": 76.9012065982004,
+          "maxLat": 10.782927389401692
+        }
+      }
+    },
+    {
+      "Ernakulam": {
+        "sub_num": "595",
+        "name": "Ernakulam",
+        "bbox": {
+          "minLon": 76.16483685274204,
+          "minLat": 9.789043742181263,
+          "maxLon": 77.08913243716108,
+          "maxLat": 10.302538089367486
+        }
+      }
+    },
+    {
+      "Idukki": {
+        "sub_num": "596",
+        "name": "Idukki",
+        "bbox": {
+          "minLon": 76.62709609982716,
+          "minLat": 9.272806700147203,
+          "maxLon": 77.41239641495655,
+          "maxLat": 10.358441162161062
+        }
+      }
+    },
+    {
+      "Kottayam": {
+        "sub_num": "597",
+        "name": "Kottayam",
+        "bbox": {
+          "minLon": 76.36497252477248,
+          "minLat": 9.400568198056463,
+          "maxLon": 76.98479469525053,
+          "maxLat": 9.857172418841087
+        }
+      }
+    },
+    {
+      "Alappuzha": {
+        "sub_num": "598",
+        "name": "Alappuzha",
+        "bbox": {
+          "minLon": 76.27719326320413,
+          "minLat": 9.109795427352257,
+          "maxLon": 76.69068825021839,
+          "maxLat": 9.89138226410012
+        }
+      }
+    },
+    {
+      "Pathanamthitta": {
+        "sub_num": "599",
+        "name": "Pathanamthitta",
+        "bbox": {
+          "minLon": 76.47335550527323,
+          "minLat": 9.071600727431955,
+          "maxLon": 77.28352044006871,
+          "maxLat": 9.48298707105138
+        }
+      }
+    },
+    {
+      "Kollam": {
+        "sub_num": "600",
+        "name": "Kollam",
+        "bbox": {
+          "minLon": 76.46290650221265,
+          "minLat": 8.761367653248634,
+          "maxLon": 77.26281639459046,
+          "maxLat": 9.173794230798224
+        }
+      }
+    },
+    {
+      "Thiruvananthapuram": {
+        "sub_num": "601",
+        "name": "Thiruvananthapuram",
+        "bbox": {
+          "minLon": 76.6729270730345,
+          "minLat": 8.293018226041038,
+          "maxLon": 77.28384684472383,
+          "maxLat": 8.86259143160036
+        }
+      }
+    }
+  ]
+  

@@ -1,0 +1,459 @@
+[
+    {
+      "Pashchim Champaran": {
+        "sub_num": "203",
+        "name": "Pashchim Champaran",
+        "bbox": {
+          "minLon": 83.83242401485988,
+          "minLat": 26.582183907849206,
+          "maxLon": 84.7606875540086,
+          "maxLat": 27.521777474925372
+        }
+      }
+    },
+    {
+      "Purbi Champaran": {
+        "sub_num": "204",
+        "name": "Purbi Champaran",
+        "bbox": {
+          "minLon": 84.4848014986454,
+          "minLat": 26.2567605466838,
+          "maxLon": 85.29568850555444,
+          "maxLat": 27.021114262217523
+        }
+      }
+    },
+    {
+      "Sheohar": {
+        "sub_num": "205",
+        "name": "Sheohar",
+        "bbox": {
+          "minLon": 85.17843478109897,
+          "minLat": 26.325039605114558,
+          "maxLon": 85.40282698970498,
+          "maxLat": 26.661569303026962
+        }
+      }
+    },
+    {
+      "Sitamarhi": {
+        "sub_num": "206",
+        "name": "Sitamarhi",
+        "bbox": {
+          "minLon": 85.23687397044166,
+          "minLat": 26.269248880266385,
+          "maxLon": 85.82554485577379,
+          "maxLat": 26.873781002811725
+        }
+      }
+    },
+    {
+      "Madhubani": {
+        "sub_num": "207",
+        "name": "Madhubani",
+        "bbox": {
+          "minLon": 85.75178273791389,
+          "minLat": 26.0336529493328,
+          "maxLon": 86.7251158067941,
+          "maxLat": 26.66678717961731
+        }
+      }
+    },
+    {
+      "Supaul": {
+        "sub_num": "208",
+        "name": "Supaul",
+        "bbox": {
+          "minLon": 86.40480439909803,
+          "minLat": 25.990797585744318,
+          "maxLon": 87.12025188841422,
+          "maxLat": 26.562815133700482
+        }
+      }
+    },
+    {
+      "Araria": {
+        "sub_num": "209",
+        "name": "Araria",
+        "bbox": {
+          "minLon": 87.03814583191982,
+          "minLat": 25.942697234859846,
+          "maxLon": 87.70619469802632,
+          "maxLat": 26.587234077383357
+        }
+      }
+    },
+    {
+      "Kishanganj": {
+        "sub_num": "210",
+        "name": "Kishanganj",
+        "bbox": {
+          "minLon": 87.61102575928518,
+          "minLat": 26.035394950758327,
+          "maxLon": 88.29379581022933,
+          "maxLat": 26.561240021312937
+        }
+      }
+    },
+    {
+      "Purnia": {
+        "sub_num": "211",
+        "name": "Purnia",
+        "bbox": {
+          "minLon": 86.98937314385496,
+          "minLat": 25.43361593206254,
+          "maxLon": 87.87301900316517,
+          "maxLat": 26.118105879228622
+        }
+      }
+    },
+    {
+      "Katihar": {
+        "sub_num": "212",
+        "name": "Katihar",
+        "bbox": {
+          "minLon": 87.20033250265772,
+          "minLat": 25.235288631117694,
+          "maxLon": 88.07653494487992,
+          "maxLat": 25.88190148109606
+        }
+      }
+    },
+    {
+      "Madhepura": {
+        "sub_num": "213",
+        "name": "Madhepura",
+        "bbox": {
+          "minLon": 86.61561926119242,
+          "minLat": 25.443275854718067,
+          "maxLon": 87.12664352203497,
+          "maxLat": 26.11784558525788
+        }
+      }
+    },
+    {
+      "Saharsa": {
+        "sub_num": "214",
+        "name": "Saharsa",
+        "bbox": {
+          "minLon": 86.31333925020594,
+          "minLat": 25.59040355998128,
+          "maxLon": 86.87411458842526,
+          "maxLat": 26.075392917619485
+        }
+      }
+    },
+    {
+      "Darbhanga": {
+        "sub_num": "215",
+        "name": "Darbhanga",
+        "bbox": {
+          "minLon": 85.6766765750989,
+          "minLat": 25.71956137861662,
+          "maxLon": 86.41612108399326,
+          "maxLat": 26.44643418215401
+        }
+      }
+    },
+    {
+      "Muzaffarpur": {
+        "sub_num": "216",
+        "name": "Muzaffarpur",
+        "bbox": {
+          "minLon": 84.8718186336771,
+          "minLat": 25.903549974638825,
+          "maxLon": 85.75428465916788,
+          "maxLat": 26.393257040207196
+        }
+      }
+    },
+    {
+      "Gopalganj": {
+        "sub_num": "217",
+        "name": "Gopalganj",
+        "bbox": {
+          "minLon": 83.90606484129181,
+          "minLat": 26.203399847066887,
+          "maxLon": 84.90686570290278,
+          "maxLat": 26.639142020822685
+        }
+      }
+    },
+    {
+      "Siwan": {
+        "sub_num": "218",
+        "name": "Siwan",
+        "bbox": {
+          "minLon": 84.0080073467698,
+          "minLat": 25.887734223877263,
+          "maxLon": 84.77928160061492,
+          "maxLat": 26.374618523247694
+        }
+      }
+    },
+    {
+      "Saran": {
+        "sub_num": "219",
+        "name": "Saran",
+        "bbox": {
+          "minLon": 84.40478540679547,
+          "minLat": 25.62263551527358,
+          "maxLon": 85.19748377139607,
+          "maxLat": 26.220674656078593
+        }
+      }
+    },
+    {
+      "Vaishali": {
+        "sub_num": "220",
+        "name": "Vaishali",
+        "bbox": {
+          "minLon": 85.06637767042491,
+          "minLat": 25.483412559836687,
+          "maxLon": 85.64599698093562,
+          "maxLat": 26.01529916192583
+        }
+      }
+    },
+    {
+      "Samastipur": {
+        "sub_num": "221",
+        "name": "Samastipur",
+        "bbox": {
+          "minLon": 85.52754839294766,
+          "minLat": 25.460211604899726,
+          "maxLon": 86.39224784058311,
+          "maxLat": 26.089408401855724
+        }
+      }
+    },
+    {
+      "Begusarai": {
+        "sub_num": "222",
+        "name": "Begusarai",
+        "bbox": {
+          "minLon": 85.73375934878676,
+          "minLat": 25.249491972017097,
+          "maxLon": 86.51440142216255,
+          "maxLat": 25.775594404093646
+        }
+      }
+    },
+    {
+      "Khagaria": {
+        "sub_num": "223",
+        "name": "Khagaria",
+        "bbox": {
+          "minLon": 86.27911244883586,
+          "minLat": 25.2540065189297,
+          "maxLon": 86.85687930656825,
+          "maxLat": 25.732023847322406
+        }
+      }
+    },
+    {
+      "Bhagalpur": {
+        "sub_num": "224",
+        "name": "Bhagalpur",
+        "bbox": {
+          "minLon": 86.63844507706611,
+          "minLat": 25.057017099683133,
+          "maxLon": 87.55188397959246,
+          "maxLat": 25.51593725807363
+        }
+      }
+    },
+    {
+      "Banka": {
+        "sub_num": "225",
+        "name": "Banka",
+        "bbox": {
+          "minLon": 86.48685667974459,
+          "minLat": 24.542205452313645,
+          "maxLon": 87.1754550819988,
+          "maxLat": 25.121333071840983
+        }
+      }
+    },
+    {
+      "Munger": {
+        "sub_num": "226",
+        "name": "Munger",
+        "bbox": {
+          "minLon": 86.26072118432855,
+          "minLat": 24.94493282389288,
+          "maxLon": 86.73764220167845,
+          "maxLat": 25.495732480938884
+        }
+      }
+    },
+    {
+      "Lakhisarai": {
+        "sub_num": "227",
+        "name": "Lakhisarai",
+        "bbox": {
+          "minLon": 85.90101063216333,
+          "minLat": 24.968971002396685,
+          "maxLon": 86.39086290341801,
+          "maxLat": 25.339457345208135
+        }
+      }
+    },
+    {
+      "Sheikhpura": {
+        "sub_num": "228",
+        "name": "Sheikhpura",
+        "bbox": {
+          "minLon": 85.60211167958195,
+          "minLat": 24.97640599599396,
+          "maxLon": 86.0182505746657,
+          "maxLat": 25.273960613048914
+        }
+      }
+    },
+    {
+      "Nalanda": {
+        "sub_num": "229",
+        "name": "Nalanda",
+        "bbox": {
+          "minLon": 85.152930904107,
+          "minLat": 24.960786972613707,
+          "maxLon": 85.92676828232474,
+          "maxLat": 25.462126662329045
+        }
+      }
+    },
+    {
+      "Patna": {
+        "sub_num": "230",
+        "name": "Patna",
+        "bbox": {
+          "minLon": 84.68692877338998,
+          "minLat": 25.2032601263426,
+          "maxLon": 86.06892709824483,
+          "maxLat": 25.732875077696534
+        }
+      }
+    },
+    {
+      "Bhojpur": {
+        "sub_num": "231",
+        "name": "Bhojpur",
+        "bbox": {
+          "minLon": 84.27322673997406,
+          "minLat": 25.161166982167494,
+          "maxLon": 84.85137008882856,
+          "maxLat": 25.738374874777705
+        }
+      }
+    },
+    {
+      "Buxar": {
+        "sub_num": "232",
+        "name": "Buxar",
+        "bbox": {
+          "minLon": 83.77212883786822,
+          "minLat": 25.261472668164444,
+          "maxLon": 84.39363384841919,
+          "maxLat": 25.747505981655006
+        }
+      }
+    },
+    {
+      "Kaimur (Bhabua)": {
+        "sub_num": "233",
+        "name": "Kaimur (Bhabua)",
+        "bbox": {
+          "minLon": 83.32021588676227,
+          "minLat": 24.53999571481058,
+          "maxLon": 83.87403575478962,
+          "maxLat": 25.4106316853301
+        }
+      }
+    },
+    {
+      "Rohtas": {
+        "sub_num": "234",
+        "name": "Rohtas",
+        "bbox": {
+          "minLon": 83.49712169417897,
+          "minLat": 24.50345262882693,
+          "maxLon": 84.4633095929337,
+          "maxLat": 25.375239630615443
+        }
+      }
+    },
+    {
+      "Aurangabad": {
+        "sub_num": "235",
+        "name": "Aurangabad",
+        "bbox": {
+          "minLon": 84.00779151214975,
+          "minLat": 24.476708146132285,
+          "maxLon": 84.74739833673446,
+          "maxLat": 25.128998640130764
+        }
+      }
+    },
+    {
+      "Gaya": {
+        "sub_num": "236",
+        "name": "Gaya",
+        "bbox": {
+          "minLon": 84.29150074199747,
+          "minLat": 24.28600646908134,
+          "maxLon": 85.39751230585416,
+          "maxLat": 25.073008997045562
+        }
+      }
+    },
+    {
+      "Nawada": {
+        "sub_num": "237",
+        "name": "Nawada",
+        "bbox": {
+          "minLon": 85.26665975976185,
+          "minLat": 24.5212626106046,
+          "maxLon": 86.05510484493558,
+          "maxLat": 25.113285673827956
+        }
+      }
+    },
+    {
+      "Jamui": {
+        "sub_num": "238",
+        "name": "Jamui",
+        "bbox": {
+          "minLon": 85.82133375314785,
+          "minLat": 24.36781635027268,
+          "maxLon": 86.61907592989671,
+          "maxLat": 25.14383871176109
+        }
+      }
+    },
+    {
+      "Jehanabad": {
+        "sub_num": "239",
+        "name": "Jehanabad",
+        "bbox": {
+          "minLon": 84.82984498228231,
+          "minLat": 24.98671604929339,
+          "maxLon": 85.21147709088488,
+          "maxLat": 25.31924624630212
+        }
+      }
+    },
+    {
+      "Arwal": {
+        "sub_num": "240",
+        "name": "Arwal",
+        "bbox": {
+          "minLon": 84.44519909327518,
+          "minLat": 25.047621793869094,
+          "maxLon": 84.86500963558878,
+          "maxLat": 25.314980539956885
+        }
+      }
+    }
+  ]
+  

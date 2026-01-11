@@ -1,0 +1,159 @@
+[
+    {
+      "Uttar Kashi": {
+        "sub_num": "056",
+        "name": "Uttar Kashi",
+        "bbox": {
+          "minLon": 77.81135734788496,
+          "minLat": 30.468223987088614,
+          "maxLon": 79.41052928472567,
+          "maxLat": 31.462079481103537
+        }
+      }
+    },
+    {
+      "Chamoli": {
+        "sub_num": "057",
+        "name": "Chamoli",
+        "bbox": {
+          "minLon": 79.07599049700198,
+          "minLat": 29.925574314923985,
+          "maxLon": 80.10203860669115,
+          "maxLat": 31.075398112968205
+        }
+      }
+    },
+    {
+      "Rudra Prayag": {
+        "sub_num": "058",
+        "name": "Rudra Prayag",
+        "bbox": {
+          "minLon": 78.816852509625,
+          "minLat": 30.174714817074175,
+          "maxLon": 79.3560230517492,
+          "maxLat": 30.807450638836656
+        }
+      }
+    },
+    {
+      "Tehri Garhwal": {
+        "sub_num": "059",
+        "name": "Tehri Garhwal",
+        "bbox": {
+          "minLon": 77.93613318544061,
+          "minLat": 30.05245060367986,
+          "maxLon": 79.03531667368733,
+          "maxLat": 30.878627573200625
+        }
+      }
+    },
+    {
+      "Dehradun": {
+        "sub_num": "060",
+        "name": "Dehradun",
+        "bbox": {
+          "minLon": 77.57231569120493,
+          "minLat": 29.96216679610198,
+          "maxLon": 78.31041485079042,
+          "maxLat": 31.033085465369442
+        }
+      }
+    },
+    {
+      "Pauri Garhwal": {
+        "sub_num": "061",
+        "name": "Pauri Garhwal",
+        "bbox": {
+          "minLon": 78.2020920133963,
+          "minLat": 29.434259327136832,
+          "maxLon": 79.23187124597365,
+          "maxLat": 30.260246456184813
+        }
+      }
+    },
+    {
+      "Pithoragarh": {
+        "sub_num": "062",
+        "name": "Pithoragarh",
+        "bbox": {
+          "minLon": 79.82094801440566,
+          "minLat": 29.443786673286528,
+          "maxLon": 81.0466055369807,
+          "maxLat": 30.805884580663882
+        }
+      }
+    },
+    {
+      "Bageshwar": {
+        "sub_num": "063",
+        "name": "Bageshwar",
+        "bbox": {
+          "minLon": 79.47059804494319,
+          "minLat": 29.700881415136806,
+          "maxLon": 80.15863214619718,
+          "maxLat": 30.31670139927833
+        }
+      }
+    },
+    {
+      "Almora": {
+        "sub_num": "064",
+        "name": "Almora",
+        "bbox": {
+          "minLon": 79.03709684442462,
+          "minLat": 29.425481110829637,
+          "maxLon": 80.07791490040339,
+          "maxLat": 29.97970521362847
+        }
+      }
+    },
+    {
+      "Champawat": {
+        "sub_num": "065",
+        "name": "Champawat",
+        "bbox": {
+          "minLon": 79.79352166365393,
+          "minLat": 28.94486714706829,
+          "maxLon": 80.31851562727644,
+          "maxLat": 29.523550469170484
+        }
+      }
+    },
+    {
+      "Nainital": {
+        "sub_num": "066",
+        "name": "Nainital",
+        "bbox": {
+          "minLon": 78.85088940983896,
+          "minLat": 28.978394499355726,
+          "maxLon": 79.97681088869982,
+          "maxLat": 29.61198882634579
+        }
+      }
+    },
+    {
+      "Udam Singh Nagar": {
+        "sub_num": "067",
+        "name": "Udam Singh Nagar",
+        "bbox": {
+          "minLon": 78.71836839581997,
+          "minLat": 28.72283103469029,
+          "maxLon": 80.07716589140769,
+          "maxLat": 29.368364042640284
+        }
+      }
+    },
+    {
+      "Haridwar": {
+        "sub_num": "068",
+        "name": "Haridwar",
+        "bbox": {
+          "minLon": 77.71413294609444,
+          "minLat": 29.580065106051883,
+          "maxLon": 78.33565855321825,
+          "maxLat": 30.24236932334623
+        }
+      }
+    }
+  ]
+  

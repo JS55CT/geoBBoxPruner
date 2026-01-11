@@ -1,0 +1,99 @@
+[
+    {
+      "West Tripura": {
+        "sub_num": "289",
+        "name": "West Tripura",
+        "bbox": {
+          "minLon": 91.22150202301853,
+          "minLat": 23.725854064113328,
+          "maxLon": 91.56762773762095,
+          "maxLat": 24.111498589378282
+        }
+      }
+    },
+    {
+      "South Tripura": {
+        "sub_num": "290",
+        "name": "South Tripura",
+        "bbox": {
+          "minLon": 91.30978553770197,
+          "minLat": 22.938351491654313,
+          "maxLon": 91.824459747867,
+          "maxLat": 23.425504323392452
+        }
+      }
+    },
+    {
+      "Dhalai": {
+        "sub_num": "291",
+        "name": "Dhalai",
+        "bbox": {
+          "minLon": 91.74502847813167,
+          "minLat": 23.400044751219127,
+          "maxLon": 92.17356771021089,
+          "maxLat": 24.246974818607164
+        }
+      }
+    },
+    {
+      "North Tripura": {
+        "sub_num": "292",
+        "name": "North Tripura",
+        "bbox": {
+          "minLon": 92.07261052544554,
+          "minLat": 23.651899625350968,
+          "maxLon": 92.3320574461437,
+          "maxLat": 24.53186712630424
+        }
+      }
+    },
+    {
+      "Sepahijala": {
+        "sub_num": "707",
+        "name": "Sepahijala",
+        "bbox": {
+          "minLon": 91.14919851765178,
+          "minLat": 23.27650404394171,
+          "maxLon": 91.57651247642954,
+          "maxLat": 23.78709303573016
+        }
+      }
+    },
+    {
+      "Khowai": {
+        "sub_num": "708",
+        "name": "Khowai",
+        "bbox": {
+          "minLon": 91.47308300133986,
+          "minLat": 23.675098535922338,
+          "maxLon": 91.80710894086783,
+          "maxLat": 24.23352930666382
+        }
+      }
+    },
+    {
+      "Gomati": {
+        "sub_num": "709",
+        "name": "Gomati",
+        "bbox": {
+          "minLon": 91.3752637827789,
+          "minLat": 23.08363117800357,
+          "maxLon": 91.84326899667938,
+          "maxLat": 23.768951965016182
+        }
+      }
+    },
+    {
+      "Unakoti": {
+        "sub_num": "710",
+        "name": "Unakoti",
+        "bbox": {
+          "minLon": 91.90270287795977,
+          "minLat": 24.010042643906353,
+          "maxLon": 92.20340751612744,
+          "maxLat": 24.39370771775074
+        }
+      }
+    }
+  ]
+  

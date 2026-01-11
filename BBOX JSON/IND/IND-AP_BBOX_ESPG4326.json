@@ -1,0 +1,315 @@
+[
+    {
+      "Srikakulam": {
+        "sub_num": "542",
+        "name": "Srikakulam",
+        "bbox": {
+          "minLon": 83.58572894911441,
+          "minLat": 18.077830611300143,
+          "maxLon": 84.76146375590628,
+          "maxLat": 19.166912968171886
+        }
+      }
+    },
+    {
+      "Vizianagaram": {
+        "sub_num": "543",
+        "name": "Vizianagaram",
+        "bbox": {
+          "minLon": 83.0055980785921,
+          "minLat": 17.840397989990677,
+          "maxLon": 83.83617862689611,
+          "maxLat": 18.710814421185074
+        }
+      }
+    },
+    {
+      "Visakhapatnam": {
+        "sub_num": "544",
+        "name": "Visakhapatnam",
+        "bbox": {
+          "minLon": 83.10989258907956,
+          "minLat": 17.54575079329318,
+          "maxLon": 83.52502683260408,
+          "maxLat": 18.064767655822283
+        }
+      }
+    },
+    {
+      "East Godavari": {
+        "sub_num": "545",
+        "name": "East Godavari",
+        "bbox": {
+          "minLon": 81.29189904493172,
+          "minLat": 16.67351933039954,
+          "maxLon": 82.07812932658594,
+          "maxLat": 17.318515959367957
+        }
+      }
+    },
+    {
+      "West Godavari": {
+        "sub_num": "546",
+        "name": "West Godavari",
+        "bbox": {
+          "minLon": 81.32633968756024,
+          "minLat": 16.31648475427741,
+          "maxLon": 81.85841273943929,
+          "maxLat": 16.972081544609065
+        }
+      }
+    },
+    {
+      "Krishna": {
+        "sub_num": "547",
+        "name": "Krishna",
+        "bbox": {
+          "minLon": 80.6518600697956,
+          "minLat": 15.705221083598213,
+          "maxLon": 81.55463116840427,
+          "maxLat": 16.76245283514017
+        }
+      }
+    },
+    {
+      "Guntur": {
+        "sub_num": "548",
+        "name": "Guntur",
+        "bbox": {
+          "minLon": 80.12290796284293,
+          "minLat": 15.980824509388146,
+          "maxLon": 80.8042837619908,
+          "maxLat": 16.58908306315015
+        }
+      }
+    },
+    {
+      "Prakasam": {
+        "sub_num": "549",
+        "name": "Prakasam",
+        "bbox": {
+          "minLon": 78.73654742795155,
+          "minLat": 15.021775982259525,
+          "maxLon": 80.27380075241912,
+          "maxLat": 16.305816002740684
+        }
+      }
+    },
+    {
+      "Sri Potti Sriramulu Nellore": {
+        "sub_num": "550",
+        "name": "Sri Potti Sriramulu Nellore",
+        "bbox": {
+          "minLon": 79.08140575263874,
+          "minLat": 14.106266864936117,
+          "maxLon": 80.19551324016142,
+          "maxLat": 15.328249300413509
+        }
+      }
+    },
+    {
+      "Y.S.R.": {
+        "sub_num": "551",
+        "name": "Y.S.R.",
+        "bbox": {
+          "minLon": 77.94403889174352,
+          "minLat": 14.112451442298427,
+          "maxLon": 79.29292494781478,
+          "maxLat": 15.229245618693101
+        }
+      }
+    },
+    {
+      "Kurnool": {
+        "sub_num": "552",
+        "name": "Kurnool",
+        "bbox": {
+          "minLon": 76.97382567184506,
+          "minLat": 15.130720949280196,
+          "maxLon": 78.27339270695353,
+          "maxLat": 15.964555371325025
+        }
+      }
+    },
+    {
+      "Ananthapuramu": {
+        "sub_num": "553",
+        "name": "Ananthapuramu",
+        "bbox": {
+          "minLon": 76.76056909718027,
+          "minLat": 14.214152106372625,
+          "maxLon": 78.13725468124026,
+          "maxLat": 15.234277476927241
+        }
+      }
+    },
+    {
+      "Chittoor": {
+        "sub_num": "554",
+        "name": "Chittoor",
+        "bbox": {
+          "minLon": 78.1993225999018,
+          "minLat": 12.6240111221884,
+          "maxLon": 79.7948388193376,
+          "maxLat": 13.782082875121297
+        }
+      }
+    },
+    {
+      "Parvathipuram Manyam": {
+        "sub_num": "803",
+        "name": "Parvathipuram Manyam",
+        "bbox": {
+          "minLon": 82.99932304899016,
+          "minLat": 18.341120799409566,
+          "maxLon": 83.92478563120156,
+          "maxLat": 19.162666443962067
+        }
+      }
+    },
+    {
+      "Anakapalli": {
+        "sub_num": "804",
+        "name": "Anakapalli",
+        "bbox": {
+          "minLon": 82.32889476937655,
+          "minLat": 17.248561875310628,
+          "maxLon": 83.16376628772178,
+          "maxLat": 18.093767529659146
+        }
+      }
+    },
+    {
+      "Alluri Sitharama Raju": {
+        "sub_num": "805",
+        "name": "Alluri Sitharama Raju",
+        "bbox": {
+          "minLon": 80.87606616723768,
+          "minLat": 17.222285130255113,
+          "maxLon": 83.26687335476105,
+          "maxLat": 18.549797890137217
+        }
+      }
+    },
+    {
+      "Kakinada": {
+        "sub_num": "806",
+        "name": "Kakinada",
+        "bbox": {
+          "minLon": 81.898581307119,
+          "minLat": 16.704282366588714,
+          "maxLon": 82.60457911702588,
+          "maxLat": 17.53589171772175
+        }
+      }
+    },
+    {
+      "Dr. B.R. Ambedkar Konaseema": {
+        "sub_num": "807",
+        "name": "Dr. B.R. Ambedkar Konaseema",
+        "bbox": {
+          "minLon": 81.69760586929968,
+          "minLat": 16.3065508159435,
+          "maxLon": 82.3653380936416,
+          "maxLat": 16.980647442714307
+        }
+      }
+    },
+    {
+      "Eluru": {
+        "sub_num": "808",
+        "name": "Eluru",
+        "bbox": {
+          "minLon": 80.68634300780265,
+          "minLat": 16.37610429421748,
+          "maxLon": 81.6806406326952,
+          "maxLat": 17.629117261609892
+        }
+      }
+    },
+    {
+      "Ntr": {
+        "sub_num": "809",
+        "name": "Ntr",
+        "bbox": {
+          "minLon": 79.99876148228037,
+          "minLat": 16.480446123577075,
+          "maxLon": 80.85632427042931,
+          "maxLat": 17.15307199664176
+        }
+      }
+    },
+    {
+      "Bapatla": {
+        "sub_num": "810",
+        "name": "Bapatla",
+        "bbox": {
+          "minLon": 79.86288451687015,
+          "minLat": 15.611338019015799,
+          "maxLon": 80.90323786087771,
+          "maxLat": 16.255989239638286
+        }
+      }
+    },
+    {
+      "Palnadu": {
+        "sub_num": "811",
+        "name": "Palnadu",
+        "bbox": {
+          "minLon": 79.20772336871654,
+          "minLat": 15.823548503587517,
+          "maxLon": 80.42854991788192,
+          "maxLat": 16.82231185271838
+        }
+      }
+    },
+    {
+      "Tirupati": {
+        "sub_num": "812",
+        "name": "Tirupati",
+        "bbox": {
+          "minLon": 78.9805305463296,
+          "minLat": 13.293524142388492,
+          "maxLon": 80.26853931710512,
+          "maxLat": 14.265850262250733
+        }
+      }
+    },
+    {
+      "Annamayya": {
+        "sub_num": "813",
+        "name": "Annamayya",
+        "bbox": {
+          "minLon": 78.06571655756355,
+          "minLat": 13.308111015772129,
+          "maxLon": 79.46890296442626,
+          "maxLat": 14.484648753654037
+        }
+      }
+    },
+    {
+      "Sri Sathya Sai": {
+        "sub_num": "814",
+        "name": "Sri Sathya Sai",
+        "bbox": {
+          "minLon": 76.88591403812966,
+          "minLat": 13.682261569586938,
+          "maxLon": 78.46926185838981,
+          "maxLat": 14.653676821585464
+        }
+      }
+    },
+    {
+      "Nandyal": {
+        "sub_num": "815",
+        "name": "Nandyal",
+        "bbox": {
+          "minLon": 77.65241015836845,
+          "minLat": 14.900417574575187,
+          "maxLon": 78.93104228815717,
+          "maxLat": 16.148859797322405
+        }
+      }
+    }
+  ]
+  
