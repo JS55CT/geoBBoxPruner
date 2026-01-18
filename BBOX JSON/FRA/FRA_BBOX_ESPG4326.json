@@ -54,7 +54,7 @@
       "maxLat": 51.0890974639
     }
   },
-  "GE": {
+  "GES": {
     "name": "Grand Est",
     "sub_id": "GES",
     "sub_num": "44",
@@ -120,7 +120,7 @@
       "maxLat": 46.804287049
     }
   },
-  "PACA": {
+  "PAC": {
     "name": "Provence-Alpes-Côte d'Azur",
     "sub_id": "PAC",
     "sub_num": "93",
