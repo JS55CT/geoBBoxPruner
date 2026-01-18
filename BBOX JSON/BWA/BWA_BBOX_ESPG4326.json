@@ -1,0 +1,124 @@
+{
+    "BWCE": {
+      "name": "Central",
+      "sub_id": "BWCE",
+      "sub_num": "CE",
+      "bbox": {
+        "minLon": 23.88427949,
+        "minLat": -23.96221161,
+        "maxLon": 29.37112129,
+        "maxLat": -19.00034571
+      }
+    },
+    "BWCH": {
+      "name": "Chobe",
+      "sub_id": "BWCH",
+      "sub_num": "CH",
+      "bbox": {
+        "minLon": 23.88284802,
+        "minLat": -19.00162482,
+        "maxLon": 25.98887455,
+        "maxLat": -17.77858257
+      }
+    },
+    "BWGA": {
+      "name": "Gaborone",
+      "sub_id": "BWGA",
+      "sub_num": "GA",
+      "bbox": {
+        "minLon": 25.59718883,
+        "minLat": -25.04741669,
+        "maxLon": 26.18385625,
+        "maxLat": -24.50751495
+      }
+    },
+    "BWGH": {
+      "name": "Ghanzi",
+      "sub_id": "BWGH",
+      "sub_num": "GH",
+      "bbox": {
+        "minLon": 19.99894738,
+        "minLat": -23.32337379,
+        "maxLon": 25.44333506,
+        "maxLat": -20.99538803
+      }
+    },
+    "BWKG": {
+      "name": "Kgalagadi",
+      "sub_id": "BWKG",
+      "sub_num": "KG",
+      "bbox": {
+        "minLon": 19.99808001,
+        "minLat": -26.90680003,
+        "maxLon": 24.49472463,
+        "maxLat": -23.3204931
+      }
+    },
+    "BWKL": {
+      "name": "Kgatleng",
+      "sub_id": "BWKL",
+      "sub_num": "KL",
+      "bbox": {
+        "minLon": 25.8730545,
+        "minLat": -24.68756676,
+        "maxLon": 26.96557093,
+        "maxLat": -23.58136475
+      }
+    },
+    "BWKW": {
+      "name": "Kweneng",
+      "sub_id": "BWKW",
+      "sub_num": "KW",
+      "bbox": {
+        "minLon": 22.95471954,
+        "minLat": -24.76978052,
+        "maxLon": 26.0326879,
+        "maxLat": -22.94325805
+      }
+    },
+    "BWNE": {
+      "name": "North East",
+      "sub_id": "BWNE",
+      "sub_num": "NE",
+      "bbox": {
+        "minLon": 27.21404266,
+        "minLat": -21.56796455,
+        "maxLon": 28.01422715,
+        "maxLat": -20.46787262
+      }
+    },
+    "BWNW": {
+      "name": "North West",
+      "sub_id": "BWNW",
+      "sub_num": "NW",
+      "bbox": {
+        "minLon": 20.9972192,
+        "minLat": -21.00126219,
+        "maxLon": 25.17851782,
+        "maxLat": -18.00066876
+      }
+    },
+    "BWSE": {
+      "name": "South East",
+      "sub_id": "BWSE",
+      "sub_num": "SE",
+      "bbox": {
+        "minLon": 25.52239835,
+        "minLat": -25.47554839,
+        "maxLon": 25.82155001,
+        "maxLat": -25.00646949
+      }
+    },
+    "BWSO": {
+      "name": "Southern",
+      "sub_id": "BWSO",
+      "sub_num": "SO",
+      "bbox": {
+        "minLon": 23.05782712,
+        "minLat": -25.82533836,
+        "maxLon": 25.68543339,
+        "maxLat": -24.00547028
+      }
+    }
+  }
+  

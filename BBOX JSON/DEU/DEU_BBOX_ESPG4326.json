@@ -1,0 +1,179 @@
+{
+    "DEBW": {
+      "name": "Baden-Württemberg",
+      "sub_id": "DEBW",
+      "sub_num": "BW",
+      "bbox": {
+        "minLon": 7.509968996,
+        "minLat": 47.53196239,
+        "maxLon": 10.50019514,
+        "maxLat": 49.79175568
+      }
+    },
+    "DEBY": {
+      "name": "Bayern",
+      "sub_id": "DEBY",
+      "sub_num": "BY",
+      "bbox": {
+        "minLon": 8.976497174,
+        "minLat": 47.27090836,
+        "maxLon": 13.84045255,
+        "maxLat": 50.56328773
+      }
+    },
+    "DEBE": {
+      "name": "Berlin",
+      "sub_id": "DEBE",
+      "sub_num": "BE",
+      "bbox": {
+        "minLon": 13.08409274,
+        "minLat": 52.33878136,
+        "maxLon": 13.7457459,
+        "maxLat": 52.66812444
+      }
+    },
+    "DEBB": {
+      "name": "Brandenburg",
+      "sub_id": "DEBB",
+      "sub_num": "BB",
+      "bbox": {
+        "minLon": 11.26915717,
+        "minLat": 51.35971069,
+        "maxLon": 14.7659868,
+        "maxLat": 53.56864929
+      }
+    },
+    "DEHB": {
+      "name": "Bremen",
+      "sub_id": "DEHB",
+      "sub_num": "HB",
+      "bbox": {
+        "minLon": 8.502796054,
+        "minLat": 53.01195145,
+        "maxLon": 8.985103249,
+        "maxLat": 53.60791683
+      }
+    },
+    "DEHH": {
+      "name": "Hamburg",
+      "sub_id": "DEHH",
+      "sub_num": "HH",
+      "bbox": {
+        "minLon": 8.424223661,
+        "minLat": 53.39600921,
+        "maxLon": 10.32526994,
+        "maxLat": 53.96311593
+      }
+    },
+    "DEHE": {
+      "name": "Hessen",
+      "sub_id": "DEHE",
+      "sub_num": "HE",
+      "bbox": {
+        "minLon": 7.773321628,
+        "minLat": 49.39502478,
+        "maxLon": 10.23719835,
+        "maxLat": 51.65755522
+      }
+    },
+    "DEMV": {
+      "name": "Mecklenburg-Vorpommern",
+      "sub_id": "DEMV",
+      "sub_num": "MV",
+      "bbox": {
+        "minLon": 10.59524274,
+        "minLat": 53.11969256,
+        "maxLon": 14.41374063,
+        "maxLat": 54.68439817
+      }
+    },
+    "DENI": {
+      "name": "Niedersachsen",
+      "sub_id": "DENI",
+      "sub_num": "NI",
+      "bbox": {
+        "minLon": 6.630186916,
+        "minLat": 51.29439354,
+        "maxLon": 11.59136176,
+        "maxLat": 53.89239192
+      }
+    },
+    "DENW": {
+      "name": "Nordrhein-Westfalen",
+      "sub_id": "DENW",
+      "sub_num": "NW",
+      "bbox": {
+        "minLon": 5.865434646,
+        "minLat": 50.3232193,
+        "maxLon": 9.461862683,
+        "maxLat": 52.53599882
+      }
+    },
+    "DERP": {
+      "name": "Rheinland-Pfalz",
+      "sub_id": "DERP",
+      "sub_num": "RP",
+      "bbox": {
+        "minLon": 6.113233209,
+        "minLat": 48.96594596,
+        "maxLon": 8.507161379,
+        "maxLat": 50.94326019
+      }
+    },
+    "DESL": {
+      "name": "Saarland",
+      "sub_id": "DESL",
+      "sub_num": "SL",
+      "bbox": {
+        "minLon": 6.356617213,
+        "minLat": 49.11171079,
+        "maxLon": 7.403152108,
+        "maxLat": 49.64138031
+      }
+    },
+    "DESN": {
+      "name": "Sachsen",
+      "sub_id": "DESN",
+      "sub_num": "SN",
+      "bbox": {
+        "minLon": 11.89033067,
+        "minLat": 50.17627716,
+        "maxLon": 15.04227054,
+        "maxLat": 51.7128824
+      }
+    },
+    "DEST": {
+      "name": "Sachsen-Anhalt",
+      "sub_id": "DEST",
+      "sub_num": "ST",
+      "bbox": {
+        "minLon": 10.56966603,
+        "minLat": 50.93952656,
+        "maxLon": 13.16740191,
+        "maxLat": 53.04014909
+      }
+    },
+    "DESH": {
+      "name": "Schleswig-Holstein",
+      "sub_id": "DESH",
+      "sub_num": "SH",
+      "bbox": {
+        "minLon": 7.860088348,
+        "minLat": 53.36092401,
+        "maxLon": 11.31351888,
+        "maxLat": 55.05633247
+      }
+    },
+    "DETH": {
+      "name": "Thüringen",
+      "sub_id": "DETH",
+      "sub_num": "TH",
+      "bbox": {
+        "minLon": 9.87650156,
+        "minLat": 50.20498753,
+        "maxLon": 12.65391517,
+        "maxLat": 51.65419579
+      }
+    }
+  }
+  

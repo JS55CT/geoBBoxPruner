@@ -1,0 +1,410 @@
+{
+    "MDAN": {
+      "name": "Anenii Noi",
+      "sub_id": "MDAN",
+      "sub_num": "AN",
+      "bbox": {
+        "minLon": 28.94941866,
+        "minLat": 46.70741379,
+        "maxLon": 29.47576666,
+        "maxLat": 47.1388793
+      }
+    },
+    "MDBS": {
+      "name": "Basarabeasca",
+      "sub_id": "MDBS",
+      "sub_num": "BS",
+      "bbox": {
+        "minLon": 28.72679114,
+        "minLat": 46.2610532,
+        "maxLon": 29.02573061,
+        "maxLat": 46.53671265
+      }
+    },
+    "MDBD": {
+      "name": "Bender",
+      "sub_id": "MDBD",
+      "sub_num": "BD",
+      "bbox": {
+        "minLon": 29.39419901,
+        "minLat": 46.75685763,
+        "maxLon": 29.50619888,
+        "maxLat": 46.91436768
+      }
+    },
+    "MDBR": {
+      "name": "Briceni",
+      "sub_id": "MDBR",
+      "sub_num": "BR",
+      "bbox": {
+        "minLon": 26.61653423,
+        "minLat": 48.12191963,
+        "maxLon": 27.27597511,
+        "maxLat": 48.43477249
+      }
+    },
+    "MDBA": {
+      "name": "Bălți",
+      "sub_id": "MDBA",
+      "sub_num": "BA",
+      "bbox": {
+        "minLon": 27.78433883,
+        "minLat": 47.72657275,
+        "maxLon": 28.05137467,
+        "maxLat": 47.82448411
+      }
+    },
+    "MDCA": {
+      "name": "Cahul",
+      "sub_id": "MDCA",
+      "sub_num": "CA",
+      "bbox": {
+        "minLon": 28.08559704,
+        "minLat": 45.46762705,
+        "maxLon": 28.56365097,
+        "maxLat": 46.15404725
+      }
+    },
+    "MDCT": {
+      "name": "Cantemir",
+      "sub_id": "MDCT",
+      "sub_num": "CT",
+      "bbox": {
+        "minLon": 28.10672844,
+        "minLat": 46.07873082,
+        "maxLon": 28.55631495,
+        "maxLat": 46.42075539
+      }
+    },
+    "MDCU": {
+      "name": "Chișinău",
+      "sub_id": "MDCU",
+      "sub_num": "CU",
+      "bbox": {
+        "minLon": 28.63117778,
+        "minLat": 46.85858214,
+        "maxLon": 29.12360084,
+        "maxLat": 47.1563834
+      }
+    },
+    "MDCM": {
+      "name": "Cimișlia",
+      "sub_id": "MDCM",
+      "sub_num": "CM",
+      "bbox": {
+        "minLon": 28.54941309,
+        "minLat": 46.41237342,
+        "maxLon": 29.06345546,
+        "maxLat": 46.77103472
+      }
+    },
+    "MDCR": {
+      "name": "Criuleni",
+      "sub_id": "MDCR",
+      "sub_num": "CR",
+      "bbox": {
+        "minLon": 28.74730873,
+        "minLat": 46.96951389,
+        "maxLon": 29.29672897,
+        "maxLat": 47.327106
+      }
+    },
+    "MDCL": {
+      "name": "Călărași",
+      "sub_id": "MDCL",
+      "sub_num": "CL",
+      "bbox": {
+        "minLon": 28.04673028,
+        "minLat": 47.15889931,
+        "maxLon": 28.56531382,
+        "maxLat": 47.44635165
+      }
+    },
+    "MDCS": {
+      "name": "Căușeni",
+      "sub_id": "MDCS",
+      "sub_num": "CS",
+      "bbox": {
+        "minLon": 28.9242506,
+        "minLat": 46.37620926,
+        "maxLon": 29.6951232,
+        "maxLat": 46.83377266
+      }
+    },
+    "MDDO": {
+      "name": "Dondușeni",
+      "sub_id": "MDDO",
+      "sub_num": "DO",
+      "bbox": {
+        "minLon": 27.48751569,
+        "minLat": 48.04767609,
+        "maxLon": 27.95472992,
+        "maxLat": 48.38658929
+      }
+    },
+    "MDDR": {
+      "name": "Drochia",
+      "sub_id": "MDDR",
+      "sub_num": "DR",
+      "bbox": {
+        "minLon": 27.6228056,
+        "minLat": 47.81975269,
+        "maxLon": 28.09099984,
+        "maxLat": 48.24075222
+      }
+    },
+    "MDDU": {
+      "name": "Dubăsari",
+      "sub_id": "MDDU",
+      "sub_num": "DU",
+      "bbox": {
+        "minLon": 28.99036968,
+        "minLat": 47.07473826,
+        "maxLon": 29.36384428,
+        "maxLat": 47.41452992
+      }
+    },
+    "MDED": {
+      "name": "Edineț",
+      "sub_id": "MDED",
+      "sub_num": "ED",
+      "bbox": {
+        "minLon": 27.0233227,
+        "minLat": 47.94019461,
+        "maxLon": 27.5418874,
+        "maxLat": 48.34834099
+      }
+    },
+    "MDFL": {
+      "name": "Florești",
+      "sub_id": "MDFL",
+      "sub_num": "FL",
+      "bbox": {
+        "minLon": 28.02313006,
+        "minLat": 47.690992,
+        "maxLon": 28.75779641,
+        "maxLat": 48.07042122
+      }
+    },
+    "MDFA": {
+      "name": "Fălești",
+      "sub_id": "MDFA",
+      "sub_num": "FA",
+      "bbox": {
+        "minLon": 27.4011575,
+        "minLat": 47.3722744,
+        "maxLon": 28.00288129,
+        "maxLat": 47.77782762
+      }
+    },
+    "MDGL": {
+      "name": "Glodeni",
+      "sub_id": "MDGL",
+      "sub_num": "GL",
+      "bbox": {
+        "minLon": 27.25103927,
+        "minLat": 47.58455527,
+        "maxLon": 27.80449486,
+        "maxLat": 47.86944044
+      }
+    },
+    "MDGA": {
+      "name": "Găgăuzia, Unitate Teritorială Autonomă (UTAG)",
+      "sub_id": "MDGA",
+      "sub_num": "GA",
+      "bbox": {
+        "minLon": 28.29223836,
+        "minLat": 45.48577368,
+        "maxLon": 29.00130212,
+        "maxLat": 46.47141695
+      }
+    },
+    "MDHI": {
+      "name": "Hîncești",
+      "sub_id": "MDHI",
+      "sub_num": "HI",
+      "bbox": {
+        "minLon": 28.08340585,
+        "minLat": 46.60416484,
+        "maxLon": 28.74276102,
+        "maxLat": 47.08911896
+      }
+    },
+    "MDIA": {
+      "name": "Ialoveni",
+      "sub_id": "MDIA",
+      "sub_num": "IA",
+      "bbox": {
+        "minLon": 28.46363044,
+        "minLat": 46.65582418,
+        "maxLon": 29.10242677,
+        "maxLat": 47.07576156
+      }
+    },
+    "MDLE": {
+      "name": "Leova",
+      "sub_id": "MDLE",
+      "sub_num": "LE",
+      "bbox": {
+        "minLon": 28.21004152,
+        "minLat": 46.33656621,
+        "maxLon": 28.57976091,
+        "maxLat": 46.70690417
+      }
+    },
+    "MDNI": {
+      "name": "Nisporeni",
+      "sub_id": "MDNI",
+      "sub_num": "NI",
+      "bbox": {
+        "minLon": 27.94512677,
+        "minLat": 46.90535545,
+        "maxLon": 28.32892466,
+        "maxLat": 47.2595787
+      }
+    },
+    "MDOC": {
+      "name": "Ocnița",
+      "sub_id": "MDOC",
+      "sub_num": "OC",
+      "bbox": {
+        "minLon": 27.21633017,
+        "minLat": 48.21448803,
+        "maxLon": 27.88018155,
+        "maxLat": 48.49193573
+      }
+    },
+    "MDOR": {
+      "name": "Orhei",
+      "sub_id": "MDOR",
+      "sub_num": "OR",
+      "bbox": {
+        "minLon": 28.49604333,
+        "minLat": 47.17879057,
+        "maxLon": 29.11945522,
+        "maxLat": 47.62193441
+      }
+    },
+    "MDRE": {
+      "name": "Rezina",
+      "sub_id": "MDRE",
+      "sub_num": "RE",
+      "bbox": {
+        "minLon": 28.59466565,
+        "minLat": 47.52509594,
+        "maxLon": 29.02866602,
+        "maxLat": 47.88416648
+      }
+    },
+    "MDRI": {
+      "name": "Rîșcani",
+      "sub_id": "MDRI",
+      "sub_num": "RI",
+      "bbox": {
+        "minLon": 27.16024578,
+        "minLat": 47.75469303,
+        "maxLon": 27.92096853,
+        "maxLat": 48.09221578
+      }
+    },
+    "MDSO": {
+      "name": "Soroca",
+      "sub_id": "MDSO",
+      "sub_num": "SO",
+      "bbox": {
+        "minLon": 27.81841171,
+        "minLat": 47.97559977,
+        "maxLon": 28.63543797,
+        "maxLat": 48.35404873
+      }
+    },
+    "MDST": {
+      "name": "Strășeni",
+      "sub_id": "MDST",
+      "sub_num": "ST",
+      "bbox": {
+        "minLon": 28.23290634,
+        "minLat": 46.98841906,
+        "maxLon": 28.78486562,
+        "maxLat": 47.33502388
+      }
+    },
+    "MDSN": {
+      "name": "Stînga Nistrului, unitatea teritorială din",
+      "sub_id": "MDSN",
+      "sub_num": "SN",
+      "bbox": {
+        "minLon": 28.49247074,
+        "minLat": 46.54667377,
+        "maxLon": 29.97965956,
+        "maxLat": 48.18260193
+      }
+    },
+    "MDSI": {
+      "name": "Sîngerei",
+      "sub_id": "MDSI",
+      "sub_num": "SI",
+      "bbox": {
+        "minLon": 27.88537514,
+        "minLat": 47.43393838,
+        "maxLon": 28.40692139,
+        "maxLat": 47.91047573
+      }
+    },
+    "MDTA": {
+      "name": "Taraclia",
+      "sub_id": "MDTA",
+      "sub_num": "TA",
+      "bbox": {
+        "minLon": 28.38627899,
+        "minLat": 45.7261759,
+        "maxLon": 29.06719089,
+        "maxLat": 46.23251212
+      }
+    },
+    "MDTE": {
+      "name": "Telenești",
+      "sub_id": "MDTE",
+      "sub_num": "TE",
+      "bbox": {
+        "minLon": 28.14166808,
+        "minLat": 47.39566326,
+        "maxLon": 28.70511222,
+        "maxLat": 47.73765564
+      }
+    },
+    "MDUN": {
+      "name": "Ungheni",
+      "sub_id": "MDUN",
+      "sub_num": "UN",
+      "bbox": {
+        "minLon": 27.5731765,
+        "minLat": 47.02273428,
+        "maxLon": 28.19593442,
+        "maxLat": 47.49011993
+      }
+    },
+    "MDSD": {
+      "name": "Șoldănești",
+      "sub_id": "MDSD",
+      "sub_num": "SD",
+      "bbox": {
+        "minLon": 28.402812,
+        "minLat": 47.70280838,
+        "maxLon": 28.97520924,
+        "maxLat": 47.98604965
+      }
+    },
+    "MDSV": {
+      "name": "Ștefan Vodă",
+      "sub_id": "MDSV",
+      "sub_num": "SV",
+      "bbox": {
+        "minLon": 29.39680266,
+        "minLat": 46.35217667,
+        "maxLon": 30.16358995,
+        "maxLat": 46.67848349
+      }
+    }
+  }
+  

@@ -1,0 +1,212 @@
+{
+    "ZAEC": {
+      "name": "Eastern Cape",
+      "sub_id": "ZAEC",
+      "sub_num": "EC",
+      "bbox": {
+        "minLon": 22.73574996,
+        "minLat": -34.21451569,
+        "maxLon": 30.19340682,
+        "maxLat": -30.00179994
+      }
+    },
+    "ZAFS": {
+      "name": "Free State",
+      "sub_id": "ZAFS",
+      "sub_num": "FS",
+      "bbox": {
+        "minLon": 24.34661996,
+        "minLat": -30.69408,
+        "maxLon": 29.78513002,
+        "maxLat": -26.66886091
+      }
+    },
+    "ZAGP": {
+      "name": "Gauteng",
+      "sub_id": "ZAGP",
+      "sub_num": "GP",
+      "bbox": {
+        "minLon": 27.15634,
+        "minLat": -26.92381001,
+        "maxLon": 29.09842002,
+        "maxLat": -25.10960996
+      }
+    },
+    "ZAKZN": {
+      "name": "Kwazulu-Natal",
+      "sub_id": "ZAKZN",
+      "sub_num": "KZN",
+      "bbox": {
+        "minLon": 28.87347996,
+        "minLat": -31.07976651,
+        "maxLon": 32.89153218,
+        "maxLat": -26.80460215
+      }
+    },
+    "ZALP": {
+      "name": "Limpopo",
+      "sub_id": "ZALP",
+      "sub_num": "LP",
+      "bbox": {
+        "minLon": 26.40835965,
+        "minLat": -25.42279005,
+        "maxLon": 31.88382995,
+        "maxLat": -22.12507999
+      }
+    },
+    "ZAMP": {
+      "name": "Mpumalanga",
+      "sub_id": "ZAMP",
+      "sub_num": "MP",
+      "bbox": {
+        "minLon": 28.24347997,
+        "minLat": -27.50615001,
+        "maxLon": 32.03358996,
+        "maxLat": -23.98208141
+      }
+    },
+    "ZANW": {
+      "name": "North-West",
+      "sub_id": "ZANW",
+      "sub_num": "NW",
+      "bbox": {
+        "minLon": 22.62962508,
+        "minLat": -28.11313999,
+        "maxLon": 28.2985909,
+        "maxLat": -24.63663006
+      }
+    },
+    "ZANC": {
+      "name": "Northern Cape",
+      "sub_id": "ZANC",
+      "sub_num": "NC",
+      "bbox": {
+        "minLon": 16.45339966,
+        "minLat": -32.94500005,
+        "maxLon": 25.54933,
+        "maxLat": -24.76530528
+      }
+    },
+    "ZAWP": {
+      "name": "Western Cape",
+      "sub_id": "ZAWP",
+      "sub_num": "WP",
+      "bbox": {
+        "minLon": 17.75864685,
+        "minLat": -46.98200226,
+        "maxLon": 38.00346374,
+        "maxLat": -30.43025994
+      }
+    },
+    "SSEC": {
+      "name": "Central Equatoria",
+      "sub_id": "SSEC",
+      "sub_num": "EC",
+      "bbox": {
+        "minLon": 29.79658782,
+        "minLat": 3.483663797,
+        "maxLon": 32.19353998,
+        "maxLat": 6.246369958
+      }
+    },
+    "SSEE": {
+      "name": "Eastern Equatoria",
+      "sub_id": "SSEE",
+      "sub_num": "EE",
+      "bbox": {
+        "minLon": 31.69432998,
+        "minLat": 3.505080939,
+        "maxLon": 35.95035017,
+        "maxLat": 6.000086904
+      }
+    },
+    "SSJG": {
+      "name": "Jonglei",
+      "sub_id": "SSJG",
+      "sub_num": "JG",
+      "bbox": {
+        "minLon": 30.20940495,
+        "minLat": 5.729550004,
+        "maxLon": 35.02174211,
+        "maxLat": 9.519610405
+      }
+    },
+    "SSLK": {
+      "name": "Lakes",
+      "sub_id": "SSLK",
+      "sub_num": "LK",
+      "bbox": {
+        "minLon": 28.46691,
+        "minLat": 5.680529952,
+        "maxLon": 31.69808996,
+        "maxLat": 7.862169981
+      }
+    },
+    "SSBN": {
+      "name": "Northern Bahr el-Ghazal",
+      "sub_id": "SSBN",
+      "sub_num": "BN",
+      "bbox": {
+        "minLon": 26.13292003,
+        "minLat": 7.914119959,
+        "maxLon": 28.03886998,
+        "maxLat": 9.910959959
+      }
+    },
+    "SSUY": {
+      "name": "Unity",
+      "sub_id": "SSUY",
+      "sub_num": "UY",
+      "bbox": {
+        "minLon": 28.64383543,
+        "minLat": 7.044890046,
+        "maxLon": 30.74971974,
+        "maxLat": 10.2888
+      }
+    },
+    "SSNU": {
+      "name": "Upper Nile",
+      "sub_id": "SSNU",
+      "sub_num": "NU",
+      "bbox": {
+        "minLon": 30.74828505,
+        "minLat": 7.938390016,
+        "maxLon": 34.14764285,
+        "maxLat": 12.2357012
+      }
+    },
+    "SSWR": {
+      "name": "Warrap",
+      "sub_id": "SSWR",
+      "sub_num": "WR",
+      "bbox": {
+        "minLon": 27.736866,
+        "minLat": 6.390239954,
+        "maxLon": 29.71243,
+        "maxLat": 9.347922087
+      }
+    },
+    "SSBW": {
+      "name": "Western Bahr el-Ghazal",
+      "sub_id": "SSBW",
+      "sub_num": "BW",
+      "bbox": {
+        "minLon": 24.15038216,
+        "minLat": 6.652192592,
+        "maxLon": 28.54569459,
+        "maxLat": 10.43924332
+      }
+    },
+    "SSEW": {
+      "name": "Western Equatoria",
+      "sub_id": "SSEW",
+      "sub_num": "EW",
+      "bbox": {
+        "minLon": 26.28785193,
+        "minLat": 4.278252124,
+        "maxLon": 30.95688999,
+        "maxLat": 6.803959966
+      }
+    }
+  }
+  

@@ -1,0 +1,91 @@
+{
+    "SKBC": {
+      "name": "Banskobystrický kraj",
+      "sub_id": "SKBC",
+      "sub_num": "BC",
+      "bbox": {
+        "minLon": 18.48018181,
+        "minLat": 48.05368423,
+        "maxLon": 20.46790743,
+        "maxLat": 48.94653797
+      }
+    },
+    "SKBL": {
+      "name": "Bratislavský kraj",
+      "sub_id": "SKBL",
+      "sub_num": "BL",
+      "bbox": {
+        "minLon": 16.83302295,
+        "minLat": 48.00699234,
+        "maxLon": 17.52217948,
+        "maxLat": 48.65441322
+      }
+    },
+    "SKKI": {
+      "name": "Košický kraj",
+      "sub_id": "SKKI",
+      "sub_num": "KI",
+      "bbox": {
+        "minLon": 20.18198228,
+        "minLat": 48.33702207,
+        "maxLon": 22.38545406,
+        "maxLat": 49.02056694
+      }
+    },
+    "SKNI": {
+      "name": "Nitriansky kraj",
+      "sub_id": "SKNI",
+      "sub_num": "NI",
+      "bbox": {
+        "minLon": 17.7052629,
+        "minLat": 47.72850394,
+        "maxLon": 19.06959415,
+        "maxLat": 48.71337891
+      }
+    },
+    "SKPV": {
+      "name": "Prešovský kraj",
+      "sub_id": "SKPV",
+      "sub_num": "PV",
+      "bbox": {
+        "minLon": 19.86951077,
+        "minLat": 48.76281738,
+        "maxLon": 22.56767213,
+        "maxLat": 49.45856094
+      }
+    },
+    "SKTC": {
+      "name": "Trenčiansky kraj",
+      "sub_id": "SKTC",
+      "sub_num": "TC",
+      "bbox": {
+        "minLon": 17.35301006,
+        "minLat": 48.48897457,
+        "maxLon": 18.82777429,
+        "maxLat": 49.32696497
+      }
+    },
+    "SKTA": {
+      "name": "Trnavský kraj",
+      "sub_id": "SKTA",
+      "sub_num": "TA",
+      "bbox": {
+        "minLon": 16.93369877,
+        "minLat": 47.75989807,
+        "maxLon": 17.98585522,
+        "maxLat": 48.87790096
+      }
+    },
+    "SKZI": {
+      "name": "Žilinský kraj",
+      "sub_id": "SKZI",
+      "sub_num": "ZI",
+      "bbox": {
+        "minLon": 18.37066603,
+        "minLat": 48.74221802,
+        "maxLon": 20.05792606,
+        "maxLat": 49.61322784
+      }
+    }
+  }
+  

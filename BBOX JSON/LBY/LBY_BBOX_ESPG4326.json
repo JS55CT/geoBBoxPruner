@@ -1,0 +1,245 @@
+{
+    "LYBU": {
+      "name": "Al Butnan",
+      "sub_id": "LYBU",
+      "sub_num": "BU",
+      "bbox": {
+        "minLon": 22.99228597,
+        "minLat": 27.96638489,
+        "maxLon": 25.1502316,
+        "maxLat": 32.21358371
+      }
+    },
+    "LYJA": {
+      "name": "Al Jabal al Akhdar",
+      "sub_id": "LYJA",
+      "sub_num": "JA",
+      "bbox": {
+        "minLon": 21.34950197,
+        "minLat": 31.22152305,
+        "maxLon": 22.02260244,
+        "maxLat": 32.94072104
+      }
+    },
+    "LYJG": {
+      "name": "Al Jabal al Gharbi",
+      "sub_id": "LYJG",
+      "sub_num": "JG",
+      "bbox": {
+        "minLon": 11.75244784,
+        "minLat": 28.33101892,
+        "maxLon": 14.9478724,
+        "maxLat": 32.20024109
+      }
+    },
+    "LYJI": {
+      "name": "Al Jafarah",
+      "sub_id": "LYJI",
+      "sub_num": "JI",
+      "bbox": {
+        "minLon": 12.7650764,
+        "minLat": 32.11005795,
+        "maxLon": 13.25224125,
+        "maxLat": 32.92126167
+      }
+    },
+    "LYJU": {
+      "name": "Al Jufrah",
+      "sub_id": "LYJU",
+      "sub_num": "JU",
+      "bbox": {
+        "minLon": 14.3022486,
+        "minLat": 25.86181641,
+        "maxLon": 18.97558022,
+        "maxLat": 29.86289978
+      }
+    },
+    "LYKF": {
+      "name": "Al Kufrah",
+      "sub_id": "LYKF",
+      "sub_num": "KF",
+      "bbox": {
+        "minLon": 18.90749252,
+        "minLat": 19.50090408,
+        "maxLon": 25.01294303,
+        "maxLat": 26.9934082
+      }
+    },
+    "LYMJ": {
+      "name": "Al Marj",
+      "sub_id": "LYMJ",
+      "sub_num": "MJ",
+      "bbox": {
+        "minLon": 20.61164761,
+        "minLat": 31.12477076,
+        "maxLon": 21.70527804,
+        "maxLat": 32.78187501
+      }
+    },
+    "LYMB": {
+      "name": "Al Marqab",
+      "sub_id": "LYMB",
+      "sub_num": "MB",
+      "bbox": {
+        "minLon": 13.25224125,
+        "minLat": 31.84357905,
+        "maxLon": 14.95634675,
+        "maxLat": 32.72494769
+      }
+    },
+    "LYWA": {
+      "name": "Al Wahat",
+      "sub_id": "LYWA",
+      "sub_num": "WA",
+      "bbox": {
+        "minLon": 18.63661182,
+        "minLat": 26.92749023,
+        "maxLon": 25.01991344,
+        "maxLat": 31.2415123
+      }
+    },
+    "LYNQ": {
+      "name": "An Nuqat al Khams",
+      "sub_id": "LYNQ",
+      "sub_num": "NQ",
+      "bbox": {
+        "minLon": 11.47692645,
+        "minLat": 32.19488514,
+        "maxLon": 12.65741086,
+        "maxLat": 33.16720474
+      }
+    },
+    "LYZA": {
+      "name": "Az Zawiyah",
+      "sub_id": "LYZA",
+      "sub_num": "ZA",
+      "bbox": {
+        "minLon": 11.93581319,
+        "minLat": 32.11005795,
+        "maxLon": 13.11446345,
+        "maxLat": 32.8759743
+      }
+    },
+    "LYBA": {
+      "name": "Benghazi",
+      "sub_id": "LYBA",
+      "sub_num": "BA",
+      "bbox": {
+        "minLon": 19.92114508,
+        "minLat": 30.9514184,
+        "maxLon": 21.34720945,
+        "maxLat": 32.56115377
+      }
+    },
+    "LYDR": {
+      "name": "Darnah",
+      "sub_id": "LYDR",
+      "sub_num": "DR",
+      "bbox": {
+        "minLon": 21.98295867,
+        "minLat": 30.96718979,
+        "maxLon": 23.31673098,
+        "maxLat": 32.93831599
+      }
+    },
+    "LYGT": {
+      "name": "Ghat",
+      "sub_id": "LYGT",
+      "sub_num": "GT",
+      "bbox": {
+        "minLon": 9.399842858,
+        "minLat": 24.24545288,
+        "maxLon": 11.35784984,
+        "maxLat": 27.70418656
+      }
+    },
+    "LYMI": {
+      "name": "Misratah",
+      "sub_id": "LYMI",
+      "sub_num": "MI",
+      "bbox": {
+        "minLon": 13.38611257,
+        "minLat": 30.20097709,
+        "maxLon": 15.73757708,
+        "maxLat": 32.42604232
+      }
+    },
+    "LYMQ": {
+      "name": "Murzuq",
+      "sub_id": "LYMQ",
+      "sub_num": "MQ",
+      "bbox": {
+        "minLon": 11.15912902,
+        "minLat": 22.08732605,
+        "maxLon": 18.94235849,
+        "maxLat": 27.18318593
+      }
+    },
+    "LYNL": {
+      "name": "Nalut",
+      "sub_id": "LYNL",
+      "sub_num": "NL",
+      "bbox": {
+        "minLon": 9.391478539,
+        "minLat": 28.22336197,
+        "maxLon": 12.08943593,
+        "maxLat": 32.40417481
+      }
+    },
+    "LYSB": {
+      "name": "Sabha",
+      "sub_id": "LYSB",
+      "sub_num": "SB",
+      "bbox": {
+        "minLon": 13.87592173,
+        "minLat": 26.25732362,
+        "maxLon": 15.99169326,
+        "maxLat": 27.75970459
+      }
+    },
+    "LYSR": {
+      "name": "Surt",
+      "sub_id": "LYSR",
+      "sub_num": "SR",
+      "bbox": {
+        "minLon": 14.76702046,
+        "minLat": 28.46626282,
+        "maxLon": 18.8714155,
+        "maxLat": 31.39988756
+      }
+    },
+    "LYWD": {
+      "name": "Wadi al Hayat",
+      "sub_id": "LYWD",
+      "sub_num": "WD",
+      "bbox": {
+        "minLon": 11.08873451,
+        "minLat": 25.47454834,
+        "maxLon": 14.14932942,
+        "maxLat": 27.18292236
+      }
+    },
+    "LYWS": {
+      "name": "Wadi ash Shati",
+      "sub_id": "LYWS",
+      "sub_num": "WS",
+      "bbox": {
+        "minLon": 9.821052313,
+        "minLat": 26.35070801,
+        "maxLon": 15.9940238,
+        "maxLat": 29.39117432
+      }
+    },
+    "LYTB": {
+      "name": "Tarabulus",
+      "sub_id": "LYTB",
+      "sub_num": "TB",
+      "bbox": {
+        "minLon": 13.20173824,
+        "minLat": 32.15415978,
+        "maxLon": 14.04445004,
+        "maxLat": 32.91054666
+      }
+    }
+  }
+  

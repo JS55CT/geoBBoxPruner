@@ -1,0 +1,278 @@
+{
+    "VEZ": {
+      "name": "Amazonas",
+      "sub_id": "VEZ",
+      "sub_num": "Z",
+      "bbox": {
+        "minLon": -67.86388683,
+        "minLat": 0.647529006,
+        "maxLon": -63.35502994,
+        "maxLat": 6.195135593
+      }
+    },
+    "VEB": {
+      "name": "Anzoátegui",
+      "sub_id": "VEB",
+      "sub_num": "B",
+      "bbox": {
+        "minLon": -65.72620749,
+        "minLat": 7.659873963,
+        "maxLon": -62.67372596,
+        "maxLat": 10.31494033
+      }
+    },
+    "VEC": {
+      "name": "Apure",
+      "sub_id": "VEC",
+      "sub_num": "C",
+      "bbox": {
+        "minLon": -72.43719232,
+        "minLat": 6.058369875,
+        "maxLon": -66.32367718,
+        "maxLat": 8.068256378
+      }
+    },
+    "VED": {
+      "name": "Aragua",
+      "sub_id": "VED",
+      "sub_num": "D",
+      "bbox": {
+        "minLon": -67.88455999,
+        "minLat": 9.38996315,
+        "maxLon": -66.54898298,
+        "maxLat": 10.53733075
+      }
+    },
+    "VEE": {
+      "name": "Barinas",
+      "sub_id": "VEE",
+      "sub_num": "E",
+      "bbox": {
+        "minLon": -71.86773574,
+        "minLat": 7.287358046,
+        "maxLon": -67.50216615,
+        "maxLat": 9.061789513
+      }
+    },
+    "VEF": {
+      "name": "Bolívar",
+      "sub_id": "VEF",
+      "sub_num": "F",
+      "bbox": {
+        "minLon": -67.44111013,
+        "minLat": 3.61113596,
+        "maxLon": -60.28759003,
+        "maxLat": 8.435205341
+      }
+    },
+    "VEG": {
+      "name": "Carabobo",
+      "sub_id": "VEG",
+      "sub_num": "G",
+      "bbox": {
+        "minLon": -68.42616749,
+        "minLat": 9.81323719,
+        "maxLon": -67.51855206,
+        "maxLat": 10.58353877
+      }
+    },
+    "VEH": {
+      "name": "Cojedes",
+      "sub_id": "VEH",
+      "sub_num": "H",
+      "bbox": {
+        "minLon": -68.98920763,
+        "minLat": 8.53325665,
+        "maxLon": -67.75204814,
+        "maxLat": 10.08489132
+      }
+    },
+    "VEY": {
+      "name": "Delta Amacuro",
+      "sub_id": "VEY",
+      "sub_num": "Y",
+      "bbox": {
+        "minLon": -62.61310327,
+        "minLat": 7.791967392,
+        "maxLon": -59.80578005,
+        "maxLat": 10.05968797
+      }
+    },
+    "VEW": {
+      "name": "Dependencias Federales",
+      "sub_id": "VEW",
+      "sub_num": "W",
+      "bbox": {
+        "minLon": -70.92382813,
+        "minLat": 10.63577938,
+        "maxLon": -61.85573447,
+        "maxLat": 15.67274761
+      }
+    },
+    "VEA": {
+      "name": "Distrito Federal",
+      "sub_id": "VEA",
+      "sub_num": "A",
+      "bbox": {
+        "minLon": -67.16287851,
+        "minLat": 10.38594246,
+        "maxLon": -66.79913211,
+        "maxLat": 10.58635712
+      }
+    },
+    "VEI": {
+      "name": "Falcón",
+      "sub_id": "VEI",
+      "sub_num": "I",
+      "bbox": {
+        "minLon": -71.29252362,
+        "minLat": 10.30148506,
+        "maxLon": -68.19721448,
+        "maxLat": 12.19641244
+      }
+    },
+    "VEJ": {
+      "name": "Guárico",
+      "sub_id": "VEJ",
+      "sub_num": "J",
+      "bbox": {
+        "minLon": -68.03193581,
+        "minLat": 7.617988586,
+        "maxLon": -64.77001452,
+        "maxLat": 10.03543138
+      }
+    },
+    "VEX": {
+      "name": "La Guaira",
+      "sub_id": "VEX",
+      "sub_num": "X",
+      "bbox": {
+        "minLon": -67.41441262,
+        "minLat": 10.39044857,
+        "maxLon": -66.30739486,
+        "maxLat": 10.63204944
+      }
+    },
+    "VEK": {
+      "name": "Lara",
+      "sub_id": "VEK",
+      "sub_num": "K",
+      "bbox": {
+        "minLon": -70.8794775,
+        "minLat": 9.39983368,
+        "maxLon": -68.87610579,
+        "maxLat": 10.74428558
+      }
+    },
+    "VEM": {
+      "name": "Miranda",
+      "sub_id": "VEM",
+      "sub_num": "M",
+      "bbox": {
+        "minLon": -67.22318137,
+        "minLat": 9.9375844,
+        "maxLon": -65.43054497,
+        "maxLat": 10.65004289
+      }
+    },
+    "VEN": {
+      "name": "Monagas",
+      "sub_id": "VEN",
+      "sub_num": "N",
+      "bbox": {
+        "minLon": -64.06421983,
+        "minLat": 8.37426579,
+        "maxLon": -61.99507785,
+        "maxLat": 10.31470299
+      }
+    },
+    "VEL": {
+      "name": "Mérida",
+      "sub_id": "VEL",
+      "sub_num": "L",
+      "bbox": {
+        "minLon": -71.95366335,
+        "minLat": 7.668714523,
+        "maxLon": -70.54681575,
+        "maxLat": 9.220077991
+      }
+    },
+    "VEO": {
+      "name": "Nueva Esparta",
+      "sub_id": "VEO",
+      "sub_num": "O",
+      "bbox": {
+        "minLon": -64.40748513,
+        "minLat": 10.7361275,
+        "maxLon": -63.77639151,
+        "maxLat": 11.17987597
+      }
+    },
+    "VEP": {
+      "name": "Portuguesa",
+      "sub_id": "VEP",
+      "sub_num": "P",
+      "bbox": {
+        "minLon": -70.18532014,
+        "minLat": 8.090400696,
+        "maxLon": -68.51100218,
+        "maxLat": 9.840304613
+      }
+    },
+    "VER": {
+      "name": "Sucre",
+      "sub_id": "VER",
+      "sub_num": "R",
+      "bbox": {
+        "minLon": -64.53151822,
+        "minLat": 10.03500784,
+        "maxLon": -61.84735978,
+        "maxLat": 10.76584029
+      }
+    },
+    "VET": {
+      "name": "Trujillo",
+      "sub_id": "VET",
+      "sub_num": "T",
+      "bbox": {
+        "minLon": -71.09734464,
+        "minLat": 8.939824105,
+        "maxLon": -70.00377226,
+        "maxLat": 9.846839905
+      }
+    },
+    "VES": {
+      "name": "Táchira",
+      "sub_id": "VES",
+      "sub_num": "S",
+      "bbox": {
+        "minLon": -72.48998702,
+        "minLat": 7.361011505,
+        "maxLon": -71.31510401,
+        "maxLat": 8.64966023
+      }
+    },
+    "VEU": {
+      "name": "Yaracuy",
+      "sub_id": "VEU",
+      "sub_num": "U",
+      "bbox": {
+        "minLon": -69.23372209,
+        "minLat": 9.837913513,
+        "maxLon": -68.24068081,
+        "maxLat": 10.75349092
+      }
+    },
+    "VEV": {
+      "name": "Zulia",
+      "sub_id": "VEV",
+      "sub_num": "V",
+      "bbox": {
+        "minLon": -73.3564961,
+        "minLat": 8.363256454,
+        "maxLon": -70.66626334,
+        "maxLat": 11.8488369
+      }
+    }
+  }
+  

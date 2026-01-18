@@ -1,0 +1,476 @@
+{
+    "LV002": {
+      "name": "Aizkraukles novads",
+      "sub_id": "LV002",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 24.89019728,
+        "minLat": 56.14665985,
+        "maxLon": 25.94847965,
+        "maxLat": 56.82892799
+      }
+    },
+    "LV007": {
+      "name": "Alūksnes novads",
+      "sub_id": "LV007",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 26.6003269,
+        "minLat": 57.22490788,
+        "maxLon": 27.69047034,
+        "maxLat": 57.63338685
+      }
+    },
+    "LV111": {
+      "name": "Augšdaugavas novads",
+      "sub_id": "LV111",
+      "sub_num": "111",
+      "bbox": {
+        "minLon": 25.82137442,
+        "minLat": 55.67483759,
+        "maxLon": 26.98708534,
+        "maxLat": 56.20862961
+      }
+    },
+    "LV015": {
+      "name": "Balvu novads",
+      "sub_id": "LV015",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 26.85630977,
+        "minLat": 56.77974701,
+        "maxLon": 27.8776933,
+        "maxLat": 57.37232208
+      }
+    },
+    "LV016": {
+      "name": "Bauskas novads",
+      "sub_id": "LV016",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 23.82643199,
+        "minLat": 56.24879837,
+        "maxLon": 25.03555715,
+        "maxLat": 56.71780944
+      }
+    },
+    "LV022": {
+      "name": "Cēsu novads",
+      "sub_id": "LV022",
+      "sub_num": "22",
+      "bbox": {
+        "minLon": 24.78676355,
+        "minLat": 56.92668986,
+        "maxLon": 26.14657366,
+        "maxLat": 57.49282837
+      }
+    },
+    "LVDGV": {
+      "name": "Daugavpils",
+      "sub_id": "LVDGV",
+      "sub_num": "DGV",
+      "bbox": {
+        "minLon": 26.43730652,
+        "minLat": 55.84140301,
+        "maxLon": 26.63880289,
+        "maxLat": 55.95637321
+      }
+    },
+    "LV112": {
+      "name": "Dienvidkurzemes novads",
+      "sub_id": "LV112",
+      "sub_num": "112",
+      "bbox": {
+        "minLon": 20.97120535,
+        "minLat": 56.06889725,
+        "maxLon": 22.01404226,
+        "maxLat": 56.97476161
+      }
+    },
+    "LV026": {
+      "name": "Dobeles novads",
+      "sub_id": "LV026",
+      "sub_num": "26",
+      "bbox": {
+        "minLon": 22.70973206,
+        "minLat": 56.30475998,
+        "maxLon": 23.52998471,
+        "maxLat": 56.81843519
+      }
+    },
+    "LV033": {
+      "name": "Gulbenes novads",
+      "sub_id": "LV033",
+      "sub_num": "33",
+      "bbox": {
+        "minLon": 25.99071205,
+        "minLat": 56.9435215,
+        "maxLon": 27.16335499,
+        "maxLat": 57.41008759
+      }
+    },
+    "LVJEL": {
+      "name": "Jelgava",
+      "sub_id": "LVJEL",
+      "sub_num": "JEL",
+      "bbox": {
+        "minLon": 23.62213814,
+        "minLat": 56.5947473,
+        "maxLon": 23.799999,
+        "maxLat": 56.69175983
+      }
+    },
+    "LV041": {
+      "name": "Jelgavas novads",
+      "sub_id": "LV041",
+      "sub_num": "41",
+      "bbox": {
+        "minLon": 23.38721478,
+        "minLat": 56.32141113,
+        "maxLon": 24.12193549,
+        "maxLat": 56.90072537
+      }
+    },
+    "LV042": {
+      "name": "Jēkabpils novads",
+      "sub_id": "LV042",
+      "sub_num": "42",
+      "bbox": {
+        "minLon": 25.27697968,
+        "minLat": 56.04956389,
+        "maxLon": 26.62767756,
+        "maxLat": 56.6653347
+      }
+    },
+    "LVJUR": {
+      "name": "Jūrmala",
+      "sub_id": "LVJUR",
+      "sub_num": "JUR",
+      "bbox": {
+        "minLon": 23.47201931,
+        "minLat": 56.92406058,
+        "maxLon": 23.97139955,
+        "maxLat": 57.00608253
+      }
+    },
+    "LV047": {
+      "name": "Krāslavas novads",
+      "sub_id": "LV047",
+      "sub_num": "47",
+      "bbox": {
+        "minLon": 26.91363049,
+        "minLat": 55.78342438,
+        "maxLon": 28.09710777,
+        "maxLat": 56.26570702
+      }
+    },
+    "LV050": {
+      "name": "Kuldīgas novads",
+      "sub_id": "LV050",
+      "sub_num": "50",
+      "bbox": {
+        "minLon": 21.39687848,
+        "minLat": 56.49807215,
+        "maxLon": 22.50542712,
+        "maxLat": 57.18894041
+      }
+    },
+    "LVLPX": {
+      "name": "Liepāja",
+      "sub_id": "LVLPX",
+      "sub_num": "LPX",
+      "bbox": {
+        "minLon": 20.96785998,
+        "minLat": 56.46540225,
+        "maxLon": 21.10695374,
+        "maxLat": 56.60891438
+      }
+    },
+    "LV054": {
+      "name": "Limbažu novads",
+      "sub_id": "LV054",
+      "sub_num": "54",
+      "bbox": {
+        "minLon": 24.33255053,
+        "minLat": 57.22157657,
+        "maxLon": 25.11721301,
+        "maxLat": 57.98944473
+      }
+    },
+    "LV058": {
+      "name": "Ludzas novads",
+      "sub_id": "LV058",
+      "sub_num": "58",
+      "bbox": {
+        "minLon": 27.3435688,
+        "minLat": 56.14871979,
+        "maxLon": 28.24105835,
+        "maxLat": 56.87893999
+      }
+    },
+    "LV056": {
+      "name": "Līvānu novads",
+      "sub_id": "LV056",
+      "sub_num": "56",
+      "bbox": {
+        "minLon": 26.08098555,
+        "minLat": 56.18113959,
+        "maxLon": 26.61025774,
+        "maxLat": 56.51762009
+      }
+    },
+    "LV059": {
+      "name": "Madonas novads",
+      "sub_id": "LV059",
+      "sub_num": "59",
+      "bbox": {
+        "minLon": 25.47899556,
+        "minLat": 56.58188581,
+        "maxLon": 26.99105585,
+        "maxLat": 57.10101128
+      }
+    },
+    "LV062": {
+      "name": "Mārupes novads",
+      "sub_id": "LV062",
+      "sub_num": "62",
+      "bbox": {
+        "minLon": 23.49517596,
+        "minLat": 56.80077553,
+        "maxLon": 24.08256555,
+        "maxLat": 56.98814392
+      }
+    },
+    "LV067": {
+      "name": "Ogres novads",
+      "sub_id": "LV067",
+      "sub_num": "67",
+      "bbox": {
+        "minLon": 24.43185306,
+        "minLat": 56.54033303,
+        "maxLon": 25.55073559,
+        "maxLat": 56.9970597
+      }
+    },
+    "LV068": {
+      "name": "Olaines novads",
+      "sub_id": "LV068",
+      "sub_num": "68",
+      "bbox": {
+        "minLon": 23.74792206,
+        "minLat": 56.66384625,
+        "maxLon": 24.25537074,
+        "maxLat": 56.88025475
+      }
+    },
+    "LV073": {
+      "name": "Preiļu novads",
+      "sub_id": "LV073",
+      "sub_num": "73",
+      "bbox": {
+        "minLon": 26.28828728,
+        "minLat": 56.05816841,
+        "maxLon": 27.14405668,
+        "maxLat": 56.56075001
+      }
+    },
+    "LV080": {
+      "name": "Ropažu novads",
+      "sub_id": "LV080",
+      "sub_num": "80",
+      "bbox": {
+        "minLon": 24.1506933,
+        "minLat": 56.86997926,
+        "maxLon": 24.82103205,
+        "maxLat": 57.09690535
+      }
+    },
+    "LVREZ": {
+      "name": "Rēzekne",
+      "sub_id": "LVREZ",
+      "sub_num": "REZ",
+      "bbox": {
+        "minLon": 27.30107343,
+        "minLat": 56.47911429,
+        "maxLon": 27.38363874,
+        "maxLat": 56.53907776
+      }
+    },
+    "LV077": {
+      "name": "Rēzeknes novads",
+      "sub_id": "LV077",
+      "sub_num": "77",
+      "bbox": {
+        "minLon": 26.72217333,
+        "minLat": 56.17113352,
+        "maxLon": 27.72294974,
+        "maxLat": 56.82995796
+      }
+    },
+    "LVRIX": {
+      "name": "Rīga",
+      "sub_id": "LVRIX",
+      "sub_num": "RIX",
+      "bbox": {
+        "minLon": 23.93463182,
+        "minLat": 56.85765982,
+        "maxLon": 24.33094704,
+        "maxLat": 57.08231115
+      }
+    },
+    "LV087": {
+      "name": "Salaspils novads",
+      "sub_id": "LV087",
+      "sub_num": "87",
+      "bbox": {
+        "minLon": 24.19375265,
+        "minLat": 56.83340037,
+        "maxLon": 24.51835191,
+        "maxLat": 56.92471504
+      }
+    },
+    "LV088": {
+      "name": "Saldus novads",
+      "sub_id": "LV088",
+      "sub_num": "88",
+      "bbox": {
+        "minLon": 21.93847311,
+        "minLat": 56.35162354,
+        "maxLon": 22.93677914,
+        "maxLat": 56.92915678
+      }
+    },
+    "LV089": {
+      "name": "Saulkrastu novads",
+      "sub_id": "LV089",
+      "sub_num": "89",
+      "bbox": {
+        "minLon": 24.33743763,
+        "minLat": 57.10743368,
+        "maxLon": 24.68328655,
+        "maxLat": 57.34997857
+      }
+    },
+    "LV091": {
+      "name": "Siguldas novads",
+      "sub_id": "LV091",
+      "sub_num": "91",
+      "bbox": {
+        "minLon": 24.49967575,
+        "minLat": 56.9216466,
+        "maxLon": 25.15444684,
+        "maxLat": 57.41052747
+      }
+    },
+    "LV094": {
+      "name": "Smiltenes novads",
+      "sub_id": "LV094",
+      "sub_num": "94",
+      "bbox": {
+        "minLon": 25.51203692,
+        "minLat": 57.18340874,
+        "maxLon": 26.84379983,
+        "maxLat": 57.58741379
+      }
+    },
+    "LV097": {
+      "name": "Talsu novads",
+      "sub_id": "LV097",
+      "sub_num": "97",
+      "bbox": {
+        "minLon": 22.07722914,
+        "minLat": 57.00485945,
+        "maxLon": 23.14584851,
+        "maxLat": 57.75882733
+      }
+    },
+    "LV099": {
+      "name": "Tukuma novads",
+      "sub_id": "LV099",
+      "sub_num": "99",
+      "bbox": {
+        "minLon": 22.45580816,
+        "minLat": 56.68872356,
+        "maxLon": 23.54644203,
+        "maxLat": 57.31679809
+      }
+    },
+    "LV101": {
+      "name": "Valkas novads",
+      "sub_id": "LV101",
+      "sub_num": "101",
+      "bbox": {
+        "minLon": 25.47769392,
+        "minLat": 57.49902964,
+        "maxLon": 26.3738277,
+        "maxLat": 57.92415631
+      }
+    },
+    "LV113": {
+      "name": "Valmieras novads",
+      "sub_id": "LV113",
+      "sub_num": "113",
+      "bbox": {
+        "minLon": 24.83477831,
+        "minLat": 57.38262176,
+        "maxLon": 25.99385178,
+        "maxLat": 58.08556879
+      }
+    },
+    "LV102": {
+      "name": "Varakļānu novads",
+      "sub_id": "LV102",
+      "sub_num": "102",
+      "bbox": {
+        "minLon": 26.37347794,
+        "minLat": 56.53847694,
+        "maxLon": 26.79888225,
+        "maxLat": 56.71382904
+      }
+    },
+    "LVVEN": {
+      "name": "Ventspils",
+      "sub_id": "LVVEN",
+      "sub_num": "VEN",
+      "bbox": {
+        "minLon": 21.51790524,
+        "minLat": 57.34717369,
+        "maxLon": 21.674034,
+        "maxLat": 57.47111321
+      }
+    },
+    "LV106": {
+      "name": "Ventspils novads",
+      "sub_id": "LV106",
+      "sub_num": "106",
+      "bbox": {
+        "minLon": 21.33394325,
+        "minLat": 56.93977165,
+        "maxLon": 22.32482362,
+        "maxLat": 57.65648878
+      }
+    },
+    "LV011": {
+      "name": "Ādažu novads",
+      "sub_id": "LV011",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 24.11032867,
+        "minLat": 57.02694285,
+        "maxLon": 24.50868392,
+        "maxLat": 57.19636917
+      }
+    },
+    "LV052": {
+      "name": "Ķekavas novads",
+      "sub_id": "LV052",
+      "sub_num": "52",
+      "bbox": {
+        "minLon": 23.99610007,
+        "minLat": 56.65945804,
+        "maxLon": 24.54362059,
+        "maxLat": 56.91038132
+      }
+    }
+  }
+  

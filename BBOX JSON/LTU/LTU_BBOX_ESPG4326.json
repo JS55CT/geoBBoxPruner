@@ -1,0 +1,113 @@
+{
+    "LTAL": {
+      "name": "Alytaus apskritis",
+      "sub_id": "LTAL",
+      "sub_num": "AL",
+      "bbox": {
+        "minLon": 23.31121671,
+        "minLat": 53.89291763,
+        "maxLon": 25.02486217,
+        "maxLat": 54.56368446
+      }
+    },
+    "LTKU": {
+      "name": "Kauno apskritis",
+      "sub_id": "LTKU",
+      "sub_num": "KU",
+      "bbox": {
+        "minLon": 22.67030537,
+        "minLat": 54.45510864,
+        "maxLon": 24.81153572,
+        "maxLat": 55.57678699
+      }
+    },
+    "LTKL": {
+      "name": "Klaipėdos apskritis",
+      "sub_id": "LTKL",
+      "sub_num": "KL",
+      "bbox": {
+        "minLon": 20.95397913,
+        "minLat": 55.17932653,
+        "maxLon": 22.02301574,
+        "maxLat": 56.38166428
+      }
+    },
+    "LTMR": {
+      "name": "Marijampolės apskritis",
+      "sub_id": "LTMR",
+      "sub_num": "MR",
+      "bbox": {
+        "minLon": 22.58521628,
+        "minLat": 54.25378787,
+        "maxLon": 23.79431462,
+        "maxLat": 55.10501862
+      }
+    },
+    "LTPN": {
+      "name": "Panevėžio apskritis",
+      "sub_id": "LTPN",
+      "sub_num": "PN",
+      "bbox": {
+        "minLon": 23.87941563,
+        "minLat": 55.38684368,
+        "maxLon": 26.05075479,
+        "maxLat": 56.45007133
+      }
+    },
+    "LTTA": {
+      "name": "Tauragės apskritis",
+      "sub_id": "LTTA",
+      "sub_num": "TA",
+      "bbox": {
+        "minLon": 21.65025139,
+        "minLat": 55.02360821,
+        "maxLon": 23.5036999,
+        "maxLat": 55.6886673
+      }
+    },
+    "LTTE": {
+      "name": "Telšių apskritis",
+      "sub_id": "LTTE",
+      "sub_num": "TE",
+      "bbox": {
+        "minLon": 21.51213932,
+        "minLat": 55.59691429,
+        "maxLon": 22.73761034,
+        "maxLat": 56.43170357
+      }
+    },
+    "LTUT": {
+      "name": "Utenos apskritis",
+      "sub_id": "LTUT",
+      "sub_num": "UT",
+      "bbox": {
+        "minLon": 24.65309036,
+        "minLat": 55.03021717,
+        "maxLon": 26.83593237,
+        "maxLat": 55.9473263
+      }
+    },
+    "LTVL": {
+      "name": "Vilniaus apskritis",
+      "sub_id": "LTVL",
+      "sub_num": "VL",
+      "bbox": {
+        "minLon": 24.3866148,
+        "minLat": 54.12689209,
+        "maxLon": 26.7598623,
+        "maxLat": 55.5175209
+      }
+    },
+    "LTSA": {
+      "name": "Šiaulių apskritis",
+      "sub_id": "LTSA",
+      "sub_num": "SA",
+      "bbox": {
+        "minLon": 22.46570921,
+        "minLat": 55.4629755,
+        "maxLon": 24.1827451,
+        "maxLat": 56.41565323
+      }
+    }
+  }
+  

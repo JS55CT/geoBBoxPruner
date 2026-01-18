@@ -1,0 +1,488 @@
+{
+  "TR01": {
+    "name": "Adana",
+    "sub_id": "TR01",
+    "sub_num": "1",
+    "bbox": { "minLon": 34.76224756, "minLat": 36.5385257, "maxLon": 36.4439882, "maxLat": 38.45193386 }
+  },
+  "TR02": {
+    "name": "Adıyaman",
+    "sub_id": "TR02",
+    "sub_num": "2",
+    "bbox": { "minLon": 37.43570793, "minLat": 37.40071154, "maxLon": 39.26305068, "maxLat": 38.21817398 }
+  },
+  "TR03": {
+    "name": "Afyonkarahisar",
+    "sub_id": "TR03",
+    "sub_num": "3",
+    "bbox": { "minLon": 29.6740396, "minLat": 37.76687622, "maxLon": 31.71708846, "maxLat": 39.28693771 }
+  },
+  "TR68": {
+    "name": "Aksaray",
+    "sub_id": "TR68",
+    "sub_num": "68",
+    "bbox": { "minLon": 33.23524427, "minLat": 37.89733887, "maxLon": 34.49591565, "maxLat": 38.99562836 }
+  },
+  "TR05": {
+    "name": "Amasya",
+    "sub_id": "TR05",
+    "sub_num": "5",
+    "bbox": { "minLon": 35.00634718, "minLat": 40.17923355, "maxLon": 36.51169705, "maxLat": 41.06895447 }
+  },
+  "TR06": {
+    "name": "Ankara",
+    "sub_id": "TR06",
+    "sub_num": "6",
+    "bbox": { "minLon": 30.79067743, "minLat": 38.63925934, "maxLon": 33.98225963, "maxLat": 40.71756363 }
+  },
+  "TR07": {
+    "name": "Antalya",
+    "sub_id": "TR07",
+    "sub_num": "7",
+    "bbox": { "minLon": 29.26265025, "minLat": 36.09572792, "maxLon": 32.64796424, "maxLat": 37.46111882 }
+  },
+  "TR75": {
+    "name": "Ardahan",
+    "sub_id": "TR75",
+    "sub_num": "75",
+    "bbox": { "minLon": 42.3069489, "minLat": 40.59276581, "maxLon": 43.4745245, "maxLat": 41.60024643 }
+  },
+  "TR08": {
+    "name": "Artvin",
+    "sub_id": "TR08",
+    "sub_num": "8",
+    "bbox": { "minLon": 41.15075076, "minLat": 40.56512833, "maxLon": 42.56730247, "maxLat": 41.52471542 }
+  },
+  "TR09": {
+    "name": "Aydın",
+    "sub_id": "TR09",
+    "sub_num": "9",
+    "bbox": { "minLon": 26.99995124, "minLat": 37.32189727, "maxLon": 28.85939789, "maxLat": 38.12633514 }
+  },
+  "TR04": {
+    "name": "Ağrı",
+    "sub_id": "TR04",
+    "sub_num": "4",
+    "bbox": { "minLon": 42.20944917, "minLat": 38.96266937, "maxLon": 44.50478518, "maxLat": 40.04928589 }
+  },
+  "TR10": {
+    "name": "Balıkesir",
+    "sub_id": "TR10",
+    "sub_num": "10",
+    "bbox": { "minLon": 26.52510464, "minLat": 39.05570984, "maxLon": 29.00949216, "maxLat": 40.66791284 }
+  },
+  "TR74": {
+    "name": "Bartın",
+    "sub_id": "TR74",
+    "sub_num": "74",
+    "bbox": { "minLon": 32.08384418, "minLat": 41.28430367, "maxLon": 32.8349216, "maxLat": 41.84925675 }
+  },
+  "TR72": {
+    "name": "Batman",
+    "sub_id": "TR72",
+    "sub_num": "72",
+    "bbox": { "minLon": 40.9823271, "minLat": 37.66868591, "maxLon": 41.8216691, "maxLat": 38.71565616 }
+  },
+  "TR69": {
+    "name": "Bayburt",
+    "sub_id": "TR69",
+    "sub_num": "69",
+    "bbox": { "minLon": 39.69297755, "minLat": 40.00310898, "maxLon": 40.73231089, "maxLat": 40.52633286 }
+  },
+  "TR11": {
+    "name": "Bilecik",
+    "sub_id": "TR11",
+    "sub_num": "11",
+    "bbox": { "minLon": 29.68939757, "minLat": 39.63214874, "maxLon": 30.70936, "maxLat": 40.52967632 }
+  },
+  "TR12": {
+    "name": "Bingöl",
+    "sub_id": "TR12",
+    "sub_num": "12",
+    "bbox": { "minLon": 39.93846142, "minLat": 38.51669312, "maxLon": 41.33705711, "maxLat": 39.53361511 }
+  },
+  "TR13": {
+    "name": "Bitlis",
+    "sub_id": "TR13",
+    "sub_num": "13",
+    "bbox": { "minLon": 41.49497378, "minLat": 37.97115326, "maxLon": 43.21038389, "maxLat": 38.99974823 }
+  },
+  "TR14": {
+    "name": "Bolu",
+    "sub_id": "TR14",
+    "sub_num": "14",
+    "bbox": { "minLon": 30.48651326, "minLat": 40.11314392, "maxLon": 32.51608443, "maxLat": 41.03393555 }
+  },
+  "TR15": {
+    "name": "Burdur",
+    "sub_id": "TR15",
+    "sub_num": "15",
+    "bbox": { "minLon": 29.37196648, "minLat": 36.8718338, "maxLon": 30.85385787, "maxLat": 37.83519745 }
+  },
+  "TR16": {
+    "name": "Bursa",
+    "sub_id": "TR16",
+    "sub_num": "16",
+    "bbox": { "minLon": 28.08388138, "minLat": 39.60296631, "maxLon": 29.94374132, "maxLat": 40.61920166 }
+  },
+  "TR20": {
+    "name": "Denizli",
+    "sub_id": "TR20",
+    "sub_num": "20",
+    "bbox": { "minLon": 28.56171048, "minLat": 36.85535431, "maxLon": 30.01076996, "maxLat": 38.48854065 }
+  },
+  "TR21": {
+    "name": "Diyarbakır",
+    "sub_id": "TR21",
+    "sub_num": "21",
+    "bbox": { "minLon": 39.1062206, "minLat": 37.52861023, "maxLon": 41.30259323, "maxLat": 38.73607636 }
+  },
+  "TR81": {
+    "name": "Düzce",
+    "sub_id": "TR81",
+    "sub_num": "81",
+    "bbox": { "minLon": 30.80091059, "minLat": 40.62399745, "maxLon": 31.85356092, "maxLat": 41.11467636 }
+  },
+  "TR22": {
+    "name": "Edirne",
+    "sub_id": "TR22",
+    "sub_num": "22",
+    "bbox": { "minLon": 26.03710866, "minLat": 40.58931518, "maxLon": 26.99003196, "maxLat": 42.00136542 }
+  },
+  "TR23": {
+    "name": "Elazığ",
+    "sub_id": "TR23",
+    "sub_num": "23",
+    "bbox": { "minLon": 38.35528719, "minLat": 38.29875672, "maxLon": 40.50274706, "maxLat": 39.23930168 }
+  },
+  "TR24": {
+    "name": "Erzincan",
+    "sub_id": "TR24",
+    "sub_num": "24",
+    "bbox": { "minLon": 38.19296038, "minLat": 38.9834404, "maxLon": 40.58958352, "maxLat": 40.0702281 }
+  },
+  "TR25": {
+    "name": "Erzurum",
+    "sub_id": "TR25",
+    "sub_num": "25",
+    "bbox": { "minLon": 40.39984012, "minLat": 39.14737701, "maxLon": 42.53255093, "maxLat": 41.0492779 }
+  },
+  "TR26": {
+    "name": "Eskişehir",
+    "sub_id": "TR26",
+    "sub_num": "26",
+    "bbox": { "minLon": 30.1602217, "minLat": 39.05982971, "maxLon": 32.06378603, "maxLat": 40.15846252 }
+  },
+  "TR27": {
+    "name": "Gaziantep",
+    "sub_id": "TR27",
+    "sub_num": "27",
+    "bbox": { "minLon": 36.51611555, "minLat": 36.74355447, "maxLon": 38.03707147, "maxLat": 37.43582726 }
+  },
+  "TR28": {
+    "name": "Giresun",
+    "sub_id": "TR28",
+    "sub_num": "28",
+    "bbox": { "minLon": 38.01397932, "minLat": 40.04396439, "maxLon": 39.1799525, "maxLat": 41.07909524 }
+  },
+  "TR29": {
+    "name": "Gümüşhane",
+    "sub_id": "TR29",
+    "sub_num": "29",
+    "bbox": { "minLon": 38.84014809, "minLat": 39.86989975, "maxLon": 40.10648966, "maxLat": 40.8506012 }
+  },
+  "TR30": {
+    "name": "Hakkâri",
+    "sub_id": "TR30",
+    "sub_num": "30",
+    "bbox": { "minLon": 43.38565135, "minLat": 36.9660759, "maxLon": 44.81362855, "maxLat": 37.90248871 }
+  },
+  "TR31": {
+    "name": "Hatay",
+    "sub_id": "TR31",
+    "sub_num": "31",
+    "bbox": { "minLon": 35.77962291, "minLat": 35.81422806, "maxLon": 36.69879115, "maxLat": 37.03731537 }
+  },
+  "TR32": {
+    "name": "Isparta",
+    "sub_id": "TR32",
+    "sub_num": "32",
+    "bbox": { "minLon": 30, "minLat": 37.39505768, "maxLon": 31.61928022, "maxLat": 38.50555682 }
+  },
+  "TR76": {
+    "name": "Iğdır",
+    "sub_id": "TR76",
+    "sub_num": "76",
+    "bbox": { "minLon": 43.33917665, "minLat": 39.62682724, "maxLon": 44.81779647, "maxLat": 40.13305664 }
+  },
+  "TR46": {
+    "name": "Kahramanmaraş",
+    "sub_id": "TR46",
+    "sub_num": "46",
+    "bbox": { "minLon": 36.27502382, "minLat": 37.17224121, "maxLon": 37.65721893, "maxLat": 38.57402801 }
+  },
+  "TR78": {
+    "name": "Karabük",
+    "sub_id": "TR78",
+    "sub_num": "78",
+    "bbox": { "minLon": 32.11930597, "minLat": 40.99411011, "maxLon": 33.04597461, "maxLat": 41.57753849 }
+  },
+  "TR70": {
+    "name": "Karaman",
+    "sub_id": "TR70",
+    "sub_num": "70",
+    "bbox": { "minLon": 32.40729988, "minLat": 36.49666786, "maxLon": 34.21889627, "maxLat": 37.73803711 }
+  },
+  "TR36": {
+    "name": "Kars",
+    "sub_id": "TR36",
+    "sub_num": "36",
+    "bbox": { "minLon": 42.06415677, "minLat": 39.9105835, "maxLon": 43.74716282, "maxLat": 41.02998734 }
+  },
+  "TR37": {
+    "name": "Kastamonu",
+    "sub_id": "TR37",
+    "sub_num": "37",
+    "bbox": { "minLon": 32.71458554, "minLat": 40.82210541, "maxLon": 34.58692348, "maxLat": 42.02015173 }
+  },
+  "TR38": {
+    "name": "Kayseri",
+    "sub_id": "TR38",
+    "sub_num": "38",
+    "bbox": { "minLon": 34.91007924, "minLat": 38.00196648, "maxLon": 36.89828098, "maxLat": 39.27886963 }
+  },
+  "TR79": {
+    "name": "Kilis",
+    "sub_id": "TR79",
+    "sub_num": "79",
+    "bbox": { "minLon": 36.67648935, "minLat": 36.63269293, "maxLon": 37.66877067, "maxLat": 36.98736191 }
+  },
+  "TR41": {
+    "name": "Kocaeli",
+    "sub_id": "TR41",
+    "sub_num": "41",
+    "bbox": { "minLon": 29.33355319, "minLat": 40.55032563, "maxLon": 30.49655449, "maxLat": 41.21770048 }
+  },
+  "TR42": {
+    "name": "Konya",
+    "sub_id": "TR42",
+    "sub_num": "42",
+    "bbox": { "minLon": 31.22836876, "minLat": 36.86050415, "maxLon": 34.45369899, "maxLat": 39.32710647 }
+  },
+  "TR43": {
+    "name": "Kütahya",
+    "sub_id": "TR43",
+    "sub_num": "43",
+    "bbox": { "minLon": 28.65424371, "minLat": 38.77967834, "maxLon": 30.42221594, "maxLat": 39.90577698 }
+  },
+  "TR39": {
+    "name": "Kırklareli",
+    "sub_id": "TR39",
+    "sub_num": "39",
+    "bbox": { "minLon": 26.87822568, "minLat": 41.2388134, "maxLon": 28.24165952, "maxLat": 42.10478067 }
+  },
+  "TR71": {
+    "name": "Kırıkkale",
+    "sub_id": "TR71",
+    "sub_num": "71",
+    "bbox": { "minLon": 33.3026911, "minLat": 39.34419215, "maxLon": 34.12189639, "maxLat": 40.2940079 }
+  },
+  "TR40": {
+    "name": "Kırşehir",
+    "sub_id": "TR40",
+    "sub_num": "40",
+    "bbox": { "minLon": 33.44389033, "minLat": 38.91700745, "maxLon": 34.75934184, "maxLat": 39.79823113 }
+  },
+  "TR44": {
+    "name": "Malatya",
+    "sub_id": "TR44",
+    "sub_num": "44",
+    "bbox": { "minLon": 37.09309554, "minLat": 38.00188065, "maxLon": 39.15067017, "maxLat": 39.18153763 }
+  },
+  "TR45": {
+    "name": "Manisa",
+    "sub_id": "TR45",
+    "sub_num": "45",
+    "bbox": { "minLon": 27.10817897, "minLat": 38.07918, "maxLon": 29.05114651, "maxLat": 39.40933228 }
+  },
+  "TR47": {
+    "name": "Mardin",
+    "sub_id": "TR47",
+    "sub_num": "47",
+    "bbox": { "minLon": 39.87903523, "minLat": 36.91221309, "maxLon": 41.89762139, "maxLat": 37.72705078 }
+  },
+  "TR33": {
+    "name": "Mersin",
+    "sub_id": "TR33",
+    "sub_num": "33",
+    "bbox": { "minLon": 32.52448928, "minLat": 36.01544488, "maxLon": 35.1078124, "maxLat": 37.41600037 }
+  },
+  "TR48": {
+    "name": "Muğla",
+    "sub_id": "TR48",
+    "sub_num": "48",
+    "bbox": { "minLon": 27.18009043, "minLat": 36.29344738, "maxLon": 29.78382063, "maxLat": 37.56568909 }
+  },
+  "TR49": {
+    "name": "Muş",
+    "sub_id": "TR49",
+    "sub_num": "49",
+    "bbox": { "minLon": 41.19428825, "minLat": 38.6114409, "maxLon": 42.73947, "maxLat": 39.45465088 }
+  },
+  "TR50": {
+    "name": "Nevşehir",
+    "sub_id": "TR50",
+    "sub_num": "50",
+    "bbox": { "minLon": 34.1084553, "minLat": 38.31172943, "maxLon": 35.0674752, "maxLat": 39.42684174 }
+  },
+  "TR51": {
+    "name": "Niğde",
+    "sub_id": "TR51",
+    "sub_num": "51",
+    "bbox": { "minLon": 33.99966061, "minLat": 37.37823486, "maxLon": 35.2460264, "maxLat": 38.39016497 }
+  },
+  "TR52": {
+    "name": "Ordu",
+    "sub_id": "TR52",
+    "sub_num": "52",
+    "bbox": { "minLon": 36.87776399, "minLat": 40.28583527, "maxLon": 38.18049991, "maxLat": 41.15020168 }
+  },
+  "TR80": {
+    "name": "Osmaniye",
+    "sub_id": "TR80",
+    "sub_num": "80",
+    "bbox": { "minLon": 35.93260622, "minLat": 36.9638443, "maxLon": 36.7159189, "maxLat": 37.74215698 }
+  },
+  "TR53": {
+    "name": "Rize",
+    "sub_id": "TR53",
+    "sub_num": "53",
+    "bbox": { "minLon": 40.3191036, "minLat": 40.52633286, "maxLon": 41.45950329, "maxLat": 41.30567551 }
+  },
+  "TR54": {
+    "name": "Sakarya",
+    "sub_id": "TR54",
+    "sub_num": "54",
+    "bbox": { "minLon": 29.92778778, "minLat": 40.30609131, "maxLon": 30.97396123, "maxLat": 41.16439819 }
+  },
+  "TR55": {
+    "name": "Samsun",
+    "sub_id": "TR55",
+    "sub_num": "55",
+    "bbox": { "minLon": 34.81271398, "minLat": 40.76803207, "maxLon": 37.13381338, "maxLat": 41.73489058 }
+  },
+  "TR56": {
+    "name": "Siirt",
+    "sub_id": "TR56",
+    "sub_num": "56",
+    "bbox": { "minLon": 41.52856672, "minLat": 37.62577057, "maxLon": 42.99133778, "maxLat": 38.22349548 }
+  },
+  "TR57": {
+    "name": "Sinop",
+    "sub_id": "TR57",
+    "sub_num": "57",
+    "bbox": { "minLon": 34.13553452, "minLat": 41.16989136, "maxLon": 35.50875986, "maxLat": 42.09787512 }
+  },
+  "TR58": {
+    "name": "Sivas",
+    "sub_id": "TR58",
+    "sub_num": "58",
+    "bbox": { "minLon": 35.93413377, "minLat": 38.49935532, "maxLon": 38.70443523, "maxLat": 40.52804947 }
+  },
+  "TR59": {
+    "name": "Tekirdağ",
+    "sub_id": "TR59",
+    "sub_num": "59",
+    "bbox": { "minLon": 26.65251803, "minLat": 40.55475748, "maxLon": 28.20286238, "maxLat": 41.50432849 }
+  },
+  "TR60": {
+    "name": "Tokat",
+    "sub_id": "TR60",
+    "sub_num": "60",
+    "bbox": { "minLon": 35.39564097, "minLat": 39.79488373, "maxLon": 37.69290471, "maxLat": 40.91040802 }
+  },
+  "TR61": {
+    "name": "Trabzon",
+    "sub_id": "TR61",
+    "sub_num": "61",
+    "bbox": { "minLon": 39.10400844, "minLat": 40.49320221, "maxLon": 40.50778198, "maxLat": 41.10726607 }
+  },
+  "TR62": {
+    "name": "Tunceli",
+    "sub_id": "TR62",
+    "sub_num": "62",
+    "bbox": { "minLon": 38.73181283, "minLat": 38.74706268, "maxLon": 40.41714668, "maxLat": 39.59953308 }
+  },
+  "TR64": {
+    "name": "Uşak",
+    "sub_id": "TR64",
+    "sub_num": "64",
+    "bbox": { "minLon": 28.78166842, "minLat": 38.24066162, "maxLon": 29.98713255, "maxLat": 38.93657684 }
+  },
+  "TR65": {
+    "name": "Van",
+    "sub_id": "TR65",
+    "sub_num": "65",
+    "bbox": { "minLon": 42.68195283, "minLat": 37.64122009, "maxLon": 44.51175618, "maxLat": 39.40280914 }
+  },
+  "TR77": {
+    "name": "Yalova",
+    "sub_id": "TR77",
+    "sub_num": "77",
+    "bbox": { "minLon": 28.91443264, "minLat": 40.55731773, "maxLon": 29.38783872, "maxLat": 40.70101893 }
+  },
+  "TR66": {
+    "name": "Yozgat",
+    "sub_id": "TR66",
+    "sub_num": "66",
+    "bbox": { "minLon": 34.03788149, "minLat": 38.9736557, "maxLon": 36.10617042, "maxLat": 40.23193359 }
+  },
+  "TR67": {
+    "name": "Zonguldak",
+    "sub_id": "TR67",
+    "sub_num": "67",
+    "bbox": { "minLon": 31.2890625, "minLat": 41.00852966, "maxLon": 32.32889903, "maxLat": 41.58681142 }
+  },
+  "TR17": {
+    "name": "Çanakkale",
+    "sub_id": "TR17",
+    "sub_num": "17",
+    "bbox": { "minLon": 25.66538286, "minLat": 39.4528234, "maxLon": 27.58312535, "maxLat": 40.75515747 }
+  },
+  "TR18": {
+    "name": "Çankırı",
+    "sub_id": "TR18",
+    "sub_num": "18",
+    "bbox": { "minLon": 32.29793787, "minLat": 40.24498189, "maxLon": 34.1651938, "maxLat": 41.16341114 }
+  },
+  "TR19": {
+    "name": "Çorum",
+    "sub_id": "TR19",
+    "sub_num": "19",
+    "bbox": { "minLon": 33.99194539, "minLat": 39.90783691, "maxLon": 35.48285174, "maxLat": 41.30455971 }
+  },
+  "TR34": {
+    "name": "İstanbul",
+    "sub_id": "TR34",
+    "sub_num": "34",
+    "bbox": { "minLon": 28.06774342, "minLat": 40.80252397, "maxLon": 29.96496284, "maxLat": 41.5155462 }
+  },
+  "TR35": {
+    "name": "İzmir",
+    "sub_id": "TR35",
+    "sub_num": "35",
+    "bbox": { "minLon": 26.19386232, "minLat": 37.86060333, "maxLon": 28.48769331, "maxLat": 39.40057755 }
+  },
+  "TR63": {
+    "name": "Şanlıurfa",
+    "sub_id": "TR63",
+    "sub_num": "63",
+    "bbox": { "minLon": 37.83576763, "minLat": 36.66828632, "maxLon": 40.23754859, "maxLat": 38.07312012 }
+  },
+  "TR73": {
+    "name": "Şırnak",
+    "sub_id": "TR73",
+    "sub_num": "73",
+    "bbox": { "minLon": 41.71590006, "minLat": 37.10040092, "maxLon": 43.58643782, "maxLat": 37.79979753 }
+  }
+}

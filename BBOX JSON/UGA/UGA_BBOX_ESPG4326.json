@@ -1,0 +1,736 @@
+{
+    "UG314": {
+      "name": "Abim",
+      "sub_id": "UG314",
+      "sub_num": "314",
+      "bbox": { "minLon": 33.52217126, "minLat": 2.456509947, "maxLon": 34.03621423, "maxLat": 3.152349949 }
+    },
+    "UG301": {
+      "name": "Adjumani",
+      "sub_id": "UG301",
+      "sub_num": "301",
+      "bbox": { "minLon": 31.40064037, "minLat": 2.878074646, "maxLon": 32.06291997, "maxLat": 3.593060374 }
+    },
+    "UG322": {
+      "name": "Agago",
+      "sub_id": "UG322",
+      "sub_num": "322",
+      "bbox": { "minLon": 33.01238847, "minLat": 2.585833311, "maxLon": 33.60468996, "maxLat": 3.307559967 }
+    },
+    "UG323": {
+      "name": "Alebtong",
+      "sub_id": "UG323",
+      "sub_num": "323",
+      "bbox": { "minLon": 32.98055398, "minLat": 2.024745941, "maxLon": 33.54732001, "maxLat": 2.505397797 }
+    },
+    "UG315": {
+      "name": "Amolatar",
+      "sub_id": "UG315",
+      "sub_num": "315",
+      "bbox": { "minLon": 32.31181002, "minLat": 1.439100027, "maxLon": 32.99919999, "maxLat": 1.83889997 }
+    },
+    "UG324": {
+      "name": "Amudat",
+      "sub_id": "UG324",
+      "sub_num": "324",
+      "bbox": { "minLon": 34.62240803, "minLat": 1.352720022, "maxLon": 35.02310204, "maxLat": 2.284570217 }
+    },
+    "UG216": {
+      "name": "Amuria",
+      "sub_id": "UG216",
+      "sub_num": "216",
+      "bbox": { "minLon": 33.34679997, "minLat": 1.717970013, "maxLon": 33.91520023, "maxLat": 2.417528629 }
+    },
+    "UG316": {
+      "name": "Amuru",
+      "sub_id": "UG316",
+      "sub_num": "316",
+      "bbox": { "minLon": 31.35977304, "minLat": 2.676565647, "maxLon": 32.36342001, "maxLat": 3.581054806 }
+    },
+    "UG302": {
+      "name": "Apac",
+      "sub_id": "UG302",
+      "sub_num": "302",
+      "bbox": { "minLon": 32.09170997, "minLat": 1.612579942, "maxLon": 32.95843995, "maxLat": 2.224632501 }
+    },
+    "UG303": {
+      "name": "Arua",
+      "sub_id": "UG303",
+      "sub_num": "303",
+      "bbox": { "minLon": 30.76842463, "minLat": 2.543334961, "maxLon": 31.53986085, "maxLat": 3.191580057 }
+    },
+    "UG217": {
+      "name": "Budaka",
+      "sub_id": "UG217",
+      "sub_num": "217",
+      "bbox": { "minLon": 33.86299002, "minLat": 0.933666229, "maxLon": 34.12404001, "maxLat": 1.192499995 }
+    },
+    "UG218": {
+      "name": "Bududa",
+      "sub_id": "UG218",
+      "sub_num": "218",
+      "bbox": { "minLon": 34.27063, "minLat": 0.965190053, "maxLon": 34.53706002, "maxLat": 1.121819973 }
+    },
+    "UG201": {
+      "name": "Bugiri",
+      "sub_id": "UG201",
+      "sub_num": "201",
+      "bbox": { "minLon": 33.61176002, "minLat": 0.299514174, "maxLon": 33.97755563, "maxLat": 0.730075836 }
+    },
+    "UG420": {
+      "name": "Buhweju",
+      "sub_id": "UG420",
+      "sub_num": "420",
+      "bbox": { "minLon": 30.09570539, "minLat": -0.457209349, "maxLon": 30.51874006, "maxLat": -0.185559988 }
+    },
+    "UG108": {
+      "name": "Buikwe",
+      "sub_id": "UG108",
+      "sub_num": "108",
+      "bbox": { "minLon": 32.86308801, "minLat": 0.050768852, "maxLon": 33.29042006, "maxLat": 0.56098938 }
+    },
+    "UG219": {
+      "name": "Bukedea",
+      "sub_id": "UG219",
+      "sub_num": "219",
+      "bbox": { "minLon": 33.91578794, "minLat": 1.159744263, "maxLon": 34.27547252, "maxLat": 1.58205998 }
+    },
+    "UG105": {
+      "name": "Bukomansimbi",
+      "sub_id": "UG105",
+      "sub_num": "105",
+      "bbox": { "minLon": 31.53425336, "minLat": -0.305428505, "maxLon": 31.72412336, "maxLat": 0.049095153 }
+    },
+    "UG220": {
+      "name": "Bukwo",
+      "sub_id": "UG220",
+      "sub_num": "220",
+      "bbox": { "minLon": 34.55288315, "minLat": 1.101402045, "maxLon": 34.83231389, "maxLat": 1.409511566 }
+    },
+    "UG225": {
+      "name": "Bulambuli",
+      "sub_id": "UG225",
+      "sub_num": "225",
+      "bbox": { "minLon": 34.22640002, "minLat": 1.145703196, "maxLon": 34.54036856, "maxLat": 1.566238403 }
+    },
+    "UG416": {
+      "name": "Buliisa",
+      "sub_id": "UG416",
+      "sub_num": "416",
+      "bbox": { "minLon": 31.10358453, "minLat": 1.675037741, "maxLon": 31.6160115, "maxLat": 2.276119232 }
+    },
+    "UG401": {
+      "name": "Bundibugyo",
+      "sub_id": "UG401",
+      "sub_num": "401",
+      "bbox": { "minLon": 29.91096425, "minLat": 0.403229952, "maxLon": 30.20800781, "maxLat": 0.895428657 }
+    },
+    "UG430": {
+      "name": "Bunyangabu",
+      "sub_id": "UG430",
+      "sub_num": "430",
+      "bbox": { "minLon": 29.98163998, "minLat": 0.333291292, "maxLon": 30.29246092, "maxLat": 0.625859619 }
+    },
+    "UG402": {
+      "name": "Bushenyi",
+      "sub_id": "UG402",
+      "sub_num": "402",
+      "bbox": { "minLon": 29.9024905, "minLat": -0.664973259, "maxLon": 30.31121016, "maxLat": -0.302810669 }
+    },
+    "UG202": {
+      "name": "Busia",
+      "sub_id": "UG202",
+      "sub_num": "202",
+      "bbox": { "minLon": 33.87873995, "minLat": 0.189890623, "maxLon": 34.14196706, "maxLat": 0.590000153 }
+    },
+    "UG221": {
+      "name": "Butaleja",
+      "sub_id": "UG221",
+      "sub_num": "221",
+      "bbox": { "minLon": 33.77571535, "minLat": 0.692138672, "maxLon": 34.12827003, "maxLat": 1.042606234 }
+    },
+    "UG119": {
+      "name": "Butambala",
+      "sub_id": "UG119",
+      "sub_num": "119",
+      "bbox": { "minLon": 31.81834829, "minLat": 0.001706242, "maxLon": 32.30445039, "maxLat": 0.319176197 }
+    },
+    "UG233": {
+      "name": "Butebo",
+      "sub_id": "UG233",
+      "sub_num": "233",
+      "bbox": { "minLon": 33.79975772, "minLat": 1.077180028, "maxLon": 34.13848996, "maxLat": 1.294711947 }
+    },
+    "UG120": {
+      "name": "Buvuma",
+      "sub_id": "UG120",
+      "sub_num": "120",
+      "bbox": { "minLon": 32.86973357, "minLat": -1.001129151, "maxLon": 33.52137995, "maxLat": 0.362689972 }
+    },
+    "UG226": {
+      "name": "Buyende",
+      "sub_id": "UG226",
+      "sub_num": "226",
+      "bbox": { "minLon": 32.81953001, "minLat": 0.983018875, "maxLon": 33.43937004, "maxLat": 1.483950019 }
+    },
+    "UG317": {
+      "name": "Dokolo",
+      "sub_id": "UG317",
+      "sub_num": "317",
+      "bbox": { "minLon": 32.85966003, "minLat": 1.704597473, "maxLon": 33.28933001, "maxLat": 2.110560059 }
+    },
+    "UG121": {
+      "name": "Gomba",
+      "sub_id": "UG121",
+      "sub_num": "121",
+      "bbox": { "minLon": 31.302701, "minLat": 0.037593842, "maxLon": 32.15630603, "maxLat": 0.368213653 }
+    },
+    "UG304": {
+      "name": "Gulu",
+      "sub_id": "UG304",
+      "sub_num": "304",
+      "bbox": { "minLon": 32.1867851, "minLat": 2.73661077, "maxLon": 32.65916669, "maxLat": 3.30121994 }
+    },
+    "UG403": {
+      "name": "Hoima",
+      "sub_id": "UG403",
+      "sub_num": "403",
+      "bbox": { "minLon": 30.5213064, "minLat": 1.070480347, "maxLon": 31.58765876, "maxLat": 1.851992488 }
+    },
+    "UG417": {
+      "name": "Ibanda",
+      "sub_id": "UG417",
+      "sub_num": "417",
+      "bbox": { "minLon": 30.24208438, "minLat": -0.286280036, "maxLon": 30.63957942, "maxLat": 0.165824891 }
+    },
+    "UG203": {
+      "name": "Iganga",
+      "sub_id": "UG203",
+      "sub_num": "203",
+      "bbox": { "minLon": 33.36367059, "minLat": 0.442371369, "maxLon": 33.68335187, "maxLat": 0.907850027 }
+    },
+    "UG418": {
+      "name": "Isingiro",
+      "sub_id": "UG418",
+      "sub_num": "418",
+      "bbox": { "minLon": 30.47893965, "minLat": -1.075415611, "maxLon": 31.27081764, "maxLat": -0.601844788 }
+    },
+    "UG204": {
+      "name": "Jinja",
+      "sub_id": "UG204",
+      "sub_num": "204",
+      "bbox": { "minLon": 33.04559112, "minLat": 0.391579986, "maxLon": 33.37881994, "maxLat": 0.701110006 }
+    },
+    "UG318": {
+      "name": "Kaabong",
+      "sub_id": "UG318",
+      "sub_num": "318",
+      "bbox": { "minLon": 33.51221907, "minLat": 3.082479954, "maxLon": 34.56584883, "maxLat": 4.234113693 }
+    },
+    "UG404": {
+      "name": "Kabale",
+      "sub_id": "UG404",
+      "sub_num": "404",
+      "bbox": { "minLon": 29.90427935, "minLat": -1.467755794, "maxLon": 30.1724, "maxLat": -1.190520167 }
+    },
+    "UG405": {
+      "name": "Kabarole",
+      "sub_id": "UG405",
+      "sub_num": "405",
+      "bbox": { "minLon": 30.11846006, "minLat": 0.269963145, "maxLon": 30.56214488, "maxLat": 0.977544427 }
+    },
+    "UG213": {
+      "name": "Kaberamaido",
+      "sub_id": "UG213",
+      "sub_num": "213",
+      "bbox": { "minLon": 32.94448996, "minLat": 1.46360004, "maxLon": 33.45229435, "maxLat": 2.056049943 }
+    },
+    "UG427": {
+      "name": "Kagadi",
+      "sub_id": "UG427",
+      "sub_num": "427",
+      "bbox": { "minLon": 30.53553355, "minLat": 0.833244324, "maxLon": 31.13061643, "maxLat": 1.209089994 }
+    },
+    "UG428": {
+      "name": "Kakumiro",
+      "sub_id": "UG428",
+      "sub_num": "428",
+      "bbox": { "minLon": 31.08361995, "minLat": 0.703125, "maxLon": 31.53365397, "maxLat": 1.218280792 }
+    },
+    "UG101": {
+      "name": "Kalangala",
+      "sub_id": "UG101",
+      "sub_num": "101",
+      "bbox": { "minLon": 31.99903333, "minLat": -1.00054574, "maxLon": 32.75255, "maxLat": -0.149060011 }
+    },
+    "UG222": {
+      "name": "Kaliro",
+      "sub_id": "UG222",
+      "sub_num": "222",
+      "bbox": { "minLon": 33.33429003, "minLat": 0.870959997, "maxLon": 33.62812126, "maxLat": 1.294690013 }
+    },
+    "UG122": {
+      "name": "Kalungu",
+      "sub_id": "UG122",
+      "sub_num": "122",
+      "bbox": { "minLon": 31.64343023, "minLat": -0.277930498, "maxLon": 31.99969006, "maxLat": 0.074543953 }
+    },
+    "UG102": {
+      "name": "Kampala",
+      "sub_id": "UG102",
+      "sub_num": "102",
+      "bbox": { "minLon": 32.50976861, "minLat": 0.217039943, "maxLon": 32.66802001, "maxLat": 0.408460021 }
+    },
+    "UG205": {
+      "name": "Kamuli",
+      "sub_id": "UG205",
+      "sub_num": "205",
+      "bbox": { "minLon": 32.93572605, "minLat": 0.657230019, "maxLon": 33.30563819, "maxLat": 1.228322983 }
+    },
+    "UG413": {
+      "name": "Kamwenge",
+      "sub_id": "UG413",
+      "sub_num": "413",
+      "bbox": { "minLon": 30.20966196, "minLat": -0.180029989, "maxLon": 30.85920429, "maxLat": 0.575956106 }
+    },
+    "UG414": {
+      "name": "Kanungu",
+      "sub_id": "UG414",
+      "sub_num": "414",
+      "bbox": { "minLon": 29.5782721, "minLat": -1.076300025, "maxLon": 29.90189004, "maxLat": -0.334828854 }
+    },
+    "UG206": {
+      "name": "Kapchorwa",
+      "sub_id": "UG206",
+      "sub_num": "206",
+      "bbox": { "minLon": 34.30514002, "minLat": 1.175708771, "maxLon": 34.54075491, "maxLat": 1.48229599 }
+    },
+    "UG406": {
+      "name": "Kasese",
+      "sub_id": "UG406",
+      "sub_num": "406",
+      "bbox": { "minLon": 29.70770681, "minLat": -0.209838867, "maxLon": 30.29814303, "maxLat": 0.482314825 }
+    },
+    "UG207": {
+      "name": "Katakwi",
+      "sub_id": "UG207",
+      "sub_num": "207",
+      "bbox": { "minLon": 33.80835295, "minLat": 1.638180017, "maxLon": 34.22428, "maxLat": 2.307798386 }
+    },
+    "UG112": {
+      "name": "Kayunga",
+      "sub_id": "UG112",
+      "sub_num": "112",
+      "bbox": { "minLon": 32.69563997, "minLat": 0.506600022, "maxLon": 33.08370268, "maxLat": 1.477730036 }
+    },
+    "UG407": {
+      "name": "Kibaale",
+      "sub_id": "UG407",
+      "sub_num": "407",
+      "bbox": { "minLon": 30.8282522, "minLat": 0.634288788, "maxLon": 31.28922999, "maxLat": 1.010335565 }
+    },
+    "UG103": {
+      "name": "Kiboga",
+      "sub_id": "UG103",
+      "sub_num": "103",
+      "bbox": { "minLon": 31.65389001, "minLat": 0.606870055, "maxLon": 32.20481443, "maxLat": 1.106185913 }
+    },
+    "UG227": {
+      "name": "Kibuku",
+      "sub_id": "UG227",
+      "sub_num": "227",
+      "bbox": { "minLon": 33.62460518, "minLat": 0.938472748, "maxLon": 33.93654001, "maxLat": 1.168102026 }
+    },
+    "UG419": {
+      "name": "Kiruhura",
+      "sub_id": "UG419",
+      "sub_num": "419",
+      "bbox": { "minLon": 30.56978452, "minLat": -0.71308136, "maxLon": 31.15497673, "maxLat": 0.209255219 }
+    },
+    "UG421": {
+      "name": "Kiryandongo",
+      "sub_id": "UG421",
+      "sub_num": "421",
+      "bbox": { "minLon": 31.75109982, "minLat": 1.617565155, "maxLon": 32.36290419, "maxLat": 2.369270325 }
+    },
+    "UG408": {
+      "name": "Kisoro",
+      "sub_id": "UG408",
+      "sub_num": "408",
+      "bbox": { "minLon": 29.57277906, "minLat": -1.38910532, "maxLon": 29.82197237, "maxLat": -1.002730727 }
+    },
+    "UG305": {
+      "name": "Kitgum",
+      "sub_id": "UG305",
+      "sub_num": "305",
+      "bbox": { "minLon": 32.72897995, "minLat": 3.120990038, "maxLon": 33.74186802, "maxLat": 3.762293935 }
+    },
+    "UG319": {
+      "name": "Koboko",
+      "sub_id": "UG319",
+      "sub_num": "319",
+      "bbox": { "minLon": 30.85873509, "minLat": 3.326529979, "maxLon": 31.10151005, "maxLat": 3.744135141 }
+    },
+    "UG325": {
+      "name": "Kole",
+      "sub_id": "UG325",
+      "sub_num": "325",
+      "bbox": { "minLon": 32.57425952, "minLat": 2.078358293, "maxLon": 32.92490005, "maxLat": 2.522169947 }
+    },
+    "UG306": {
+      "name": "Kotido",
+      "sub_id": "UG306",
+      "sub_num": "306",
+      "bbox": { "minLon": 33.55004001, "minLat": 2.619410038, "maxLon": 34.39681005, "maxLat": 3.44164002 }
+    },
+    "UG208": {
+      "name": "Kumi",
+      "sub_id": "UG208",
+      "sub_num": "208",
+      "bbox": { "minLon": 33.72909164, "minLat": 1.259994507, "maxLon": 34.22879004, "maxLat": 1.65376997 }
+    },
+    "UG228": {
+      "name": "Kween",
+      "sub_id": "UG228",
+      "sub_num": "228",
+      "bbox": { "minLon": 34.39193153, "minLat": 1.097688675, "maxLon": 34.75467133, "maxLat": 1.601858139 }
+    },
+    "UG123": {
+      "name": "Kyankwanzi",
+      "sub_id": "UG123",
+      "sub_num": "123",
+      "bbox": { "minLon": 31.29314733, "minLat": 0.818510055, "maxLon": 31.91947424, "maxLat": 1.366767883 }
+    },
+    "UG422": {
+      "name": "Kyegegwa",
+      "sub_id": "UG422",
+      "sub_num": "422",
+      "bbox": { "minLon": 30.76815379, "minLat": 0.191917419, "maxLon": 31.25751996, "maxLat": 0.763549805 }
+    },
+    "UG415": {
+      "name": "Kyenjojo",
+      "sub_id": "UG415",
+      "sub_num": "415",
+      "bbox": { "minLon": 30.39574277, "minLat": 0.34040451, "maxLon": 30.92577016, "maxLat": 0.940829277 }
+    },
+    "UG125": {
+      "name": "Kyotera",
+      "sub_id": "UG125",
+      "sub_num": "125",
+      "bbox": { "minLon": 31.20265996, "minLat": -1.000272989, "maxLon": 31.99977005, "maxLat": -0.428502202 }
+    },
+    "UG326": {
+      "name": "Lamwo",
+      "sub_id": "UG326",
+      "sub_num": "326",
+      "bbox": { "minLon": 32.19583333, "minLat": 3.152046203, "maxLon": 33.33249724, "maxLat": 3.890576363 }
+    },
+    "UG307": {
+      "name": "Lira",
+      "sub_id": "UG307",
+      "sub_num": "307",
+      "bbox": { "minLon": 32.77645004, "minLat": 2.007193207, "maxLon": 33.16333437, "maxLat": 2.653884888 }
+    },
+    "UG229": {
+      "name": "Luuka",
+      "sub_id": "UG229",
+      "sub_num": "229",
+      "bbox": { "minLon": 33.21956003, "minLat": 0.561550021, "maxLon": 33.43268585, "maxLat": 1.080029965 }
+    },
+    "UG104": {
+      "name": "Luwero",
+      "sub_id": "UG104",
+      "sub_num": "104",
+      "bbox": { "minLon": 32.31885004, "minLat": 0.547943115, "maxLon": 32.80311787, "maxLat": 1.148635269 }
+    },
+    "UG105": {
+      "name": "Lwengo",
+      "sub_id": "UG105",
+      "sub_num": "105",
+      "bbox": { "minLon": 31.16693997, "minLat": -0.595450043, "maxLon": 31.59618044, "maxLat": -0.298949957 }
+    },
+    "UG114": {
+      "name": "Lyantonde",
+      "sub_id": "UG114",
+      "sub_num": "114",
+      "bbox": { "minLon": 31.06877291, "minLat": -0.494642258, "maxLon": 31.33327687, "maxLat": -0.027719974 }
+    },
+    "UG223": {
+      "name": "Manafwa",
+      "sub_id": "UG223",
+      "sub_num": "223",
+      "bbox": { "minLon": 34.17902994, "minLat": 0.757098079, "maxLon": 34.35630691, "maxLat": 1.007429958 }
+    },
+    "UG320": {
+      "name": "Maracha",
+      "sub_id": "UG320",
+      "sub_num": "320",
+      "bbox": { "minLon": 30.79542744, "minLat": 3.012989998, "maxLon": 31.42519999, "maxLat": 3.386342525 }
+    },
+    "UG105M": {
+      "name": "Masaka",
+      "sub_id": "UG105",
+      "sub_num": "105",
+      "bbox": { "minLon": 31.58137429, "minLat": -0.815909982, "maxLon": 32.06063998, "maxLat": -0.151000023 }
+    },
+    "UG409": {
+      "name": "Masindi",
+      "sub_id": "UG409",
+      "sub_num": "409",
+      "bbox": { "minLon": 31.3669678, "minLat": 1.324024201, "maxLon": 32.0915587, "maxLat": 2.301968575 }
+    },
+    "UG214": {
+      "name": "Mayuge",
+      "sub_id": "UG214",
+      "sub_num": "214",
+      "bbox": { "minLon": 33.28091001, "minLat": -1.000996828, "maxLon": 33.71044004, "maxLat": 0.606040001 }
+    },
+    "UG209": {
+      "name": "Mbale",
+      "sub_id": "UG209",
+      "sub_num": "209",
+      "bbox": { "minLon": 34.08109236, "minLat": 0.831920028, "maxLon": 34.33658004, "maxLat": 1.171054244 }
+    },
+    "UG410": {
+      "name": "Mbarara",
+      "sub_id": "UG410",
+      "sub_num": "410",
+      "bbox": { "minLon": 30.31315994, "minLat": -0.843160034, "maxLon": 30.82018006, "maxLat": -0.205680012 }
+    },
+    "UG423": {
+      "name": "Mitooma",
+      "sub_id": "UG423",
+      "sub_num": "423",
+      "bbox": { "minLon": 29.88284409, "minLat": -0.780587197, "maxLon": 30.16805601, "maxLat": -0.4375 }
+    },
+    "UG114M": {
+      "name": "Mityana",
+      "sub_id": "UG114",
+      "sub_num": "114",
+      "bbox": { "minLon": 31.80204999, "minLat": 0.214859963, "maxLon": 32.26672935, "maxLat": 0.696990013 }
+    },
+    "UG308": {
+      "name": "Moroto",
+      "sub_id": "UG308",
+      "sub_num": "308",
+      "bbox": { "minLon": 34.28052151, "minLat": 2.122764587, "maxLon": 34.95535994, "maxLat": 3.118228913 }
+    },
+    "UG309": {
+      "name": "Moyo",
+      "sub_id": "UG309",
+      "sub_num": "309",
+      "bbox": { "minLon": 31.42646003, "minLat": 3.152561187, "maxLon": 32.02727342, "maxLat": 3.827040195 }
+    },
+    "UG106": {
+      "name": "Mpigi",
+      "sub_id": "UG106",
+      "sub_num": "106",
+      "bbox": { "minLon": 31.86419833, "minLat": -0.151000023, "maxLon": 32.42620003, "maxLat": 0.405335426 }
+    },
+    "UG107": {
+      "name": "Mubende",
+      "sub_id": "UG107",
+      "sub_num": "107",
+      "bbox": { "minLon": 31.02049625, "minLat": 0.162563324, "maxLon": 31.95642364, "maxLat": 0.867580056 }
+    },
+    "UG108M": {
+      "name": "Mukono",
+      "sub_id": "UG108",
+      "sub_num": "108",
+      "bbox": { "minLon": 32.50024998, "minLat": -1.001129151, "maxLon": 32.98413563, "maxLat": 0.859336853 }
+    },
+    "UG311": {
+      "name": "Nakapiripirit",
+      "sub_id": "UG311",
+      "sub_num": "311",
+      "bbox": { "minLon": 34.22126996, "minLat": 1.548042297, "maxLon": 34.87467432, "maxLat": 2.440588832 }
+    },
+    "UG116": {
+      "name": "Nakaseke",
+      "sub_id": "UG116",
+      "sub_num": "116",
+      "bbox": { "minLon": 31.8218931, "minLat": 0.533437729, "maxLon": 32.50156975, "maxLat": 1.466674805 }
+    },
+    "UG109": {
+      "name": "Nakasongola",
+      "sub_id": "UG109",
+      "sub_num": "109",
+      "bbox": { "minLon": 31.9701525, "minLat": 0.961490035, "maxLon": 32.81583738, "maxLat": 1.678040027 }
+    },
+    "UG230": {
+      "name": "Namayingo",
+      "sub_id": "UG230",
+      "sub_num": "230",
+      "bbox": { "minLon": 33.65783, "minLat": -1.000996828, "maxLon": 33.98296702, "maxLat": 0.483763218 }
+    },
+    "UG234": {
+      "name": "Namisindwa",
+      "sub_id": "UG234",
+      "sub_num": "234",
+      "bbox": { "minLon": 34.28730297, "minLat": 0.755077958, "maxLon": 34.49212527, "maxLat": 1.025686383 }
+    },
+    "UG224": {
+      "name": "Namutumba",
+      "sub_id": "UG224",
+      "sub_num": "224",
+      "bbox": { "minLon": 33.54120123, "minLat": 0.68690002, "maxLon": 33.84326994, "maxLat": 1.094225884 }
+    },
+    "UG327": {
+      "name": "Napak",
+      "sub_id": "UG327",
+      "sub_num": "327",
+      "bbox": { "minLon": 33.63074005, "minLat": 1.883239984, "maxLon": 34.59020007, "maxLat": 2.913966894 }
+    },
+    "UG310": {
+      "name": "Nebbi",
+      "sub_id": "UG310",
+      "sub_num": "310",
+      "bbox": { "minLon": 31.00143909, "minLat": 2.150402069, "maxLon": 31.49695134, "maxLat": 2.778597236 }
+    },
+    "UG231": {
+      "name": "Ngora",
+      "sub_id": "UG231",
+      "sub_num": "231",
+      "bbox": { "minLon": 33.55633998, "minLat": 1.313040018, "maxLon": 33.90131271, "maxLat": 1.684380054 }
+    },
+    "UG424": {
+      "name": "Ntoroko",
+      "sub_id": "UG424",
+      "sub_num": "424",
+      "bbox": { "minLon": 30.15140736, "minLat": 0.717164278, "maxLon": 30.55150032, "maxLat": 1.266425013 }
+    },
+    "UG411": {
+      "name": "Ntungamo",
+      "sub_id": "UG411",
+      "sub_num": "411",
+      "bbox": { "minLon": 30.0198859, "minLat": -1.192749977, "maxLon": 30.63311994, "maxLat": -0.714450002 }
+    },
+    "UG328": {
+      "name": "Nwoya",
+      "sub_id": "UG328",
+      "sub_num": "328",
+      "bbox": { "minLon": 31.33580995, "minLat": 2.217102051, "maxLon": 32.36421347, "maxLat": 2.837734223 }
+    },
+    "UG331": {
+      "name": "Omoro",
+      "sub_id": "UG331",
+      "sub_num": "331",
+      "bbox": { "minLon": 32.12531447, "minLat": 2.446861267, "maxLon": 32.82992077, "maxLat": 2.840833306 }
+    },
+    "UG329": {
+      "name": "Otuke",
+      "sub_id": "UG329",
+      "sub_num": "329",
+      "bbox": { "minLon": 33.00210333, "minLat": 2.321548462, "maxLon": 33.65669, "maxLat": 2.635519982 }
+    },
+    "UG321": {
+      "name": "Oyam",
+      "sub_id": "UG321",
+      "sub_num": "321",
+      "bbox": { "minLon": 32.22831726, "minLat": 2.072811127, "maxLon": 32.82465994, "maxLat": 2.623000026 }
+    },
+    "UG312": {
+      "name": "Pader",
+      "sub_id": "UG312",
+      "sub_num": "312",
+      "bbox": { "minLon": 32.46969116, "minLat": 2.527198792, "maxLon": 33.22531605, "maxLat": 3.249140024 }
+    },
+    "UG332": {
+      "name": "Pakwach",
+      "sub_id": "UG332",
+      "sub_num": "332",
+      "bbox": { "minLon": 31.34439397, "minLat": 2.320078731, "maxLon": 31.52910995, "maxLat": 2.49683845 }
+    },
+    "UG210": {
+      "name": "Pallisa",
+      "sub_id": "UG210",
+      "sub_num": "210",
+      "bbox": { "minLon": 33.39466, "minLat": 1.089019776, "maxLon": 33.8742888, "maxLat": 1.347129941 }
+    },
+    "UG110": {
+      "name": "Rakai",
+      "sub_id": "UG110",
+      "sub_num": "110",
+      "bbox": { "minLon": 31.09027004, "minLat": -1.027637482, "maxLon": 31.84339917, "maxLat": -0.455589295 }
+    },
+    "UG429": {
+      "name": "Rubanda",
+      "sub_id": "UG429",
+      "sub_num": "429",
+      "bbox": { "minLon": 29.72837997, "minLat": -1.48148346, "maxLon": 30.03034818, "maxLat": -0.985935807 }
+    },
+    "UG425": {
+      "name": "Rubirizi",
+      "sub_id": "UG425",
+      "sub_num": "425",
+      "bbox": { "minLon": 29.67898607, "minLat": -0.45155406, "maxLon": 30.28597641, "maxLat": -0.065853596 }
+    },
+    "UG431": {
+      "name": "Rukiga",
+      "sub_id": "UG431",
+      "sub_num": "431",
+      "bbox": { "minLon": 29.91957247, "minLat": -1.281488299, "maxLon": 30.29894233, "maxLat": -1.009439945 }
+    },
+    "UG412": {
+      "name": "Rukungiri",
+      "sub_id": "UG412",
+      "sub_num": "412",
+      "bbox": { "minLon": 29.67898607, "minLat": -1.058330059, "maxLon": 30.07577467, "maxLat": -0.334828854 }
+    },
+    "UG111": {
+      "name": "Sembabule",
+      "sub_id": "UG111",
+      "sub_num": "111",
+      "bbox": { "minLon": 31.00687838, "minLat": -0.343219996, "maxLon": 31.60034323, "maxLat": 0.233287812 }
+    },
+    "UG232": {
+      "name": "Serere",
+      "sub_id": "UG232",
+      "sub_num": "232",
+      "bbox": { "minLon": 33.01471996, "minLat": 1.312070012, "maxLon": 33.70931208, "maxLat": 1.675379992 }
+    },
+    "UG426": {
+      "name": "Sheema",
+      "sub_id": "UG426",
+      "sub_num": "426",
+      "bbox": { "minLon": 30.11238563, "minLat": -0.760416627, "maxLon": 30.47763002, "maxLat": -0.42566657 }
+    },
+    "UG215": {
+      "name": "Sironko",
+      "sub_id": "UG215",
+      "sub_num": "215",
+      "bbox": { "minLon": 34.16955996, "minLat": 1.087489962, "maxLon": 34.52644002, "maxLat": 1.293125153 }
+    },
+    "UG211": {
+      "name": "Soroti",
+      "sub_id": "UG211",
+      "sub_num": "211",
+      "bbox": { "minLon": 33.38953996, "minLat": 1.555187702, "maxLon": 33.8171972, "maxLat": 2.023000002 }
+    },
+    "UG212": {
+      "name": "Tororo",
+      "sub_id": "UG212",
+      "sub_num": "212",
+      "bbox": { "minLon": 33.87873983, "minLat": 0.575752258, "maxLon": 34.31306589, "maxLat": 0.906010032 }
+    },
+    "UG113": {
+      "name": "Wakiso",
+      "sub_id": "UG113",
+      "sub_num": "113",
+      "bbox": { "minLon": 32.19185019, "minLat": -0.150130033, "maxLon": 32.68631995, "maxLat": 0.586949945 }
+    },
+    "UG313": {
+      "name": "Yumbe",
+      "sub_id": "UG313",
+      "sub_num": "313",
+      "bbox": { "minLon": 31.04928994, "minLat": 3.183380008, "maxLon": 31.53619814, "maxLat": 3.796627164 }
+    },
+    "UG330": {
+      "name": "Zombo",
+      "sub_id": "UG330",
+      "sub_num": "330",
+      "bbox": { "minLon": 30.73388624, "minLat": 2.329444886, "maxLon": 31.0748359, "maxLat": 2.711415529 }
+    }
+  }
+  
+  

@@ -1,0 +1,289 @@
+{
+    "CHAG": {
+      "name": "Aargau",
+      "sub_id": "CHAG",
+      "sub_num": "AG",
+      "bbox": {
+        "minLon": 7.717767596,
+        "minLat": 47.14465141,
+        "maxLon": 8.426029086,
+        "maxLat": 47.62075424
+      }
+    },
+    "CHAR": {
+      "name": "Appenzell Ausserrhoden",
+      "sub_id": "CHAR",
+      "sub_num": "AR",
+      "bbox": {
+        "minLon": 9.198554635,
+        "minLat": 47.24486196,
+        "maxLon": 9.63067174,
+        "maxLat": 47.47116101
+      }
+    },
+    "CHAI": {
+      "name": "Appenzell Innerrhoden",
+      "sub_id": "CHAI",
+      "sub_num": "AI",
+      "bbox": {
+        "minLon": 9.303821206,
+        "minLat": 47.23400116,
+        "maxLon": 9.637458206,
+        "maxLat": 47.44684875
+      }
+    },
+    "CHBL": {
+      "name": "Basel-Landschaft",
+      "sub_id": "CHBL",
+      "sub_num": "BL",
+      "bbox": {
+        "minLon": 7.355684161,
+        "minLat": 47.33858585,
+        "maxLon": 7.947660804,
+        "maxLat": 47.56238937
+      }
+    },
+    "CHBS": {
+      "name": "Basel-Stadt",
+      "sub_id": "CHBS",
+      "sub_num": "BS",
+      "bbox": {
+        "minLon": 7.535901785,
+        "minLat": 47.52938747,
+        "maxLon": 7.692203522,
+        "maxLat": 47.6010561
+      }
+    },
+    "CHBE": {
+      "name": "Bern",
+      "sub_id": "CHBE",
+      "sub_num": "BE",
+      "bbox": {
+        "minLon": 6.859014392,
+        "minLat": 46.32871223,
+        "maxLon": 8.459240079,
+        "maxLat": 47.29146481
+      }
+    },
+    "CHFR": {
+      "name": "Freiburg",
+      "sub_id": "CHFR",
+      "sub_num": "FR",
+      "bbox": {
+        "minLon": 6.752664328,
+        "minLat": 46.43799663,
+        "maxLon": 7.376931667,
+        "maxLat": 47.00285602
+      }
+    },
+    "CHGE": {
+      "name": "Genève",
+      "sub_id": "CHGE",
+      "sub_num": "GE",
+      "bbox": {
+        "minLon": 5.952608228,
+        "minLat": 46.12815857,
+        "maxLon": 6.31084156,
+        "maxLat": 46.36419296
+      }
+    },
+    "CHGL": {
+      "name": "Glarus",
+      "sub_id": "CHGL",
+      "sub_num": "GL",
+      "bbox": {
+        "minLon": 8.865038752,
+        "minLat": 46.7968992,
+        "maxLon": 9.248353243,
+        "maxLat": 47.17255652
+      }
+    },
+    "CHGR": {
+      "name": "Graubünden",
+      "sub_id": "CHGR",
+      "sub_num": "GR",
+      "bbox": {
+        "minLon": 8.649040818,
+        "minLat": 46.17004394,
+        "maxLon": 10.4917264,
+        "maxLat": 47.06500053
+      }
+    },
+    "CHJU": {
+      "name": "Jura",
+      "sub_id": "CHJU",
+      "sub_num": "JU",
+      "bbox": {
+        "minLon": 6.840431452,
+        "minLat": 47.15943909,
+        "maxLon": 7.571107626,
+        "maxLat": 47.50436783
+      }
+    },
+    "CHLU": {
+      "name": "Luzern",
+      "sub_id": "CHLU",
+      "sub_num": "LU",
+      "bbox": {
+        "minLon": 7.842502117,
+        "minLat": 46.77736044,
+        "maxLon": 8.513550043,
+        "maxLat": 47.29062796
+      }
+    },
+    "CHNE": {
+      "name": "Neuchâtel",
+      "sub_id": "CHNE",
+      "sub_num": "NE",
+      "bbox": {
+        "minLon": 6.43231976,
+        "minLat": 46.84295654,
+        "maxLon": 7.092539072,
+        "maxLat": 47.16643095
+      }
+    },
+    "CHNW": {
+      "name": "Nidwalden",
+      "sub_id": "CHNW",
+      "sub_num": "NW",
+      "bbox": {
+        "minLon": 8.215374351,
+        "minLat": 46.77974224,
+        "maxLon": 8.577679276,
+        "maxLat": 47.01667786
+      }
+    },
+    "CHOW": {
+      "name": "Obwalden",
+      "sub_id": "CHOW",
+      "sub_num": "OW",
+      "bbox": {
+        "minLon": 8.038446784,
+        "minLat": 46.75195122,
+        "maxLon": 8.509465337,
+        "maxLat": 46.98043585
+      }
+    },
+    "CHSG": {
+      "name": "Sankt Gallen",
+      "sub_id": "CHSG",
+      "sub_num": "SG",
+      "bbox": {
+        "minLon": 8.800707101,
+        "minLat": 46.87462807,
+        "maxLon": 9.674914718,
+        "maxLat": 47.56393433
+      }
+    },
+    "CHSH": {
+      "name": "Schaffhausen",
+      "sub_id": "CHSH",
+      "sub_num": "SH",
+      "bbox": {
+        "minLon": 8.404824137,
+        "minLat": 47.5518322,
+        "maxLon": 8.881086588,
+        "maxLat": 47.81009674
+      }
+    },
+    "CHSZ": {
+      "name": "Schwyz",
+      "sub_id": "CHSZ",
+      "sub_num": "SZ",
+      "bbox": {
+        "minLon": 8.387426734,
+        "minLat": 46.88871801,
+        "maxLon": 9.010180354,
+        "maxLat": 47.22549319
+      }
+    },
+    "CHSO": {
+      "name": "Solothurn",
+      "sub_id": "CHSO",
+      "sub_num": "SO",
+      "bbox": {
+        "minLon": 7.337214589,
+        "minLat": 47.09692955,
+        "maxLon": 8.035057425,
+        "maxLat": 47.51372337
+      }
+    },
+    "CHTG": {
+      "name": "Thurgau",
+      "sub_id": "CHTG",
+      "sub_num": "TG",
+      "bbox": {
+        "minLon": 8.67014277,
+        "minLat": 47.38021719,
+        "maxLon": 9.477850914,
+        "maxLat": 47.69499779
+      }
+    },
+    "CHTI": {
+      "name": "Ticino",
+      "sub_id": "CHTI",
+      "sub_num": "TI",
+      "bbox": {
+        "minLon": 8.384401918,
+        "minLat": 45.82036972,
+        "maxLon": 9.161211252,
+        "maxLat": 46.63284302
+      }
+    },
+    "CHUR": {
+      "name": "Uri",
+      "sub_id": "CHUR",
+      "sub_num": "UR",
+      "bbox": {
+        "minLon": 8.397519588,
+        "minLat": 46.52752876,
+        "maxLon": 8.982625007,
+        "maxLat": 46.99040294
+      }
+    },
+    "CHVD": {
+      "name": "Vaud",
+      "sub_id": "CHVD",
+      "sub_num": "VD",
+      "bbox": {
+        "minLon": 6.06848383,
+        "minLat": 46.19081497,
+        "maxLon": 7.261061549,
+        "maxLat": 46.98200226
+      }
+    },
+    "CHVS": {
+      "name": "Wallis",
+      "sub_id": "CHVS",
+      "sub_num": "VS",
+      "bbox": {
+        "minLon": 6.77976191,
+        "minLat": 45.85865021,
+        "maxLon": 8.477659583,
+        "maxLat": 46.65477645
+      }
+    },
+    "CHZG": {
+      "name": "Zug",
+      "sub_id": "CHZG",
+      "sub_num": "ZG",
+      "bbox": {
+        "minLon": 8.395136476,
+        "minLat": 47.08100796,
+        "maxLon": 8.706653834,
+        "maxLat": 47.25623131
+      }
+    },
+    "CHZH": {
+      "name": "Zürich",
+      "sub_id": "CHZH",
+      "sub_num": "ZH",
+      "bbox": {
+        "minLon": 8.350257278,
+        "minLat": 47.16956377,
+        "maxLon": 8.979212165,
+        "maxLat": 47.69431114
+      }
+    }
+  }
+  

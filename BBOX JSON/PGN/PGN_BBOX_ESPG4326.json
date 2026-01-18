@@ -1,0 +1,245 @@
+{
+    "PGNSB": {
+      "name": "Bougainville",
+      "sub_id": "PGNSB",
+      "sub_num": "NSB",
+      "bbox": {
+        "minLon": 154.0996414,
+        "minLat": -6.972582221,
+        "maxLon": 159.4924999,
+        "maxLat": -3.105646252
+      }
+    },
+    "PGCPM": {
+      "name": "Central",
+      "sub_id": "PGCPM",
+      "sub_num": "CPM",
+      "bbox": {
+        "minLon": 146.3786893,
+        "minLat": -10.40903556,
+        "maxLon": 149.6641386,
+        "maxLat": -7.712089062
+      }
+    },
+    "PGCPK": {
+      "name": "Chimbu",
+      "sub_id": "PGCPK",
+      "sub_num": "CPK",
+      "bbox": {
+        "minLon": 144.4215027,
+        "minLat": -6.865768433,
+        "maxLon": 145.354599,
+        "maxLat": -5.776673556
+      }
+    },
+    "PGEBR": {
+      "name": "East New Britain",
+      "sub_id": "PGEBR",
+      "sub_num": "EBR",
+      "bbox": {
+        "minLon": 150.5885251,
+        "minLat": -6.126606703,
+        "maxLon": 152.4986343,
+        "maxLat": -4.087580323
+      }
+    },
+    "PGESW": {
+      "name": "East Sepik",
+      "sub_id": "PGESW",
+      "sub_num": "ESW",
+      "bbox": {
+        "minLon": 141.3550805,
+        "minLat": -5.108097076,
+        "maxLon": 144.8336754,
+        "maxLat": -3.189166665
+      }
+    },
+    "PGEHG": {
+      "name": "Eastern Highlands",
+      "sub_id": "PGEHG",
+      "sub_num": "EHG",
+      "bbox": {
+        "minLon": 145.0,
+        "minLat": -7.18214035,
+        "maxLon": 146.1322863,
+        "maxLat": -5.807807922
+      }
+    },
+    "PGEPW": {
+      "name": "Enga",
+      "sub_id": "PGEPW",
+      "sub_num": "EPW",
+      "bbox": {
+        "minLon": 142.7530975,
+        "minLat": -5.937552452,
+        "maxLon": 144.2540729,
+        "maxLat": -4.937152863
+      }
+    },
+    "PGGPK": {
+      "name": "Gulf",
+      "sub_id": "PGGPK",
+      "sub_num": "GPK",
+      "bbox": {
+        "minLon": 143.0190878,
+        "minLat": -8.585304856,
+        "maxLon": 146.6712952,
+        "maxLat": -6.706123352
+      }
+    },
+    "PGHLA": {
+      "name": "Hela",
+      "sub_id": "PGHLA",
+      "sub_num": "HLA",
+      "bbox": {
+        "minLon": 142.0961169,
+        "minLat": -6.362113952,
+        "maxLon": 143.4270242,
+        "maxLat": -4.920366764
+      }
+    },
+    "PGJWK": {
+      "name": "Jiwaka",
+      "sub_id": "PGJWK",
+      "sub_num": "JWK",
+      "bbox": {
+        "minLon": 144.2630945,
+        "minLat": -6.387798786,
+        "maxLon": 145.0297527,
+        "maxLat": -5.212122202
+      }
+    },
+    "PGMPM": {
+      "name": "Madang",
+      "sub_id": "PGMPM",
+      "sub_num": "MPM",
+      "bbox": {
+        "minLon": 143.9715493,
+        "minLat": -6.035066843,
+        "maxLon": 147.2181275,
+        "maxLat": -3.990198731
+      }
+    },
+    "PGMRL": {
+      "name": "Manus",
+      "sub_id": "PGMRL",
+      "sub_num": "MRL",
+      "bbox": {
+        "minLon": 142.8242915,
+        "minLat": -2.932189703,
+        "maxLon": 148.2082442,
+        "maxLat": -0.756053686
+      }
+    },
+    "PGMBA": {
+      "name": "Milne Bay",
+      "sub_id": "PGMBA",
+      "sub_num": "MBA",
+      "bbox": {
+        "minLon": 148.973999,
+        "minLat": -11.65532696,
+        "maxLon": 154.3996465,
+        "maxLat": -8.301111102
+      }
+    },
+    "PGMPL": {
+      "name": "Morobe",
+      "sub_id": "PGMPL",
+      "sub_num": "MPL",
+      "bbox": {
+        "minLon": 145.8047028,
+        "minLat": -8.001534342,
+        "maxLon": 148.1841534,
+        "maxLat": -5.280106306
+      }
+    },
+    "PGNCD": {
+      "name": "National Capital District (Port Moresby)",
+      "sub_id": "PGNCD",
+      "sub_num": "NCD",
+      "bbox": {
+        "minLon": 147.0957721,
+        "minLat": -9.543213725,
+        "maxLon": 147.300293,
+        "maxLat": -9.315652847
+      }
+    },
+    "PGNIK": {
+      "name": "New Ireland",
+      "sub_id": "PGNIK",
+      "sub_num": "NIK",
+      "bbox": {
+        "minLon": 149.5053644,
+        "minLat": -4.851430535,
+        "maxLon": 153.7450612,
+        "maxLat": -1.314718842
+      }
+    },
+    "PGNPP": {
+      "name": "Northern",
+      "sub_id": "PGNPP",
+      "sub_num": "NPP",
+      "bbox": {
+        "minLon": 146.9975045,
+        "minLat": -9.929123879,
+        "maxLon": 149.443867,
+        "maxLat": -7.990472317
+      }
+    },
+    "PGSHM": {
+      "name": "Southern Highlands",
+      "sub_id": "PGSHM",
+      "sub_num": "SHM",
+      "bbox": {
+        "minLon": 142.6420043,
+        "minLat": -6.790838242,
+        "maxLon": 144.7147613,
+        "maxLat": -5.875244975
+      }
+    },
+    "PGWBK": {
+      "name": "West New Britain",
+      "sub_id": "PGWBK",
+      "sub_num": "WBK",
+      "bbox": {
+        "minLon": 148.3078139,
+        "minLat": -6.325833321,
+        "maxLon": 151.7384033,
+        "maxLat": -4.613943934
+      }
+    },
+    "PGSAN": {
+      "name": "West Sepik",
+      "sub_id": "PGSAN",
+      "sub_num": "SAN",
+      "bbox": {
+        "minLon": 140.9999963,
+        "minLat": -5.335364341,
+        "maxLon": 143.0724895,
+        "maxLat": -2.603027702
+      }
+    },
+    "PGWPD": {
+      "name": "Western",
+      "sub_id": "PGWPD",
+      "sub_num": "WPD",
+      "bbox": {
+        "minLon": 140.8420877,
+        "minLat": -9.333176493,
+        "maxLon": 143.9217529,
+        "maxLat": -4.903436899
+      }
+    },
+    "PGWHM": {
+      "name": "Western Highlands",
+      "sub_id": "PGWHM",
+      "sub_num": "WHM",
+      "bbox": {
+        "minLon": 143.7677585,
+        "minLat": -6.24147892,
+        "maxLon": 144.5128438,
+        "maxLat": -5.212841034
+      }
+    }
+  }
+  

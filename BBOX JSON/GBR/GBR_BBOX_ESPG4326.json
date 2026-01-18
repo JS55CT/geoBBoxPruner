@@ -1,0 +1,234 @@
+{
+    "AI": {
+      "name": "Anguilla",
+      "sub_id": "AI",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -63.42955208,
+        "minLat": 18.15432191,
+        "maxLon": -62.92381907,
+        "maxLat": 18.59540463
+      }
+    },
+    "BM": {
+      "name": "Bermuda",
+      "sub_id": "BM",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -64.88723803,
+        "minLat": 32.24698925,
+        "maxLon": -64.64679205,
+        "maxLat": 32.39072084
+      }
+    },
+    "IO": {
+      "name": "British Indian Ocean Territory",
+      "sub_id": "IO",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 71.2374177,
+        "minLat": -7.443902493,
+        "maxLon": 72.49460328,
+        "maxLat": -5.235725641
+      }
+    },
+    "VG": {
+      "name": "British Virgin Islands",
+      "sub_id": "VG",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -64.8493042,
+        "minLat": 18.30578506,
+        "maxLon": -64.27030885,
+        "maxLat": 18.74935555
+      }
+    },
+    "KY": {
+      "name": "Cayman Islands",
+      "sub_id": "KY",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -81.41991222,
+        "minLat": 19.26256251,
+        "maxLon": -79.72264326,
+        "maxLat": 19.75724828
+      }
+    },
+    "FK": {
+      "name": "Falkland Islands (Malvinas)",
+      "sub_id": "FK",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -61.46034563,
+        "minLat": -52.91944838,
+        "maxLon": -57.68722117,
+        "maxLat": -50.99615538
+      }
+    },
+    "GI": {
+      "name": "Gibraltar",
+      "sub_id": "GI",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -5.365943313,
+        "minLat": 36.1085906,
+        "maxLon": -5.33839941,
+        "maxLat": 36.15511894
+      }
+    },
+    "GG": {
+      "name": "Guernsey",
+      "sub_id": "GG",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -2.678243875,
+        "minLat": 49.39975548,
+        "maxLon": -2.15582943,
+        "maxLat": 49.73582828
+      }
+    },
+    "IM": {
+      "name": "Isle of Man",
+      "sub_id": "IM",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -4.837949395,
+        "minLat": 54.03745377,
+        "maxLon": -4.30653429,
+        "maxLat": 54.41817486
+      }
+    },
+    "JE": {
+      "name": "Jersey",
+      "sub_id": "JE",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -2.254995585,
+        "minLat": 49.1470927,
+        "maxLon": -1.924494028,
+        "maxLat": 49.29258013
+      }
+    },
+    "MS": {
+      "name": "Montserrat",
+      "sub_id": "MS",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -62.24170005,
+        "minLat": 16.6747005,
+        "maxLon": -62.14449239,
+        "maxLat": 16.82414794
+      }
+    },
+    "PN": {
+      "name": "Pitcairn",
+      "sub_id": "PN",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -130.7562256,
+        "minLat": -25.07944584,
+        "maxLon": -124.7715607,
+        "maxLat": -23.90775335
+      }
+    },
+    "SHHL": {
+      "name": "Saint Helena",
+      "sub_id": "SHHL",
+      "sub_num": "HL",
+      "bbox": {
+        "minLon": -5.79050231,
+        "minLat": -16.03074443,
+        "maxLon": -5.63510716,
+        "maxLat": -15.90485573
+      }
+    },
+    "SHAC": {
+      "name": "Ascension",
+      "sub_id": "SHAC",
+      "sub_num": "AC",
+      "bbox": {
+        "minLon": -14.42111111,
+        "minLat": -7.993611098,
+        "maxLon": -14.29419982,
+        "maxLat": -7.889166713
+      }
+    },
+    "SHTA": {
+      "name": "Tristan da Cunha",
+      "sub_id": "SHTA",
+      "sub_num": "TA",
+      "bbox": {
+        "minLon": -12.70631683,
+        "minLat": -40.90778279,
+        "maxLon": -9.874072194,
+        "maxLat": -37.06171656
+      }
+    },
+    "GS": {
+      "name": "South Georgia",
+      "sub_id": "GS",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -38.96010232,
+        "minLat": -59.46314025,
+        "maxLon": -26.2672981,
+        "maxLat": -53.94262481
+      }
+    },
+    "TC": {
+      "name": "Turks and Caicos Islands",
+      "sub_id": "TC",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -72.48294282,
+        "minLat": 21.17697883,
+        "maxLon": -71.08223951,
+        "maxLat": 21.96263373
+      }
+    },
+    "GBENG": {
+      "name": "England",
+      "sub_id": "GBENG",
+      "sub_num": "ENG",
+      "bbox": {
+        "minLon": -6.41889143,
+        "minLat": 49.86524451,
+        "maxLon": 1.764096975,
+        "maxLat": 55.81386888
+      }
+    },
+    "GBNIR": {
+      "name": "Northern Ireland",
+      "sub_id": "GBNIR",
+      "sub_num": "NIR",
+      "bbox": {
+        "minLon": -8.173854351,
+        "minLat": 54.02258587,
+        "maxLon": -5.432823777,
+        "maxLat": 55.31252897
+      }
+    },
+    "GBSCT": {
+      "name": "Scotland",
+      "sub_id": "GBSCT",
+      "sub_num": "SCT",
+      "bbox": {
+        "minLon": -13.69111502,
+        "minLat": 54.63278317,
+        "maxLon": -0.723449707,
+        "maxLat": 60.85618818
+      }
+    },
+    "GBWLS": {
+      "name": "Wales",
+      "sub_id": "GBWLS",
+      "sub_num": "WLS",
+      "bbox": {
+        "minLon": -5.48422873,
+        "minLat": 51.38059425,
+        "maxLon": -2.656749964,
+        "maxLat": 53.42989612
+      }
+    }
+  }
+  

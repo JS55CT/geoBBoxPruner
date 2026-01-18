@@ -1,0 +1,278 @@
+{
+    "KH2": {
+      "name": "Baat Dambang [Batdâmbâng]",
+      "sub_id": "KH2",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 102.3425246,
+        "minLat": 12.36854553,
+        "maxLon": 103.8738098,
+        "maxLat": 13.47198486
+      }
+    },
+    "KH1": {
+      "name": "Banteay Mean Choăy [Bântéay Méanchey]",
+      "sub_id": "KH1",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 102.3354595,
+        "minLat": 13.3484745,
+        "maxLon": 103.4586172,
+        "maxLat": 14.23622131
+      }
+    },
+    "KH23": {
+      "name": "Kaeb [Kêb]",
+      "sub_id": "KH23",
+      "sub_num": "23",
+      "bbox": {
+        "minLon": 104.2659004,
+        "minLat": 10.4416883,
+        "maxLon": 104.4251658,
+        "maxLat": 10.58948994
+      }
+    },
+    "KH3": {
+      "name": "Kampong Chaam [Kâmpóng Cham]",
+      "sub_id": "KH3",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 104.814,
+        "minLat": 11.80575371,
+        "maxLon": 105.7744093,
+        "maxLat": 12.5033319
+      }
+    },
+    "KH4": {
+      "name": "Kampong Chhnang [Kâmpóng Chhnang]",
+      "sub_id": "KH4",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 104.1703755,
+        "minLat": 11.73404217,
+        "maxLon": 104.9025748,
+        "maxLat": 12.60681152
+      }
+    },
+    "KH5": {
+      "name": "Kampong Spueu [Kâmpóng Spœ]",
+      "sub_id": "KH5",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 103.7742882,
+        "minLat": 11.07763052,
+        "maxLon": 104.779201,
+        "maxLat": 12.0753479
+      }
+    },
+    "KH6": {
+      "name": "Kampong Thum [Kâmpóng Thum]",
+      "sub_id": "KH6",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 104.1996994,
+        "minLat": 12.18315125,
+        "maxLon": 105.7322961,
+        "maxLat": 13.46374512
+      }
+    },
+    "KH7": {
+      "name": "Kampot [Kâmpôt]",
+      "sub_id": "KH7",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 103.8989015,
+        "minLat": 10.3534379,
+        "maxLon": 104.7223452,
+        "maxLat": 11.16760254
+      }
+    },
+    "KH8": {
+      "name": "Kandaal [Kândal]",
+      "sub_id": "KH8",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 104.6562629,
+        "minLat": 10.89636409,
+        "maxLon": 105.3060943,
+        "maxLat": 11.89458847
+      }
+    },
+    "KH9": {
+      "name": "Kaoh Kong [Kaôh Kŏng]",
+      "sub_id": "KH9",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 102.7743278,
+        "minLat": 10.54216111,
+        "maxLon": 104.0793594,
+        "maxLat": 12.11339235
+      }
+    },
+    "KH10": {
+      "name": "Kracheh [Krâchéh]",
+      "sub_id": "KH10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 105.5864899,
+        "minLat": 11.95006728,
+        "maxLon": 106.8010875,
+        "maxLat": 13.40778351
+      }
+    },
+    "KH11": {
+      "name": "Mondol Kiri [Môndól Kiri]",
+      "sub_id": "KH11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 106.3362117,
+        "minLat": 12.06547737,
+        "maxLon": 107.6014291,
+        "maxLat": 13.41739655
+      }
+    },
+    "KH22": {
+      "name": "Otdar Mean Chey [Ŏtdâr Méan Choăy]",
+      "sub_id": "KH22",
+      "sub_num": "22",
+      "bbox": {
+        "minLon": 103.0309589,
+        "minLat": 13.8765049,
+        "maxLon": 104.5105143,
+        "maxLat": 14.441185
+      }
+    },
+    "KH24": {
+      "name": "Pailin [Pailĭn]",
+      "sub_id": "KH24",
+      "sub_num": "24",
+      "bbox": {
+        "minLon": 102.4858109,
+        "minLat": 12.65075684,
+        "maxLon": 102.7556876,
+        "maxLat": 13.11655998
+      }
+    },
+    "KH12": {
+      "name": "Phnom Penh [Phnum Pénh]",
+      "sub_id": "KH12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 104.7861981,
+        "minLat": 11.43045902,
+        "maxLon": 104.9799128,
+        "maxLat": 11.66748047
+      }
+    },
+    "KH15": {
+      "name": "Pousaat [Poŭthĭsăt]",
+      "sub_id": "KH15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 102.7026927,
+        "minLat": 11.84238255,
+        "maxLon": 104.4004933,
+        "maxLat": 13.07140636
+      }
+    },
+    "KH18": {
+      "name": "Preah Sihanouk [Preăh Seihânŭ]",
+      "sub_id": "KH18",
+      "sub_num": "18",
+      "bbox": {
+        "minLon": 102.8795294,
+        "minLat": 9.913812757,
+        "maxLon": 103.9733551,
+        "maxLat": 10.94238281
+      }
+    },
+    "KH13": {
+      "name": "Preah Vihear [Preăh Vihéar]",
+      "sub_id": "KH13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 104.3572601,
+        "minLat": 13.04077148,
+        "maxLon": 105.8991461,
+        "maxLat": 14.43758011
+      }
+    },
+    "KH14": {
+      "name": "Prey Veaeng [Prey Vêng]",
+      "sub_id": "KH14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 105.1028973,
+        "minLat": 10.85929871,
+        "maxLon": 105.8171382,
+        "maxLat": 11.87016964
+      }
+    },
+    "KH16": {
+      "name": "Rotanak Kiri [Rôtânôkiri]",
+      "sub_id": "KH16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 106.5234375,
+        "minLat": 13.17192078,
+        "maxLon": 107.6250131,
+        "maxLat": 14.69005108
+      }
+    },
+    "KH17": {
+      "name": "Siem Reab [Siĕmréab]",
+      "sub_id": "KH17",
+      "sub_num": "17",
+      "bbox": {
+        "minLon": 103.3897141,
+        "minLat": 12.72006893,
+        "maxLon": 104.6844878,
+        "maxLat": 13.98799896
+      }
+    },
+    "KH19": {
+      "name": "Stueng Traeng [Stoĕng Trêng]",
+      "sub_id": "KH19",
+      "sub_num": "19",
+      "bbox": {
+        "minLon": 105.5167521,
+        "minLat": 13.11231136,
+        "maxLon": 106.7881532,
+        "maxLat": 14.59207535
+      }
+    },
+    "KH20": {
+      "name": "Svaay Rieng [Svay Riĕng]",
+      "sub_id": "KH20",
+      "sub_num": "20",
+      "bbox": {
+        "minLon": 105.5792091,
+        "minLat": 10.79200745,
+        "maxLon": 106.2051011,
+        "maxLat": 11.60190582
+      }
+    },
+    "KH21": {
+      "name": "Taakaev [Takêv]",
+      "sub_id": "KH21",
+      "sub_num": "21",
+      "bbox": {
+        "minLon": 104.4105256,
+        "minLat": 10.51820755,
+        "maxLon": 105.098419,
+        "maxLat": 11.35372639
+      }
+    },
+    "KH25": {
+      "name": "Tbong Khmum [Tbong Khmûm]",
+      "sub_id": "KH25",
+      "sub_num": "25",
+      "bbox": {
+        "minLon": 105.0441864,
+        "minLat": 11.60482407,
+        "maxLon": 106.4684346,
+        "maxLat": 12.30091095
+      }
+    }
+  }
+  

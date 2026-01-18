@@ -1,0 +1,289 @@
+{
+    "ESCN": {
+      "name": "Canarias (ES)",
+      "sub_id": "ESCN",
+      "sub_num": "CN",
+      "bbox": {
+        "minLon": -18.16128302,
+        "minLat": 27.63735378,
+        "maxLon": -13.3344357,
+        "maxLat": 29.41713476
+      }
+    },
+    "ESAN": {
+      "name": "Andalucía",
+      "sub_id": "ESAN",
+      "sub_num": "AN",
+      "bbox": {
+        "minLon": -7.522564292,
+        "minLat": 35.9372375,
+        "maxLon": -1.625725627,
+        "maxLat": 38.72886658
+      }
+    },
+    "ESAR": {
+      "name": "Aragón",
+      "sub_id": "ESAR",
+      "sub_num": "AR",
+      "bbox": {
+        "minLon": -2.172676563,
+        "minLat": 39.84844208,
+        "maxLon": 0.77319479,
+        "maxLat": 42.92736053
+      }
+    },
+    "ESAS": {
+      "name": "Asturias, Principado de",
+      "sub_id": "ESAS",
+      "sub_num": "AS",
+      "bbox": {
+        "minLon": -7.179613232,
+        "minLat": 42.8819561,
+        "maxLon": -4.512046456,
+        "maxLat": 43.66125596
+      }
+    },
+    "ESCB": {
+      "name": "Cantabria",
+      "sub_id": "ESCB",
+      "sub_num": "CB",
+      "bbox": {
+        "minLon": -4.849786758,
+        "minLat": 42.75818825,
+        "maxLon": -3.145573497,
+        "maxLat": 43.514817
+      }
+    },
+    "ESCL": {
+      "name": "Castilla y León",
+      "sub_id": "ESCL",
+      "sub_num": "CL",
+      "bbox": {
+        "minLon": -7.074454546,
+        "minLat": 40.0825882,
+        "maxLon": -1.785987854,
+        "maxLat": 43.23712349
+      }
+    },
+    "ESCM": {
+      "name": "Castilla-La Mancha",
+      "sub_id": "ESCM",
+      "sub_num": "CM",
+      "bbox": {
+        "minLon": -5.402094126,
+        "minLat": 38.02127838,
+        "maxLon": -0.913933158,
+        "maxLat": 41.32541657
+      }
+    },
+    "ESCT": {
+      "name": "Catalunya",
+      "sub_id": "ESCT",
+      "sub_num": "CT",
+      "bbox": {
+        "minLon": 0.180124402,
+        "minLat": 40.52250993,
+        "maxLon": 3.332553267,
+        "maxLat": 42.86006927
+      }
+    },
+    "ESCE": {
+      "name": "Ceuta",
+      "sub_id": "ESCE",
+      "sub_num": "CE",
+      "bbox": {
+        "minLon": -5.38216579,
+        "minLat": 35.87081277,
+        "maxLon": -5.278149843,
+        "maxLat": 35.91776812
+      }
+    },
+    "ESEX": {
+      "name": "Extremadura",
+      "sub_id": "ESEX",
+      "sub_num": "EX",
+      "bbox": {
+        "minLon": -7.540270805,
+        "minLat": 37.94025421,
+        "maxLon": -4.648191214,
+        "maxLat": 40.48650742
+      }
+    },
+    "ESGA": {
+      "name": "Galicia",
+      "sub_id": "ESGA",
+      "sub_num": "GA",
+      "bbox": {
+        "minLon": -9.301703691,
+        "minLat": 41.80847168,
+        "maxLon": -6.733595967,
+        "maxLat": 43.79110587
+      }
+    },
+    "ESIB": {
+      "name": "Illes Balears",
+      "sub_id": "ESIB",
+      "sub_num": "IB",
+      "bbox": {
+        "minLon": 1.156689644,
+        "minLat": 38.64065719,
+        "maxLon": 4.328058362,
+        "maxLat": 40.09482753
+      }
+    },
+    "ESRI": {
+      "name": "La Rioja",
+      "sub_id": "ESRI",
+      "sub_num": "RI",
+      "bbox": {
+        "minLon": -3.132076621,
+        "minLat": 41.91936493,
+        "maxLon": -1.677803516,
+        "maxLat": 42.64188766
+      }
+    },
+    "ESMD": {
+      "name": "Madrid, Comunidad de",
+      "sub_id": "ESMD",
+      "sub_num": "MD",
+      "bbox": {
+        "minLon": -4.580481768,
+        "minLat": 39.88552094,
+        "maxLon": -3.057457804,
+        "maxLat": 41.17092133
+      }
+    },
+    "ESML": {
+      "name": "Melilla",
+      "sub_id": "ESML",
+      "sub_num": "ML",
+      "bbox": {
+        "minLon": -2.97023499,
+        "minLat": 35.26556838,
+        "maxLon": -2.923219561,
+        "maxLat": 35.32012498
+      }
+    },
+    "ESMC": {
+      "name": "Murcia, Región de",
+      "sub_id": "ESMC",
+      "sub_num": "MC",
+      "bbox": {
+        "minLon": -2.344676137,
+        "minLat": 37.3779999,
+        "maxLon": -0.648137569,
+        "maxLat": 38.75324249
+      }
+    },
+    "ESNC": {
+      "name": "Navarra, Comunidad Foral de",
+      "sub_id": "ESNC",
+      "sub_num": "NC",
+      "bbox": {
+        "minLon": -2.499902725,
+        "minLat": 41.91181183,
+        "maxLon": -0.725145221,
+        "maxLat": 43.31497192
+      }
+    },
+    "ESBI": {
+      "name": "País Vasco",
+      "sub_id": "ESBI",
+      "sub_num": "BI",
+      "bbox": {
+        "minLon": -3.444818735,
+        "minLat": 42.46627808,
+        "maxLon": -1.727053523,
+        "maxLat": 43.45658541
+      }
+    },
+    "ESVC": {
+      "name": "Valenciana, Comunidad",
+      "sub_id": "ESVC",
+      "sub_num": "VC",
+      "bbox": {
+        "minLon": -1.528279066,
+        "minLat": 37.84549713,
+        "maxLon": 0.69070363,
+        "maxLat": 40.7888031
+      }
+    },
+    "ES1": {
+      "name": "Isla Congreso",
+      "sub_id": "ES1",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": -2.444881797,
+        "minLat": 35.17469657,
+        "maxLon": -2.437815547,
+        "maxLat": 35.18336868
+      }
+    },
+    "ES2": {
+      "name": "Isla Isabel II",
+      "sub_id": "ES2",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": -2.432338715,
+        "minLat": 35.17917216,
+        "maxLon": -2.427569151,
+        "maxLat": 35.18418109
+      }
+    },
+    "ES3": {
+      "name": "Isla de Mar",
+      "sub_id": "ES3",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -3.90237844,
+        "minLat": 35.21653795,
+        "maxLon": -3.899708509,
+        "maxLat": 35.21735871
+      }
+    },
+    "ES4": {
+      "name": "Isla de Tierra",
+      "sub_id": "ES4",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": -3.9037081,
+        "minLat": 35.21388257,
+        "maxLon": -3.902268529,
+        "maxLat": 35.21557772
+      }
+    },
+    "ES5": {
+      "name": "Isla del Rey",
+      "sub_id": "ES5",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -2.424720765,
+        "minLat": 35.17779398,
+        "maxLon": -2.418515801,
+        "maxLat": 35.18530953
+      }
+    },
+    "ES6": {
+      "name": "Peñón de Alhucemas",
+      "sub_id": "ES6",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": -3.89067781,
+        "minLat": 35.21245837,
+        "maxLon": -3.888225437,
+        "maxLat": 35.21339977
+      }
+    },
+    "ES7": {
+      "name": "Peñón de Vélez de la Gomera",
+      "sub_id": "ES7",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": -4.301218748,
+        "minLat": 35.17086112,
+        "maxLon": -4.296519995,
+        "maxLat": 35.17319083
+      }
+    }
+  }
+  

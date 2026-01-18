@@ -1,0 +1,58 @@
+{
+    "MT13": {
+      "name": "Għajnsielem",
+      "sub_id": "MT13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 14.31709111,
+        "minLat": 36.00336242,
+        "maxLon": 14.35158002,
+        "maxLat": 36.02046216
+      }
+    },
+    "MT": {
+      "name": "Malta",
+      "sub_id": "MT",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 14.18292212,
+        "minLat": 35.80635309,
+        "maxLon": 14.57654703,
+        "maxLat": 36.08224416
+      }
+    },
+    "MT30": {
+      "name": "Mellieħa",
+      "sub_id": "MT30",
+      "sub_num": "30",
+      "bbox": {
+        "minLon": 14.39879191,
+        "minLat": 35.96372819,
+        "maxLon": 14.4084655,
+        "maxLat": 35.96692431
+      }
+    },
+    "MT44": {
+      "name": "Qrendi",
+      "sub_id": "MT44",
+      "sub_num": "44",
+      "bbox": {
+        "minLon": 14.40806186,
+        "minLat": 35.78580713,
+        "maxLon": 14.4109863,
+        "maxLat": 35.78804123
+      }
+    },
+    "MT60": {
+      "name": "Valetta",
+      "sub_id": "MT60",
+      "sub_num": "60",
+      "bbox": {
+        "minLon": 14.52154076,
+        "minLat": 35.90244055,
+        "maxLon": 14.52584553,
+        "maxLat": 35.90303063
+      }
+    }
+  }
+  

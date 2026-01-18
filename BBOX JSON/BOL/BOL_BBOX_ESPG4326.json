@@ -1,0 +1,102 @@
+{
+    "BOH": {
+      "name": "Chuquisaca",
+      "sub_id": "BOH",
+      "sub_num": "H",
+      "bbox": {
+        "minLon": -65.67297471,
+        "minLat": -21.60461426,
+        "maxLon": -62.20787656,
+        "maxLat": -18.41780663
+      }
+    },
+    "BOC": {
+      "name": "Cochabamba",
+      "sub_id": "BOC",
+      "sub_num": "C",
+      "bbox": {
+        "minLon": -67.00508118,
+        "minLat": -18.68130684,
+        "maxLon": -64.19339371,
+        "maxLat": -15.79853296
+      }
+    },
+    "BOB": {
+      "name": "El Beni",
+      "sub_id": "BOB",
+      "sub_num": "B",
+      "bbox": {
+        "minLon": -67.56289268,
+        "minLat": -16.39850473,
+        "maxLon": -61.3537631,
+        "maxLat": -10.38257623
+      }
+    },
+    "BOL": {
+      "name": "La Paz",
+      "sub_id": "BOL",
+      "sub_num": "L",
+      "bbox": {
+        "minLon": -69.64383376,
+        "minLat": -18.05445397,
+        "maxLon": -66.73176146,
+        "maxLat": -11.84841156
+      }
+    },
+    "BOO": {
+      "name": "Oruro",
+      "sub_id": "BOO",
+      "sub_num": "O",
+      "bbox": {
+        "minLon": -69.14606297,
+        "minLat": -19.85710144,
+        "maxLon": -66.13252974,
+        "maxLat": -17.37045765
+      }
+    },
+    "BON": {
+      "name": "Pando",
+      "sub_id": "BON",
+      "sub_num": "N",
+      "bbox": {
+        "minLon": -69.57478917,
+        "minLat": -12.50098228,
+        "maxLon": -65.28458023,
+        "maxLat": -9.669620991
+      }
+    },
+    "BOP": {
+      "name": "Potosí",
+      "sub_id": "BOP",
+      "sub_num": "P",
+      "bbox": {
+        "minLon": -68.77370501,
+        "minLat": -22.89809001,
+        "maxLon": -64.78644371,
+        "maxLat": -17.90891647
+      }
+    },
+    "BOS": {
+      "name": "Santa Cruz",
+      "sub_id": "BOS",
+      "sub_num": "S",
+      "bbox": {
+        "minLon": -64.84271121,
+        "minLat": -20.47598362,
+        "maxLon": -57.42098141,
+        "maxLat": -13.47790718
+      }
+    },
+    "BOT": {
+      "name": "Tarija",
+      "sub_id": "BOT",
+      "sub_num": "T",
+      "bbox": {
+        "minLon": -65.34008396,
+        "minLat": -22.94340134,
+        "maxLon": -62.25735199,
+        "maxLat": -20.88724136
+      }
+    }
+  }
+  

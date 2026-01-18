@@ -1,0 +1,311 @@
+{
+    "BG01": {
+      "name": "Blagoevgrad",
+      "sub_id": "BG01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 22.86373055,
+        "minLat": 41.3176918,
+        "maxLon": 24.19902897,
+        "maxLat": 42.19543934
+      }
+    },
+    "BG02": {
+      "name": "Burgas",
+      "sub_id": "BG02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 26.47726524,
+        "minLat": 41.90456116,
+        "maxLon": 28.03652954,
+        "maxLat": 42.99119711
+      }
+    },
+    "BG08": {
+      "name": "Dobrich",
+      "sub_id": "BG08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 27.19744563,
+        "minLat": 43.30696082,
+        "maxLon": 28.60908818,
+        "maxLat": 44.00728226
+      }
+    },
+    "BG07": {
+      "name": "Gabrovo",
+      "sub_id": "BG07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 24.87382591,
+        "minLat": 42.7335763,
+        "maxLon": 25.63427663,
+        "maxLat": 43.18624735
+      }
+    },
+    "BG26": {
+      "name": "Haskovo",
+      "sub_id": "BG26",
+      "sub_num": "26",
+      "bbox": {
+        "minLon": 25.20267737,
+        "minLat": 41.56383276,
+        "maxLon": 26.58081508,
+        "maxLat": 42.20153332
+      }
+    },
+    "BG09": {
+      "name": "Kardzhali",
+      "sub_id": "BG09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 24.98603809,
+        "minLat": 41.23558402,
+        "maxLon": 26.20088875,
+        "maxLat": 41.89313769
+      }
+    },
+    "BG10": {
+      "name": "Kyustendil",
+      "sub_id": "BG10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 22.35947001,
+        "minLat": 42.02158928,
+        "maxLon": 23.52919781,
+        "maxLat": 42.64746666
+      }
+    },
+    "BG11": {
+      "name": "Lovech",
+      "sub_id": "BG11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 23.9579612,
+        "minLat": 42.71754742,
+        "maxLon": 25.16063535,
+        "maxLat": 43.3834219
+      }
+    },
+    "BG12": {
+      "name": "Montana",
+      "sub_id": "BG12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 22.74466383,
+        "minLat": 43.1076479,
+        "maxLon": 23.62528324,
+        "maxLat": 43.85212183
+      }
+    },
+    "BG13": {
+      "name": "Pazardzhik",
+      "sub_id": "BG13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 23.75408661,
+        "minLat": 41.66203284,
+        "maxLon": 24.51875782,
+        "maxLat": 42.63856173
+      }
+    },
+    "BG14": {
+      "name": "Pernik",
+      "sub_id": "BG14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 22.44005752,
+        "minLat": 42.36066341,
+        "maxLon": 23.29371035,
+        "maxLat": 42.89646149
+      }
+    },
+    "BG15": {
+      "name": "Pleven",
+      "sub_id": "BG15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 23.95419156,
+        "minLat": 43.20691109,
+        "maxLon": 25.26432419,
+        "maxLat": 43.76096964
+      }
+    },
+    "BG16": {
+      "name": "Plovdiv",
+      "sub_id": "BG16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 24.3740027,
+        "minLat": 41.79346955,
+        "maxLon": 25.36680722,
+        "maxLat": 42.7934432
+      }
+    },
+    "BG17": {
+      "name": "Razgrad",
+      "sub_id": "BG17",
+      "sub_num": "17",
+      "bbox": {
+        "minLon": 26.16149056,
+        "minLat": 43.33331823,
+        "maxLon": 27.02053797,
+        "maxLat": 43.94076347
+      }
+    },
+    "BG18": {
+      "name": "Ruse",
+      "sub_id": "BG18",
+      "sub_num": "18",
+      "bbox": {
+        "minLon": 25.45822275,
+        "minLat": 43.31844807,
+        "maxLon": 26.39865386,
+        "maxLat": 44.03698123
+      }
+    },
+    "BG27": {
+      "name": "Shumen",
+      "sub_id": "BG27",
+      "sub_num": "27",
+      "bbox": {
+        "minLon": 26.55201316,
+        "minLat": 42.9015255,
+        "maxLon": 27.42333341,
+        "maxLat": 43.71809721
+      }
+    },
+    "BG19": {
+      "name": "Silistra",
+      "sub_id": "BG19",
+      "sub_num": "19",
+      "bbox": {
+        "minLon": 26.36179149,
+        "minLat": 43.66556883,
+        "maxLon": 27.69366908,
+        "maxLat": 44.14778709
+      }
+    },
+    "BG20": {
+      "name": "Sliven",
+      "sub_id": "BG20",
+      "sub_num": "20",
+      "bbox": {
+        "minLon": 25.80005646,
+        "minLat": 42.15016365,
+        "maxLon": 26.66666162,
+        "maxLat": 43.05125713
+      }
+    },
+    "BG21": {
+      "name": "Smolyan",
+      "sub_id": "BG21",
+      "sub_num": "21",
+      "bbox": {
+        "minLon": 24.04905415,
+        "minLat": 41.31170511,
+        "maxLon": 25.18594301,
+        "maxLat": 41.94507122
+      }
+    },
+    "BG23": {
+      "name": "Sofia",
+      "sub_id": "BG23",
+      "sub_num": "23",
+      "bbox": {
+        "minLon": 22.75322711,
+        "minLat": 42.08836555,
+        "maxLon": 24.474805,
+        "maxLat": 43.1999588
+      }
+    },
+    "BG22": {
+      "name": "Sofia (stolitsa)",
+      "sub_id": "BG22",
+      "sub_num": "22",
+      "bbox": {
+        "minLon": 23.05915022,
+        "minLat": 42.40604639,
+        "maxLon": 23.66940308,
+        "maxLat": 42.91375637
+      }
+    },
+    "BG24": {
+      "name": "Stara Zagora",
+      "sub_id": "BG24",
+      "sub_num": "24",
+      "bbox": {
+        "minLon": 25.00094426,
+        "minLat": 42.01691151,
+        "maxLon": 26.1463151,
+        "maxLat": 42.79189825
+      }
+    },
+    "BG25": {
+      "name": "Targovishte",
+      "sub_id": "BG25",
+      "sub_num": "25",
+      "bbox": {
+        "minLon": 25.96136725,
+        "minLat": 42.95004988,
+        "maxLon": 26.80825579,
+        "maxLat": 43.55353832
+      }
+    },
+    "BG03": {
+      "name": "Varna",
+      "sub_id": "BG03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 27.06875455,
+        "minLat": 42.82608032,
+        "maxLon": 28.05544877,
+        "maxLat": 43.58581066
+      }
+    },
+    "BG04": {
+      "name": "Veliko Tarnovo",
+      "sub_id": "BG04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 25.07477593,
+        "minLat": 42.75732994,
+        "maxLon": 26.18301105,
+        "maxLat": 43.67207241
+      }
+    },
+    "BG05": {
+      "name": "Vidin",
+      "sub_id": "BG05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 22.35739708,
+        "minLat": 43.38719845,
+        "maxLon": 23.06506693,
+        "maxLat": 44.215451
+      }
+    },
+    "BG06": {
+      "name": "Vratsa",
+      "sub_id": "BG06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 23.31437945,
+        "minLat": 42.99679756,
+        "maxLon": 24.33011711,
+        "maxLat": 43.80577326
+      }
+    },
+    "BG28": {
+      "name": "Yambol",
+      "sub_id": "BG28",
+      "sub_num": "28",
+      "bbox": {
+        "minLon": 26.13225603,
+        "minLat": 41.87303782,
+        "maxLon": 27.09448743,
+        "maxLat": 42.6961112
+      }
+    }
+  }
+  

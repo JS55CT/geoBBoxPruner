@@ -1,0 +1,146 @@
+{
+    "MR07": {
+      "name": "Adrar",
+      "sub_id": "MR07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": -14.28085458,
+        "minLat": 18.5332489,
+        "maxLon": -6.360300064,
+        "maxLat": 24.20099258
+      }
+    },
+    "MR03": {
+      "name": "Assaba",
+      "sub_id": "MR03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -12.84397399,
+        "minLat": 15.10551453,
+        "maxLon": -10.52039051,
+        "maxLat": 18.29833031
+      }
+    },
+    "MR05": {
+      "name": "Brakna",
+      "sub_id": "MR05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -14.95801687,
+        "minLat": 16.10595703,
+        "maxLon": -12.3260113,
+        "maxLat": 18.5332489
+      }
+    },
+    "MR08": {
+      "name": "Dakhlet Nouâdhibou",
+      "sub_id": "MR08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": -17.065202,
+        "minLat": 19.40688586,
+        "maxLon": -14.18479323,
+        "maxLat": 21.33424819
+      }
+    },
+    "MR04": {
+      "name": "Gorgol",
+      "sub_id": "MR04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": -13.71948242,
+        "minLat": 15.13782978,
+        "maxLon": -12.01079237,
+        "maxLat": 16.85680389
+      }
+    },
+    "MR10": {
+      "name": "Guidimaka",
+      "sub_id": "MR10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": -12.75616562,
+        "minLat": 14.72013474,
+        "maxLon": -11.55247569,
+        "maxLat": 16.00982666
+      }
+    },
+    "MR01": {
+      "name": "Hodh ech Chargui",
+      "sub_id": "MR01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": -9.161528349,
+        "minLat": 15.49996698,
+        "maxLon": -5.332805872,
+        "maxLat": 23.17033768
+      }
+    },
+    "MR02": {
+      "name": "Hodh el Gharbi",
+      "sub_id": "MR02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": -11.09778428,
+        "minLat": 15.35957336,
+        "maxLon": -8.279397369,
+        "maxLat": 17.74223328
+      }
+    },
+    "MR12": {
+      "name": "Inchiri",
+      "sub_id": "MR12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": -16.54457426,
+        "minLat": 18.98502266,
+        "maxLon": -14.03593528,
+        "maxLat": 21.15239286
+      }
+    },
+    "MR": {
+      "name": "Nuakchott",
+      "sub_id": "MR",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -16.05132484,
+        "minLat": 17.91320801,
+        "maxLon": -15.76556087,
+        "maxLat": 18.4217453
+      }
+    },
+    "MR09": {
+      "name": "Tagant",
+      "sub_id": "MR09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": -12.6967715,
+        "minLat": 17.06923485,
+        "maxLon": -8.008175373,
+        "maxLat": 19.72045898
+      }
+    },
+    "MR11": {
+      "name": "Tiris Zemmour",
+      "sub_id": "MR11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": -13.15144658,
+        "minLat": 21.32446289,
+        "maxLon": -4.814110518,
+        "maxLat": 27.31589162
+      }
+    },
+    "MR06": {
+      "name": "Trarza",
+      "sub_id": "MR06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": -16.5204438,
+        "minLat": 16.06717443,
+        "maxLon": -12.6967715,
+        "maxLat": 19.01733398
+      }
+    }
+  }
+  

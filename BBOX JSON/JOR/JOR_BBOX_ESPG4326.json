@@ -1,0 +1,135 @@
+{
+    "JOBA": {
+      "name": "Al Balqā’",
+      "sub_id": "JOBA",
+      "sub_num": "BA",
+      "bbox": {
+        "minLon": 35.51161659,
+        "minLat": 31.66536749,
+        "maxLon": 35.94622982,
+        "maxLat": 32.17689514
+      }
+    },
+    "JOKA": {
+      "name": "Al Karak",
+      "sub_id": "JOKA",
+      "sub_num": "KA",
+      "bbox": {
+        "minLon": 35.35582256,
+        "minLat": 30.76686859,
+        "maxLon": 36.242185,
+        "maxLat": 31.42534828
+      }
+    },
+    "JOMA": {
+      "name": "Al Mafraq",
+      "sub_id": "JOMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": 35.9511447,
+        "minLat": 31.68998051,
+        "maxLon": 39.30018437,
+        "maxLat": 33.37496281
+      }
+    },
+    "JOAQ": {
+      "name": "Al ʿAqabah",
+      "sub_id": "JOAQ",
+      "sub_num": "AQ",
+      "bbox": {
+        "minLon": 34.95871413,
+        "minLat": 29.23487663,
+        "maxLon": 35.75267017,
+        "maxLat": 30.6950283
+      }
+    },
+    "JOAM": {
+      "name": "Al ʿĀṣimah",
+      "sub_id": "JOAM",
+      "sub_num": "AM",
+      "bbox": {
+        "minLon": 35.67102218,
+        "minLat": 31.23810327,
+        "maxLon": 37.27353513,
+        "maxLat": 32.02943802
+      }
+    },
+    "JOAZ": {
+      "name": "Az Zarqā’",
+      "sub_id": "JOAZ",
+      "sub_num": "AZ",
+      "bbox": {
+        "minLon": 35.89527416,
+        "minLat": 31.50365615,
+        "maxLon": 37.73977029,
+        "maxLat": 32.18135834
+      }
+    },
+    "JOAT": {
+      "name": "Aṭ Ṭafīlah",
+      "sub_id": "JOAT",
+      "sub_num": "AT",
+      "bbox": {
+        "minLon": 35.27497137,
+        "minLat": 30.5814743,
+        "maxLon": 36.03869975,
+        "maxLat": 30.98144531
+      }
+    },
+    "JOIR": {
+      "name": "Irbid",
+      "sub_id": "JOIR",
+      "sub_num": "IR",
+      "bbox": {
+        "minLon": 35.54701972,
+        "minLat": 32.16505051,
+        "maxLon": 36.09242511,
+        "maxLat": 32.75578022
+      }
+    },
+    "JOJA": {
+      "name": "Jarash",
+      "sub_id": "JOJA",
+      "sub_num": "JA",
+      "bbox": {
+        "minLon": 35.69697344,
+        "minLat": 32.08276248,
+        "maxLon": 36.02023625,
+        "maxLat": 32.34272003
+      }
+    },
+    "JOMN": {
+      "name": "Maʿān",
+      "sub_id": "JOMN",
+      "sub_num": "MN",
+      "bbox": {
+        "minLon": 35.29531741,
+        "minLat": 29.18503594,
+        "maxLon": 38.00657058,
+        "maxLat": 31.23906612
+      }
+    },
+    "JOMD": {
+      "name": "Mādabā",
+      "sub_id": "JOMD",
+      "sub_num": "MD",
+      "bbox": {
+        "minLon": 35.47512138,
+        "minLat": 31.391716,
+        "maxLon": 35.89742744,
+        "maxLat": 31.77537918
+      }
+    },
+    "JOAJ": {
+      "name": "ʿAjlūn",
+      "sub_id": "JOAJ",
+      "sub_num": "AJ",
+      "bbox": {
+        "minLon": 35.62073803,
+        "minLat": 32.14273453,
+        "maxLon": 35.915187,
+        "maxLat": 32.39112854
+      }
+    }
+  }
+  

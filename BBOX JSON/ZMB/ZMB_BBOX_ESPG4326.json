@@ -1,0 +1,113 @@
+{
+    "ZM02": {
+      "name": "Central",
+      "sub_id": "ZM02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 25.3132323,
+        "minLat": -15.74654102,
+        "maxLon": 31.44173348,
+        "maxLat": -12.00253499
+      }
+    },
+    "ZM08": {
+      "name": "Copperbelt",
+      "sub_id": "ZM08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 26.78085661,
+        "minLat": -13.93604136,
+        "maxLon": 29.08615184,
+        "maxLat": -12.21059561
+      }
+    },
+    "ZM03": {
+      "name": "Eastern",
+      "sub_id": "ZM03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 29.97849143,
+        "minLat": -14.99762535,
+        "maxLon": 33.54907191,
+        "maxLat": -11.57632828
+      }
+    },
+    "ZM04": {
+      "name": "Luapula",
+      "sub_id": "ZM04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 28.37758446,
+        "minLat": -12.46021271,
+        "maxLon": 30.45835793,
+        "maxLat": -8.38117063
+      }
+    },
+    "ZM09": {
+      "name": "Lusaka",
+      "sub_id": "ZM09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 27.76784503,
+        "minLat": -15.97025871,
+        "maxLon": 30.42184305,
+        "maxLat": -14.64271545
+      }
+    },
+    "ZM10": {
+      "name": "Muchinga",
+      "sub_id": "ZM10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 29.77994668,
+        "minLat": -13.43471289,
+        "maxLon": 33.70973968,
+        "maxLat": -9.082260132
+      }
+    },
+    "ZM06": {
+      "name": "North-Western",
+      "sub_id": "ZM06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 21.99934328,
+        "minLat": -14.73300934,
+        "maxLon": 27.59539759,
+        "maxLat": -10.8861208
+      }
+    },
+    "ZM05": {
+      "name": "Northern",
+      "sub_id": "ZM05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 29.07954037,
+        "minLat": -11.5062046,
+        "maxLon": 32.35446668,
+        "maxLat": -8.20502758
+      }
+    },
+    "ZM07": {
+      "name": "Southern",
+      "sub_id": "ZM07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 24.97230101,
+        "minLat": -18.07704163,
+        "maxLon": 28.9184444,
+        "maxLat": -15.28404236
+      }
+    },
+    "ZM01": {
+      "name": "Western",
+      "sub_id": "ZM01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 21.99766779,
+        "minLat": -17.63679027,
+        "maxLon": 25.58817303,
+        "maxLat": -13.71456504
+      }
+    }
+  }
+  

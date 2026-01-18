@@ -1,0 +1,377 @@
+{
+    "IDAC": {
+      "name": "Aceh",
+      "sub_id": "IDAC",
+      "sub_num": "AC",
+      "bbox": {
+        "minLon": 94.97236705,
+        "minLat": 1.976847172,
+        "maxLon": 98.2871902,
+        "maxLat": 6.077299833
+      }
+    },
+    "IDBA": {
+      "name": "Bali",
+      "sub_id": "IDBA",
+      "sub_num": "BA",
+      "bbox": {
+        "minLon": 114.4309468,
+        "minLat": -8.849255324,
+        "maxLon": 115.7123885,
+        "maxLat": -8.035966754
+      }
+    },
+    "IDBT": {
+      "name": "Banten",
+      "sub_id": "IDBT",
+      "sub_num": "BT",
+      "bbox": {
+        "minLon": 105.0995172,
+        "minLat": -7.01637125,
+        "maxLon": 106.7561758,
+        "maxLat": -5.807477713
+      }
+    },
+    "IDBE": {
+      "name": "Bengkulu",
+      "sub_id": "IDBE",
+      "sub_num": "BE",
+      "bbox": {
+        "minLon": 101.0093544,
+        "minLat": -5.514621734,
+        "maxLon": 103.7652969,
+        "maxLat": -2.249841929
+      }
+    },
+    "IDGO": {
+      "name": "Gorontalo",
+      "sub_id": "IDGO",
+      "sub_num": "GO",
+      "bbox": {
+        "minLon": 121.1595999,
+        "minLat": 0.30596745,
+        "maxLon": 123.6328851,
+        "maxLat": 1.069692254
+      }
+    },
+    "IDJK": {
+      "name": "Jakarta Raya",
+      "sub_id": "IDJK",
+      "sub_num": "JK",
+      "bbox": {
+        "minLon": 106.4788659,
+        "minLat": -6.331682205,
+        "maxLon": 106.9288299,
+        "maxLat": -5.455014229
+      }
+    },
+    "IDJA": {
+      "name": "Jambi",
+      "sub_id": "IDJA",
+      "sub_num": "JA",
+      "bbox": {
+        "minLon": 101.0992966,
+        "minLat": -2.682606935,
+        "maxLon": 104.4754506,
+        "maxLat": -0.782432556
+      }
+    },
+    "IDJB": {
+      "name": "Jawa Barat",
+      "sub_id": "IDJB",
+      "sub_num": "JB",
+      "bbox": {
+        "minLon": 106.3668603,
+        "minLat": -7.821079492,
+        "maxLon": 108.8368131,
+        "maxLat": -5.914352537
+      }
+    },
+    "IDJT": {
+      "name": "Jawa Tengah",
+      "sub_id": "IDJT",
+      "sub_num": "JT",
+      "bbox": {
+        "minLon": 108.556411,
+        "minLat": -8.212544203,
+        "maxLon": 111.6930499,
+        "maxLat": -5.725167394
+      }
+    },
+    "IDJI": {
+      "name": "Jawa Timur",
+      "sub_id": "IDJI",
+      "sub_num": "JI",
+      "bbox": {
+        "minLon": 110.9044815,
+        "minLat": -8.780622483,
+        "maxLon": 116.2707382,
+        "maxLat": -5.427262307
+      }
+    },
+    "IDKB": {
+      "name": "Kalimantan Barat",
+      "sub_id": "IDKB",
+      "sub_num": "KB",
+      "bbox": {
+        "minLon": 108.0263889,
+        "minLat": -3.0679425,
+        "maxLon": 114.20529,
+        "maxLat": 2.08194828
+      }
+    },
+    "IDKS": {
+      "name": "Kalimantan Selatan",
+      "sub_id": "IDKS",
+      "sub_num": "KS",
+      "bbox": {
+        "minLon": 114.371853,
+        "minLat": -5.105665684,
+        "maxLon": 117.4587455,
+        "maxLat": -1.475131034
+      }
+    },
+    "IDKT": {
+      "name": "Kalimantan Tengah",
+      "sub_id": "IDKT",
+      "sub_num": "KT",
+      "bbox": {
+        "minLon": 110.7333499,
+        "minLat": -3.54456532,
+        "maxLon": 115.7595454,
+        "maxLat": 0.758599639
+      }
+    },
+    "IDKI": {
+      "name": "Kalimantan Timur",
+      "sub_id": "IDKI",
+      "sub_num": "KI",
+      "bbox": {
+        "minLon": 113.7509239,
+        "minLat": -2.542672038,
+        "maxLon": 119.0372006,
+        "maxLat": 2.606413841
+      }
+    },
+    "IDKU": {
+      "name": "Kalimantan Utara",
+      "sub_id": "IDKU",
+      "sub_num": "KU",
+      "bbox": {
+        "minLon": 114.5594301,
+        "minLat": 1.042714119,
+        "maxLon": 117.9873462,
+        "maxLat": 4.408882737
+      }
+    },
+    "IDBB": {
+      "name": "Kepulauan Bangka Belitung",
+      "sub_id": "IDBB",
+      "sub_num": "BB",
+      "bbox": {
+        "minLon": 105.1085713,
+        "minLat": -3.803541303,
+        "maxLon": 108.7163146,
+        "maxLat": -1.493055582
+      }
+    },
+    "IDKR": {
+      "name": "Kepulauan Riau",
+      "sub_id": "IDKR",
+      "sub_num": "KR",
+      "bbox": {
+        "minLon": 103.2852358,
+        "minLat": -1.275656819,
+        "maxLon": 109.1673479,
+        "maxLat": 4.79583335
+      }
+    },
+    "IDLA": {
+      "name": "Lampung",
+      "sub_id": "IDLA",
+      "sub_num": "LA",
+      "bbox": {
+        "minLon": 103.6069047,
+        "minLat": -6.168433189,
+        "maxLon": 106.4950773,
+        "maxLat": -3.724021911
+      }
+    },
+    "IDMA": {
+      "name": "Maluku",
+      "sub_id": "IDMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": 125.7221507,
+        "minLat": -8.351546169,
+        "maxLon": 134.908188,
+        "maxLat": -2.725446463
+      }
+    },
+    "IDMU": {
+      "name": "Maluku Utara",
+      "sub_id": "IDMU",
+      "sub_num": "MU",
+      "bbox": {
+        "minLon": 124.1438661,
+        "minLat": -2.477606058,
+        "maxLon": 129.1417941,
+        "maxLat": 2.645531535
+      }
+    },
+    "IDNB": {
+      "name": "Nusa Tenggara Barat",
+      "sub_id": "IDNB",
+      "sub_num": "NB",
+      "bbox": {
+        "minLon": 115.820032,
+        "minLat": -9.10992682,
+        "maxLon": 119.3355619,
+        "maxLat": -8.080153942
+      }
+    },
+    "IDNT": {
+      "name": "Nusa Tenggara Timur",
+      "sub_id": "IDNT",
+      "sub_num": "NT",
+      "bbox": {
+        "minLon": 118.9268631,
+        "minLat": -11.00967824,
+        "maxLon": 125.1958408,
+        "maxLat": -7.777610421
+      }
+    },
+    "IDPA": {
+      "name": "Papua",
+      "sub_id": "IDPA",
+      "sub_num": "PA",
+      "bbox": {
+        "minLon": 129.5061548,
+        "minLat": -9.127437591,
+        "maxLon": 141.0194445,
+        "maxLat": 0.939128518
+      }
+    },
+    "IDPB": {
+      "name": "Papua Barat",
+      "sub_id": "IDPB",
+      "sub_num": "PB",
+      "bbox": {
+        "minLon": 129.2788298,
+        "minLat": -4.328448653,
+        "maxLon": 135.2646694,
+        "maxLat": 1.081350445
+      }
+    },
+    "IDRI": {
+      "name": "Riau",
+      "sub_id": "IDRI",
+      "sub_num": "RI",
+      "bbox": {
+        "minLon": 100.0010986,
+        "minLat": -1.188755989,
+        "maxLon": 103.8138657,
+        "maxLat": 2.88710332
+      }
+    },
+    "IDSR": {
+      "name": "Sulawesi Barat",
+      "sub_id": "IDSR",
+      "sub_num": "SR",
+      "bbox": {
+        "minLon": 118.7567221,
+        "minLat": -3.570521355,
+        "maxLon": 119.8374941,
+        "maxLat": -0.890431404
+      }
+    },
+    "IDSN": {
+      "name": "Sulawesi Selatan",
+      "sub_id": "IDSN",
+      "sub_num": "SN",
+      "bbox": {
+        "minLon": 117.0381818,
+        "minLat": -7.597684145,
+        "maxLon": 122.0910583,
+        "maxLat": -1.838114977
+      }
+    },
+    "IDST": {
+      "name": "Sulawesi Tengah",
+      "sub_id": "IDST",
+      "sub_num": "ST",
+      "bbox": {
+        "minLon": 119.4831476,
+        "minLat": -3.355540394,
+        "maxLon": 124.0334048,
+        "maxLat": 1.374653459
+      }
+    },
+    "IDSG": {
+      "name": "Sulawesi Tenggara",
+      "sub_id": "IDSG",
+      "sub_num": "SG",
+      "bbox": {
+        "minLon": 120.8995259,
+        "minLat": -6.907339096,
+        "maxLon": 124.6169444,
+        "maxLat": -2.875797987
+      }
+    },
+    "IDSA": {
+      "name": "Sulawesi Utara",
+      "sub_id": "IDSA",
+      "sub_num": "SA",
+      "bbox": {
+        "minLon": 123.2562553,
+        "minLat": 0.291923404,
+        "maxLon": 127.1636926,
+        "maxLat": 5.566199303
+      }
+    },
+    "IDSB": {
+      "name": "Sumatera Barat",
+      "sub_id": "IDSB",
+      "sub_num": "SB",
+      "bbox": {
+        "minLon": 98.59628677,
+        "minLat": -3.491944433,
+        "maxLon": 101.822998,
+        "maxLat": 0.933347941
+      }
+    },
+    "IDSS": {
+      "name": "Sumatera Selatan",
+      "sub_id": "IDSS",
+      "sub_num": "SS",
+      "bbox": {
+        "minLon": 102.0531006,
+        "minLat": -4.96257782,
+        "maxLon": 106.220964,
+        "maxLat": -1.635851264
+      }
+    },
+    "IDSU": {
+      "name": "Sumatera Utara",
+      "sub_id": "IDSU",
+      "sub_num": "SU",
+      "bbox": {
+        "minLon": 97.05890763,
+        "minLat": -0.638271212,
+        "maxLon": 100.3643036,
+        "maxLat": 4.312463879
+      }
+    },
+    "IDYO": {
+      "name": "Yogyakarta",
+      "sub_id": "IDYO",
+      "sub_num": "YO",
+      "bbox": {
+        "minLon": 110.0320352,
+        "minLat": -8.201599598,
+        "maxLon": 110.7856429,
+        "maxLat": -7.550954818
+      }
+    }
+  }
+  

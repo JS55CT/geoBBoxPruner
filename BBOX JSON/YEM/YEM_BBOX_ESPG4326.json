@@ -1,0 +1,256 @@
+{
+    "YEAD": {
+      "name": "'Adan",
+      "sub_id": "YEAD",
+      "sub_num": "AD",
+      "bbox": {
+        "minLon": 44.40826321,
+        "minLat": 12.66979587,
+        "maxLon": 45.09903455,
+        "maxLat": 12.94259107
+      }
+    },
+    "YEAM": {
+      "name": "'Amrān",
+      "sub_id": "YEAM",
+      "sub_num": "AM",
+      "bbox": {
+        "minLon": 43.5108031,
+        "minLat": 15.53155601,
+        "maxLon": 44.34946716,
+        "maxLat": 16.69120181
+      }
+    },
+    "YEAB": {
+      "name": "Abyan",
+      "sub_id": "YEAB",
+      "sub_num": "AB",
+      "bbox": {
+        "minLon": 45.0658257,
+        "minLat": 12.94041562,
+        "maxLon": 47.18632615,
+        "maxLat": 14.31815445
+      }
+    },
+    "YEDA": {
+      "name": "Aḑ Ḑāli‘",
+      "sub_id": "YEDA",
+      "sub_num": "DA",
+      "bbox": {
+        "minLon": 44.36876213,
+        "minLat": 13.55013192,
+        "maxLon": 45.156389,
+        "maxLat": 14.23481453
+      }
+    },
+    "YEBA": {
+      "name": "Al Bayḑā’",
+      "sub_id": "YEBA",
+      "sub_num": "BA",
+      "bbox": {
+        "minLon": 44.58608794,
+        "minLat": 13.82899118,
+        "maxLon": 46.06046843,
+        "maxLat": 14.82520366
+      }
+    },
+    "YEJA": {
+      "name": "Al Jawf",
+      "sub_id": "YEJA",
+      "sub_num": "JA",
+      "bbox": {
+        "minLon": 44.04878402,
+        "minLat": 15.76145852,
+        "maxLon": 47.00000024,
+        "maxLat": 17.433496
+      }
+    },
+    "YEMR": {
+      "name": "Al Mahrah",
+      "sub_id": "YEMR",
+      "sub_num": "MR",
+      "bbox": {
+        "minLon": 50.12864888,
+        "minLat": 15.078058,
+        "maxLon": 53.10919058,
+        "maxLat": 19
+      }
+    },
+    "YEMW": {
+      "name": "Al Maḩwīt",
+      "sub_id": "YEMW",
+      "sub_num": "MW",
+      "bbox": {
+        "minLon": 43.24100685,
+        "minLat": 15.04959941,
+        "maxLon": 43.91475308,
+        "maxLat": 15.57109153
+      }
+    },
+    "YEHU": {
+      "name": "Al Ḩudaydah",
+      "sub_id": "YEHU",
+      "sub_num": "HU",
+      "bbox": {
+        "minLon": 41.81486893,
+        "minLat": 13.60045898,
+        "maxLon": 43.77696311,
+        "maxLat": 15.87631142
+      }
+    },
+    "YESA": {
+      "name": "Amānat al ‘Āṣimah [city]",
+      "sub_id": "YESA",
+      "sub_num": "SA",
+      "bbox": {
+        "minLon": 44.12082267,
+        "minLat": 15.25992394,
+        "maxLon": 44.39967394,
+        "maxLat": 15.61170769
+      }
+    },
+    "YESU": {
+      "name": "Arkhabīl Suquṭrā",
+      "sub_id": "YESU",
+      "sub_num": "SU",
+      "bbox": {
+        "minLon": 52.0618211,
+        "minLat": 12.10833955,
+        "maxLon": 53.30995548,
+        "maxLat": 12.63904512
+      }
+    },
+    "YE_SU_2": {
+      "name": "Arkhabīl Suquṭrā",
+      "sub_id": "YE_SU_2",
+      "sub_num": null,
+      "bbox": {
+        "minLon": 53.30522943,
+        "minLat": 12.30081081,
+        "maxLon": 54.53542614,
+        "maxLat": 12.71363556
+      }
+    },
+    "YEDH": {
+      "name": "Dhamār",
+      "sub_id": "YEDH",
+      "sub_num": "DH",
+      "bbox": {
+        "minLon": 43.47585011,
+        "minLat": 14.06629145,
+        "maxLon": 44.83650625,
+        "maxLat": 15.0181073
+      }
+    },
+    "YEHD": {
+      "name": "Ḩadhramawt",
+      "sub_id": "YEHD",
+      "sub_num": "HD",
+      "bbox": {
+        "minLon": 46.3060174,
+        "minLat": 14.04443574,
+        "maxLon": 52,
+        "maxLat": 19
+      }
+    },
+    "YEHJ": {
+      "name": "Ḩajjah",
+      "sub_id": "YEHJ",
+      "sub_num": "HJ",
+      "bbox": {
+        "minLon": 42.19135678,
+        "minLat": 15.50798917,
+        "maxLon": 43.7540375,
+        "maxLat": 16.67730033
+      }
+    },
+    "YEIB": {
+      "name": "Ibb",
+      "sub_id": "YEIB",
+      "sub_num": "IB",
+      "bbox": {
+        "minLon": 43.65165603,
+        "minLat": 13.70493722,
+        "maxLon": 44.68148649,
+        "maxLat": 14.46559536
+      }
+    },
+    "YELA": {
+      "name": "Laḩij",
+      "sub_id": "YELA",
+      "sub_num": "LA",
+      "bbox": {
+        "minLon": 43.52320457,
+        "minLat": 12.59347093,
+        "maxLon": 45.38582301,
+        "maxLat": 14.05591643
+      }
+    },
+    "YEMA": {
+      "name": "Ma'rib",
+      "sub_id": "YEMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": 44.51440132,
+        "minLat": 14.50398779,
+        "maxLon": 46.81082559,
+        "maxLat": 16.16186988
+      }
+    },
+    "YERA": {
+      "name": "Raymah",
+      "sub_id": "YERA",
+      "sub_num": "RA",
+      "bbox": {
+        "minLon": 43.46841574,
+        "minLat": 14.36970282,
+        "maxLon": 43.93601012,
+        "maxLat": 14.94900632
+      }
+    },
+    "YESH": {
+      "name": "Shabwah",
+      "sub_id": "YESH",
+      "sub_num": "SH",
+      "bbox": {
+        "minLon": 45.47456622,
+        "minLat": 13.59951901,
+        "maxLon": 48.57811785,
+        "maxLat": 15.72249889
+      }
+    },
+    "YETA": {
+      "name": "Ta'izz",
+      "sub_id": "YETA",
+      "sub_num": "TA",
+      "bbox": {
+        "minLon": 43.22679031,
+        "minLat": 12.67202795,
+        "maxLon": 44.51608384,
+        "maxLat": 13.91468918
+      }
+    },
+    "YESN": {
+      "name": "Ṣanā’",
+      "sub_id": "YESN",
+      "sub_num": "SN",
+      "bbox": {
+        "minLon": 43.50606728,
+        "minLat": 14.74729931,
+        "maxLon": 45.10865831,
+        "maxLat": 16.04548609
+      }
+    },
+    "YESD": {
+      "name": "Şā‘dah",
+      "sub_id": "YESD",
+      "sub_num": "SD",
+      "bbox": {
+        "minLon": 43.13750005,
+        "minLat": 16.60903704,
+        "maxLon": 44.88858759,
+        "maxLat": 17.56579971
+      }
+    }
+  }
+  

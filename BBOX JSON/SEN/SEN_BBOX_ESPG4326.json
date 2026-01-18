@@ -1,0 +1,157 @@
+{
+    "SNDK": {
+      "name": "Dakar",
+      "sub_id": "SNDK",
+      "sub_num": "DK",
+      "bbox": {
+        "minLon": -17.54246855,
+        "minLat": 14.60292459,
+        "maxLon": -17.13079309,
+        "maxLat": 14.88470507
+      }
+    },
+    "SNDB": {
+      "name": "Diourbel",
+      "sub_id": "SNDB",
+      "sub_num": "DB",
+      "bbox": {
+        "minLon": -16.68692267,
+        "minLat": 14.51293945,
+        "maxLon": -15.68711662,
+        "maxLat": 15.02552033
+      }
+    },
+    "SNFK": {
+      "name": "Fatick",
+      "sub_id": "SNFK",
+      "sub_num": "FK",
+      "bbox": {
+        "minLon": -16.80208373,
+        "minLat": 13.59103441,
+        "maxLon": -15.39284885,
+        "maxLat": 14.8651886
+      }
+    },
+    "SNKA": {
+      "name": "Kaffrine",
+      "sub_id": "SNKA",
+      "sub_num": "KA",
+      "bbox": {
+        "minLon": -15.8532213,
+        "minLat": 13.74281943,
+        "maxLon": -14.58614457,
+        "maxLat": 14.75745201
+      }
+    },
+    "SNKL": {
+      "name": "Kaolack",
+      "sub_id": "SNKL",
+      "sub_num": "KL",
+      "bbox": {
+        "minLon": -16.37199104,
+        "minLat": 13.58955717,
+        "maxLon": -15.40884841,
+        "maxLat": 14.36157703
+      }
+    },
+    "SNKD": {
+      "name": "Kolda",
+      "sub_id": "SNKD",
+      "sub_num": "KD",
+      "bbox": {
+        "minLon": -15.55385101,
+        "minLat": 12.65127182,
+        "maxLon": -13.3394649,
+        "maxLat": 13.60021591
+      }
+    },
+    "SNKE": {
+      "name": "Kédougou",
+      "sub_id": "SNKE",
+      "sub_num": "KE",
+      "bbox": {
+        "minLon": -13.23975515,
+        "minLat": 12.30728912,
+        "maxLon": -11.34608722,
+        "maxLat": 13.44708002
+      }
+    },
+    "SNLG": {
+      "name": "Louga",
+      "sub_id": "SNLG",
+      "sub_num": "LG",
+      "bbox": {
+        "minLon": -16.74711645,
+        "minLat": 14.61100102,
+        "maxLon": -14.50389123,
+        "maxLat": 16.18177688
+      }
+    },
+    "SNMT": {
+      "name": "Matam",
+      "sub_id": "SNMT",
+      "sub_num": "MT",
+      "bbox": {
+        "minLon": -14.86535692,
+        "minLat": 14.40895557,
+        "maxLon": -12.59307563,
+        "maxLat": 16.14784241
+      }
+    },
+    "SNSL": {
+      "name": "Saint-Louis",
+      "sub_id": "SNSL",
+      "sub_num": "SL",
+      "bbox": {
+        "minLon": -16.52118552,
+        "minLat": 15.64573288,
+        "maxLon": -13.68220305,
+        "maxLat": 16.69166565
+      }
+    },
+    "SNSE": {
+      "name": "Sédhiou",
+      "sub_id": "SNSE",
+      "sub_num": "SE",
+      "bbox": {
+        "minLon": -16.01993632,
+        "minLat": 12.42609096,
+        "maxLon": -15.11280096,
+        "maxLat": 13.39383602
+      }
+    },
+    "SNTC": {
+      "name": "Tambacounda",
+      "sub_id": "SNTC",
+      "sub_num": "TC",
+      "bbox": {
+        "minLon": -14.85578299,
+        "minLat": 12.62753153,
+        "maxLon": -11.8641212,
+        "maxLat": 15.10941982
+      }
+    },
+    "SNTH": {
+      "name": "Thiès",
+      "sub_id": "SNTH",
+      "sub_num": "TH",
+      "bbox": {
+        "minLon": -17.17674243,
+        "minLat": 14.13258684,
+        "maxLon": -16.15061211,
+        "maxLat": 15.46109188
+      }
+    },
+    "SNZG": {
+      "name": "Ziguinchor",
+      "sub_id": "SNZG",
+      "sub_num": "ZG",
+      "bbox": {
+        "minLon": -16.79118991,
+        "minLat": 12.33896673,
+        "maxLon": -15.89064395,
+        "maxLat": 13.17192078
+      }
+    }
+  }
+  

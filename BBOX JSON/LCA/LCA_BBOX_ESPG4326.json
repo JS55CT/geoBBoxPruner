@@ -1,0 +1,113 @@
+{
+    "LC01": {
+      "name": "Anse la Raye",
+      "sub_id": "LC01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": -61.04674566,
+        "minLat": 13.85702133,
+        "maxLon": -60.98151195,
+        "maxLat": 13.96300519
+      }
+    },
+    "LC12": {
+      "name": "Canaries",
+      "sub_id": "LC12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": -61.07159007,
+        "minLat": 13.8860321,
+        "maxLon": -61.01807642,
+        "maxLat": 13.93840611
+      }
+    },
+    "LC02": {
+      "name": "Castries",
+      "sub_id": "LC02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": -61.03239656,
+        "minLat": 13.86577606,
+        "maxLon": -60.93391502,
+        "maxLat": 14.03790915
+      }
+    },
+    "LC03": {
+      "name": "Choiseul",
+      "sub_id": "LC03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -61.06949091,
+        "minLat": 13.75931895,
+        "maxLon": -60.99565017,
+        "maxLat": 13.84208679
+      }
+    },
+    "LC05": {
+      "name": "Dennery",
+      "sub_id": "LC05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -60.9710505,
+        "minLat": 13.87289488,
+        "maxLon": -60.86985779,
+        "maxLat": 13.97254944
+      }
+    },
+    "LC06": {
+      "name": "Gros Islet",
+      "sub_id": "LC06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": -60.97694647,
+        "minLat": 13.96173477,
+        "maxLon": -60.87325239,
+        "maxLat": 14.11019278
+      }
+    },
+    "LC07": {
+      "name": "Laborie",
+      "sub_id": "LC07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": -61.03811216,
+        "minLat": 13.73045313,
+        "maxLon": -60.97709203,
+        "maxLat": 13.83353519
+      }
+    },
+    "LC08": {
+      "name": "Micoud",
+      "sub_id": "LC08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": -60.99034786,
+        "minLat": 13.75970066,
+        "maxLon": -60.87605321,
+        "maxLat": 13.89307022
+      }
+    },
+    "LC10": {
+      "name": "Soufrière",
+      "sub_id": "LC10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": -61.0796026,
+        "minLat": 13.7975266,
+        "maxLon": -60.97477567,
+        "maxLat": 13.89639151
+      }
+    },
+    "LC11": {
+      "name": "Vieux Fort",
+      "sub_id": "LC11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": -60.99900842,
+        "minLat": 13.70706451,
+        "maxLon": -60.92495131,
+        "maxLat": 13.84363174
+      }
+    }
+  }
+  

@@ -1,0 +1,520 @@
+{
+    "JP23": {
+      "name": "Aichi",
+      "sub_id": "JP23",
+      "sub_num": "23",
+      "bbox": {
+        "minLon": 136.6707009,
+        "minLat": 34.57843435,
+        "maxLon": 137.837308,
+        "maxLat": 35.42442799
+      }
+    },
+    "JP05": {
+      "name": "Akita",
+      "sub_id": "JP05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 139.539162,
+        "minLat": 38.87460709,
+        "maxLon": 140.9953296,
+        "maxLat": 40.50923109
+      }
+    },
+    "JP02": {
+      "name": "Aomori",
+      "sub_id": "JP02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 139.8591925,
+        "minLat": 40.2179271,
+        "maxLon": 141.6826628,
+        "maxLat": 41.55571282
+      }
+    },
+    "JP38": {
+      "name": "Ehime",
+      "sub_id": "JP38",
+      "sub_num": "38",
+      "bbox": {
+        "minLon": 132.0130916,
+        "minLat": 32.89764059,
+        "maxLon": 133.692904,
+        "maxLat": 34.30115712
+      }
+    },
+    "JP21": {
+      "name": "Gifu",
+      "sub_id": "JP21",
+      "sub_num": "21",
+      "bbox": {
+        "minLon": 136.2749935,
+        "minLat": 35.13467002,
+        "maxLon": 137.6526096,
+        "maxLat": 36.465168
+      }
+    },
+    "JP10": {
+      "name": "Gunma",
+      "sub_id": "JP10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 138.396561,
+        "minLat": 35.98552608,
+        "maxLon": 139.6691116,
+        "maxLat": 37.05766535
+      }
+    },
+    "JP34": {
+      "name": "Hiroshima",
+      "sub_id": "JP34",
+      "sub_num": "34",
+      "bbox": {
+        "minLon": 132.0354908,
+        "minLat": 33.96432328,
+        "maxLon": 133.4705435,
+        "maxLat": 35.10543823
+      }
+    },
+    "JP01": {
+      "name": "Hokkaidō",
+      "sub_id": "JP01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 139.3345025,
+        "minLat": 41.35160959,
+        "maxLon": 145.8172059,
+        "maxLat": 45.52373886
+      }
+    },
+    "JP18": {
+      "name": "Fukui",
+      "sub_id": "JP18",
+      "sub_num": "18",
+      "bbox": {
+        "minLon": 135.450011,
+        "minLat": 35.34497023,
+        "maxLon": 136.8324288,
+        "maxLat": 36.29689693
+      }
+    },
+    "JP40": {
+      "name": "Fukuoka",
+      "sub_id": "JP40",
+      "sub_num": "40",
+      "bbox": {
+        "minLon": 130.0322223,
+        "minLat": 33.00250053,
+        "maxLon": 131.1908408,
+        "maxLat": 34.25017917
+      }
+    },
+    "JP07": {
+      "name": "Fukushima",
+      "sub_id": "JP07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 139.1644988,
+        "minLat": 36.79175377,
+        "maxLon": 141.0461526,
+        "maxLat": 37.97716093
+      }
+    },
+    "JP28": {
+      "name": "Hyōgo",
+      "sub_id": "JP28",
+      "sub_num": "28",
+      "bbox": {
+        "minLon": 134.2535243,
+        "minLat": 34.15594506,
+        "maxLon": 135.4684439,
+        "maxLat": 35.67471456
+      }
+    },
+    "JP08": {
+      "name": "Ibaraki",
+      "sub_id": "JP08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 139.6870879,
+        "minLat": 35.74110091,
+        "maxLon": 140.8497525,
+        "maxLat": 36.94415689
+      }
+    },
+    "JP17": {
+      "name": "Ishikawa",
+      "sub_id": "JP17",
+      "sub_num": "17",
+      "bbox": {
+        "minLon": 136.2419691,
+        "minLat": 36.06657028,
+        "maxLon": 137.3618479,
+        "maxLat": 37.85469437
+      }
+    },
+    "JP03": {
+      "name": "Iwate",
+      "sub_id": "JP03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 140.6530265,
+        "minLat": 38.74770105,
+        "maxLon": 142.0724012,
+        "maxLat": 40.45161068
+      }
+    },
+    "JP37": {
+      "name": "Kagawa",
+      "sub_id": "JP37",
+      "sub_num": "37",
+      "bbox": {
+        "minLon": 133.4471284,
+        "minLat": 34.01227176,
+        "maxLon": 134.4397992,
+        "maxLat": 34.56465888
+      }
+    },
+    "JP46": {
+      "name": "Kagoshima",
+      "sub_id": "JP46",
+      "sub_num": "46",
+      "bbox": {
+        "minLon": 128.2169445,
+        "minLat": 27.01888883,
+        "maxLon": 131.2036117,
+        "maxLat": 32.30761528
+      }
+    },
+    "JP14": {
+      "name": "Kanagawa",
+      "sub_id": "JP14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 138.9156657,
+        "minLat": 35.12994289,
+        "maxLon": 139.7951357,
+        "maxLat": 35.672822
+      }
+    },
+    "JP43": {
+      "name": "Kumamoto",
+      "sub_id": "JP43",
+      "sub_num": "43",
+      "bbox": {
+        "minLon": 129.9485006,
+        "minLat": 32.09524333,
+        "maxLon": 131.3292993,
+        "maxLat": 33.19596517
+      }
+    },
+    "JP26": {
+      "name": "Kyōto",
+      "sub_id": "JP26",
+      "sub_num": "26",
+      "bbox": {
+        "minLon": 134.8538742,
+        "minLat": 34.7055316,
+        "maxLon": 136.0530299,
+        "maxLat": 35.77908862
+      }
+    },
+    "JP39": {
+      "name": "Kōchi",
+      "sub_id": "JP39",
+      "sub_num": "39",
+      "bbox": {
+        "minLon": 132.4794716,
+        "minLat": 32.70234609,
+        "maxLon": 134.3122222,
+        "maxLat": 33.88326013
+      }
+    },
+    "JP24": {
+      "name": "Mie",
+      "sub_id": "JP24",
+      "sub_num": "24",
+      "bbox": {
+        "minLon": 135.8536911,
+        "minLat": 33.72315907,
+        "maxLon": 136.9878235,
+        "maxLat": 35.25753021
+      }
+    },
+    "JP04": {
+      "name": "Miyagi",
+      "sub_id": "JP04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 140.272228,
+        "minLat": 37.77442932,
+        "maxLon": 141.6752787,
+        "maxLat": 39.00249481
+      }
+    },
+    "JP45": {
+      "name": "Miyazaki",
+      "sub_id": "JP45",
+      "sub_num": "45",
+      "bbox": {
+        "minLon": 130.7018466,
+        "minLat": 31.3597188,
+        "maxLon": 131.9310602,
+        "maxLat": 32.83882141
+      }
+    },
+    "JP20": {
+      "name": "Nagano",
+      "sub_id": "JP20",
+      "sub_num": "20",
+      "bbox": {
+        "minLon": 137.3250141,
+        "minLat": 35.19514203,
+        "maxLon": 138.739388,
+        "maxLat": 37.02924728
+      }
+    },
+    "JP42": {
+      "name": "Nagasaki",
+      "sub_id": "JP42",
+      "sub_num": "42",
+      "bbox": {
+        "minLon": 128.343479,
+        "minLat": 31.9861685,
+        "maxLon": 130.3872577,
+        "maxLat": 34.72561932
+      }
+    },
+    "JP29": {
+      "name": "Nara",
+      "sub_id": "JP29",
+      "sub_num": "29",
+      "bbox": {
+        "minLon": 135.5403034,
+        "minLat": 33.85831833,
+        "maxLon": 136.2304412,
+        "maxLat": 34.78138447
+      }
+    },
+    "JP15": {
+      "name": "Niigata",
+      "sub_id": "JP15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 137.6357183,
+        "minLat": 36.73725128,
+        "maxLon": 139.8985494,
+        "maxLat": 38.54862213
+      }
+    },
+    "JP33": {
+      "name": "Okayama",
+      "sub_id": "JP33",
+      "sub_num": "33",
+      "bbox": {
+        "minLon": 133.2669473,
+        "minLat": 34.29824364,
+        "maxLon": 134.4129094,
+        "maxLat": 35.3526628
+      }
+    },
+    "JP47": {
+      "name": "Okinawa",
+      "sub_id": "JP47",
+      "sub_num": "47",
+      "bbox": {
+        "minLon": 122.9332473,
+        "minLat": 24.04520988,
+        "maxLon": 131.332687,
+        "maxLat": 27.09464181
+      }
+    },
+    "JP41": {
+      "name": "Saga",
+      "sub_id": "JP41",
+      "sub_num": "41",
+      "bbox": {
+        "minLon": 129.7401506,
+        "minLat": 32.95042467,
+        "maxLon": 130.5404251,
+        "maxLat": 33.61746657
+      }
+    },
+    "JP11": {
+      "name": "Saitama",
+      "sub_id": "JP11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 138.711117,
+        "minLat": 35.75478494,
+        "maxLon": 139.8994417,
+        "maxLat": 36.28320158
+      }
+    },
+    "JP25": {
+      "name": "Shiga",
+      "sub_id": "JP25",
+      "sub_num": "25",
+      "bbox": {
+        "minLon": 135.7636716,
+        "minLat": 34.7915554,
+        "maxLon": 136.4572214,
+        "maxLat": 35.703367
+      }
+    },
+    "JP32": {
+      "name": "Shimane",
+      "sub_id": "JP32",
+      "sub_num": "32",
+      "bbox": {
+        "minLon": 131.6672534,
+        "minLat": 34.30206299,
+        "maxLon": 133.38688,
+        "maxLat": 36.3562547
+      }
+    },
+    "JP22": {
+      "name": "Shizuoka",
+      "sub_id": "JP22",
+      "sub_num": "22",
+      "bbox": {
+        "minLon": 137.4749428,
+        "minLat": 33.94199669,
+        "maxLon": 139.1772223,
+        "maxLat": 35.64566195
+      }
+    },
+    "JP12": {
+      "name": "Chiba",
+      "sub_id": "JP12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 139.74,
+        "minLat": 34.89899552,
+        "maxLon": 140.8817014,
+        "maxLat": 36.10355795
+      }
+    },
+    "JP36": {
+      "name": "Tokushima",
+      "sub_id": "JP36",
+      "sub_num": "36",
+      "bbox": {
+        "minLon": 133.660525,
+        "minLat": 33.53906906,
+        "maxLon": 134.8213888,
+        "maxLat": 34.25148725
+      }
+    },
+    "JP09": {
+      "name": "Tochigi",
+      "sub_id": "JP09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 139.3276387,
+        "minLat": 36.19635165,
+        "maxLon": 140.2909578,
+        "maxLat": 37.15481758
+      }
+    },
+    "JP31": {
+      "name": "Tottori",
+      "sub_id": "JP31",
+      "sub_num": "31",
+      "bbox": {
+        "minLon": 133.1346462,
+        "minLat": 35.05728722,
+        "maxLon": 134.5152054,
+        "maxLat": 35.61395192
+      }
+    },
+    "JP16": {
+      "name": "Toyama",
+      "sub_id": "JP16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 136.7686862,
+        "minLat": 36.27513885,
+        "maxLon": 137.7630712,
+        "maxLat": 36.9802618
+      }
+    },
+    "JP13": {
+      "name": "Tōkyō",
+      "sub_id": "JP13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 136.0666412,
+        "minLat": 20.41447568,
+        "maxLon": 153.9867618,
+        "maxLat": 35.89832067
+      }
+    },
+    "JP30": {
+      "name": "Wakayama",
+      "sub_id": "JP30",
+      "sub_num": "30",
+      "bbox": {
+        "minLon": 134.9988004,
+        "minLat": 33.43494177,
+        "maxLon": 136.0149007,
+        "maxLat": 34.38513637
+      }
+    },
+    "JP06": {
+      "name": "Yamagata",
+      "sub_id": "JP06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 139.5391207,
+        "minLat": 37.7340889,
+        "maxLon": 140.6447241,
+        "maxLat": 39.13287163
+      }
+    },
+    "JP35": {
+      "name": "Yamaguchi",
+      "sub_id": "JP35",
+      "sub_num": "35",
+      "bbox": {
+        "minLon": 130.7748857,
+        "minLat": 33.71295321,
+        "maxLon": 132.4918507,
+        "maxLat": 34.7982049
+      }
+    },
+    "JP19": {
+      "name": "Yamanashi",
+      "sub_id": "JP19",
+      "sub_num": "19",
+      "bbox": {
+        "minLon": 138.1800954,
+        "minLat": 35.16891003,
+        "maxLon": 139.1310952,
+        "maxLat": 35.97122312
+      }
+    },
+    "JP44": {
+      "name": "Ōita",
+      "sub_id": "JP44",
+      "sub_num": "44",
+      "bbox": {
+        "minLon": 130.824311,
+        "minLat": 32.73668289,
+        "maxLon": 132.0843614,
+        "maxLat": 33.73987877
+      }
+    },
+    "JP27": {
+      "name": "Ōsaka",
+      "sub_id": "JP27",
+      "sub_num": "27",
+      "bbox": {
+        "minLon": 135.0927746,
+        "minLat": 34.27370668,
+        "maxLon": 135.7456199,
+        "maxLat": 35.0483079
+      }
+    }
+  }
+  

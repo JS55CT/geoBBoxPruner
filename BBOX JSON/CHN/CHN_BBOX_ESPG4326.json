@@ -1,0 +1,377 @@
+{
+    "CNAH": {
+      "name": "Anhui Sheng",
+      "sub_id": "CNAH",
+      "sub_num": "AH",
+      "bbox": {
+        "minLon": 114.8895537,
+        "minLat": 29.40430641,
+        "maxLon": 119.603814,
+        "maxLat": 34.62409973
+      }
+    },
+    "CNBJ": {
+      "name": "Beijing Shi",
+      "sub_id": "CNBJ",
+      "sub_num": "BJ",
+      "bbox": {
+        "minLon": 115.3971083,
+        "minLat": 39.46164608,
+        "maxLon": 117.5085194,
+        "maxLat": 41.09122753
+      }
+    },
+    "CNCQ": {
+      "name": "Chongqing Shi",
+      "sub_id": "CNCQ",
+      "sub_num": "CQ",
+      "bbox": {
+        "minLon": 105.1871942,
+        "minLat": 28.14353943,
+        "maxLon": 110.2549932,
+        "maxLat": 32.21471405
+      }
+    },
+    "CNFJ": {
+      "name": "Fujian Sheng",
+      "sub_id": "CNFJ",
+      "sub_num": "FJ",
+      "bbox": {
+        "minLon": 115.8198047,
+        "minLat": 23.53163362,
+        "maxLon": 120.7237025,
+        "maxLat": 28.31382751
+      }
+    },
+    "CNGS": {
+      "name": "Gansu Sheng",
+      "sub_id": "CNGS",
+      "sub_num": "GS",
+      "bbox": {
+        "minLon": 93.57225025,
+        "minLat": 32.5191021,
+        "maxLon": 108.7144783,
+        "maxLat": 42.79432297
+      }
+    },
+    "CNGD": {
+      "name": "Guangdong Sheng",
+      "sub_id": "CNGD",
+      "sub_num": "GD",
+      "bbox": {
+        "minLon": 109.6642797,
+        "minLat": 20.22268474,
+        "maxLon": 117.3104308,
+        "maxLat": 25.53531647
+      }
+    },
+    "CNGX": {
+      "name": "Guangxi Zhuangzu Zizhiqu",
+      "sub_id": "CNGX",
+      "sub_num": "GX",
+      "bbox": {
+        "minLon": 104.4835042,
+        "minLat": 20.90240276,
+        "maxLon": 112.0574789,
+        "maxLat": 26.38778687
+      }
+    },
+    "CNGZ": {
+      "name": "Guizhou Sheng",
+      "sub_id": "CNGZ",
+      "sub_num": "GZ",
+      "bbox": {
+        "minLon": 103.5849946,
+        "minLat": 24.62190628,
+        "maxLon": 109.5184726,
+        "maxLat": 29.22981262
+      }
+    },
+    "CNHI": {
+      "name": "Hainan Sheng",
+      "sub_id": "CNHI",
+      "sub_num": "HI",
+      "bbox": {
+        "minLon": 108.6125771,
+        "minLat": 15.78017676,
+        "maxLon": 112.745,
+        "maxLat": 20.16235805
+      }
+    },
+    "CNHE": {
+      "name": "Hebei Sheng",
+      "sub_id": "CNHE",
+      "sub_num": "HE",
+      "bbox": {
+        "minLon": 113.4892169,
+        "minLat": 36.11055851,
+        "maxLon": 119.7958755,
+        "maxLat": 42.60090351
+      }
+    },
+    "CNHL": {
+      "name": "Heilongjiang Sheng",
+      "sub_id": "CNHL",
+      "sub_num": "HL",
+      "bbox": {
+        "minLon": 121.1547086,
+        "minLat": 43.42208862,
+        "maxLon": 134.7740648,
+        "maxLat": 53.55971217
+      }
+    },
+    "CNHA": {
+      "name": "Henan Sheng",
+      "sub_id": "CNHA",
+      "sub_num": "HA",
+      "bbox": {
+        "minLon": 110.2802898,
+        "minLat": 31.37025833,
+        "maxLon": 116.6750795,
+        "maxLat": 36.36496067
+      }
+    },
+    "CNHK": {
+      "name": "Hong Kong",
+      "sub_id": "CNHK",
+      "sub_num": "HK",
+      "bbox": {
+        "minLon": 113.8345723,
+        "minLat": 22.15320957,
+        "maxLon": 114.4418933,
+        "maxLat": 22.56196976
+      }
+    },
+    "CNHB": {
+      "name": "Hubei Sheng",
+      "sub_id": "CNHB",
+      "sub_num": "HB",
+      "bbox": {
+        "minLon": 108.3539929,
+        "minLat": 29.03197289,
+        "maxLon": 116.1451507,
+        "maxLat": 33.27226639
+      }
+    },
+    "CNHN": {
+      "name": "Hunan Sheng",
+      "sub_id": "CNHN",
+      "sub_num": "HN",
+      "bbox": {
+        "minLon": 108.8388156,
+        "minLat": 24.63821411,
+        "maxLon": 114.2542896,
+        "maxLat": 30.12966156
+      }
+    },
+    "CNJS": {
+      "name": "Jiangsu Sheng",
+      "sub_id": "CNJS",
+      "sub_num": "JS",
+      "bbox": {
+        "minLon": 116.3551362,
+        "minLat": 30.7612896,
+        "maxLon": 121.9293114,
+        "maxLat": 35.12050152
+      }
+    },
+    "CNJX": {
+      "name": "Jiangxi Sheng",
+      "sub_id": "CNJX",
+      "sub_num": "JX",
+      "bbox": {
+        "minLon": 113.6571622,
+        "minLat": 24.47494268,
+        "maxLon": 118.4819324,
+        "maxLat": 30.07410765
+      }
+    },
+    "CNJL": {
+      "name": "Jilin Sheng",
+      "sub_id": "CNJL",
+      "sub_num": "JL",
+      "bbox": {
+        "minLon": 121.6387656,
+        "minLat": 40.86189866,
+        "maxLon": 131.3089111,
+        "maxLat": 46.30187988
+      }
+    },
+    "CNLN": {
+      "name": "Liaoning Sheng",
+      "sub_id": "CNLN",
+      "sub_num": "LN",
+      "bbox": {
+        "minLon": 118.7511802,
+        "minLat": 38.72077572,
+        "maxLon": 125.7031596,
+        "maxLat": 43.48023891
+      }
+    },
+    "CNMO": {
+      "name": "Macao",
+      "sub_id": "CNMO",
+      "sub_num": "MO",
+      "bbox": {
+        "minLon": 113.5283732,
+        "minLat": 22.10914886,
+        "maxLon": 113.5983374,
+        "maxLat": 22.21706986
+      }
+    },
+    "CNNM": {
+      "name": "Nei Mongol Zizhiqu",
+      "sub_id": "CNNM",
+      "sub_num": "NM",
+      "bbox": {
+        "minLon": 97.17165101,
+        "minLat": 37.36604691,
+        "maxLon": 126.0699499,
+        "maxLat": 53.32424641
+      }
+    },
+    "CNNX": {
+      "name": "Ningxia Zizhiiqu",
+      "sub_id": "CNNX",
+      "sub_num": "NX",
+      "bbox": {
+        "minLon": 104.2053851,
+        "minLat": 35.40541649,
+        "maxLon": 107.668643,
+        "maxLat": 39.45692539
+      }
+    },
+    "CNQH": {
+      "name": "Qinghai Sheng",
+      "sub_id": "CNQH",
+      "sub_num": "QH",
+      "bbox": {
+        "minLon": 89.17869413,
+        "minLat": 31.53981686,
+        "maxLon": 103.029174,
+        "maxLat": 39.3313551
+      }
+    },
+    "CNSN": {
+      "name": "Shaanxi Sheng",
+      "sub_id": "CNSN",
+      "sub_num": "SN",
+      "bbox": {
+        "minLon": 105.70078,
+        "minLat": 31.70668268,
+        "maxLon": 111.3654774,
+        "maxLat": 39.62592602
+      }
+    },
+    "CNSD": {
+      "name": "Shandong Sheng",
+      "sub_id": "CNSD",
+      "sub_num": "SD",
+      "bbox": {
+        "minLon": 114.8156869,
+        "minLat": 34.38137054,
+        "maxLon": 122.7061481,
+        "maxLat": 38.4001416
+      }
+    },
+    "CNSH": {
+      "name": "Shanghai Shi",
+      "sub_id": "CNSH",
+      "sub_num": "SH",
+      "bbox": {
+        "minLon": 120.9056259,
+        "minLat": 30.68202555,
+        "maxLon": 122.2431717,
+        "maxLat": 31.86911118
+      }
+    },
+    "CNSX": {
+      "name": "Shanxi Sheng",
+      "sub_id": "CNSX",
+      "sub_num": "SX",
+      "bbox": {
+        "minLon": 110.2105089,
+        "minLat": 34.58230019,
+        "maxLon": 114.5374359,
+        "maxLat": 40.73339939
+      }
+    },
+    "CNSC": {
+      "name": "Sichuan Sheng",
+      "sub_id": "CNSC",
+      "sub_num": "SC",
+      "bbox": {
+        "minLon": 97.35636592,
+        "minLat": 26.07587814,
+        "maxLon": 108.561271,
+        "maxLat": 34.13738072
+      }
+    },
+    "CNTW": {
+      "name": "Taiwan",
+      "sub_id": "CNTW",
+      "sub_num": "TW",
+      "bbox": {
+        "minLon": 114.359866,
+        "minLat": 10.37474155,
+        "maxLon": 122.1085423,
+        "maxLat": 26.38391638
+      }
+    },
+    "CNTJ": {
+      "name": "Tianjin Shi",
+      "sub_id": "CNTJ",
+      "sub_num": "TJ",
+      "bbox": {
+        "minLon": 116.7338536,
+        "minLat": 38.58029366,
+        "maxLon": 118.0694116,
+        "maxLat": 40.2448082
+      }
+    },
+    "CNXJ": {
+      "name": "Xinjiang Uygur Zizhiqu",
+      "sub_id": "CNXJ",
+      "sub_num": "XJ",
+      "bbox": {
+        "minLon": 73.56076348,
+        "minLat": 33.38680744,
+        "maxLon": 96.38878167,
+        "maxLat": 49.17772293
+      }
+    },
+    "CNXZ": {
+      "name": "Xizang Zizhiqu",
+      "sub_id": "CNXZ",
+      "sub_num": "XZ",
+      "bbox": {
+        "minLon": 78.39096892,
+        "minLat": 27.30583191,
+        "maxLon": 99.09301293,
+        "maxLat": 36.50352359
+      }
+    },
+    "CNYN": {
+      "name": "Yunnan Sheng",
+      "sub_id": "CNYN",
+      "sub_num": "YN",
+      "bbox": {
+        "minLon": 97.52689362,
+        "minLat": 21.14237309,
+        "maxLon": 106.178513,
+        "maxLat": 29.28208351
+      }
+    },
+    "CNZJ": {
+      "name": "Zhejiang Sheng",
+      "sub_id": "CNZJ",
+      "sub_num": "ZJ",
+      "bbox": {
+        "minLon": 118.029421,
+        "minLat": 27.04519272,
+        "maxLon": 122.942338,
+        "maxLat": 31.17939234
+      }
+    }
+  }
+  

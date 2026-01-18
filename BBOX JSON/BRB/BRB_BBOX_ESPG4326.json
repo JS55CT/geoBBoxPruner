@@ -1,0 +1,124 @@
+{
+    "BB01": {
+      "name": "Christ Church",
+      "sub_id": "BB01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": -59.60731745,
+        "minLat": 13.04399013,
+        "maxLon": -59.47132337,
+        "maxLat": 13.12342644
+      }
+    },
+    "BB02": {
+      "name": "Saint Andrew",
+      "sub_id": "BB02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": -59.60278583,
+        "minLat": 13.20523512,
+        "maxLon": -59.54262209,
+        "maxLat": 13.28098798
+      }
+    },
+    "BB03": {
+      "name": "Saint George",
+      "sub_id": "BB03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -59.59564948,
+        "minLat": 13.11201096,
+        "maxLon": -59.50675607,
+        "maxLat": 13.17569733
+      }
+    },
+    "BB04": {
+      "name": "Saint James",
+      "sub_id": "BB04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": -59.64320779,
+        "minLat": 13.13243866,
+        "maxLon": -59.59781492,
+        "maxLat": 13.24103904
+      }
+    },
+    "BB05": {
+      "name": "Saint John",
+      "sub_id": "BB05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -59.53193998,
+        "minLat": 13.14256668,
+        "maxLon": -59.4546808,
+        "maxLat": 13.20574248
+      }
+    },
+    "BB06": {
+      "name": "Saint Joseph",
+      "sub_id": "BB06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": -59.57626629,
+        "minLat": 13.17008054,
+        "maxLon": -59.50552011,
+        "maxLat": 13.23643863
+      }
+    },
+    "BB07": {
+      "name": "Saint Lucy",
+      "sub_id": "BB07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": -59.65036953,
+        "minLat": 13.26899266,
+        "maxLon": -59.57374752,
+        "maxLat": 13.33439827
+      }
+    },
+    "BB08": {
+      "name": "Saint Michael",
+      "sub_id": "BB08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": -59.63562286,
+        "minLat": 13.07645702,
+        "maxLon": -59.56763411,
+        "maxLat": 13.15423965
+      }
+    },
+    "BB09": {
+      "name": "Saint Peter",
+      "sub_id": "BB09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": -59.6456573,
+        "minLat": 13.22668231,
+        "maxLon": -59.56726515,
+        "maxLat": 13.29750562
+      }
+    },
+    "BB10": {
+      "name": "Saint Philip",
+      "sub_id": "BB10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": -59.51536524,
+        "minLat": 13.07868993,
+        "maxLon": -59.42033052,
+        "maxLat": 13.17904794
+      }
+    },
+    "BB11": {
+      "name": "Saint Thomas",
+      "sub_id": "BB11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": -59.61763859,
+        "minLat": 13.14818859,
+        "maxLon": -59.55008459,
+        "maxLat": 13.21417093
+      }
+    }
+  }
+  

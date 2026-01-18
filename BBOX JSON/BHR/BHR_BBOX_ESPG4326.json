@@ -1,0 +1,47 @@
+{
+    "BH14": {
+      "name": "Al Janubiyah",
+      "sub_id": "BH14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 50.45311069,
+        "minLat": 25.55621004,
+        "maxLon": 50.8247155,
+        "maxLat": 26.20512843
+      }
+    },
+    "BH15": {
+      "name": "Al Muharraq",
+      "sub_id": "BH15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 50.47155023,
+        "minLat": 26.1775285,
+        "maxLon": 50.72041619,
+        "maxLat": 26.48671567
+      }
+    },
+    "BH13": {
+      "name": "Al 'Asimah",
+      "sub_id": "BH13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 50.48710835,
+        "minLat": 26.12047791,
+        "maxLon": 50.63247728,
+        "maxLat": 26.26309633
+      }
+    },
+    "BH17": {
+      "name": "Ash Shamaliyah",
+      "sub_id": "BH17",
+      "sub_num": "17",
+      "bbox": {
+        "minLon": 50.31037879,
+        "minLat": 26.05088079,
+        "maxLon": 50.51636577,
+        "maxLat": 26.26535738
+      }
+    }
+  }
+  

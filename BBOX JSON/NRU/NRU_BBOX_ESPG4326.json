@@ -1,0 +1,157 @@
+{
+    "NR01": {
+      "name": "Aiwo",
+      "sub_id": "NR01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 166.9097438,
+        "minLat": -0.54064989,
+        "maxLon": 166.9178599,
+        "maxLat": -0.526435017
+      }
+    },
+    "NR02": {
+      "name": "Anabar",
+      "sub_id": "NR02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 166.9396404,
+        "minLat": -0.52254796,
+        "maxLon": 166.9584405,
+        "maxLat": -0.503882885
+      }
+    },
+    "NR03": {
+      "name": "Anetan",
+      "sub_id": "NR03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 166.9389429,
+        "minLat": -0.51873684,
+        "maxLon": 166.9486153,
+        "maxLat": -0.502448917
+      }
+    },
+    "NR04": {
+      "name": "Anibare",
+      "sub_id": "NR04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 166.9351878,
+        "minLat": -0.542820096,
+        "maxLon": 166.9570806,
+        "maxLat": -0.521110534
+      }
+    },
+    "NR05": {
+      "name": "Baitsi",
+      "sub_id": "NR05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 166.9256251,
+        "minLat": -0.524392128,
+        "maxLon": 166.9409815,
+        "maxLat": -0.506671667
+      }
+    },
+    "NR06": {
+      "name": "Boe",
+      "sub_id": "NR06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 166.9112334,
+        "minLat": -0.545753718,
+        "maxLon": 166.9215492,
+        "maxLat": -0.538814187
+      }
+    },
+    "NR07": {
+      "name": "Buada",
+      "sub_id": "NR07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 166.9152849,
+        "minLat": -0.542494178,
+        "maxLon": 166.9362453,
+        "maxLat": -0.52678585
+      }
+    },
+    "NR08": {
+      "name": "Denigomodu",
+      "sub_id": "NR08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 166.910934,
+        "minLat": -0.529199838,
+        "maxLon": 166.9244899,
+        "maxLat": -0.519762873
+      }
+    },
+    "NR09": {
+      "name": "Ewa",
+      "sub_id": "NR09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 166.9306626,
+        "minLat": -0.520383,
+        "maxLon": 166.9434493,
+        "maxLat": -0.502304196
+      }
+    },
+    "NR10": {
+      "name": "Ijuw",
+      "sub_id": "NR10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 166.943342,
+        "minLat": -0.524258733,
+        "maxLon": 166.959233,
+        "maxLat": -0.514312983
+      }
+    },
+    "NR11": {
+      "name": "Meneng",
+      "sub_id": "NR11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 166.928321,
+        "minLat": -0.554099917,
+        "maxLon": 166.9511656,
+        "maxLat": -0.536862969
+      }
+    },
+    "NR12": {
+      "name": "Nibok",
+      "sub_id": "NR12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 166.91651,
+        "minLat": -0.530487299,
+        "maxLon": 166.9366899,
+        "maxLat": -0.514229893
+      }
+    },
+    "NR13": {
+      "name": "Uaboe",
+      "sub_id": "NR13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 166.9230632,
+        "minLat": -0.528985262,
+        "maxLon": 166.9382516,
+        "maxLat": -0.511726737
+      }
+    },
+    "NR14": {
+      "name": "Yaren",
+      "sub_id": "NR14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 166.9141886,
+        "minLat": -0.554304838,
+        "maxLon": 166.9296622,
+        "maxLat": -0.540123344
+      }
+    }
+  }
+  

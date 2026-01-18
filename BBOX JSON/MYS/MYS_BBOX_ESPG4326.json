@@ -1,0 +1,179 @@
+{
+    "MY01": {
+      "name": "Johor",
+      "sub_id": "MY01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 102.47105,
+        "minLat": 1.264712095,
+        "maxLon": 104.551402,
+        "maxLat": 2.831822634
+      }
+    },
+    "MY02": {
+      "name": "Kedah",
+      "sub_id": "MY02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 98.93619728,
+        "minLat": 5.075597763,
+        "maxLon": 101.1243687,
+        "maxLat": 6.545190811
+      }
+    },
+    "MY03": {
+      "name": "Kelantan",
+      "sub_id": "MY03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 101.3338157,
+        "minLat": 4.546022416,
+        "maxLon": 102.6692635,
+        "maxLat": 6.243840575
+      }
+    },
+    "MY04": {
+      "name": "Melaka",
+      "sub_id": "MY04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 101.9682624,
+        "minLat": 2.046949267,
+        "maxLon": 102.5963024,
+        "maxLat": 2.494518757
+      }
+    },
+    "MY05": {
+      "name": "Negeri Sembilan",
+      "sub_id": "MY05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 101.7027172,
+        "minLat": 2.390979766,
+        "maxLon": 102.7023116,
+        "maxLat": 3.288431168
+      }
+    },
+    "MY06": {
+      "name": "Pahang",
+      "sub_id": "MY06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 101.3439983,
+        "minLat": 2.459049225,
+        "maxLon": 104.2235605,
+        "maxLat": 4.781370163
+      }
+    },
+    "MY07": {
+      "name": "Pulau Pinang",
+      "sub_id": "MY07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 100.1751376,
+        "minLat": 5.118169785,
+        "maxLon": 100.5524676,
+        "maxLat": 5.585346222
+      }
+    },
+    "MY08": {
+      "name": "Perak",
+      "sub_id": "MY08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 100.0950823,
+        "minLat": 3.667373657,
+        "maxLon": 101.752378,
+        "maxLat": 5.93416214
+      }
+    },
+    "MY09": {
+      "name": "Perlis",
+      "sub_id": "MY09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 100.1198195,
+        "minLat": 6.255678892,
+        "maxLon": 100.3725641,
+        "maxLat": 6.726081967
+      }
+    },
+    "MY10": {
+      "name": "Selangor",
+      "sub_id": "MY10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 100.8092184,
+        "minLat": 2.593818545,
+        "maxLon": 101.969699,
+        "maxLat": 3.867942333
+      }
+    },
+    "MY11": {
+      "name": "Terengganu",
+      "sub_id": "MY11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 102.3800032,
+        "minLat": 3.882465363,
+        "maxLon": 103.6910163,
+        "maxLat": 5.964133144
+      }
+    },
+    "MY12": {
+      "name": "Sabah",
+      "sub_id": "MY12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 113.8371679,
+        "minLat": 4.11196053,
+        "maxLon": 119.2695552,
+        "maxLat": 7.38055551
+      }
+    },
+    "MY13": {
+      "name": "Sarawak",
+      "sub_id": "MY13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 109.5383518,
+        "minLat": 0.853928089,
+        "maxLon": 115.6839818,
+        "maxLat": 4.981460095
+      }
+    },
+    "MY14": {
+      "name": "Wilayah Persekutuan Kuala Lumpur",
+      "sub_id": "MY14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 101.6113527,
+        "minLat": 3.043298721,
+        "maxLon": 101.7560225,
+        "maxLat": 3.260622025
+      }
+    },
+    "MY15": {
+      "name": "Wilayah Persekutuan Labuan",
+      "sub_id": "MY15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 115.1206743,
+        "minLat": 5.185047507,
+        "maxLon": 115.328728,
+        "maxLat": 5.392793894
+      }
+    },
+    "MY16": {
+      "name": "Wilayah Persekutuan Putrajaya",
+      "sub_id": "MY16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 101.6616768,
+        "minLat": 2.879469395,
+        "maxLon": 101.7328253,
+        "maxLat": 2.988667488
+      }
+    }
+  }
+  

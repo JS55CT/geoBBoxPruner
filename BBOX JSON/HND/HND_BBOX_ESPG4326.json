@@ -1,0 +1,201 @@
+{
+    "HNAT": {
+      "name": "Atlántida",
+      "sub_id": "HNAT",
+      "sub_num": "AT",
+      "bbox": {
+        "minLon": -87.80181456,
+        "minLat": 15.41862488,
+        "maxLon": -86.35695601,
+        "maxLat": 15.92733908
+      }
+    },
+    "HNCH": {
+      "name": "Choluteca",
+      "sub_id": "HNCH",
+      "sub_num": "CH",
+      "bbox": {
+        "minLon": -87.51410484,
+        "minLat": 12.98566818,
+        "maxLon": -86.70383716,
+        "maxLat": 13.76011848
+      }
+    },
+    "HNCL": {
+      "name": "Colón",
+      "sub_id": "HNCL",
+      "sub_num": "CL",
+      "bbox": {
+        "minLon": -86.45741701,
+        "minLat": 15.06972313,
+        "maxLon": -84.99753463,
+        "maxLat": 16.02810967
+      }
+    },
+    "HNCM": {
+      "name": "Comayagua",
+      "sub_id": "HNCM",
+      "sub_num": "CM",
+      "bbox": {
+        "minLon": -88.07597959,
+        "minLat": 14.04725599,
+        "maxLon": -87.2092973,
+        "maxLat": 15.05435944
+      }
+    },
+    "HNCP": {
+      "name": "Copán",
+      "sub_id": "HNCP",
+      "sub_num": "CP",
+      "bbox": {
+        "minLon": -89.22645795,
+        "minLat": 14.50057983,
+        "maxLon": -88.63745141,
+        "maxLat": 15.29571533
+      }
+    },
+    "HNCR": {
+      "name": "Cortés",
+      "sub_id": "HNCR",
+      "sub_num": "CR",
+      "bbox": {
+        "minLon": -88.44478905,
+        "minLat": 14.78470087,
+        "maxLon": -87.72771716,
+        "maxLat": 15.91172469
+      }
+    },
+    "HNEP": {
+      "name": "El Paraíso",
+      "sub_id": "HNEP",
+      "sub_num": "EP",
+      "bbox": {
+        "minLon": -87.22210956,
+        "minLat": 13.50331306,
+        "maxLon": -85.57629919,
+        "maxLat": 14.4171524
+      }
+    },
+    "HNFM": {
+      "name": "Francisco Morazán",
+      "sub_id": "HNFM",
+      "sub_num": "FM",
+      "bbox": {
+        "minLon": -87.63051367,
+        "minLat": 13.65428925,
+        "maxLon": -86.70985758,
+        "maxLat": 15.03418922
+      }
+    },
+    "HNGD": {
+      "name": "Gracias a Dios",
+      "sub_id": "HNGD",
+      "sub_num": "GD",
+      "bbox": {
+        "minLon": -85.00026166,
+        "minLat": 14.61550713,
+        "maxLon": -83.13517392,
+        "maxLat": 15.98036909
+      }
+    },
+    "HNIN": {
+      "name": "Intibucá",
+      "sub_id": "HNIN",
+      "sub_num": "IN",
+      "bbox": {
+        "minLon": -88.51121283,
+        "minLat": 13.84902298,
+        "maxLon": -87.85539508,
+        "maxLat": 14.66417313
+      }
+    },
+    "HNIB": {
+      "name": "Islas de la Bahía",
+      "sub_id": "HNIB",
+      "sub_num": "IB",
+      "bbox": {
+        "minLon": -86.98943996,
+        "minLat": 15.72724307,
+        "maxLon": -82.40599692,
+        "maxLat": 17.41823471
+      }
+    },
+    "HNLP": {
+      "name": "La Paz",
+      "sub_id": "HNLP",
+      "sub_num": "LP",
+      "bbox": {
+        "minLon": -88.24179125,
+        "minLat": 13.79492283,
+        "maxLon": -87.59294617,
+        "maxLat": 14.42476988
+      }
+    },
+    "HNLE": {
+      "name": "Lempira",
+      "sub_id": "HNLE",
+      "sub_num": "LE",
+      "bbox": {
+        "minLon": -88.98226988,
+        "minLat": 13.96396637,
+        "maxLon": -88.31590486,
+        "maxLat": 14.94870222
+      }
+    },
+    "HNOC": {
+      "name": "Ocotepeque",
+      "sub_id": "HNOC",
+      "sub_num": "OC",
+      "bbox": {
+        "minLon": -89.35631573,
+        "minLat": 14.22566414,
+        "maxLon": -88.71382892,
+        "maxLat": 14.73060608
+      }
+    },
+    "HNOL": {
+      "name": "Olancho",
+      "sub_id": "HNOL",
+      "sub_num": "OL",
+      "bbox": {
+        "minLon": -86.99138284,
+        "minLat": 14.04576302,
+        "maxLon": -84.9995383,
+        "maxLat": 15.60755968
+      }
+    },
+    "HNSB": {
+      "name": "Santa Bárbara",
+      "sub_id": "HNSB",
+      "sub_num": "SB",
+      "bbox": {
+        "minLon": -88.75817931,
+        "minLat": 14.6427691,
+        "maxLon": -87.99266577,
+        "maxLat": 15.54578304
+      }
+    },
+    "HNVA": {
+      "name": "Valle",
+      "sub_id": "HNVA",
+      "sub_num": "VA",
+      "bbox": {
+        "minLon": -87.82179034,
+        "minLat": 13.24830604,
+        "maxLon": -87.33501005,
+        "maxLat": 13.81230354
+      }
+    },
+    "HNYO": {
+      "name": "Yoro",
+      "sub_id": "HNYO",
+      "sub_num": "YO",
+      "bbox": {
+        "minLon": -87.93836725,
+        "minLat": 14.89643097,
+        "maxLon": -86.22967744,
+        "maxLat": 15.72546959
+      }
+    }
+  }
+  

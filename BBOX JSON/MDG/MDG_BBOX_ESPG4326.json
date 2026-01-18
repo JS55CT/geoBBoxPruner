@@ -1,0 +1,223 @@
+{
+    "Alaotra Mangoro": {
+      "name": "Alaotra Mangoro",
+      "sub_id": "MG-ALMA",
+      "bbox": {
+        "minLon": 47.83550906,
+        "minLat": -19.81264114,
+        "maxLon": 48.93205523,
+        "maxLat": -16.2389946
+      }
+    },
+    "Amoron'i Mania": {
+      "name": "Amoron'i Mania",
+      "sub_id": "MG-AMMA",
+      "bbox": {
+        "minLon": 45.74625671,
+        "minLat": -21.03006363,
+        "maxLon": 47.71201956,
+        "maxLat": -19.88179922
+      }
+    },
+    "Analamanga": {
+      "name": "Analamanga",
+      "sub_id": "MG-ANAL",
+      "bbox": {
+        "minLon": 46.4949882,
+        "minLat": -19.55958116,
+        "maxLon": 48.03582466,
+        "maxLat": -17.708534
+      }
+    },
+    "Analanjirofo": {
+      "name": "Analanjirofo",
+      "sub_id": "MG-ANJI",
+      "bbox": {
+        "minLon": 48.68168116,
+        "minLat": -17.77864695,
+        "maxLon": 50.06190777,
+        "maxLat": -14.80605125
+      }
+    },
+    "Androy": {
+      "name": "Androy",
+      "sub_id": "MG-ANDR",
+      "bbox": {
+        "minLon": 44.49203861,
+        "minLat": -25.60629654,
+        "maxLon": 46.2764473,
+        "maxLat": -23.76342773
+      }
+    },
+    "Anosy": {
+      "name": "Anosy",
+      "sub_id": "MG-ANOS",
+      "bbox": {
+        "minLon": 45.2001574,
+        "minLat": -25.20751774,
+        "maxLon": 47.41474354,
+        "maxLat": -22.67475128
+      }
+    },
+    "Atsimo-Andrefana": {
+      "name": "Atsimo-Andrefana",
+      "sub_id": "MG-ATAN",
+      "bbox": {
+        "minLon": 43.18837667,
+        "minLat": -25.28969193,
+        "maxLon": 45.79367673,
+        "maxLat": -20.90921402
+      }
+    },
+    "Atsimo-Atsinanana": {
+      "name": "Atsimo-Atsinanana",
+      "sub_id": "MG-ATAT",
+      "bbox": {
+        "minLon": 46.39277709,
+        "minLat": -24.29643631,
+        "maxLon": 47.88949597,
+        "maxLat": -22.13326693
+      }
+    },
+    "Atsinanana": {
+      "name": "Atsinanana",
+      "sub_id": "MG-ATSN",
+      "bbox": {
+        "minLon": 47.66516769,
+        "minLat": -20.46244383,
+        "maxLon": 49.52077043,
+        "maxLat": -17.53950119
+      }
+    },
+    "Betsiboka": {
+      "name": "Betsiboka",
+      "sub_id": "MG-BETS",
+      "bbox": {
+        "minLon": 45.48247349,
+        "minLat": -17.9084686,
+        "maxLon": 48.19531977,
+        "maxLat": -16.33452415
+      }
+    },
+    "Boeny": {
+      "name": "Boeny",
+      "sub_id": "MG-BOEN",
+      "bbox": {
+        "minLon": 44.87616444,
+        "minLat": -17.19261646,
+        "maxLon": 47.41593635,
+        "maxLat": -15.19838166
+      }
+    },
+    "Bongolava": {
+      "name": "Bongolava",
+      "sub_id": "MG-BONG",
+      "bbox": {
+        "minLon": 45.46691918,
+        "minLat": -19.45828915,
+        "maxLon": 47.09202802,
+        "maxLat": -17.74274826
+      }
+    },
+    "Diana": {
+      "name": "Diana",
+      "sub_id": "MG-DIAN",
+      "bbox": {
+        "minLon": 47.76008606,
+        "minLat": -14.26437378,
+        "maxLon": 49.99919701,
+        "maxLat": -11.94893444
+      }
+    },
+    "Haute-Matsiatra": {
+      "name": "Haute-Matsiatra",
+      "sub_id": "MG-HMAT",
+      "bbox": {
+        "minLon": 45.52224696,
+        "minLat": -22.20542908,
+        "maxLon": 47.45031786,
+        "maxLat": -20.68811417
+      }
+    },
+    "Ihorombe": {
+      "name": "Ihorombe",
+      "sub_id": "MG-IHOR",
+      "bbox": {
+        "minLon": 44.9808166,
+        "minLat": -23.65888596,
+        "maxLon": 47.22437191,
+        "maxLat": -21.61525726
+      }
+    },
+    "Itasy": {
+      "name": "Itasy",
+      "sub_id": "MG-ITAS",
+      "bbox": {
+        "minLon": 46.16221905,
+        "minLat": -19.42940712,
+        "maxLon": 47.4720366,
+        "maxLat": -18.66456985
+      }
+    },
+    "Melaky": {
+      "name": "Melaky",
+      "sub_id": "MG-MELA",
+      "bbox": {
+        "minLon": 43.74541092,
+        "minLat": -19.31310654,
+        "maxLon": 45.97170806,
+        "maxLat": -16.18387282
+      }
+    },
+    "Menabe": {
+      "name": "Menabe",
+      "sub_id": "MG-MENA",
+      "bbox": {
+        "minLon": 43.52228916,
+        "minLat": -21.91102981,
+        "maxLon": 45.84229231,
+        "maxLat": -18.18511963
+      }
+    },
+    "Sava": {
+      "name": "Sava",
+      "sub_id": "MG-SAVA",
+      "bbox": {
+        "minLon": 49.10284686,
+        "minLat": -16.01202202,
+        "maxLon": 50.48653555,
+        "maxLat": -12.73841178
+      }
+    },
+    "Sofia": {
+      "name": "Sofia",
+      "sub_id": "MG-SOFI",
+      "bbox": {
+        "minLon": 47.04034436,
+        "minLat": -16.68703079,
+        "maxLon": 49.47737122,
+        "maxLat": -13.87865067
+      }
+    },
+    "Vakinankaratra": {
+      "name": "Vakinankaratra",
+      "sub_id": "MG-VAKI",
+      "bbox": {
+        "minLon": 45.6903646,
+        "minLat": -20.28289676,
+        "maxLon": 47.89295804,
+        "maxLat": -19.11612511
+      }
+    },
+    "Vatovavy-Fitovinany": {
+      "name": "Vatovavy-Fitovinany",
+      "sub_id": "MG-VATO",
+      "bbox": {
+        "minLon": 47.09451711,
+        "minLat": -22.50389457,
+        "maxLon": 48.59706485,
+        "maxLat": -20.21117449
+      }
+    }
+  }
+  

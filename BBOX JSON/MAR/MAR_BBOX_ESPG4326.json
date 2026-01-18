@@ -1,0 +1,135 @@
+{
+    "MA05": {
+      "name": "Béni Mellal-Khénifra",
+      "sub_id": "MA05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -7.30771172,
+        "minLat": 31.34090424,
+        "maxLon": -5.254782796,
+        "maxLat": 33.43242645
+      }
+    },
+    "MA06": {
+      "name": "Casablanca-Settat",
+      "sub_id": "MA06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": -9.060519815,
+        "minLat": 32.29019165,
+        "maxLon": -6.761798977,
+        "maxLat": 33.8326695
+      }
+    },
+    "MA12": {
+      "name": "Dakhla-Oued Ed-Dahab (EH)",
+      "sub_id": "MA12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": -17.10534608,
+        "minLat": 20.76963186,
+        "maxLon": -12,
+        "maxLat": 24.6905241
+      }
+    },
+    "MA08": {
+      "name": "Drâa-Tafilalet",
+      "sub_id": "MA08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": -7.784169555,
+        "minLat": 29.48730469,
+        "maxLon": -3.128831267,
+        "maxLat": 33.09906006
+      }
+    },
+    "MA03": {
+      "name": "Fès-Meknès",
+      "sub_id": "MA03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -5.880592823,
+        "minLat": 32.57961273,
+        "maxLon": -2.913677931,
+        "maxLat": 34.90184784
+      }
+    },
+    "MA10": {
+      "name": "Guelmim-Oued Noun (EH-partial)",
+      "sub_id": "MA10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": -11.79933429,
+        "minLat": 27.09503174,
+        "maxLon": -8.66525209,
+        "maxLat": 29.62639129
+      }
+    },
+    "MA02": {
+      "name": "L'Oriental",
+      "sub_id": "MA02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": -4.121414542,
+        "minLat": 31.71340942,
+        "maxLon": -0.998036265,
+        "maxLat": 35.4399929
+      }
+    },
+    "MA11": {
+      "name": "Laâyoune-Sakia El Hamra (EH-partial)",
+      "sub_id": "MA11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": -14.89433467,
+        "minLat": 24.38621521,
+        "maxLon": -8.666962147,
+        "maxLat": 31.50158322
+      }
+    },
+    "MA07": {
+      "name": "Marrakech-Safi",
+      "sub_id": "MA07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": -9.842112303,
+        "minLat": 30.78489304,
+        "maxLon": -6.987991572,
+        "maxLat": 32.80800819
+      }
+    },
+    "MA04": {
+      "name": "Rabat-Salé-Kénitra",
+      "sub_id": "MA04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": -7.120223761,
+        "minLat": 33.16120148,
+        "maxLon": -5.312331319,
+        "maxLat": 35.01033783
+      }
+    },
+    "MA09": {
+      "name": "Souss-Massa",
+      "sub_id": "MA09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": -10.01398623,
+        "minLat": 28.59204769,
+        "maxLon": -6.362187266,
+        "maxLat": 33.83005309
+      }
+    },
+    "MA01": {
+      "name": "Tanger-Tétouan-Al Hoceïma",
+      "sub_id": "MA01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": -6.246284485,
+        "minLat": 34.5149231,
+        "maxLon": -3.803258658,
+        "maxLat": 35.92247295
+      }
+    }
+  }
+  

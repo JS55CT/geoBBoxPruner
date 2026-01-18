@@ -1,0 +1,91 @@
+{
+    "LBAK": {
+      "name": "Aakkar",
+      "sub_id": "LBAK",
+      "sub_num": "AK",
+      "bbox": {
+        "minLon": 35.95528948,
+        "minLat": 34.41287041,
+        "maxLon": 36.46231914,
+        "maxLat": 34.69070435
+      }
+    },
+    "LBBH": {
+      "name": "Baalbek-Hermel",
+      "sub_id": "LBBH",
+      "sub_num": "BH",
+      "bbox": {
+        "minLon": 35.92102969,
+        "minLat": 33.82879257,
+        "maxLon": 36.62272918,
+        "maxLat": 34.50625002
+      }
+    },
+    "LBBA": {
+      "name": "Beyrouth",
+      "sub_id": "LBBA",
+      "sub_num": "BA",
+      "bbox": {
+        "minLon": 35.46697605,
+        "minLat": 33.86138153,
+        "maxLon": 35.54011142,
+        "maxLat": 33.90995252
+      }
+    },
+    "LBBI": {
+      "name": "Béqaa",
+      "sub_id": "LBBI",
+      "sub_num": "BI",
+      "bbox": {
+        "minLon": 35.60128486,
+        "minLat": 33.41251373,
+        "maxLon": 36.13131118,
+        "maxLat": 33.95306468
+      }
+    },
+    "LBAS": {
+      "name": "Liban-Nord",
+      "sub_id": "LBAS",
+      "sub_num": "AS",
+      "bbox": {
+        "minLon": 35.6483345,
+        "minLat": 34.08662796,
+        "maxLon": 36.23074329,
+        "maxLat": 34.51206696
+      }
+    },
+    "LBJA": {
+      "name": "Liban-Sud",
+      "sub_id": "LBJA",
+      "sub_num": "JA",
+      "bbox": {
+        "minLon": 35.10371459,
+        "minLat": 33.08562756,
+        "maxLon": 35.64351106,
+        "maxLat": 33.59872341
+      }
+    },
+    "LBJL": {
+      "name": "Mont-Liban",
+      "sub_id": "LBJL",
+      "sub_num": "JL",
+      "bbox": {
+        "minLon": 35.38549507,
+        "minLat": 33.52735519,
+        "maxLon": 35.99043059,
+        "maxLat": 34.21151185
+      }
+    },
+    "LBNA": {
+      "name": "Nabatiyé",
+      "sub_id": "LBNA",
+      "sub_num": "NA",
+      "bbox": {
+        "minLon": 35.29621208,
+        "minLat": 33.04787946,
+        "maxLon": 35.850896,
+        "maxLat": 33.49794125
+      }
+    }
+  }
+  

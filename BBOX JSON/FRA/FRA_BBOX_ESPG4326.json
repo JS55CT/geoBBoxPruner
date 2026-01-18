@@ -56,7 +56,7 @@
   },
   "GE": {
     "name": "Grand Est",
-    "sub_id": "GE",
+    "sub_id": "GES",
     "sub_num": "44",
     "bbox": {
       "minLon": 3.3836694268,
@@ -122,7 +122,7 @@
   },
   "PACA": {
     "name": "Provence-Alpes-Côte d'Azur",
-    "sub_id": "PACA",
+    "sub_id": "PAC",
     "sub_num": "93",
     "bbox": {
       "minLon": 4.2302132353,
@@ -140,6 +140,138 @@
       "minLat": 41.3335556859,
       "maxLon": 9.5600936073,
       "maxLat": 43.0276933941
+    }
+  },
+  "FRCP": {
+    "name": "Clipperton",
+    "sub_id": "FRCP",
+    "sub_num": "CP",
+    "bbox": {
+      "minLon": -109.2345232,
+      "minLat": 10.28764486,
+      "maxLon": -109.1997693,
+      "maxLat": 10.32019615
+    }
+  },  
+  "FR973": {
+    "name": "French Guiana",
+    "sub_id": "FR973",
+    "sub_num": "973",
+    "bbox": {
+      "minLon": -54.60053873,
+      "minLat": 2.112636566,
+      "maxLon": -51.62019837,
+      "maxLat": 5.75170362
+    }
+  },
+  "FRPF": {
+    "name": "French Polynesia",
+    "sub_id": "FRPF",
+    "sub_num": "PF",
+    "bbox": {
+      "minLon": -154.7273016,
+      "minLat": -27.90062773,
+      "maxLon": -134.4511079,
+      "maxLat": -7.894856811
+    }
+  },  
+  "FRTF": {
+    "name": "French Southern Territories",
+    "sub_id": "FRTF",
+    "sub_num": "TF",
+    "bbox": {
+      "minLon": 39.62763607,
+      "minLat": -50.0187211,
+      "maxLon": 77.59871447,
+      "maxLat": -11.51397204
+    }
+  },  
+  "FR971": {
+    "name": "Guadeloupe",
+    "sub_id": "FR971",
+    "sub_num": "971",
+    "bbox": {
+      "minLon": -61.80998397,
+      "minLat": 15.83169997,
+      "maxLon": -61.00022185,
+      "maxLat": 16.51464963
+    }
+  },
+  "FR972": {
+    "name": "Martinique",
+    "sub_id": "FR972",
+    "sub_num": "972",
+    "bbox": {
+      "minLon": -61.22893548,
+      "minLat": 14.38815367,
+      "maxLon": -60.80875659,
+      "maxLat": 14.87892246
+    }
+  },
+  "FR976": {
+    "name": "Mayotte",
+    "sub_id": "FR976",
+    "sub_num": "976",
+    "bbox": {
+      "minLon": 45.01806927,
+      "minLat": -13.00582242,
+      "maxLon": 45.30028415,
+      "maxLat": -12.63609195
+    }
+  },
+  "FR974": {
+    "name": "Réunion",
+    "sub_id": "FR974",
+    "sub_num": "974",
+    "bbox": {
+      "minLon": 55.21628761,
+      "minLat": -21.38998938,
+      "maxLon": 55.83730757,
+      "maxLat": -20.87190008
+    }
+  },
+  "FRBL": {
+    "name": "Saint Barthélemy",
+    "sub_id": "FRBL",
+    "sub_num": "BL",
+    "bbox": {
+      "minLon": -62.94808531,
+      "minLat": 17.87010002,
+      "maxLon": -62.78884161,
+      "maxLat": 17.97387958
+    }
+  },
+  "FRMF": {
+    "name": "Saint Martin",
+    "sub_id": "FRMF",
+    "sub_num": "MF",
+    "bbox": {
+      "minLon": -63.15367317,
+      "minLat": 18.04574335,
+      "maxLon": -62.96968985,
+      "maxLat": 18.12529755
+    }
+  },
+  "FRPM": {
+    "name": "Saint Pierre and Miquelon",
+    "sub_id": "FRPM",
+    "sub_num": "PM",
+    "bbox": {
+      "minLon": -56.40595078,
+      "minLat": 46.74888885,
+      "maxLon": -56.126652,
+      "maxLat": 47.14503527
+    }
+  },
+  "FRWF": {
+    "name": "Wallis and Futuna",
+    "sub_id": "FRWF",
+    "sub_num": "WF",
+    "bbox": {
+      "minLon": -178.1835999,
+      "minLat": -14.36198211,
+      "maxLon": -176.1236854,
+      "maxLat": -13.18314052
     }
   }
 }

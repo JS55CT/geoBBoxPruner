@@ -1,0 +1,69 @@
+{
+    "VUMAP": {
+      "name": "Malampa",
+      "sub_id": "VUMAP",
+      "sub_num": "MAP",
+      "bbox": {
+        "minLon": 167.1527615,
+        "minLat": -16.60289443,
+        "maxLon": 168.3702078,
+        "maxLat": -15.87842071
+      }
+    },
+    "VUPAM": {
+      "name": "Pénama",
+      "sub_id": "VUPAM",
+      "sub_num": "PAM",
+      "bbox": {
+        "minLon": 167.6725221,
+        "minLat": -16.01618576,
+        "maxLon": 168.2830887,
+        "maxLat": -14.89111125
+      }
+    },
+    "VUSAM": {
+      "name": "Sanma",
+      "sub_id": "VUSAM",
+      "sub_num": "SAM",
+      "bbox": {
+        "minLon": 166.5414085,
+        "minLat": -15.75499999,
+        "maxLon": 167.2981693,
+        "maxLat": -14.64358473
+      }
+    },
+    "VUSEE": {
+      "name": "Shéfa",
+      "sub_id": "VUSEE",
+      "sub_num": "SEE",
+      "bbox": {
+        "minLon": 168.118104,
+        "minLat": -17.82589281,
+        "maxLon": 168.6491539,
+        "maxLat": -16.5644623
+      }
+    },
+    "VUTAE": {
+      "name": "Taféa",
+      "sub_id": "VUTAE",
+      "sub_num": "TAE",
+      "bbox": {
+        "minLon": 168.9856685,
+        "minLat": -20.25324249,
+        "maxLon": 170.2401363,
+        "maxLat": -18.62145436
+      }
+    },
+    "VUTOB": {
+      "name": "Torba",
+      "sub_id": "VUTOB",
+      "sub_num": "TOB",
+      "bbox": {
+        "minLon": 166.5428365,
+        "minLat": -14.48179066,
+        "maxLon": 168.068712,
+        "maxLat": -13.07261252
+      }
+    }
+  }
+  

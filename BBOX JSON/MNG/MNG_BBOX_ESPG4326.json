@@ -1,0 +1,245 @@
+{
+    "MN073": {
+      "name": "Arhangay",
+      "sub_id": "MN073",
+      "sub_num": "73",
+      "bbox": {
+        "minLon": 98.15827823,
+        "minLat": 46.76416397,
+        "maxLon": 103.6474171,
+        "maxLat": 49.21875
+      }
+    },
+    "MN071": {
+      "name": "Bayan-Ölgiy",
+      "sub_id": "MN071",
+      "sub_num": "71",
+      "bbox": {
+        "minLon": 87.73431706,
+        "minLat": 46.5502739,
+        "maxLon": 91.92742932,
+        "maxLat": 50.00101089
+      }
+    },
+    "MN069": {
+      "name": "Bayanhongor",
+      "sub_id": "MN069",
+      "sub_num": "69",
+      "bbox": {
+        "minLon": 97.63240147,
+        "minLat": 42.56412506,
+        "maxLon": 101.7402871,
+        "maxLat": 47.73731232
+      }
+    },
+    "MN067": {
+      "name": "Bulgan",
+      "sub_id": "MN067",
+      "sub_num": "67",
+      "bbox": {
+        "minLon": 101.6071115,
+        "minLat": 47.28159428,
+        "maxLon": 104.8392823,
+        "maxLat": 50.41488647
+      }
+    },
+    "MN037": {
+      "name": "Darhan uul",
+      "sub_id": "MN037",
+      "sub_num": "37",
+      "bbox": {
+        "minLon": 105.8281186,
+        "minLat": 49.10428405,
+        "maxLon": 106.8239653,
+        "maxLat": 49.87758637
+      }
+    },
+    "MN061": {
+      "name": "Dornod",
+      "sub_id": "MN061",
+      "sub_num": "61",
+      "bbox": {
+        "minLon": 112.0505375,
+        "minLat": 46.26583099,
+        "maxLon": 119.9266152,
+        "maxLat": 50.28528213
+      }
+    },
+    "MN063": {
+      "name": "Dornogovĭ",
+      "sub_id": "MN063",
+      "sub_num": "63",
+      "bbox": {
+        "minLon": 107.6690854,
+        "minLat": 42.39589691,
+        "maxLon": 112.0017633,
+        "maxLat": 46.63370132
+      }
+    },
+    "MN059": {
+      "name": "Dundgovĭ",
+      "sub_id": "MN059",
+      "sub_num": "59",
+      "bbox": {
+        "minLon": 103.5641692,
+        "minLat": 44.16315079,
+        "maxLon": 108.7729552,
+        "maxLat": 46.74416542
+      }
+    },
+    "MN057": {
+      "name": "Dzavhan",
+      "sub_id": "MN057",
+      "sub_num": "57",
+      "bbox": {
+        "minLon": 93.25044835,
+        "minLat": 46.57628059,
+        "maxLon": 99.21061587,
+        "maxLat": 50.04289627
+      }
+    },
+    "MN065": {
+      "name": "Govĭ-Altay",
+      "sub_id": "MN065",
+      "sub_num": "65",
+      "bbox": {
+        "minLon": 93.11040509,
+        "minLat": 42.70368576,
+        "maxLon": 98.48395395,
+        "maxLat": 47.79353142
+      }
+    },
+    "MN064": {
+      "name": "Govĭ-Sümber",
+      "sub_id": "MN064",
+      "sub_num": "64",
+      "bbox": {
+        "minLon": 108.2882129,
+        "minLat": 46.12438202,
+        "maxLon": 109.0540915,
+        "maxLat": 46.80948257
+      }
+    },
+    "MN039": {
+      "name": "Hentiy",
+      "sub_id": "MN039",
+      "sub_num": "39",
+      "bbox": {
+        "minLon": 108.3895627,
+        "minLat": 46.09176636,
+        "maxLon": 112.7330893,
+        "maxLat": 49.40752995
+      }
+    },
+    "MN043": {
+      "name": "Hovd",
+      "sub_id": "MN043",
+      "sub_num": "43",
+      "bbox": {
+        "minLon": 90.66650713,
+        "minLat": 44.9987179,
+        "maxLon": 94.27476847,
+        "maxLat": 48.9849472
+      }
+    },
+    "MN041": {
+      "name": "Hövsgöl",
+      "sub_id": "MN041",
+      "sub_num": "41",
+      "bbox": {
+        "minLon": 96.83942234,
+        "minLat": 48.2493782,
+        "maxLon": 102.7485186,
+        "maxLat": 52.14900971
+      }
+    },
+    "MN035": {
+      "name": "Orhon",
+      "sub_id": "MN035",
+      "sub_num": "35",
+      "bbox": {
+        "minLon": 103.9626999,
+        "minLat": 48.87162387,
+        "maxLon": 104.6330336,
+        "maxLat": 49.25703049
+      }
+    },
+    "MN049": {
+      "name": "Selenge",
+      "sub_id": "MN049",
+      "sub_num": "49",
+      "bbox": {
+        "minLon": 104.4002639,
+        "minLat": 48.5036087,
+        "maxLon": 108.523133,
+        "maxLat": 50.47737122
+      }
+    },
+    "MN051": {
+      "name": "Sühbaatar",
+      "sub_id": "MN051",
+      "sub_num": "51",
+      "bbox": {
+        "minLon": 111.2111459,
+        "minLat": 44.74147797,
+        "maxLon": 116.5761652,
+        "maxLat": 47.82375455
+      }
+    },
+    "MN047": {
+      "name": "Töv",
+      "sub_id": "MN047",
+      "sub_num": "47",
+      "bbox": {
+        "minLon": 103.9034536,
+        "minLat": 46.36745453,
+        "maxLon": 109.0579932,
+        "maxLat": 49.16994452
+      }
+    },
+    "MN1": {
+      "name": "Ulaanbaatar",
+      "sub_id": "MN1",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 106.4855515,
+        "minLat": 47.68993378,
+        "maxLon": 107.2816353,
+        "maxLat": 48.02947998
+      }
+    },
+    "MN046": {
+      "name": "Uvs",
+      "sub_id": "MN046",
+      "sub_num": "46",
+      "bbox": {
+        "minLon": 89.99941039,
+        "minLat": 48.44241142,
+        "maxLon": 95.69870865,
+        "maxLat": 50.88523865
+      }
+    },
+    "MN053": {
+      "name": "Ömnögovĭ",
+      "sub_id": "MN053",
+      "sub_num": "53",
+      "bbox": {
+        "minLon": 99.42273569,
+        "minLat": 41.58136368,
+        "maxLon": 108.0869379,
+        "maxLat": 45.01184464
+      }
+    },
+    "MN055": {
+      "name": "Övörhangay",
+      "sub_id": "MN055",
+      "sub_num": "55",
+      "bbox": {
+        "minLon": 101.0901417,
+        "minLat": 44.04178619,
+        "maxLon": 104.6823649,
+        "maxLat": 47.44617462
+      }
+    }
+  }
+  

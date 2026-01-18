@@ -1,0 +1,58 @@
+{
+    "TGC": {
+      "name": "Centrale",
+      "sub_id": "TGC",
+      "sub_num": "C",
+      "bbox": {
+        "minLon": 0.373965025,
+        "minLat": 7.898182869,
+        "maxLon": 1.6484375,
+        "maxLat": 9.299175024
+      }
+    },
+    "TGK": {
+      "name": "Kara",
+      "sub_id": "TGK",
+      "sub_num": "K",
+      "bbox": {
+        "minLon": 0.227556944,
+        "minLat": 8.860816955,
+        "maxLon": 1.430016041,
+        "maxLat": 10.2220521
+      }
+    },
+    "TGM": {
+      "name": "Maritime (Région)",
+      "sub_id": "TGM",
+      "sub_num": "M",
+      "bbox": {
+        "minLon": 0.715059161,
+        "minLat": 6.111992121,
+        "maxLon": 1.809108138,
+        "maxLat": 7.38658905
+      }
+    },
+    "TGP": {
+      "name": "Plateaux",
+      "sub_id": "TGP",
+      "sub_num": "P",
+      "bbox": {
+        "minLon": 0.50571239,
+        "minLat": 6.547679901,
+        "maxLon": 1.647407889,
+        "maxLat": 8.373985291
+      }
+    },
+    "TGS": {
+      "name": "Savanes",
+      "sub_id": "TGS",
+      "sub_num": "S",
+      "bbox": {
+        "minLon": -0.143781305,
+        "minLat": 9.883489608,
+        "maxLon": 0.995821238,
+        "maxLat": 11.13940716
+      }
+    }
+  }
+  

@@ -1,0 +1,289 @@
+{
+    "PEAMA": {
+      "name": "Amazonas",
+      "sub_id": "PEAMA",
+      "sub_num": "AMA",
+      "bbox": {
+        "minLon": -78.7129941,
+        "minLat": -7.111213803,
+        "maxLon": -77.14922965,
+        "maxLat": -2.98405838
+      }
+    },
+    "PEANC": {
+      "name": "Ancash",
+      "sub_id": "PEANC",
+      "sub_num": "ANC",
+      "bbox": {
+        "minLon": -78.68124711,
+        "minLat": -10.78239441,
+        "maxLon": -76.73460615,
+        "maxLat": -8.002684474
+      }
+    },
+    "PEAPU": {
+      "name": "Apurímac",
+      "sub_id": "PEAPU",
+      "sub_num": "APU",
+      "bbox": {
+        "minLon": -73.84813285,
+        "minLat": -14.81694102,
+        "maxLon": -72.05090642,
+        "maxLat": -13.17037582
+      }
+    },
+    "PEARE": {
+      "name": "Arequipa",
+      "sub_id": "PEARE",
+      "sub_num": "ARE",
+      "bbox": {
+        "minLon": -75.07249785,
+        "minLat": -17.29833972,
+        "maxLon": -70.83974016,
+        "maxLat": -14.61688042
+      }
+    },
+    "PEAYA": {
+      "name": "Ayacucho",
+      "sub_id": "PEAYA",
+      "sub_num": "AYA",
+      "bbox": {
+        "minLon": -75.13928854,
+        "minLat": -15.63166654,
+        "maxLon": -72.83480275,
+        "maxLat": -12.16733694
+      }
+    },
+    "PECAJ": {
+      "name": "Cajamarca",
+      "sub_id": "PECAJ",
+      "sub_num": "CAJ",
+      "bbox": {
+        "minLon": -79.46250916,
+        "minLat": -7.764587403,
+        "maxLon": -77.74174654,
+        "maxLat": -4.608146548
+      }
+    },
+    "PECUS": {
+      "name": "Cusco",
+      "sub_id": "PECUS",
+      "sub_num": "CUS",
+      "bbox": {
+        "minLon": -73.97957611,
+        "minLat": -15.33149135,
+        "maxLon": -70.34592664,
+        "maxLat": -11.16991997
+      }
+    },
+    "PECAL": {
+      "name": "El Callao",
+      "sub_id": "PECAL",
+      "sub_num": "CAL",
+      "bbox": {
+        "minLon": -77.73932338,
+        "minLat": -12.12966669,
+        "maxLon": -77.07894421,
+        "maxLat": -11.81387973
+      }
+    },
+    "PEHUV": {
+      "name": "Huancavelica",
+      "sub_id": "PEHUV",
+      "sub_num": "HUV",
+      "bbox": {
+        "minLon": -75.8118943,
+        "minLat": -14.14146423,
+        "maxLon": -74.26997042,
+        "maxLat": -11.98393822
+      }
+    },
+    "PEHUC": {
+      "name": "Huánuco",
+      "sub_id": "PEHUC",
+      "sub_num": "HUC",
+      "bbox": {
+        "minLon": -77.3174969,
+        "minLat": -10.48411131,
+        "maxLon": -74.42214131,
+        "maxLat": -8.409261703
+      }
+    },
+    "PEICA": {
+      "name": "Ica",
+      "sub_id": "PEICA",
+      "sub_num": "ICA",
+      "bbox": {
+        "minLon": -76.46759319,
+        "minLat": -15.44015205,
+        "maxLon": -74.66628325,
+        "maxLat": -12.99133301
+      }
+    },
+    "PEJUN": {
+      "name": "Junín",
+      "sub_id": "PEJUN",
+      "sub_num": "JUN",
+      "bbox": {
+        "minLon": -76.49517703,
+        "minLat": -12.73143768,
+        "maxLon": -73.41823375,
+        "maxLat": -10.65570831
+      }
+    },
+    "PELAL": {
+      "name": "La Libertad",
+      "sub_id": "PELAL",
+      "sub_num": "LAL",
+      "bbox": {
+        "minLon": -79.69246733,
+        "minLat": -8.97231102,
+        "maxLon": -76.82933021,
+        "maxLat": -6.958467603
+      }
+    },
+    "PELAM": {
+      "name": "Lambayeque",
+      "sub_id": "PELAM",
+      "sub_num": "LAM",
+      "bbox": {
+        "minLon": -80.88194764,
+        "minLat": -7.177592278,
+        "maxLon": -79.13949096,
+        "maxLat": -5.477371216
+      }
+    },
+    "PELIM": {
+      "name": "Lima",
+      "sub_id": "PELIM",
+      "sub_num": "LIM",
+      "bbox": {
+        "minLon": -77.89930451,
+        "minLat": -13.32478726,
+        "maxLon": -75.50323284,
+        "maxLat": -10.27483463
+      }
+    },
+    "PELOR": {
+      "name": "Loreto",
+      "sub_id": "PELOR",
+      "sub_num": "LOR",
+      "bbox": {
+        "minLon": -77.80257785,
+        "minLat": -8.64692688,
+        "maxLon": -69.94487667,
+        "maxLat": -0.038967132
+      }
+    },
+    "PEMDD": {
+      "name": "Madre de Dios",
+      "sub_id": "PEMDD",
+      "sub_num": "MDD",
+      "bbox": {
+        "minLon": -72.37913716,
+        "minLat": -13.34452629,
+        "maxLon": -68.65024304,
+        "maxLat": -10.09660184
+      }
+    },
+    "PEMOQ": {
+      "name": "Moquegua",
+      "sub_id": "PEMOQ",
+      "sub_num": "MOQ",
+      "bbox": {
+        "minLon": -71.47741663,
+        "minLat": -17.82284188,
+        "maxLon": -70.00902033,
+        "maxLat": -15.95828533
+      }
+    },
+    "PELMA": {
+      "name": "Municipalidad Metropolitana de Lima",
+      "sub_id": "PELMA",
+      "sub_num": "LMA",
+      "bbox": {
+        "minLon": -77.19947231,
+        "minLat": -12.52046907,
+        "maxLon": -76.5701859,
+        "maxLat": -11.56804562
+      }
+    },
+    "PEPAS": {
+      "name": "Pasco",
+      "sub_id": "PEPAS",
+      "sub_num": "PAS",
+      "bbox": {
+        "minLon": -76.74250543,
+        "minLat": -11.12949371,
+        "maxLon": -74.20762229,
+        "maxLat": -9.613723755
+      }
+    },
+    "PEPIU": {
+      "name": "Piura",
+      "sub_id": "PEPIU",
+      "sub_num": "PIU",
+      "bbox": {
+        "minLon": -81.33076704,
+        "minLat": -6.351732731,
+        "maxLon": -79.26676834,
+        "maxLat": -4.013764859
+      }
+    },
+    "PEPUN": {
+      "name": "Puno",
+      "sub_id": "PEPUN",
+      "sub_num": "PUN",
+      "bbox": {
+        "minLon": -71.11835098,
+        "minLat": -17.29574204,
+        "maxLon": -68.81327093,
+        "maxLat": -12.95445263
+      }
+    },
+    "PESAM": {
+      "name": "San Martín",
+      "sub_id": "PESAM",
+      "sub_num": "SAM",
+      "bbox": {
+        "minLon": -77.77322817,
+        "minLat": -8.782330751,
+        "maxLon": -75.50431645,
+        "maxLat": -5.395145416
+      }
+    },
+    "PETAC": {
+      "name": "Tacna",
+      "sub_id": "PETAC",
+      "sub_num": "TAC",
+      "bbox": {
+        "minLon": -71.14252257,
+        "minLat": -18.35228837,
+        "maxLon": -69.4684521,
+        "maxLat": -16.78397655
+      }
+    },
+    "PETUM": {
+      "name": "Tumbes",
+      "sub_id": "PETUM",
+      "sub_num": "TUM",
+      "bbox": {
+        "minLon": -81.04364812,
+        "minLat": -4.331274032,
+        "maxLon": -80.12803555,
+        "maxLat": -3.398423195
+      }
+    },
+    "PEUCA": {
+      "name": "Ucayali",
+      "sub_id": "PEUCA",
+      "sub_num": "UCA",
+      "bbox": {
+        "minLon": -76.02643573,
+        "minLat": -11.44809723,
+        "maxLon": -70.49433398,
+        "maxLat": -7.325880528
+      }
+    }
+  }
+  

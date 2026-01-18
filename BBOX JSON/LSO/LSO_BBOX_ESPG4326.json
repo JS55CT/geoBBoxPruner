@@ -1,0 +1,113 @@
+{
+    "LSD": {
+      "name": "Berea",
+      "sub_id": "LSD",
+      "sub_num": "D",
+      "bbox": {
+        "minLon": 27.51115704,
+        "minLat": -29.35958862,
+        "maxLon": 28.29348171,
+        "maxLat": -28.94863129
+      }
+    },
+    "LSB": {
+      "name": "Botha-Bothe",
+      "sub_id": "LSB",
+      "sub_num": "B",
+      "bbox": {
+        "minLon": 28.22297251,
+        "minLat": -29.08591747,
+        "maxLon": 28.81764996,
+        "maxLat": -28.57079995
+      }
+    },
+    "LSC": {
+      "name": "Leribe",
+      "sub_id": "LSC",
+      "sub_num": "C",
+      "bbox": {
+        "minLon": 27.63920867,
+        "minLat": -29.37074661,
+        "maxLon": 28.79506278,
+        "maxLat": -28.69360685
+      }
+    },
+    "LSE": {
+      "name": "Mafeteng",
+      "sub_id": "LSE",
+      "sub_num": "E",
+      "bbox": {
+        "minLon": 27.01180136,
+        "minLat": -30.05756378,
+        "maxLon": 27.82735145,
+        "maxLat": -29.52650785
+      }
+    },
+    "LSA": {
+      "name": "Maseru",
+      "sub_id": "LSA",
+      "sub_num": "A",
+      "bbox": {
+        "minLon": 27.30005264,
+        "minLat": -29.9250412,
+        "maxLon": 28.25064623,
+        "maxLat": -29.27101135
+      }
+    },
+    "LSF": {
+      "name": "Mohale's Hoek",
+      "sub_id": "LSF",
+      "sub_num": "F",
+      "bbox": {
+        "minLon": 27.19173431,
+        "minLat": -30.41461945,
+        "maxLon": 28.59378004,
+        "maxLat": -29.78333473
+      }
+    },
+    "LSJ": {
+      "name": "Mokhotlong",
+      "sub_id": "LSJ",
+      "sub_num": "J",
+      "bbox": {
+        "minLon": 28.5563935,
+        "minLat": -29.57708359,
+        "maxLon": 29.45571005,
+        "maxLat": -28.75595999
+      }
+    },
+    "LSH": {
+      "name": "Qacha's Nek",
+      "sub_id": "LSH",
+      "sub_num": "H",
+      "bbox": {
+        "minLon": 28.22406125,
+        "minLat": -30.16973996,
+        "maxLon": 29.16959,
+        "maxLat": -29.73552704
+      }
+    },
+    "LSG": {
+      "name": "Quthing",
+      "sub_id": "LSG",
+      "sub_num": "G",
+      "bbox": {
+        "minLon": 27.55922568,
+        "minLat": -30.67558002,
+        "maxLon": 28.36945081,
+        "maxLat": -30.02305985
+      }
+    },
+    "LSK": {
+      "name": "Thaba-Tseka",
+      "sub_id": "LSK",
+      "sub_num": "K",
+      "bbox": {
+        "minLon": 28.0922507,
+        "minLat": -29.88418579,
+        "maxLon": 29.32512999,
+        "maxLat": -29.12158012
+      }
+    }
+  }
+  

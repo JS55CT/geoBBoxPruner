@@ -1,0 +1,157 @@
+{
+    "CZ64": {
+      "name": "Jihomoravský kraj",
+      "sub_id": "CZ64",
+      "sub_num": "64",
+      "bbox": {
+        "minLon": 15.54184258,
+        "minLat": 48.61669362,
+        "maxLon": 17.64552105,
+        "maxLat": 49.62985754
+      }
+    },
+    "CZ31": {
+      "name": "Jihočeský kraj",
+      "sub_id": "CZ31",
+      "sub_num": "31",
+      "bbox": {
+        "minLon": 13.53651738,
+        "minLat": 48.5525322,
+        "maxLon": 15.60061491,
+        "maxLat": 49.62058783
+      }
+    },
+    "CZ41": {
+      "name": "Karlovarský kraj",
+      "sub_id": "CZ41",
+      "sub_num": "41",
+      "bbox": {
+        "minLon": 12.09403944,
+        "minLat": 49.89165187,
+        "maxLon": 13.30185592,
+        "maxLat": 50.45944679
+      }
+    },
+    "CZ52": {
+      "name": "Královéhradecký kraj",
+      "sub_id": "CZ52",
+      "sub_num": "52",
+      "bbox": {
+        "minLon": 15.10796225,
+        "minLat": 50.03835142,
+        "maxLon": 16.58540702,
+        "maxLat": 50.78041792
+      }
+    },
+    "CZ51": {
+      "name": "Liberecký kraj",
+      "sub_id": "CZ51",
+      "sub_num": "51",
+      "bbox": {
+        "minLon": 14.34246898,
+        "minLat": 50.47050476,
+        "maxLon": 15.63204896,
+        "maxLat": 51.02303982
+      }
+    },
+    "CZ80": {
+      "name": "Moravskoslezský kraj",
+      "sub_id": "CZ80",
+      "sub_num": "80",
+      "bbox": {
+        "minLon": 17.14761102,
+        "minLat": 49.39222395,
+        "maxLon": 18.85926604,
+        "maxLat": 50.32797098
+      }
+    },
+    "CZ71": {
+      "name": "Olomoucký kraj",
+      "sub_id": "CZ71",
+      "sub_num": "71",
+      "bbox": {
+        "minLon": 16.71253693,
+        "minLat": 49.26816702,
+        "maxLon": 17.91965413,
+        "maxLat": 50.44945395
+      }
+    },
+    "CZ53": {
+      "name": "Pardubický kraj",
+      "sub_id": "CZ53",
+      "sub_num": "53",
+      "bbox": {
+        "minLon": 15.3637321,
+        "minLat": 49.57308054,
+        "maxLon": 16.86836708,
+        "maxLat": 50.20765305
+      }
+    },
+    "CZ32": {
+      "name": "Plzeňský kraj",
+      "sub_id": "CZ32",
+      "sub_num": "32",
+      "bbox": {
+        "minLon": 12.39774752,
+        "minLat": 48.9387703,
+        "maxLon": 13.83598101,
+        "maxLat": 50.10516644
+      }
+    },
+    "CZ10": {
+      "name": "Praha, Hlavní město",
+      "sub_id": "CZ10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 14.224002,
+        "minLat": 49.94273186,
+        "maxLon": 14.70433092,
+        "maxLat": 50.1772213
+      }
+    },
+    "CZ20": {
+      "name": "Středočeský kraj",
+      "sub_id": "CZ20",
+      "sub_num": "20",
+      "bbox": {
+        "minLon": 13.39811719,
+        "minLat": 49.50114369,
+        "maxLon": 15.53389478,
+        "maxLat": 50.61833739
+      }
+    },
+    "CZ63": {
+      "name": "Vysočina",
+      "sub_id": "CZ63",
+      "sub_num": "63",
+      "bbox": {
+        "minLon": 14.88823295,
+        "minLat": 48.9379549,
+        "maxLon": 16.41725504,
+        "maxLat": 49.85986233
+      }
+    },
+    "CZ72": {
+      "name": "Zlínský kraj",
+      "sub_id": "CZ72",
+      "sub_num": "72",
+      "bbox": {
+        "minLon": 17.11126518,
+        "minLat": 48.85414195,
+        "maxLon": 18.415488,
+        "maxLat": 49.53984261
+      }
+    },
+    "CZ42": {
+      "name": "Ústecký kraj",
+      "sub_id": "CZ42",
+      "sub_num": "42",
+      "bbox": {
+        "minLon": 12.94035435,
+        "minLat": 50.07802248,
+        "maxLon": 14.65308654,
+        "maxLat": 51.05589151
+      }
+    }
+  }
+  

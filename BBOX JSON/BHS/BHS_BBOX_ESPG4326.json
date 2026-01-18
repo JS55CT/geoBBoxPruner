@@ -1,0 +1,355 @@
+{
+    "BSAK": {
+      "name": "Acklins",
+      "sub_id": "BSAK",
+      "sub_num": "AK",
+      "bbox": {
+        "minLon": -74.53531313,
+        "minLat": 22.08719385,
+        "maxLon": -73.46997058,
+        "maxLat": 22.73767042
+      }
+    },
+    "BSBY": {
+      "name": "Berry Islands",
+      "sub_id": "BSBY",
+      "sub_num": "BY",
+      "bbox": {
+        "minLon": -78.03339124,
+        "minLat": 25.39021766,
+        "maxLon": -77.71117306,
+        "maxLat": 25.82771218
+      }
+    },
+    "BSBI": {
+      "name": "Bimini",
+      "sub_id": "BSBI",
+      "sub_num": "BI",
+      "bbox": {
+        "minLon": -80.47613084,
+        "minLat": 23.48525751,
+        "maxLon": -79.07986987,
+        "maxLat": 26.03309894
+      }
+    },
+    "BSBP": {
+      "name": "Black Point",
+      "sub_id": "BSBP",
+      "sub_num": "BP",
+      "bbox": {
+        "minLon": -76.41128731,
+        "minLat": 23.96184516,
+        "maxLon": -76.31206071,
+        "maxLat": 24.11773062
+      }
+    },
+    "BSCI": {
+      "name": "Cat Island",
+      "sub_id": "BSCI",
+      "sub_num": "CI",
+      "bbox": {
+        "minLon": -75.97294629,
+        "minLat": 24.11384761,
+        "maxLon": -75.29306996,
+        "maxLat": 24.69636202
+      }
+    },
+    "BSCO": {
+      "name": "Central Abaco",
+      "sub_id": "BSCO",
+      "sub_num": "CO",
+      "bbox": {
+        "minLon": -77.44413149,
+        "minLat": 26.37129784,
+        "maxLon": -76.97102106,
+        "maxLat": 26.65460169
+      }
+    },
+    "BSCS": {
+      "name": "Central Andros",
+      "sub_id": "BSCS",
+      "sub_num": "CS",
+      "bbox": {
+        "minLon": -78.18143547,
+        "minLat": 24.14584112,
+        "maxLon": -77.67486608,
+        "maxLat": 24.7435478
+      }
+    },
+    "BSCE": {
+      "name": "Central Eleuthera",
+      "sub_id": "BSCE",
+      "sub_num": "CE",
+      "bbox": {
+        "minLon": -76.4346813,
+        "minLat": 24.98929381,
+        "maxLon": -76.10901761,
+        "maxLat": 25.35237718
+      }
+    },
+    "BSFP": {
+      "name": "City of Freeport",
+      "sub_id": "BSFP",
+      "sub_num": "FP",
+      "bbox": {
+        "minLon": -78.72919726,
+        "minLat": 26.48775375,
+        "maxLon": -78.59686661,
+        "maxLat": 26.57326698
+      }
+    },
+    "BSCK": {
+      "name": "Crooked Island and Long Cay",
+      "sub_id": "BSCK",
+      "sub_num": "CK",
+      "bbox": {
+        "minLon": -74.3816781,
+        "minLat": 22.40679204,
+        "maxLon": -73.60039151,
+        "maxLat": 23.10353947
+      }
+    },
+    "BSEG": {
+      "name": "East Grand Bahama",
+      "sub_id": "BSEG",
+      "sub_num": "EG",
+      "bbox": {
+        "minLon": -78.48596573,
+        "minLat": 26.42307556,
+        "maxLon": -77.71270311,
+        "maxLat": 26.8782711
+      }
+    },
+    "BSEX": {
+      "name": "Exuma",
+      "sub_id": "BSEX",
+      "sub_num": "EX",
+      "bbox": {
+        "minLon": -76.94019437,
+        "minLat": 23.38602602,
+        "maxLon": -75.43148255,
+        "maxLat": 24.95979333
+      }
+    },
+    "BSGC": {
+      "name": "Grand Cay",
+      "sub_id": "BSGC",
+      "sub_num": "GC",
+      "bbox": {
+        "minLon": -78.41802645,
+        "minLat": 26.94092429,
+        "maxLon": -77.89962149,
+        "maxLat": 27.27151632
+      }
+    },
+    "BSHI": {
+      "name": "Harbour Island",
+      "sub_id": "BSHI",
+      "sub_num": "HI",
+      "bbox": {
+        "minLon": -76.64078665,
+        "minLat": 25.47551191,
+        "maxLon": -76.62783015,
+        "maxLat": 25.52360868
+      }
+    },
+    "BSHT": {
+      "name": "Hope Town",
+      "sub_id": "BSHT",
+      "sub_num": "HT",
+      "bbox": {
+        "minLon": -77.17797744,
+        "minLat": 26.41533852,
+        "maxLon": -76.95531392,
+        "maxLat": 26.70444572
+      }
+    },
+    "BSIN": {
+      "name": "Inagua",
+      "sub_id": "BSIN",
+      "sub_num": "IN",
+      "bbox": {
+        "minLon": -73.84808993,
+        "minLat": 20.9119271,
+        "maxLon": -72.91319752,
+        "maxLat": 21.69419646
+      }
+    },
+    "BSLI": {
+      "name": "Long Island",
+      "sub_id": "BSLI",
+      "sub_num": "LI",
+      "bbox": {
+        "minLon": -75.34696782,
+        "minLat": 22.84967613,
+        "maxLon": -74.82670569,
+        "maxLat": 23.85661435
+      }
+    },
+    "BSMC": {
+      "name": "Mangrove Cay",
+      "sub_id": "BSMC",
+      "sub_num": "MC",
+      "bbox": {
+        "minLon": -77.93062377,
+        "minLat": 23.99957955,
+        "maxLon": -77.62112546,
+        "maxLat": 24.31226098
+      }
+    },
+    "BSMG": {
+      "name": "Mayaguana",
+      "sub_id": "BSMG",
+      "sub_num": "MG",
+      "bbox": {
+        "minLon": -73.17105615,
+        "minLat": 22.28268492,
+        "maxLon": -72.71204555,
+        "maxLat": 22.46883535
+      }
+    },
+    "BSMI": {
+      "name": "Moores Island",
+      "sub_id": "BSMI",
+      "sub_num": "MI",
+      "bbox": {
+        "minLon": -77.58268595,
+        "minLat": 26.22274411,
+        "maxLon": -77.53400612,
+        "maxLat": 26.33269608
+      }
+    },
+    "BSNP": {
+      "name": "New Providence",
+      "sub_id": "BSNP",
+      "sub_num": "NP",
+      "bbox": {
+        "minLon": -77.57305825,
+        "minLat": 24.97425115,
+        "maxLon": -76.96692037,
+        "maxLat": 25.20547497
+      }
+    },
+    "BSNO": {
+      "name": "North Abaco",
+      "sub_id": "BSNO",
+      "sub_num": "NO",
+      "bbox": {
+        "minLon": -77.95483995,
+        "minLat": 26.62291002,
+        "maxLon": -77.22071886,
+        "maxLat": 27.0507822
+      }
+    },
+    "BSNS": {
+      "name": "North Andros",
+      "sub_id": "BSNS",
+      "sub_num": "NS",
+      "bbox": {
+        "minLon": -78.52706289,
+        "minLat": 24.43359375,
+        "maxLon": -77.69265342,
+        "maxLat": 25.33099115
+      }
+    },
+    "BSNE": {
+      "name": "North Eleuthera",
+      "sub_id": "BSNE",
+      "sub_num": "NE",
+      "bbox": {
+        "minLon": -76.9042089,
+        "minLat": 25.12488484,
+        "maxLon": -76.43247378,
+        "maxLat": 25.56271195
+      }
+    },
+    "BSRI": {
+      "name": "Ragged Island",
+      "sub_id": "BSRI",
+      "sub_num": "RI",
+      "bbox": {
+        "minLon": -75.91090143,
+        "minLat": 21.71778357,
+        "maxLon": -75.18239355,
+        "maxLat": 23.14295995
+      }
+    },
+    "BSRC": {
+      "name": "Rum Cay",
+      "sub_id": "BSRC",
+      "sub_num": "RC",
+      "bbox": {
+        "minLon": -74.95062411,
+        "minLat": 23.63476217,
+        "maxLon": -74.79124951,
+        "maxLat": 23.71265876
+      }
+    },
+    "BSSS": {
+      "name": "San Salvador",
+      "sub_id": "BSSS",
+      "sub_num": "SS",
+      "bbox": {
+        "minLon": -74.56962073,
+        "minLat": 23.93477345,
+        "maxLon": -74.42785108,
+        "maxLat": 24.16185391
+      }
+    },
+    "BSSO": {
+      "name": "South Abaco",
+      "sub_id": "BSSO",
+      "sub_num": "SO",
+      "bbox": {
+        "minLon": -77.55625296,
+        "minLat": 25.84399939,
+        "maxLon": -76.97724998,
+        "maxLat": 26.41805136
+      }
+    },
+    "BSSA": {
+      "name": "South Andros",
+      "sub_id": "BSSA",
+      "sub_num": "SA",
+      "bbox": {
+        "minLon": -77.8874594,
+        "minLat": 23.5968343,
+        "maxLon": -77.08201122,
+        "maxLat": 24.22350037
+      }
+    },
+    "BSSE": {
+      "name": "South Eleuthera",
+      "sub_id": "BSSE",
+      "sub_num": "SE",
+      "bbox": {
+        "minLon": -76.39515722,
+        "minLat": 24.61243892,
+        "maxLon": -76.13363147,
+        "maxLat": 24.99786937
+      }
+    },
+    "BSSW": {
+      "name": "Spanish Wells",
+      "sub_id": "BSSW",
+      "sub_num": "SW",
+      "bbox": {
+        "minLon": -76.77274597,
+        "minLat": 25.54125273,
+        "maxLon": -76.74411857,
+        "maxLat": 25.55118978
+      }
+    },
+    "BSWG": {
+      "name": "West Grand Bahama",
+      "sub_id": "BSWG",
+      "sub_num": "WG",
+      "bbox": {
+        "minLon": -79.01940811,
+        "minLat": 26.49410939,
+        "maxLon": -78.42598557,
+        "maxLat": 26.92106342
+      }
+    }
+  }
+  

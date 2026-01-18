@@ -1,0 +1,245 @@
+{
+    "GTAV": {
+      "name": "Alta Verapaz",
+      "sub_id": "GTAV",
+      "sub_num": "AV",
+      "bbox": {
+        "minLon": -90.82043076,
+        "minLat": 15.11540651,
+        "maxLon": -89.40949869,
+        "maxLat": 16.0865593
+      }
+    },
+    "GTBV": {
+      "name": "Baja Verapaz",
+      "sub_id": "GTBV",
+      "sub_num": "BV",
+      "bbox": {
+        "minLon": -90.81283021,
+        "minLat": 14.86982346,
+        "maxLon": -89.9233619,
+        "maxLat": 15.29683113
+      }
+    },
+    "GTCM": {
+      "name": "Chimaltenango",
+      "sub_id": "GTCM",
+      "sub_num": "CM",
+      "bbox": {
+        "minLon": -91.12595892,
+        "minLat": 14.36925888,
+        "maxLon": -90.61965179,
+        "maxLat": 14.9377557
+      }
+    },
+    "GTCQ": {
+      "name": "Chiquimula",
+      "sub_id": "GTCQ",
+      "sub_num": "CQ",
+      "bbox": {
+        "minLon": -89.73634052,
+        "minLat": 14.40685272,
+        "maxLon": -89.13319469,
+        "maxLat": 14.94810104
+      }
+    },
+    "GTPR": {
+      "name": "El Progreso",
+      "sub_id": "GTPR",
+      "sub_num": "PR",
+      "bbox": {
+        "minLon": -90.40462577,
+        "minLat": 14.64906693,
+        "maxLon": -89.78094172,
+        "maxLat": 15.15222788
+      }
+    },
+    "GTES": {
+      "name": "Escuintla",
+      "sub_id": "GTES",
+      "sub_num": "ES",
+      "bbox": {
+        "minLon": -91.53986847,
+        "minLat": 13.91156673,
+        "maxLon": -90.51190889,
+        "maxLat": 14.47478771
+      }
+    },
+    "GTGU": {
+      "name": "Guatemala",
+      "sub_id": "GTGU",
+      "sub_num": "GU",
+      "bbox": {
+        "minLon": -90.76223087,
+        "minLat": 14.24022317,
+        "maxLon": -90.21144617,
+        "maxLat": 14.91462708
+      }
+    },
+    "GTHU": {
+      "name": "Huehuetenango",
+      "sub_id": "GTHU",
+      "sub_num": "HU",
+      "bbox": {
+        "minLon": -92.11234593,
+        "minLat": 15.13605952,
+        "maxLon": -90.99324477,
+        "maxLat": 16.07625961
+      }
+    },
+    "GTIZ": {
+      "name": "Izabal",
+      "sub_id": "GTIZ",
+      "sub_num": "IZ",
+      "bbox": {
+        "minLon": -89.66922307,
+        "minLat": 15.06483078,
+        "maxLon": -88.22885036,
+        "maxLat": 15.9664458
+      }
+    },
+    "GTJA": {
+      "name": "Jalapa",
+      "sub_id": "GTJA",
+      "sub_num": "JA",
+      "bbox": {
+        "minLon": -90.29120052,
+        "minLat": 14.42560673,
+        "maxLon": -89.6487329,
+        "maxLat": 14.8749733
+      }
+    },
+    "GTJU": {
+      "name": "Jutiapa",
+      "sub_id": "GTJU",
+      "sub_num": "JU",
+      "bbox": {
+        "minLon": -90.29903269,
+        "minLat": 13.74020576,
+        "maxLon": -89.49801862,
+        "maxLat": 14.5604732
+      }
+    },
+    "GTPE": {
+      "name": "Petén",
+      "sub_id": "GTPE",
+      "sub_num": "PE",
+      "bbox": {
+        "minLon": -91.43986738,
+        "minLat": 15.84367991,
+        "maxLon": -89.1489712,
+        "maxLat": 17.81778288
+      }
+    },
+    "GTQZ": {
+      "name": "Quetzaltenango",
+      "sub_id": "GTQZ",
+      "sub_num": "QZ",
+      "bbox": {
+        "minLon": -92.13720214,
+        "minLat": 14.49302673,
+        "maxLon": -91.40161014,
+        "maxLat": 15.23106432
+      }
+    },
+    "GTQC": {
+      "name": "Quiché",
+      "sub_id": "GTQC",
+      "sub_num": "QC",
+      "bbox": {
+        "minLon": -91.32704413,
+        "minLat": 14.80733872,
+        "maxLon": -90.41756916,
+        "maxLat": 16.07437134
+      }
+    },
+    "GTRE": {
+      "name": "Retalhuleu",
+      "sub_id": "GTRE",
+      "sub_num": "RE",
+      "bbox": {
+        "minLon": -92.17794859,
+        "minLat": 14.12461019,
+        "maxLon": -91.53963935,
+        "maxLat": 14.71454501
+      }
+    },
+    "GTSA": {
+      "name": "Sacatepéquez",
+      "sub_id": "GTSA",
+      "sub_num": "SA",
+      "bbox": {
+        "minLon": -90.88073575,
+        "minLat": 14.38118935,
+        "maxLon": -90.61316693,
+        "maxLat": 14.71638691
+      }
+    },
+    "GTSM": {
+      "name": "San Marcos",
+      "sub_id": "GTSM",
+      "sub_num": "SM",
+      "bbox": {
+        "minLon": -92.22398126,
+        "minLat": 14.49268341,
+        "maxLon": -91.565081,
+        "maxLat": 15.43435144
+      }
+    },
+    "GTSR": {
+      "name": "Santa Rosa",
+      "sub_id": "GTSR",
+      "sub_num": "SR",
+      "bbox": {
+        "minLon": -90.62773156,
+        "minLat": 13.79995131,
+        "maxLon": -90.04683947,
+        "maxLat": 14.50710297
+      }
+    },
+    "GTSO": {
+      "name": "Sololá",
+      "sub_id": "GTSO",
+      "sub_num": "SO",
+      "bbox": {
+        "minLon": -91.50659847,
+        "minLat": 14.5221076,
+        "maxLon": -91.06948924,
+        "maxLat": 14.89870548
+      }
+    },
+    "GTSU": {
+      "name": "Suchitepéquez",
+      "sub_id": "GTSU",
+      "sub_num": "SU",
+      "bbox": {
+        "minLon": -91.66582298,
+        "minLat": 14.04743731,
+        "maxLon": -91.09332383,
+        "maxLat": 14.71103668
+      }
+    },
+    "GTTO": {
+      "name": "Totonicapán",
+      "sub_id": "GTTO",
+      "sub_num": "TO",
+      "bbox": {
+        "minLon": -91.5526576,
+        "minLat": 14.82288408,
+        "maxLon": -91.16884959,
+        "maxLat": 15.25485992
+      }
+    },
+    "GTZA": {
+      "name": "Zacapa",
+      "sub_id": "GTZA",
+      "sub_num": "ZA",
+      "bbox": {
+        "minLon": -89.89690721,
+        "minLat": 14.73781586,
+        "maxLon": -89.15188408,
+        "maxLat": 15.29773235
+      }
+    }
+  }
+  

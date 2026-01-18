@@ -1,0 +1,113 @@
+{
+    "ZWBU": {
+      "name": "Bulawayo",
+      "sub_id": "ZWBU",
+      "sub_num": "BU",
+      "bbox": {
+        "minLon": 28.38893998,
+        "minLat": -20.25942004,
+        "maxLon": 28.70287001,
+        "maxLat": -20.02918994
+      }
+    },
+    "ZWHA": {
+      "name": "Harare",
+      "sub_id": "ZWHA",
+      "sub_num": "HA",
+      "bbox": {
+        "minLon": 30.89620256,
+        "minLat": -18.05485999,
+        "maxLon": 31.22257996,
+        "maxLat": -17.66624999
+      }
+    },
+    "ZWMA": {
+      "name": "Manicaland",
+      "sub_id": "ZWMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": 31.2384243,
+        "minLat": -21.34641409,
+        "maxLon": 33.06781519,
+        "maxLat": -17.24943459
+      }
+    },
+    "ZWMC": {
+      "name": "Mashonaland Central",
+      "sub_id": "ZWMC",
+      "sub_num": "MC",
+      "bbox": {
+        "minLon": 30.04544902,
+        "minLat": -17.74180996,
+        "maxLon": 32.75926352,
+        "maxLat": -15.62174344
+      }
+    },
+    "ZWME": {
+      "name": "Mashonaland East",
+      "sub_id": "ZWME",
+      "sub_num": "ME",
+      "bbox": {
+        "minLon": 30.49147284,
+        "minLat": -19.2699337,
+        "maxLon": 32.98975039,
+        "maxLat": -16.69562459
+      }
+    },
+    "ZWMW": {
+      "name": "Mashonaland West",
+      "sub_id": "ZWMW",
+      "sub_num": "MW",
+      "bbox": {
+        "minLon": 28.01073837,
+        "minLat": -18.9054966,
+        "maxLon": 30.98199999,
+        "maxLat": -15.61019898
+      }
+    },
+    "ZWMV": {
+      "name": "Masvingo",
+      "sub_id": "ZWMV",
+      "sub_num": "MV",
+      "bbox": {
+        "minLon": 29.73008192,
+        "minLat": -22.42200994,
+        "maxLon": 32.41443038,
+        "maxLat": -19.14443004
+      }
+    },
+    "ZWMN": {
+      "name": "Matebeleland North",
+      "sub_id": "ZWMN",
+      "sub_num": "MN",
+      "bbox": {
+        "minLon": 25.23745596,
+        "minLat": -20.34105003,
+        "maxLon": 29.22560179,
+        "maxLat": -16.86580515
+      }
+    },
+    "ZWMS": {
+      "name": "Matebeleland South",
+      "sub_id": "ZWMS",
+      "sub_num": "MS",
+      "bbox": {
+        "minLon": 26.70204389,
+        "minLat": -22.35625005,
+        "maxLon": 31.11729002,
+        "maxLat": -19.48176384
+      }
+    },
+    "ZWMI": {
+      "name": "Midlands",
+      "sub_id": "ZWMI",
+      "sub_num": "MI",
+      "bbox": {
+        "minLon": 27.99300492,
+        "minLat": -21.05759597,
+        "maxLon": 30.86323583,
+        "maxLat": -17.12876117
+      }
+    }
+  }
+  

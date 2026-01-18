@@ -1,0 +1,25 @@
+{
+    "KNN": {
+      "name": "Nevis",
+      "sub_id": "KNN",
+      "sub_num": "N",
+      "bbox": {
+        "minLon": -62.63321841,
+        "minLat": 17.09357405,
+        "maxLon": -62.53940368,
+        "maxLat": 17.20781386
+      }
+    },
+    "KNK": {
+      "name": "Saint Kitts",
+      "sub_id": "KNK",
+      "sub_num": "K",
+      "bbox": {
+        "minLon": -62.8641535,
+        "minLat": 17.21213639,
+        "maxLon": -62.60984826,
+        "maxLat": 17.41789913
+      }
+    }
+  }
+  

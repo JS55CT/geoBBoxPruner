@@ -1,0 +1,157 @@
+{
+    "SYLA": {
+      "name": "Al Ladhiqiyah",
+      "sub_id": "SYLA",
+      "sub_num": "LA",
+      "bbox": {
+        "minLon": 35.71672249,
+        "minLat": 35.15527344,
+        "maxLon": 36.39130068,
+        "maxLat": 35.94245911
+      }
+    },
+    "SYQU": {
+      "name": "Al Qunaytirah",
+      "sub_id": "SYQU",
+      "sub_num": "QU",
+      "bbox": {
+        "minLon": 35.58689797,
+        "minLat": 32.67773867,
+        "maxLon": 35.97018838,
+        "maxLat": 33.42049634
+      }
+    },
+    "SYHA": {
+      "name": "Al Hasakah",
+      "sub_id": "SYHA",
+      "sub_num": "HA",
+      "bbox": {
+        "minLon": 39.47859526,
+        "minLat": 35.56050694,
+        "maxLon": 42.37593222,
+        "maxLat": 37.32021332
+      }
+    },
+    "SYRA": {
+      "name": "Ar Raqqah",
+      "sub_id": "SYRA",
+      "sub_num": "RA",
+      "bbox": {
+        "minLon": 37.58543015,
+        "minLat": 35.01617432,
+        "maxLon": 39.83317494,
+        "maxLat": 36.71012878
+      }
+    },
+    "SYSU": {
+      "name": "As Suwayda'",
+      "sub_id": "SYSU",
+      "sub_num": "SU",
+      "bbox": {
+        "minLon": 36.33666229,
+        "minLat": 32.31147766,
+        "maxLon": 37.42968738,
+        "maxLat": 33.26076508
+      }
+    },
+    "SYDR": {
+      "name": "Daraa",
+      "sub_id": "SYDR",
+      "sub_num": "DR",
+      "bbox": {
+        "minLon": 35.76441932,
+        "minLat": 32.3566246,
+        "maxLon": 36.56292033,
+        "maxLat": 33.3184433
+      }
+    },
+    "SYDY": {
+      "name": "Dayr az Zawr",
+      "sub_id": "SYDY",
+      "sub_num": "DY",
+      "bbox": {
+        "minLon": 39.12918067,
+        "minLat": 33.71696842,
+        "maxLon": 41.32969952,
+        "maxLat": 36.44587672
+      }
+    },
+    "SYDI": {
+      "name": "Dimashq",
+      "sub_id": "SYDI",
+      "sub_num": "DI",
+      "bbox": {
+        "minLon": 36.19948328,
+        "minLat": 33.45869064,
+        "maxLon": 36.35635579,
+        "maxLat": 33.57179475
+      }
+    },
+    "SYID": {
+      "name": "Idlib",
+      "sub_id": "SYID",
+      "sub_num": "ID",
+      "bbox": {
+        "minLon": 36.15242827,
+        "minLat": 35.31040192,
+        "maxLon": 37.59076369,
+        "maxLat": 36.2802887
+      }
+    },
+    "SYRD": {
+      "name": "Rif Dimashq",
+      "sub_id": "SYRD",
+      "sub_num": "RD",
+      "bbox": {
+        "minLon": 35.834782,
+        "minLat": 32.64947093,
+        "maxLon": 38.20963275,
+        "maxLat": 34.20799255
+      }
+    },
+    "SYTA": {
+      "name": "Tartus",
+      "sub_id": "SYTA",
+      "sub_num": "TA",
+      "bbox": {
+        "minLon": 35.8540175,
+        "minLat": 34.62770462,
+        "maxLon": 36.35527897,
+        "maxLat": 35.327528
+      }
+    },
+    "SYHL": {
+      "name": "Halab",
+      "sub_id": "SYHL",
+      "sub_num": "HL",
+      "bbox": {
+        "minLon": 36.54616177,
+        "minLat": 35.61595917,
+        "maxLon": 38.73375273,
+        "maxLat": 36.92404032
+      }
+    },
+    "SYHM": {
+      "name": "Hamah",
+      "sub_id": "SYHM",
+      "sub_num": "HM",
+      "bbox": {
+        "minLon": 36.29233182,
+        "minLat": 34.89498138,
+        "maxLon": 37.98903561,
+        "maxLat": 35.67192078
+      }
+    },
+    "SYHI": {
+      "name": "Hims",
+      "sub_id": "SYHI",
+      "sub_num": "HI",
+      "bbox": {
+        "minLon": 36.15445173,
+        "minLat": 33.0642128,
+        "maxLon": 39.45659113,
+        "maxLat": 35.1713562
+      }
+    }
+  }
+  

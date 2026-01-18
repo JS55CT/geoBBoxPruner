@@ -1,0 +1,190 @@
+{
+    "CFBB": {
+      "name": "Bamingui-Bangoran",
+      "sub_id": "CFBB",
+      "sub_num": "BB",
+      "bbox": {
+        "minLon": 18.86233985,
+        "minLat": 7.021551132,
+        "maxLon": 22.39940548,
+        "maxLat": 9.799118042
+      }
+    },
+    "CFBGF": {
+      "name": "Bangui",
+      "sub_id": "CFBGF",
+      "sub_num": "BGF",
+      "bbox": {
+        "minLon": 18.47133005,
+        "minLat": 4.317111969,
+        "maxLon": 18.65611541,
+        "maxLat": 4.497227669
+      }
+    },
+    "CFBK": {
+      "name": "Basse-Kotto",
+      "sub_id": "CFBK",
+      "sub_num": "BK",
+      "bbox": {
+        "minLon": 20.46448529,
+        "minLat": 4.226519466,
+        "maxLon": 22.14974248,
+        "maxLat": 5.72971344
+      }
+    },
+    "CFKB": {
+      "name": "Gribingui",
+      "sub_id": "CFKB",
+      "sub_num": "KB",
+      "bbox": {
+        "minLon": 18.66883326,
+        "minLat": 6.43661499,
+        "maxLon": 20.16586125,
+        "maxLat": 8.565530777
+      }
+    },
+    "CFHM": {
+      "name": "Haut-Mbomou",
+      "sub_id": "CFHM",
+      "sub_num": "HM",
+      "bbox": {
+        "minLon": 24.25481486,
+        "minLat": 4.89320755,
+        "maxLon": 27.46448982,
+        "maxLat": 8.281695843
+      }
+    },
+    "CFHK": {
+      "name": "Haute-Kotto",
+      "sub_id": "CFHK",
+      "sub_num": "HK",
+      "bbox": {
+        "minLon": 21.10800409,
+        "minLat": 5.465354919,
+        "maxLon": 24.60773754,
+        "maxLat": 9.260959625
+      }
+    },
+    "CFHS": {
+      "name": "Haute-Sangha/Mambéré-Kadéï",
+      "sub_id": "CFHS",
+      "sub_num": "HS",
+      "bbox": {
+        "minLon": 14.67497969,
+        "minLat": 3.681945085,
+        "maxLon": 17.14911902,
+        "maxLat": 5.403985977
+      }
+    },
+    "CFKG": {
+      "name": "Kémo-Gribingui",
+      "sub_id": "CFKG",
+      "sub_num": "KG",
+      "bbox": {
+        "minLon": 18.59134078,
+        "minLat": 4.927368164,
+        "maxLon": 20.00997782,
+        "maxLat": 6.566562653
+      }
+    },
+    "CFLB": {
+      "name": "Lobaye",
+      "sub_id": "CFLB",
+      "sub_num": "LB",
+      "bbox": {
+        "minLon": 16.75151789,
+        "minLat": 3.481421471,
+        "maxLon": 18.63809741,
+        "maxLat": 5.029678344
+      }
+    },
+    "CFMB": {
+      "name": "Mbomou",
+      "sub_id": "CFMB",
+      "sub_num": "MB",
+      "bbox": {
+        "minLon": 21.7405771,
+        "minLat": 4.114937782,
+        "maxLon": 25.19532037,
+        "maxLat": 6.752986908
+      }
+    },
+    "CFNM": {
+      "name": "Nana-Mambéré",
+      "sub_id": "CFNM",
+      "sub_num": "NM",
+      "bbox": {
+        "minLon": 14.41479921,
+        "minLat": 4.931488037,
+        "maxLon": 16.51650715,
+        "maxLat": 6.774133444
+      }
+    },
+    "CFMP": {
+      "name": "Ombella-Mpoko",
+      "sub_id": "CFMP",
+      "sub_num": "MP",
+      "bbox": {
+        "minLon": 16.49191737,
+        "minLat": 3.859548569,
+        "maxLon": 19.1078974,
+        "maxLat": 5.92429161
+      }
+    },
+    "CFUK": {
+      "name": "Ouaka",
+      "sub_id": "CFUK",
+      "sub_num": "UK",
+      "bbox": {
+        "minLon": 19.44265461,
+        "minLat": 4.524650574,
+        "maxLon": 21.96872222,
+        "maxLat": 7.705450058
+      }
+    },
+    "CFAC": {
+      "name": "Ouham",
+      "sub_id": "CFAC",
+      "sub_num": "AC",
+      "bbox": {
+        "minLon": 16.68626499,
+        "minLat": 5.57393074,
+        "maxLon": 19.0735029,
+        "maxLat": 8.574228286
+      }
+    },
+    "CFOP": {
+      "name": "Ouham-Pendé",
+      "sub_id": "CFOP",
+      "sub_num": "OP",
+      "bbox": {
+        "minLon": 14.93966579,
+        "minLat": 5.549640656,
+        "maxLon": 17.12817907,
+        "maxLat": 7.885951996
+      }
+    },
+    "CFSE": {
+      "name": "Sangha",
+      "sub_id": "CFSE",
+      "sub_num": "SE",
+      "bbox": {
+        "minLon": 15.28266585,
+        "minLat": 2.225933075,
+        "maxLon": 17.4091773,
+        "maxLat": 4.266986847
+      }
+    },
+    "CFVK": {
+      "name": "Vakaga",
+      "sub_id": "CFVK",
+      "sub_num": "VK",
+      "bbox": {
+        "minLon": 20.81935704,
+        "minLat": 8.567533493,
+        "maxLon": 23.69495332,
+        "maxLat": 11.02117538
+      }
+    }
+  }
+  

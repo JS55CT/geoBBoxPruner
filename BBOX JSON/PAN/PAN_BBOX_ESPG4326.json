@@ -1,0 +1,157 @@
+{
+    "PA1": {
+      "name": "Bocas del Toro",
+      "sub_id": "PA1",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": -82.93886948,
+        "minLat": 8.813953399,
+        "maxLon": -81.53544581,
+        "maxLat": 9.620161056
+      }
+    },
+    "PA4": {
+      "name": "Chiriquí",
+      "sub_id": "PA4",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": -83.05143929,
+        "minLat": 7.859121442,
+        "maxLon": -81.51115823,
+        "maxLat": 8.918560862
+      }
+    },
+    "PA2": {
+      "name": "Coclé",
+      "sub_id": "PA2",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": -80.84860229,
+        "minLat": 8.092424393,
+        "maxLon": -80.04343176,
+        "maxLat": 9.049086571
+      }
+    },
+    "PA3": {
+      "name": "Colón",
+      "sub_id": "PA3",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -80.87528992,
+        "minLat": 8.622894287,
+        "maxLon": -79.07874513,
+        "maxLat": 9.647499919
+      }
+    },
+    "PA5": {
+      "name": "Darién",
+      "sub_id": "PA5",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -78.47368336,
+        "minLat": 7.221638441,
+        "maxLon": -77.1434077,
+        "maxLat": 9.144186974
+      }
+    },
+    "PAEM": {
+      "name": "Emberá",
+      "sub_id": "PAEM",
+      "sub_num": "EM",
+      "bbox": {
+        "minLon": -78.33385003,
+        "minLat": 7.583809972,
+        "maxLon": -77.24965441,
+        "maxLat": 8.778910041
+      }
+    },
+    "PAKY": {
+      "name": "Guna Yala",
+      "sub_id": "PAKY",
+      "sub_num": "KY",
+      "bbox": {
+        "minLon": -79.24573636,
+        "minLat": 8.566160202,
+        "maxLon": -77.36951578,
+        "maxLat": 9.600269675
+      }
+    },
+    "PA6": {
+      "name": "Herrera",
+      "sub_id": "PA6",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": -80.90519452,
+        "minLat": 7.679378986,
+        "maxLon": -80.38670695,
+        "maxLat": 8.145589828
+      }
+    },
+    "PA7": {
+      "name": "Los Santos",
+      "sub_id": "PA7",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": -80.67349768,
+        "minLat": 7.240054607,
+        "maxLon": -79.99122548,
+        "maxLat": 8.004672647
+      }
+    },
+    "PANT": {
+      "name": "Naso Tjër Di",
+      "sub_id": "PANT",
+      "sub_num": "NT",
+      "bbox": {
+        "minLon": -82.93866646,
+        "minLat": 8.998540878,
+        "maxLon": -82.57660854,
+        "maxLat": 9.494934082
+      }
+    },
+    "PANB": {
+      "name": "Ngöbe-Buglé",
+      "sub_id": "PANB",
+      "sub_num": "NB",
+      "bbox": {
+        "minLon": -82.44240999,
+        "minLat": 8.298429966,
+        "maxLon": -81.14107203,
+        "maxLat": 9.230689168
+      }
+    },
+    "PA8": {
+      "name": "Panamá",
+      "sub_id": "PA8",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": -79.97323763,
+        "minLat": 8.192603469,
+        "maxLon": -78.09143221,
+        "maxLat": 9.504032135
+      }
+    },
+    "PA10": {
+      "name": "Panamá Oeste",
+      "sub_id": "PA10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": -80.12981474,
+        "minLat": 8.408802032,
+        "maxLon": -79.55935764,
+        "maxLat": 9.180551052
+      }
+    },
+    "PA9": {
+      "name": "Veraguas",
+      "sub_id": "PA9",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": -82.26390207,
+        "minLat": 7.20236969,
+        "maxLon": -80.50573826,
+        "maxLat": 8.887534261
+      }
+    }
+  }
+  

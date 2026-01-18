@@ -1,0 +1,69 @@
+{
+    "ERMA": {
+      "name": "Al Awsat",
+      "sub_id": "ERMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": 38.79599488,
+        "minLat": 15.15864372,
+        "maxLon": 39.37594128,
+        "maxLat": 15.61706543
+      }
+    },
+    "ERDU": {
+      "name": "Al Janūbī",
+      "sub_id": "ERDU",
+      "sub_num": "DU",
+      "bbox": {
+        "minLon": 38.26927245,
+        "minLat": 14.40831184,
+        "maxLon": 39.72514808,
+        "maxLat": 15.16516685
+      }
+    },
+    "ERAN": {
+      "name": "Ansabā",
+      "sub_id": "ERAN",
+      "sub_num": "AN",
+      "bbox": {
+        "minLon": 36.87972116,
+        "minLat": 15.57045937,
+        "maxLon": 38.98004687,
+        "maxLat": 17.56643057
+      }
+    },
+    "ERDK": {
+      "name": "Janūbī al Baḥrī al Aḥmar",
+      "sub_id": "ERDK",
+      "sub_num": "DK",
+      "bbox": {
+        "minLon": 40.41208029,
+        "minLat": 12.36236572,
+        "maxLon": 43.13770449,
+        "maxLat": 14.91818881
+      }
+    },
+    "ERGB": {
+      "name": "Qāsh-Barkah",
+      "sub_id": "ERGB",
+      "sub_num": "GB",
+      "bbox": {
+        "minLon": 36.43321025,
+        "minLat": 14.18068886,
+        "maxLon": 38.83731866,
+        "maxLat": 16.29615784
+      }
+    },
+    "ERSK": {
+      "name": "Shimālī al Baḥrī al Aḥmar",
+      "sub_id": "ERSK",
+      "sub_num": "SK",
+      "bbox": {
+        "minLon": 37.96657431,
+        "minLat": 14.33146393,
+        "maxLon": 40.87834024,
+        "maxLat": 18.02191162
+      }
+    }
+  }
+  

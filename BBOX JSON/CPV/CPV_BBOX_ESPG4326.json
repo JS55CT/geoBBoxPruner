@@ -1,0 +1,245 @@
+{
+    "CVBV": {
+      "name": "Boa Vista",
+      "sub_id": "CVBV",
+      "sub_num": "BV",
+      "bbox": {
+        "minLon": -22.9655993,
+        "minLat": 15.96815586,
+        "maxLon": -22.65695345,
+        "maxLat": 16.23100054
+      }
+    },
+    "CVBR": {
+      "name": "Brava",
+      "sub_id": "CVBR",
+      "sub_num": "BR",
+      "bbox": {
+        "minLon": -24.7492789,
+        "minLat": 14.80164397,
+        "maxLon": -24.62910163,
+        "maxLat": 14.98469162
+      }
+    },
+    "CVMA": {
+      "name": "Maio",
+      "sub_id": "CVMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": -23.23351252,
+        "minLat": 15.11612272,
+        "maxLon": -23.08725846,
+        "maxLat": 15.35746276
+      }
+    },
+    "CVMO": {
+      "name": "Mosteiros",
+      "sub_id": "CVMO",
+      "sub_num": "MO",
+      "bbox": {
+        "minLon": -24.39896572,
+        "minLat": 14.94902372,
+        "maxLon": -24.28619397,
+        "maxLat": 15.05211639
+      }
+    },
+    "CVPA": {
+      "name": "Paul",
+      "sub_id": "CVPA",
+      "sub_num": "PA",
+      "bbox": {
+        "minLon": -25.08312154,
+        "minLat": 17.07694817,
+        "maxLon": -24.96234715,
+        "maxLat": 17.16796613
+      }
+    },
+    "CVPN": {
+      "name": "Porto Novo",
+      "sub_id": "CVPN",
+      "sub_num": "PN",
+      "bbox": {
+        "minLon": -25.36175239,
+        "minLat": 16.90604675,
+        "maxLon": -24.9731375,
+        "maxLat": 17.14394534
+      }
+    },
+    "CVPR": {
+      "name": "Praia",
+      "sub_id": "CVPR",
+      "sub_num": "PR",
+      "bbox": {
+        "minLon": -23.58646083,
+        "minLat": 14.89881277,
+        "maxLon": -23.4539088,
+        "maxLat": 14.99421406
+      }
+    },
+    "CVRB": {
+      "name": "Ribeira Brava",
+      "sub_id": "CVRB",
+      "sub_num": "RB",
+      "bbox": {
+        "minLon": -24.35825062,
+        "minLat": 16.48281181,
+        "maxLon": -24.00698554,
+        "maxLat": 16.68175423
+      }
+    },
+    "CVRG": {
+      "name": "Ribeira Grande",
+      "sub_id": "CVRG",
+      "sub_num": "RG",
+      "bbox": {
+        "minLon": -25.2195878,
+        "minLat": 17.08356857,
+        "maxLon": -25.01530695,
+        "maxLat": 17.20528877
+      }
+    },
+    "CVRS": {
+      "name": "Ribeira Grande de Santiago",
+      "sub_id": "CVRS",
+      "sub_num": "RS",
+      "bbox": {
+        "minLon": -23.70672059,
+        "minLat": 14.90631688,
+        "maxLon": -23.56376302,
+        "maxLat": 15.06047487
+      }
+    },
+    "CVSL": {
+      "name": "Sal",
+      "sub_id": "CVSL",
+      "sub_num": "SL",
+      "bbox": {
+        "minLon": -22.99427986,
+        "minLat": 16.5854255,
+        "maxLon": -22.87171078,
+        "maxLat": 16.85512507
+      }
+    },
+    "CVCA": {
+      "name": "Santa Catarina",
+      "sub_id": "CVCA",
+      "sub_num": "CA",
+      "bbox": {
+        "minLon": -23.78166783,
+        "minLat": 14.97194409,
+        "maxLon": -23.61191821,
+        "maxLat": 15.20548415
+      }
+    },
+    "CVCF": {
+      "name": "Santa Catarina do Fogo",
+      "sub_id": "CVCF",
+      "sub_num": "CF",
+      "bbox": {
+        "minLon": -24.39523077,
+        "minLat": 14.81230605,
+        "maxLon": -24.27725077,
+        "maxLat": 14.99612868
+      }
+    },
+    "CVCR": {
+      "name": "Santa Cruz",
+      "sub_id": "CVCR",
+      "sub_num": "CR",
+      "bbox": {
+        "minLon": -23.63937187,
+        "minLat": 15.0423646,
+        "maxLon": -23.48385012,
+        "maxLat": 15.17972016
+      }
+    },
+    "CVSD": {
+      "name": "São Domingos",
+      "sub_id": "CVSD",
+      "sub_num": "SD",
+      "bbox": {
+        "minLon": -23.62599683,
+        "minLat": 14.97243607,
+        "maxLon": -23.42848277,
+        "maxLat": 15.08616173
+      }
+    },
+    "CVSF": {
+      "name": "São Filipe",
+      "sub_id": "CVSF",
+      "sub_num": "SF",
+      "bbox": {
+        "minLon": -24.50463152,
+        "minLat": 14.8134023,
+        "maxLon": -24.36525178,
+        "maxLat": 15.03125477
+      }
+    },
+    "CVSO": {
+      "name": "São Lourenço dos Órgãos",
+      "sub_id": "CVSO",
+      "sub_num": "SO",
+      "bbox": {
+        "minLon": -23.63577032,
+        "minLat": 15.03335238,
+        "maxLon": -23.55458736,
+        "maxLat": 15.1057291
+      }
+    },
+    "CVSM": {
+      "name": "São Miguel",
+      "sub_id": "CVSM",
+      "sub_num": "SM",
+      "bbox": {
+        "minLon": -23.68763018,
+        "minLat": 15.13049412,
+        "maxLon": -23.58332229,
+        "maxLat": 15.24771273
+      }
+    },
+    "CVSS": {
+      "name": "São Salvador do Mundo",
+      "sub_id": "CVSS",
+      "sub_num": "SS",
+      "bbox": {
+        "minLon": -23.6621716,
+        "minLat": 15.05068576,
+        "maxLon": -23.59031701,
+        "maxLat": 15.11499882
+      }
+    },
+    "CVSV": {
+      "name": "São Vicente",
+      "sub_id": "CVSV",
+      "sub_num": "SV",
+      "bbox": {
+        "minLon": -25.08583164,
+        "minLat": 16.60693538,
+        "maxLon": -24.57187712,
+        "maxLat": 16.92261529
+      }
+    },
+    "CVTA": {
+      "name": "Tarrafal",
+      "sub_id": "CVTA",
+      "sub_num": "TA",
+      "bbox": {
+        "minLon": -23.77481973,
+        "minLat": 15.19178414,
+        "maxLon": -23.65182745,
+        "maxLat": 15.34026718
+      }
+    },
+    "CVTS": {
+      "name": "Tarrafal de São Nicolau",
+      "sub_id": "CVTS",
+      "sub_num": "TS",
+      "bbox": {
+        "minLon": -24.42716038,
+        "minLat": 16.47886121,
+        "maxLon": -24.301126,
+        "maxLat": 16.67114103
+      }
+    }
+  }
+  

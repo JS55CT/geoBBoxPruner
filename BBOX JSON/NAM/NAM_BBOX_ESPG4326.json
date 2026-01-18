@@ -1,0 +1,157 @@
+{
+    "NAKA": {
+      "name": "ǁKaras",
+      "sub_id": "NAKA",
+      "sub_num": "KA",
+      "bbox": {
+        "minLon": 14.80176544,
+        "minLat": -28.97026062,
+        "maxLon": 20.00038207,
+        "maxLat": -25.00931001
+      }
+    },
+    "NAER": {
+      "name": "Erongo",
+      "sub_id": "NAER",
+      "sub_num": "ER",
+      "bbox": {
+        "minLon": 13.6294924,
+        "minLat": -23.81172001,
+        "maxLon": 16.55800998,
+        "maxLat": -20.49205005
+      }
+    },
+    "NAHA": {
+      "name": "Hardap",
+      "sub_id": "NAHA",
+      "sub_num": "HA",
+      "bbox": {
+        "minLon": 14.45005774,
+        "minLat": -25.87340999,
+        "maxLon": 20.00011003,
+        "maxLat": -23.16838002
+      }
+    },
+    "NAKE": {
+      "name": "Kavango East",
+      "sub_id": "NAKE",
+      "sub_num": "KE",
+      "bbox": {
+        "minLon": 19.46647131,
+        "minLat": -19.18455994,
+        "maxLon": 22.50428045,
+        "maxLat": -17.82184994
+      }
+    },
+    "NAKW": {
+      "name": "Kavango West",
+      "sub_id": "NAKW",
+      "sub_num": "KW",
+      "bbox": {
+        "minLon": 17.99899518,
+        "minLat": -19.18358529,
+        "maxLon": 19.74377775,
+        "maxLat": -17.38972616
+      }
+    },
+    "NAKH": {
+      "name": "Khomas",
+      "sub_id": "NAKH",
+      "sub_num": "KH",
+      "bbox": {
+        "minLon": 15.72384,
+        "minLat": -24.08789003,
+        "maxLon": 18.50185001,
+        "maxLat": -21.70869005
+      }
+    },
+    "NAKU": {
+      "name": "Kunene",
+      "sub_id": "NAKU",
+      "sub_num": "KU",
+      "bbox": {
+        "minLon": 11.73527944,
+        "minLat": -21.19308293,
+        "maxLon": 16.72176003,
+        "maxLat": -16.96352363
+      }
+    },
+    "NAOW": {
+      "name": "Ohangwena",
+      "sub_id": "NAOW",
+      "sub_num": "OW",
+      "bbox": {
+        "minLon": 15.54679704,
+        "minLat": -17.93078995,
+        "maxLon": 17.99907005,
+        "maxLat": -17.39031661
+      }
+    },
+    "NAOH": {
+      "name": "Omaheke",
+      "sub_id": "NAOH",
+      "sub_num": "OH",
+      "bbox": {
+        "minLon": 17.95507002,
+        "minLat": -23.86717999,
+        "maxLon": 20.99834311,
+        "maxLat": -20.24013162
+      }
+    },
+    "NAOS": {
+      "name": "Omusati",
+      "sub_id": "NAOS",
+      "sub_num": "OS",
+      "bbox": {
+        "minLon": 14.13125742,
+        "minLat": -19.41750002,
+        "maxLon": 15.65472996,
+        "maxLat": -17.39042306
+      }
+    },
+    "NAON": {
+      "name": "Oshana",
+      "sub_id": "NAON",
+      "sub_num": "ON",
+      "bbox": {
+        "minLon": 15.27854002,
+        "minLat": -19.33060002,
+        "maxLon": 16.03862,
+        "maxLat": -17.67216003
+      }
+    },
+    "NAOT": {
+      "name": "Oshikoto",
+      "sub_id": "NAOT",
+      "sub_num": "OT",
+      "bbox": {
+        "minLon": 15.83996999,
+        "minLat": -19.53410995,
+        "maxLon": 18.20037997,
+        "maxLat": -17.68958998
+      }
+    },
+    "NAOD": {
+      "name": "Otjozondjupa",
+      "sub_id": "NAOD",
+      "sub_num": "OD",
+      "bbox": {
+        "minLon": 15.5725013,
+        "minLat": -22.37967002,
+        "maxLon": 20.99876034,
+        "maxLat": -18.74796998
+      }
+    },
+    "NACA": {
+      "name": "Zambezi",
+      "sub_id": "NACA",
+      "sub_num": "CA",
+      "bbox": {
+        "minLon": 22.49852002,
+        "minLat": -18.5019207,
+        "maxLon": 25.26175201,
+        "maxLat": -17.46980667
+      }
+    }
+  }
+  

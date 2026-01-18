@@ -1,0 +1,135 @@
+{
+    "GEAB": {
+      "name": "Abkhazia",
+      "sub_id": "GEAB",
+      "sub_num": "AB",
+      "bbox": {
+        "minLon": 40.00676858,
+        "minLat": 42.3912698,
+        "maxLon": 42.14674473,
+        "maxLat": 43.58620226
+      }
+    },
+    "GEAJ": {
+      "name": "Ajaria",
+      "sub_id": "GEAJ",
+      "sub_num": "AJ",
+      "bbox": {
+        "minLon": 41.54702794,
+        "minLat": 41.43270492,
+        "maxLon": 42.60124636,
+        "maxLat": 41.90163636
+      }
+    },
+    "GEGU": {
+      "name": "Guria",
+      "sub_id": "GEGU",
+      "sub_num": "GU",
+      "bbox": {
+        "minLon": 41.7123059,
+        "minLat": 41.7861557,
+        "maxLon": 42.66643286,
+        "maxLat": 42.17076302
+      }
+    },
+    "GEIM": {
+      "name": "Imereti",
+      "sub_id": "GEIM",
+      "sub_num": "IM",
+      "bbox": {
+        "minLon": 42.21035993,
+        "minLat": 41.77821636,
+        "maxLon": 43.81545186,
+        "maxLat": 42.60978699
+      }
+    },
+    "GEKA": {
+      "name": "K'akheti",
+      "sub_id": "GEKA",
+      "sub_num": "KA",
+      "bbox": {
+        "minLon": 45.02331567,
+        "minLat": 41.05537176,
+        "maxLon": 46.73711073,
+        "maxLat": 42.55022049
+      }
+    },
+    "GEKK": {
+      "name": "Kvemo Kartli",
+      "sub_id": "GEKK",
+      "sub_num": "KK",
+      "bbox": {
+        "minLon": 43.70216513,
+        "minLat": 41.16500568,
+        "maxLon": 45.36580658,
+        "maxLat": 41.82701111
+      }
+    },
+    "GEMM": {
+      "name": "Mtskheta-Mtianeti",
+      "sub_id": "GEMM",
+      "sub_num": "MM",
+      "bbox": {
+        "minLon": 44.22561407,
+        "minLat": 41.6643635,
+        "maxLon": 45.32714903,
+        "maxLat": 42.76625633
+      }
+    },
+    "GERL": {
+      "name": "Rach'a-Lechkhumi-Kvemo Svaneti",
+      "sub_id": "GERL",
+      "sub_num": "RL",
+      "bbox": {
+        "minLon": 42.3453728,
+        "minLat": 42.36860275,
+        "maxLon": 43.94399512,
+        "maxLat": 42.96546936
+      }
+    },
+    "GESZ": {
+      "name": "Samegrelo-Zemo Svaneti",
+      "sub_id": "GESZ",
+      "sub_num": "SZ",
+      "bbox": {
+        "minLon": 41.55954671,
+        "minLat": 42.05855179,
+        "maxLon": 43.16788959,
+        "maxLat": 43.25592041
+      }
+    },
+    "GESJ": {
+      "name": "Samtskhe-Javakheti",
+      "sub_id": "GESJ",
+      "sub_num": "SJ",
+      "bbox": {
+        "minLon": 42.49380529,
+        "minLat": 41.1079216,
+        "maxLon": 43.96093178,
+        "maxLat": 41.93397498
+      }
+    },
+    "GESK": {
+      "name": "Shida Kartli",
+      "sub_id": "GESK",
+      "sub_num": "SK",
+      "bbox": {
+        "minLon": 43.48502552,
+        "minLat": 41.73611641,
+        "maxLon": 44.62606168,
+        "maxLat": 42.63288617
+      }
+    },
+    "GETB": {
+      "name": "Tbilisi",
+      "sub_id": "GETB",
+      "sub_num": "TB",
+      "bbox": {
+        "minLon": 44.69984341,
+        "minLat": 41.60865784,
+        "maxLon": 44.97566152,
+        "maxLat": 41.75354004
+      }
+    }
+  }
+  

@@ -1,0 +1,14 @@
+[
+    {
+      "Clipperton": {
+        "sub_num": "CP",
+        "name": "Clipperton",
+        "bbox": {
+            "minLon": -109.2345232,
+            "minLat": 10.28764486,
+            "maxLon": -109.1997693,
+            "maxLat": 10.32019615
+          }
+      }
+    }
+  ]

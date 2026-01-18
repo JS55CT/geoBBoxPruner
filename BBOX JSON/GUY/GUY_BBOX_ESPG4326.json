@@ -1,0 +1,113 @@
+{
+    "GYBA": {
+      "name": "Barima-Waini",
+      "sub_id": "GYBA",
+      "sub_num": "BA",
+      "bbox": {
+        "minLon": -60.72036302,
+        "minLat": 6.938037873,
+        "maxLon": -58.78619909,
+        "maxLat": 8.517132878
+      }
+    },
+    "GYCU": {
+      "name": "Cuyuni-Mazaruni",
+      "sub_id": "GYCU",
+      "sub_num": "CU",
+      "bbox": {
+        "minLon": -61.41490495,
+        "minLat": 5.163402557,
+        "maxLon": -58.56753528,
+        "maxLat": 7.203598022
+      }
+    },
+    "GYDE": {
+      "name": "Demerara-Mahaica",
+      "sub_id": "GYDE",
+      "sub_num": "DE",
+      "bbox": {
+        "minLon": -58.31341434,
+        "minLat": 6.074495315,
+        "maxLon": -57.87768841,
+        "maxLat": 6.828120709
+      }
+    },
+    "GYEB": {
+      "name": "East Berbice-Corentyne",
+      "sub_id": "GYEB",
+      "sub_num": "EB",
+      "bbox": {
+        "minLon": -58.50033522,
+        "minLat": 1.456546784,
+        "maxLon": -56.47838783,
+        "maxLat": 6.343011499
+      }
+    },
+    "GYES": {
+      "name": "Essequibo Islands-West Demerara",
+      "sub_id": "GYES",
+      "sub_num": "ES",
+      "bbox": {
+        "minLon": -58.83452392,
+        "minLat": 6.106044531,
+        "maxLon": -58.17656195,
+        "maxLat": 7.023744941
+      }
+    },
+    "GYMA": {
+      "name": "Mahaica-Berbice",
+      "sub_id": "GYMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": -58.13722229,
+        "minLat": 5.827689171,
+        "maxLon": -57.53211367,
+        "maxLat": 6.708245158
+      }
+    },
+    "GYPM": {
+      "name": "Pomeroon-Supenaam",
+      "sub_id": "GYPM",
+      "sub_num": "PM",
+      "bbox": {
+        "minLon": -59.19066167,
+        "minLat": 6.713888169,
+        "maxLon": -58.46145713,
+        "maxLat": 7.656572461
+      }
+    },
+    "GYPT": {
+      "name": "Potaro-Siparuni",
+      "sub_id": "GYPT",
+      "sub_num": "PT",
+      "bbox": {
+        "minLon": -60.16142881,
+        "minLat": 3.997998476,
+        "maxLon": -58.28222656,
+        "maxLat": 5.709721566
+      }
+    },
+    "GYUD": {
+      "name": "Upper Demerara-Berbice",
+      "sub_id": "GYUD",
+      "sub_num": "UD",
+      "bbox": {
+        "minLon": -58.90693259,
+        "minLat": 4.608807563,
+        "maxLon": -57.59895754,
+        "maxLat": 6.468707561
+      }
+    },
+    "GYUT": {
+      "name": "Upper Takutu-Upper Essequibo",
+      "sub_id": "GYUT",
+      "sub_num": "UT",
+      "bbox": {
+        "minLon": -59.99301803,
+        "minLat": 1.185493469,
+        "maxLon": -57.92385149,
+        "maxLat": 4.509999275
+      }
+    }
+  }
+  

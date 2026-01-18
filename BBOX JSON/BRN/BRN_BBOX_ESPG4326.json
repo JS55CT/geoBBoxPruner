@@ -1,0 +1,47 @@
+{
+    "BNBE": {
+      "name": "Belait",
+      "sub_id": "BNBE",
+      "sub_num": "BE",
+      "bbox": {
+        "minLon": 114.0759263,
+        "minLat": 4.002888083,
+        "maxLon": 114.8580843,
+        "maxLat": 4.70985353
+      }
+    },
+    "BNBM": {
+      "name": "Brunei-Muara",
+      "sub_id": "BNBM",
+      "sub_num": "BM",
+      "bbox": {
+        "minLon": 114.787636,
+        "minLat": 4.730445981,
+        "maxLon": 115.1397675,
+        "maxLat": 5.07912755
+      }
+    },
+    "BNTE": {
+      "name": "Temburong",
+      "sub_id": "BNTE",
+      "sub_num": "TE",
+      "bbox": {
+        "minLon": 115.0224512,
+        "minLat": 4.295928359,
+        "maxLon": 115.3644344,
+        "maxLat": 4.910194516
+      }
+    },
+    "BNTU": {
+      "name": "Tutong",
+      "sub_id": "BNTU",
+      "sub_num": "TU",
+      "bbox": {
+        "minLon": 114.4928468,
+        "minLat": 4.282881618,
+        "maxLon": 114.8835634,
+        "maxLat": 4.939126968
+      }
+    }
+  }
+  

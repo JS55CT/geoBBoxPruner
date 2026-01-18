@@ -1,0 +1,113 @@
+{
+    "HTAR": {
+      "name": "Artibonite",
+      "sub_id": "HTAR",
+      "sub_num": "AR",
+      "bbox": {
+        "minLon": -73.1363014,
+        "minLat": 18.85724795,
+        "maxLon": -72.20099449,
+        "maxLat": 19.81567276
+      }
+    },
+    "HTCE": {
+      "name": "Centre",
+      "sub_id": "HTCE",
+      "sub_num": "CE",
+      "bbox": {
+        "minLon": -72.3646853,
+        "minLat": 18.6855762,
+        "maxLon": -71.62202477,
+        "maxLat": 19.33387756
+      }
+    },
+    "HTGA": {
+      "name": "Grand'Anse",
+      "sub_id": "HTGA",
+      "sub_num": "GA",
+      "bbox": {
+        "minLon": -74.48113859,
+        "minLat": 18.35609436,
+        "maxLon": -73.69847155,
+        "maxLat": 18.67575085
+      }
+    },
+    "HTNI": {
+      "name": "Nippes",
+      "sub_id": "HTNI",
+      "sub_num": "NI",
+      "bbox": {
+        "minLon": -73.78001905,
+        "minLat": 18.22217703,
+        "maxLon": -72.99492312,
+        "maxLat": 18.58814108
+      }
+    },
+    "HTND": {
+      "name": "Nord",
+      "sub_id": "HTND",
+      "sub_num": "ND",
+      "bbox": {
+        "minLon": -72.68459833,
+        "minLat": 19.25496972,
+        "maxLon": -71.97026467,
+        "maxLat": 19.8799094
+      }
+    },
+    "HTNE": {
+      "name": "Nord-Est",
+      "sub_id": "HTNE",
+      "sub_num": "NE",
+      "bbox": {
+        "minLon": -72.12214136,
+        "minLat": 19.25943005,
+        "maxLon": -71.67795789,
+        "maxLat": 19.73542106
+      }
+    },
+    "HTNO": {
+      "name": "Nord-Ouest",
+      "sub_id": "HTNO",
+      "sub_num": "NO",
+      "bbox": {
+        "minLon": -73.45691562,
+        "minLat": 19.62168193,
+        "maxLon": -72.56016684,
+        "maxLat": 20.09032488
+      }
+    },
+    "HTOU": {
+      "name": "Ouest",
+      "sub_id": "HTOU",
+      "sub_num": "OU",
+      "bbox": {
+        "minLon": -73.30190349,
+        "minLat": 18.25865054,
+        "maxLon": -71.69538116,
+        "maxLat": 18.97656667
+      }
+    },
+    "HTSD": {
+      "name": "Sud",
+      "sub_id": "HTSD",
+      "sub_num": "SD",
+      "bbox": {
+        "minLon": -74.45032883,
+        "minLat": 18.02179277,
+        "maxLon": -73.00137329,
+        "maxLat": 18.43334019
+      }
+    },
+    "HTSE": {
+      "name": "Sud-Est",
+      "sub_id": "HTSE",
+      "sub_num": "SE",
+      "bbox": {
+        "minLon": -73.01561666,
+        "minLat": 18.03147078,
+        "maxLon": -71.72335553,
+        "maxLat": 18.40569317
+      }
+    }
+  }
+  

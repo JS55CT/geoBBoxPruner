@@ -1,0 +1,223 @@
+{
+    "RS00": {
+      "name": "Beograd",
+      "sub_id": "RS00",
+      "sub_num": "0",
+      "bbox": {
+        "minLon": 19.95438087,
+        "minLat": 44.26597595,
+        "maxLon": 20.82312906,
+        "maxLat": 45.09673118
+      }
+    },
+    "RS14": {
+      "name": "Borski okrug",
+      "sub_id": "RS14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 21.78197503,
+        "minLat": 43.87278557,
+        "maxLon": 22.76341152,
+        "maxLat": 44.71517944
+      }
+    },
+    "RS11": {
+      "name": "Braničevski okrug",
+      "sub_id": "RS11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 20.99881613,
+        "minLat": 44.04101372,
+        "maxLon": 22.02748776,
+        "maxLat": 44.82342005
+      }
+    },
+    "RS23": {
+      "name": "Jablanički okrug",
+      "sub_id": "RS23",
+      "sub_num": "23",
+      "bbox": {
+        "minLon": 21.3884939,
+        "minLat": 42.66643524,
+        "maxLon": 22.51784647,
+        "maxLat": 43.16017628
+      }
+    },
+    "RS09": {
+      "name": "Kolubarski okrug",
+      "sub_id": "RS09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 19.41636777,
+        "minLat": 44.04873848,
+        "maxLon": 20.40995634,
+        "maxLat": 44.56758499
+      }
+    },
+    "RSKM": {
+      "name": "Kosovo-Metohija",
+      "sub_id": "RSKM",
+      "sub_num": "KM",
+      "bbox": {
+        "minLon": 20.01500428,
+        "minLat": 41.857728,
+        "maxLon": 21.78903306,
+        "maxLat": 43.26889098
+      }
+    },
+    "RS08": {
+      "name": "Mačvanski okrug",
+      "sub_id": "RS08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 19.10280538,
+        "minLat": 44.09079552,
+        "maxLon": 20.0007844,
+        "maxLat": 44.92627144
+      }
+    },
+    "RS17": {
+      "name": "Moravički okrug",
+      "sub_id": "RS17",
+      "sub_num": "17",
+      "bbox": {
+        "minLon": 19.88493681,
+        "minLat": 43.22055817,
+        "maxLon": 20.61410213,
+        "maxLat": 44.22271728
+      }
+    },
+    "RS20": {
+      "name": "Nišavski okrug",
+      "sub_id": "RS20",
+      "sub_num": "20",
+      "bbox": {
+        "minLon": 21.41886044,
+        "minLat": 43.03349018,
+        "maxLon": 22.34839892,
+        "maxLat": 43.78910065
+      }
+    },
+    "RS22": {
+      "name": "Pirotski okrug",
+      "sub_id": "RS22",
+      "sub_num": "22",
+      "bbox": {
+        "minLon": 22.09092009,
+        "minLat": 42.86255837,
+        "maxLon": 23.00586629,
+        "maxLat": 43.39588881
+      }
+    },
+    "RS10": {
+      "name": "Podunavski okrug",
+      "sub_id": "RS10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 20.71657574,
+        "minLat": 44.1936636,
+        "maxLon": 21.13364291,
+        "maxLat": 44.71881866
+      }
+    },
+    "RS13": {
+      "name": "Pomoravski okrug",
+      "sub_id": "RS13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 20.87081206,
+        "minLat": 43.7084198,
+        "maxLon": 21.79616475,
+        "maxLat": 44.28902149
+      }
+    },
+    "RS24": {
+      "name": "Pčinjski okrug",
+      "sub_id": "RS24",
+      "sub_num": "24",
+      "bbox": {
+        "minLon": 21.5246774,
+        "minLat": 42.23179603,
+        "maxLon": 22.55881965,
+        "maxLat": 42.80136108
+      }
+    },
+    "RS19": {
+      "name": "Rasinski okrug",
+      "sub_id": "RS19",
+      "sub_num": "19",
+      "bbox": {
+        "minLon": 20.70452392,
+        "minLat": 43.1432358,
+        "maxLon": 21.53037095,
+        "maxLat": 43.83544922
+      }
+    },
+    "RS18": {
+      "name": "Raški okrug",
+      "sub_id": "RS18",
+      "sub_num": "18",
+      "bbox": {
+        "minLon": 20.0494715,
+        "minLat": 42.83224404,
+        "maxLon": 20.89224935,
+        "maxLat": 43.85501862
+      }
+    },
+    "RS21": {
+      "name": "Toplički okrug",
+      "sub_id": "RS21",
+      "sub_num": "21",
+      "bbox": {
+        "minLon": 20.92552781,
+        "minLat": 42.78020298,
+        "maxLon": 21.76475012,
+        "maxLat": 43.38303566
+      }
+    },
+    "RSVO": {
+      "name": "Vojvodina",
+      "sub_id": "RSVO",
+      "sub_num": "VO",
+      "bbox": {
+        "minLon": 18.84758186,
+        "minLat": 44.62975967,
+        "maxLon": 21.55898905,
+        "maxLat": 46.18944168
+      }
+    },
+    "RS15": {
+      "name": "Zaječarski okrug",
+      "sub_id": "RS15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 21.63890207,
+        "minLat": 43.30810547,
+        "maxLon": 22.68164635,
+        "maxLat": 44.18718338
+      }
+    },
+    "RS16": {
+      "name": "Zlatiborski okrug",
+      "sub_id": "RS16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 19.21574604,
+        "minLat": 43.02271843,
+        "maxLon": 20.248088,
+        "maxLat": 44.13628578
+      }
+    },
+    "RS12": {
+      "name": "Šumadijski okrug",
+      "sub_id": "RS12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 20.36593342,
+        "minLat": 43.77536774,
+        "maxLon": 21.11774456,
+        "maxLat": 44.43901062
+      }
+    }
+  }
+  

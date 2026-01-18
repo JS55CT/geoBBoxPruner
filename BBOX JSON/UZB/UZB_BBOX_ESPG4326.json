@@ -1,0 +1,157 @@
+{
+    "UZAN": {
+      "name": "Andijon",
+      "sub_id": "UZAN",
+      "sub_num": "AN",
+      "bbox": {
+        "minLon": 71.49584198,
+        "minLat": 40.39587021,
+        "maxLon": 73.14784539,
+        "maxLat": 41.08594894
+      }
+    },
+    "UZBU": {
+      "name": "Buxoro",
+      "sub_id": "UZBU",
+      "sub_num": "BU",
+      "bbox": {
+        "minLon": 62.11070812,
+        "minLat": 38.95312357,
+        "maxLon": 65.38921988,
+        "maxLat": 41.48866653
+      }
+    },
+    "UZFA": {
+      "name": "Farg'ona",
+      "sub_id": "UZFA",
+      "sub_num": "FA",
+      "bbox": {
+        "minLon": 70.32807875,
+        "minLat": 39.88311768,
+        "maxLon": 72.21098769,
+        "maxLat": 40.7679261
+      }
+    },
+    "UZJI": {
+      "name": "Jizzax",
+      "sub_id": "UZJI",
+      "sub_num": "JI",
+      "bbox": {
+        "minLon": 66.64804077,
+        "minLat": 39.53035355,
+        "maxLon": 69.03187871,
+        "maxLat": 41.18516922
+      }
+    },
+    "UZNG": {
+      "name": "Namangan",
+      "sub_id": "UZNG",
+      "sub_num": "NG",
+      "bbox": {
+        "minLon": 70.38928807,
+        "minLat": 40.64383507,
+        "maxLon": 72.21046567,
+        "maxLat": 41.5461731
+      }
+    },
+    "UZNW": {
+      "name": "Navoiy",
+      "sub_id": "UZNW",
+      "sub_num": "NW",
+      "bbox": {
+        "minLon": 61.67962778,
+        "minLat": 39.4625473,
+        "maxLon": 66.7789489,
+        "maxLat": 43.73434067
+      }
+    },
+    "UZQA": {
+      "name": "Qashqadaryo",
+      "sub_id": "UZQA",
+      "sub_num": "QA",
+      "bbox": {
+        "minLon": 64.38680637,
+        "minLat": 38.00256729,
+        "maxLon": 67.68511927,
+        "maxLat": 39.56176758
+      }
+    },
+    "UZQR": {
+      "name": "Qoraqalpog'iston Respublikasi",
+      "sub_id": "UZQR",
+      "sub_num": "QR",
+      "bbox": {
+        "minLon": 55.99904013,
+        "minLat": 40.99479675,
+        "maxLon": 62.50000072,
+        "maxLat": 45.57128906
+      }
+    },
+    "UZSA": {
+      "name": "Samarqand",
+      "sub_id": "UZSA",
+      "sub_num": "SA",
+      "bbox": {
+        "minLon": 65.15316498,
+        "minLat": 39.26994324,
+        "maxLon": 67.53364372,
+        "maxLat": 40.62280655
+      }
+    },
+    "UZSI": {
+      "name": "Sirdaryo",
+      "sub_id": "UZSI",
+      "sub_num": "SI",
+      "bbox": {
+        "minLon": 68.09275019,
+        "minLat": 40.15880251,
+        "maxLon": 69.16850662,
+        "maxLat": 41.03099585
+      }
+    },
+    "UZSU": {
+      "name": "Surxondaryo",
+      "sub_id": "UZSU",
+      "sub_num": "SU",
+      "bbox": {
+        "minLon": 66.50596428,
+        "minLat": 37.17677164,
+        "maxLon": 68.40639341,
+        "maxLat": 39.03442383
+      }
+    },
+    "UZTK": {
+      "name": "Toshkent (City)",
+      "sub_id": "UZTK",
+      "sub_num": "TK",
+      "bbox": {
+        "minLon": 69.12685323,
+        "minLat": 41.22460842,
+        "maxLon": 69.39226198,
+        "maxLat": 41.39918804
+      }
+    },
+    "UZTO": {
+      "name": "Toshkent (Province)",
+      "sub_id": "UZTO",
+      "sub_num": "TO",
+      "bbox": {
+        "minLon": 68.64197815,
+        "minLat": 40.18844557,
+        "maxLon": 71.26655817,
+        "maxLat": 42.29427338
+      }
+    },
+    "UZXO": {
+      "name": "Xorazm",
+      "sub_id": "UZXO",
+      "sub_num": "XO",
+      "bbox": {
+        "minLon": 60.04443395,
+        "minLat": 40.58078265,
+        "maxLon": 62.45746088,
+        "maxLat": 41.99558258
+      }
+    }
+  }
+  

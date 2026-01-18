@@ -1,0 +1,69 @@
+{
+    "KWAH": {
+      "name": "Al Ahmadi",
+      "sub_id": "KWAH",
+      "sub_num": "AH",
+      "bbox": {
+        "minLon": 47.57700908,
+        "minLat": 28.52376938,
+        "maxLon": 48.7772547,
+        "maxLat": 29.24392104
+      }
+    },
+    "KWFA": {
+      "name": "Al Farwaniyah",
+      "sub_id": "KWFA",
+      "sub_num": "FA",
+      "bbox": {
+        "minLon": 47.82612085,
+        "minLat": 29.17938101,
+        "maxLon": 48.008003,
+        "maxLat": 29.31685734
+      }
+    },
+    "KWJA": {
+      "name": "Al Jahra",
+      "sub_id": "KWJA",
+      "sub_num": "JA",
+      "bbox": {
+        "minLon": 46.55305517,
+        "minLat": 28.8453114,
+        "maxLon": 48.37837243,
+        "maxLat": 30.10369873
+      }
+    },
+    "KWKU": {
+      "name": "Al Asimah",
+      "sub_id": "KWKU",
+      "sub_num": "KU",
+      "bbox": {
+        "minLon": 47.79811382,
+        "minLat": 29.30282235,
+        "maxLon": 48.44314504,
+        "maxLat": 30.02455354
+      }
+    },
+    "KWMU": {
+      "name": "Mubarak al Kabir",
+      "sub_id": "KWMU",
+      "sub_num": "MU",
+      "bbox": {
+        "minLon": 47.98771942,
+        "minLat": 29.17024612,
+        "maxLon": 48.12184608,
+        "maxLat": 29.2731874
+      }
+    },
+    "KWHA": {
+      "name": "Hawalli",
+      "sub_id": "KWHA",
+      "sub_num": "HA",
+      "bbox": {
+        "minLon": 47.97903109,
+        "minLat": 29.26441312,
+        "maxLon": 48.10183322,
+        "maxLat": 29.36001647
+      }
+    }
+  }
+  

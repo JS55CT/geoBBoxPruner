@@ -1,0 +1,80 @@
+{
+    "ST02": {
+      "name": "Cantagalo",
+      "sub_id": "ST02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 6.623259306,
+        "minLat": 0.157031775,
+        "maxLon": 6.762448669,
+        "maxLat": 0.301316142
+      }
+    },
+    "ST03": {
+      "name": "Caué",
+      "sub_id": "ST03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 6.490711451,
+        "minLat": -0.01417768,
+        "maxLon": 6.675886869,
+        "maxLat": 0.270109177
+      }
+    },
+    "ST04": {
+      "name": "Lembá",
+      "sub_id": "ST04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 6.460203171,
+        "minLat": 0.126120328,
+        "maxLon": 6.594923377,
+        "maxLat": 0.384447336
+      }
+    },
+    "ST05": {
+      "name": "Lobata",
+      "sub_id": "ST05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 6.58505261,
+        "minLat": 0.31478405,
+        "maxLon": 6.707921505,
+        "maxLat": 0.413404465
+      }
+    },
+    "ST06": {
+      "name": "Mé-Zóchi",
+      "sub_id": "ST06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 6.576727748,
+        "minLat": 0.242300034,
+        "maxLon": 6.752422213,
+        "maxLat": 0.358085632
+      }
+    },
+    "STP": {
+      "name": "Príncipe",
+      "sub_id": "STP",
+      "sub_num": "P",
+      "bbox": {
+        "minLon": 7.281160712,
+        "minLat": 1.3391186,
+        "maxLon": 7.462571382,
+        "maxLat": 1.701417804
+      }
+    },
+    "ST01": {
+      "name": "Água Grande",
+      "sub_id": "ST01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 6.690240026,
+        "minLat": 0.310578346,
+        "maxLon": 6.749649048,
+        "maxLat": 0.411634922
+      }
+    }
+  }
+  

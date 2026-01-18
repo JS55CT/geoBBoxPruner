@@ -1,0 +1,102 @@
+{
+    "LK1": {
+      "name": "Basnāhira paḷāta",
+      "sub_id": "LK1",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 79.81712925,
+        "minLat": 6.331408024,
+        "maxLon": 80.37947071,
+        "maxLat": 7.330031991
+      }
+    },
+    "LK3": {
+      "name": "Dakuṇu paḷāta",
+      "sub_id": "LK3",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 79.98640204,
+        "minLat": 5.918337106,
+        "maxLon": 81.73056531,
+        "maxLat": 6.577472926
+      }
+    },
+    "LK2": {
+      "name": "Madhyama paḷāta",
+      "sub_id": "LK2",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 80.43293619,
+        "minLat": 6.756720543,
+        "maxLon": 81.01619625,
+        "maxLat": 8.011350632
+      }
+    },
+    "LK5": {
+      "name": "Næ̆gēnahira paḷāta",
+      "sub_id": "LK5",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 80.75526381,
+        "minLat": 6.512045265,
+        "maxLon": 81.87878966,
+        "maxLat": 8.993050456
+      }
+    },
+    "LK9": {
+      "name": "Sabaragamuva paḷāta",
+      "sub_id": "LK9",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 80.1510005,
+        "minLat": 6.230986118,
+        "maxLon": 80.95255077,
+        "maxLat": 7.401566505
+      }
+    },
+    "LK4": {
+      "name": "Uturu paḷāta",
+      "sub_id": "LK4",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 79.52192557,
+        "minLat": 8.524163007,
+        "maxLon": 80.96406198,
+        "maxLat": 9.835879684
+      }
+    },
+    "LK7": {
+      "name": "Uturumæ̆da paḷāta",
+      "sub_id": "LK7",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 79.95315027,
+        "minLat": 7.648161888,
+        "maxLon": 81.34053731,
+        "maxLat": 8.919267654
+      }
+    },
+    "LK6": {
+      "name": "Vayamba paḷāta",
+      "sub_id": "LK6",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 79.69305348,
+        "minLat": 7.257784009,
+        "maxLon": 80.58018589,
+        "maxLat": 8.564529419
+      }
+    },
+    "LK8": {
+      "name": "Ūva paḷāta",
+      "sub_id": "LK8",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 80.77572262,
+        "minLat": 6.303766608,
+        "maxLon": 81.63547039,
+        "maxLat": 7.622795105
+      }
+    }
+  }
+  

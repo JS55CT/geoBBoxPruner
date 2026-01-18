@@ -1,0 +1,36 @@
+{
+    "KIG": {
+      "name": "Gilbert Islands",
+      "sub_id": "KIG",
+      "sub_num": "G",
+      "bbox": {
+        "minLon": 169.5211533,
+        "minLat": -2.67305553,
+        "maxLon": 176.8486111,
+        "maxLat": 3.395677328
+      }
+    },
+    "KIL": {
+      "name": "Line Islands",
+      "sub_id": "KIL",
+      "sub_num": "L",
+      "bbox": {
+        "minLon": -160.4106711,
+        "minLat": -11.44803476,
+        "maxLon": -150.195453,
+        "maxLat": 4.699479222
+      }
+    },
+    "KIP": {
+      "name": "Phoenix Islands",
+      "sub_id": "KIP",
+      "sub_num": "P",
+      "bbox": {
+        "minLon": -174.5433731,
+        "minLat": -4.696947933,
+        "maxLon": -170.706844,
+        "maxLat": -2.763952017
+      }
+    }
+  }
+  

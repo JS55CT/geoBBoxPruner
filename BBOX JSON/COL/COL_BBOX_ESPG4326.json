@@ -1,0 +1,366 @@
+{
+    "COAMA": {
+      "name": "Amazonas",
+      "sub_id": "COAMA",
+      "sub_num": "AMA",
+      "bbox": {
+        "minLon": -74.39022875,
+        "minLat": -4.24243927,
+        "maxLon": -69.39474666,
+        "maxLat": 0.186166763
+      }
+    },
+    "COANT": {
+      "name": "Antioquia",
+      "sub_id": "COANT",
+      "sub_num": "ANT",
+      "bbox": {
+        "minLon": -77.12573493,
+        "minLat": 5.447115898,
+        "maxLon": -73.87713945,
+        "maxLat": 8.892050386
+      }
+    },
+    "COARA": {
+      "name": "Arauca",
+      "sub_id": "COARA",
+      "sub_num": "ARA",
+      "bbox": {
+        "minLon": -72.36664569,
+        "minLat": 6.02385521,
+        "maxLon": -69.4156971,
+        "maxLat": 7.102451921
+      }
+    },
+    "COATL": {
+      "name": "Atlántico",
+      "sub_id": "COATL",
+      "sub_num": "ATL",
+      "bbox": {
+        "minLon": -75.27332842,
+        "minLat": 10.25462151,
+        "maxLon": -74.71420324,
+        "maxLat": 11.10711443
+      }
+    },
+    "COBOL": {
+      "name": "Bolívar",
+      "sub_id": "COBOL",
+      "sub_num": "BOL",
+      "bbox": {
+        "minLon": -75.79753077,
+        "minLat": 6.999320984,
+        "maxLon": -73.74495339,
+        "maxLat": 10.80129004
+      }
+    },
+    "COBOY": {
+      "name": "Boyacá",
+      "sub_id": "COBOY",
+      "sub_num": "BOY",
+      "bbox": {
+        "minLon": -74.65660763,
+        "minLat": 4.65511322,
+        "maxLon": -71.94829237,
+        "maxLat": 7.055196763
+      }
+    },
+    "COCAL": {
+      "name": "Caldas",
+      "sub_id": "COCAL",
+      "sub_num": "CAL",
+      "bbox": {
+        "minLon": -75.93114471,
+        "minLat": 4.813728332,
+        "maxLon": -74.63059163,
+        "maxLat": 5.78612268
+      }
+    },
+    "COCAQ": {
+      "name": "Caquetá",
+      "sub_id": "COCAQ",
+      "sub_num": "CAQ",
+      "bbox": {
+        "minLon": -76.30563343,
+        "minLat": -0.706729889,
+        "maxLon": -71.50115788,
+        "maxLat": 2.936182022
+      }
+    },
+    "COCAS": {
+      "name": "Casanare",
+      "sub_id": "COCAS",
+      "sub_num": "CAS",
+      "bbox": {
+        "minLon": -73.07549131,
+        "minLat": 4.286727906,
+        "maxLon": -69.83352125,
+        "maxLat": 6.308582544
+      }
+    },
+    "COCAU": {
+      "name": "Cauca",
+      "sub_id": "COCAU",
+      "sub_num": "CAU",
+      "bbox": {
+        "minLon": -78.21935761,
+        "minLat": 0.959243774,
+        "maxLon": -75.81222963,
+        "maxLat": 3.325220346
+      }
+    },
+    "COCES": {
+      "name": "Cesar",
+      "sub_id": "COCES",
+      "sub_num": "CES",
+      "bbox": {
+        "minLon": -74.08377445,
+        "minLat": 7.65824318,
+        "maxLon": -72.88576949,
+        "maxLat": 10.86891174
+      }
+    },
+    "COCHO": {
+      "name": "Chocó",
+      "sub_id": "COCHO",
+      "sub_num": "CHO",
+      "bbox": {
+        "minLon": -77.88742399,
+        "minLat": 3.980312348,
+        "maxLon": -76.01412547,
+        "maxLat": 8.678070426
+      }
+    },
+    "COCUN": {
+      "name": "Cundinamarca",
+      "sub_id": "COCUN",
+      "sub_num": "CUN",
+      "bbox": {
+        "minLon": -74.89044118,
+        "minLat": 3.734999657,
+        "maxLon": -73.04787982,
+        "maxLat": 5.837087631
+      }
+    },
+    "COCOR": {
+      "name": "Córdoba",
+      "sub_id": "COCOR",
+      "sub_num": "COR",
+      "bbox": {
+        "minLon": -76.50097311,
+        "minLat": 7.361177325,
+        "maxLon": -74.72799826,
+        "maxLat": 9.448156953
+      }
+    },
+    "CODC": {
+      "name": "Distrito Capital de Bogotá",
+      "sub_id": "CODC",
+      "sub_num": "DC",
+      "bbox": {
+        "minLon": -74.4957943,
+        "minLat": 3.698801875,
+        "maxLon": -73.9792769,
+        "maxLat": 4.836709499
+      }
+    },
+    "COGUA": {
+      "name": "Guainía",
+      "sub_id": "COGUA",
+      "sub_num": "GUA",
+      "bbox": {
+        "minLon": -70.84613514,
+        "minLat": 1.180858612,
+        "maxLon": -66.84687519,
+        "maxLat": 4.04914856
+      }
+    },
+    "COGUV": {
+      "name": "Guaviare",
+      "sub_id": "COGUV",
+      "sub_num": "GUV",
+      "bbox": {
+        "minLon": -73.66266859,
+        "minLat": 0.655059815,
+        "maxLon": -69.98767531,
+        "maxLat": 2.924337387
+      }
+    },
+    "COHUI": {
+      "name": "Huila",
+      "sub_id": "COHUI",
+      "sub_num": "HUI",
+      "bbox": {
+        "minLon": -76.6155349,
+        "minLat": 1.531451583,
+        "maxLon": -74.48131633,
+        "maxLat": 3.834314346
+      }
+    },
+    "COLAG": {
+      "name": "La Guajira",
+      "sub_id": "COLAG",
+      "sub_num": "LAG",
+      "bbox": {
+        "minLon": -73.66479588,
+        "minLat": 10.39615631,
+        "maxLon": -71.11319184,
+        "maxLat": 12.45835185
+      }
+    },
+    "COMAG": {
+      "name": "Magdalena",
+      "sub_id": "COMAG",
+      "sub_num": "MAG",
+      "bbox": {
+        "minLon": -74.94896412,
+        "minLat": 8.968963623,
+        "maxLon": -73.5376035,
+        "maxLat": 11.34928429
+      }
+    },
+    "COMET": {
+      "name": "Meta",
+      "sub_id": "COMET",
+      "sub_num": "MET",
+      "bbox": {
+        "minLon": -74.90532243,
+        "minLat": 1.602888108,
+        "maxLon": -71.06354594,
+        "maxLat": 4.885483265
+      }
+    },
+    "CONAR": {
+      "name": "Nariño",
+      "sub_id": "CONAR",
+      "sub_num": "NAR",
+      "bbox": {
+        "minLon": -79.01050282,
+        "minLat": 0.359738589,
+        "maxLon": -76.77850819,
+        "maxLat": 2.683314681
+      }
+    },
+    "CONSA": {
+      "name": "Norte de Santander",
+      "sub_id": "CONSA",
+      "sub_num": "NSA",
+      "bbox": {
+        "minLon": -73.56747222,
+        "minLat": 6.871862412,
+        "maxLon": -72.04862022,
+        "maxLat": 9.291239262
+      }
+    },
+    "COPUT": {
+      "name": "Putumayo",
+      "sub_id": "COPUT",
+      "sub_num": "PUT",
+      "bbox": {
+        "minLon": -77.13109422,
+        "minLat": -0.554037094,
+        "maxLon": -73.8446703,
+        "maxLat": 1.436805725
+      }
+    },
+    "COQUI": {
+      "name": "Quindío",
+      "sub_id": "COQUI",
+      "sub_num": "QUI",
+      "bbox": {
+        "minLon": -75.89557481,
+        "minLat": 4.080695748,
+        "maxLon": -75.39676952,
+        "maxLat": 4.720945359
+      }
+    },
+    "CORIS": {
+      "name": "Risaralda",
+      "sub_id": "CORIS",
+      "sub_num": "RIS",
+      "bbox": {
+        "minLon": -76.29317153,
+        "minLat": 4.685389996,
+        "maxLon": -75.37128615,
+        "maxLat": 5.515480041
+      }
+    },
+    "COSAP": {
+      "name": "San Andrés, Providencia y Santa Catalina",
+      "sub_id": "COSAP",
+      "sub_num": "SAP",
+      "bbox": {
+        "minLon": -81.84152269,
+        "minLat": 12.1640898,
+        "maxLon": -78.55051768,
+        "maxLat": 15.91941607
+      }
+    },
+    "COSAN": {
+      "name": "Santander",
+      "sub_id": "COSAN",
+      "sub_num": "SAN",
+      "bbox": {
+        "minLon": -74.52857256,
+        "minLat": 5.724906921,
+        "maxLon": -72.35021341,
+        "maxLat": 8.144559861
+      }
+    },
+    "COSUC": {
+      "name": "Sucre",
+      "sub_id": "COSUC",
+      "sub_num": "SUC",
+      "bbox": {
+        "minLon": -75.87621069,
+        "minLat": 8.246269226,
+        "maxLon": -74.53266501,
+        "maxLat": 10.14038086
+      }
+    },
+    "COTOL": {
+      "name": "Tolima",
+      "sub_id": "COTOL",
+      "sub_num": "TOL",
+      "bbox": {
+        "minLon": -76.09857094,
+        "minLat": 2.923672199,
+        "maxLon": -74.47496832,
+        "maxLat": 5.319099426
+      }
+    },
+    "COVAC": {
+      "name": "Valle del Cauca",
+      "sub_id": "COVAC",
+      "sub_num": "VAC",
+      "bbox": {
+        "minLon": -81.61683786,
+        "minLat": 2.963039637,
+        "maxLon": -75.71556091,
+        "maxLat": 4.97367382
+      }
+    },
+    "COVAU": {
+      "name": "Vaupés",
+      "sub_id": "COVAU",
+      "sub_num": "VAU",
+      "bbox": {
+        "minLon": -72.02411747,
+        "minLat": -1.228966713,
+        "maxLon": -69.11714482,
+        "maxLat": 2.080020905
+      }
+    },
+    "COVID": {
+      "name": "Vichada",
+      "sub_id": "COVID",
+      "sub_num": "VID",
+      "bbox": {
+        "minLon": -71.07939064,
+        "minLat": 2.736625671,
+        "maxLon": -67.40418601,
+        "maxLat": 6.328125
+      }
+    }
+  }
+  

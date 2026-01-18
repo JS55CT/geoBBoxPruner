@@ -1,0 +1,69 @@
+{
+    "BZBZ": {
+      "name": "Belize",
+      "sub_id": "BZBZ",
+      "sub_num": "BZ",
+      "bbox": {
+        "minLon": -88.64236021,
+        "minLat": 17.07357097,
+        "maxLon": -87.48663259,
+        "maxLat": 17.96796799
+      }
+    },
+    "BZCY": {
+      "name": "Cayo",
+      "sub_id": "BZCY",
+      "sub_num": "CY",
+      "bbox": {
+        "minLon": -89.19271219,
+        "minLat": 16.40728509,
+        "maxLon": -88.54368091,
+        "maxLat": 17.49778748
+      }
+    },
+    "BZCZL": {
+      "name": "Corozal",
+      "sub_id": "BZCZL",
+      "sub_num": "CZL",
+      "bbox": {
+        "minLon": -88.60625923,
+        "minLat": 17.84549761,
+        "maxLon": -87.82732344,
+        "maxLat": 18.49591398
+      }
+    },
+    "BZOW": {
+      "name": "Orange Walk",
+      "sub_id": "BZOW",
+      "sub_num": "OW",
+      "bbox": {
+        "minLon": -89.15192974,
+        "minLat": 17.30668521,
+        "maxLon": -88.27385843,
+        "maxLat": 18.2394731
+      }
+    },
+    "BZSC": {
+      "name": "Stann Creek",
+      "sub_id": "BZSC",
+      "sub_num": "SC",
+      "bbox": {
+        "minLon": -88.77781498,
+        "minLat": 16.44156075,
+        "maxLon": -87.76986718,
+        "maxLat": 17.12053084
+      }
+    },
+    "BZTOL": {
+      "name": "Toledo",
+      "sub_id": "BZTOL",
+      "sub_num": "TOL",
+      "bbox": {
+        "minLon": -89.22475672,
+        "minLat": 15.8859247,
+        "maxLon": -88.25225186,
+        "maxLat": 16.69904709
+      }
+    }
+  }
+  

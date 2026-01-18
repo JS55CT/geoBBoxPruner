@@ -1,0 +1,124 @@
+{
+    "WSAA": {
+      "name": "A'ana",
+      "sub_id": "WSAA",
+      "sub_num": "AA",
+      "bbox": {
+        "minLon": -172.0591903,
+        "minLat": -13.99035597,
+        "maxLon": -171.9111362,
+        "maxLat": -13.80354154
+      }
+    },
+    "WSAL": {
+      "name": "Aiga-i-le-Tai",
+      "sub_id": "WSAL",
+      "sub_num": "AL",
+      "bbox": {
+        "minLon": -172.1562846,
+        "minLat": -13.89857125,
+        "maxLon": -172.0227607,
+        "maxLat": -13.81835937
+      }
+    },
+    "WSAT": {
+      "name": "Atua",
+      "sub_id": "WSAT",
+      "sub_num": "AT",
+      "bbox": {
+        "minLon": -171.7264121,
+        "minLat": -14.07720459,
+        "maxLon": -171.3978058,
+        "maxLat": -13.86059844
+      }
+    },
+    "WSFA": {
+      "name": "Fa'asaleleaga",
+      "sub_id": "WSFA",
+      "sub_num": "FA",
+      "bbox": {
+        "minLon": -172.338169,
+        "minLat": -13.79399645,
+        "maxLon": -172.1738074,
+        "maxLat": -13.55927467
+      }
+    },
+    "WSGE": {
+      "name": "Gaga'emauga",
+      "sub_id": "WSGE",
+      "sub_num": "GE",
+      "bbox": {
+        "minLon": -172.4148511,
+        "minLat": -14.00606775,
+        "maxLon": -171.8560293,
+        "maxLat": -13.44004107
+      }
+    },
+    "WSGI": {
+      "name": "Gagaifomauga",
+      "sub_id": "WSGI",
+      "sub_num": "GI",
+      "bbox": {
+        "minLon": -172.6188035,
+        "minLat": -13.61882424,
+        "maxLon": -172.3790135,
+        "maxLat": -13.44617915
+      }
+    },
+    "WSPA": {
+      "name": "Palauli",
+      "sub_id": "WSPA",
+      "sub_num": "PA",
+      "bbox": {
+        "minLon": -172.6138475,
+        "minLat": -13.80409992,
+        "maxLon": -172.2196372,
+        "maxLat": -13.61432838
+      }
+    },
+    "WSSA": {
+      "name": "Satupa'itea",
+      "sub_id": "WSSA",
+      "sub_num": "SA",
+      "bbox": {
+        "minLon": -172.6962469,
+        "minLat": -13.77884412,
+        "maxLon": -172.3215197,
+        "maxLat": -13.58573198
+      }
+    },
+    "WSTU": {
+      "name": "Tuamasaga",
+      "sub_id": "WSTU",
+      "sub_num": "TU",
+      "bbox": {
+        "minLon": -171.9255478,
+        "minLat": -14.04572952,
+        "maxLon": -171.6953814,
+        "maxLat": -13.79277587
+      }
+    },
+    "WSVF": {
+      "name": "Va'a-o-Fonoti",
+      "sub_id": "WSVF",
+      "sub_num": "VF",
+      "bbox": {
+        "minLon": -171.5973915,
+        "minLat": -13.99591684,
+        "maxLon": -171.4823475,
+        "maxLat": -13.87334526
+      }
+    },
+    "WSVS": {
+      "name": "Vaisigano",
+      "sub_id": "WSVS",
+      "sub_num": "VS",
+      "bbox": {
+        "minLon": -172.8038092,
+        "minLat": -13.61653006,
+        "maxLon": -172.6070487,
+        "maxLat": -13.48992598
+      }
+    }
+  }
+  

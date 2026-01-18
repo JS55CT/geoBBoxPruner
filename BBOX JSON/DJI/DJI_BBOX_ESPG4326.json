@@ -1,0 +1,69 @@
+{
+    "DJAS": {
+      "name": "Ali Sabieh",
+      "sub_id": "DJAS",
+      "sub_num": "AS",
+      "bbox": {
+        "minLon": 42.61405981,
+        "minLat": 10.97053528,
+        "maxLon": 43.22442937,
+        "maxLat": 11.4863348
+      }
+    },
+    "DJAR": {
+      "name": "Arta",
+      "sub_id": "DJAR",
+      "sub_num": "AR",
+      "bbox": {
+        "minLon": 42.3316927,
+        "minLat": 11.2432642,
+        "maxLon": 43.25720024,
+        "maxLat": 11.64558959
+      }
+    },
+    "DJDI": {
+      "name": "Dikhil",
+      "sub_id": "DJDI",
+      "sub_num": "DI",
+      "bbox": {
+        "minLon": 41.77174556,
+        "minLat": 10.91491699,
+        "maxLon": 42.64820957,
+        "maxLat": 11.93289173
+      }
+    },
+    "DJDJ": {
+      "name": "Djibouti",
+      "sub_id": "DJDJ",
+      "sub_num": "DJ",
+      "bbox": {
+        "minLon": 42.93678129,
+        "minLat": 11.53868079,
+        "maxLon": 43.21393347,
+        "maxLat": 11.73120975
+      }
+    },
+    "DJOB": {
+      "name": "Obock",
+      "sub_id": "DJOB",
+      "sub_num": "OB",
+      "bbox": {
+        "minLon": 42.70926631,
+        "minLat": 11.82983804,
+        "maxLon": 43.4537915,
+        "maxLat": 12.72178316
+      }
+    },
+    "DJTA": {
+      "name": "Tadjourah",
+      "sub_id": "DJTA",
+      "sub_num": "TA",
+      "bbox": {
+        "minLon": 42.03887069,
+        "minLat": 11.552333,
+        "maxLon": 43.06917596,
+        "maxLat": 12.52801895
+      }
+    }
+  }
+  

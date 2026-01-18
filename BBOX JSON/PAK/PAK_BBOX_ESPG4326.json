@@ -1,0 +1,80 @@
+{
+    "PKJK": {
+      "name": "Azad Jammu and Kashmir",
+      "sub_id": "PKJK",
+      "sub_num": "JK",
+      "bbox": {
+        "minLon": 73.39421189,
+        "minLat": 32.7641809,
+        "maxLon": 75.26346242,
+        "maxLat": 35.13289332
+      }
+    },
+    "PKBA": {
+      "name": "Balochistan",
+      "sub_id": "PKBA",
+      "sub_num": "BA",
+      "bbox": {
+        "minLon": 60.87316251,
+        "minLat": 24.88761699,
+        "maxLon": 70.25937581,
+        "maxLat": 32.07072258
+      }
+    },
+    "PKGB": {
+      "name": "Gilgit-Baltistan",
+      "sub_id": "PKGB",
+      "sub_num": "GB",
+      "bbox": {
+        "minLon": 72.50615406,
+        "minLat": 34.50839996,
+        "maxLon": 77.12006021,
+        "maxLat": 37.08598137
+      }
+    },
+    "PKIS": {
+      "name": "Islamabad",
+      "sub_id": "PKIS",
+      "sub_num": "IS",
+      "bbox": {
+        "minLon": 73.00498962,
+        "minLat": 33.39672089,
+        "maxLon": 73.50101542,
+        "maxLat": 33.88853073
+      }
+    },
+    "PKKP": {
+      "name": "Khyber Pakhtunkhwa",
+      "sub_id": "PKKP",
+      "sub_num": "KP",
+      "bbox": {
+        "minLon": 69.23816478,
+        "minLat": 31.056633,
+        "maxLon": 74.13633251,
+        "maxLat": 36.9110477
+      }
+    },
+    "PKPB": {
+      "name": "Punjab",
+      "sub_id": "PKPB",
+      "sub_num": "PB",
+      "bbox": {
+        "minLon": 69.33370733,
+        "minLat": 27.70425796,
+        "maxLon": 75.38698065,
+        "maxLat": 34.0042305
+      }
+    },
+    "PKSD": {
+      "name": "Sindh",
+      "sub_id": "PKSD",
+      "sub_num": "SD",
+      "bbox": {
+        "minLon": 66.5977931,
+        "minLat": 23.70289731,
+        "maxLon": 71.12857425,
+        "maxLat": 28.50093842
+      }
+    }
+  }
+  

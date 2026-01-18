@@ -1,0 +1,25 @@
+{
+    "MHL": {
+      "name": "Ralik Chain",
+      "sub_id": "MHL",
+      "sub_num": "L",
+      "bbox": {
+        "minLon": 160.7952441,
+        "minLat": 4.572620511,
+        "maxLon": 169.7244805,
+        "maxLat": 11.70722401
+      }
+    },
+    "MHT": {
+      "name": "Ratak Chain",
+      "sub_id": "MHT",
+      "sub_num": "T",
+      "bbox": {
+        "minLon": 168.8915355,
+        "minLat": 5.875919223,
+        "maxLon": 172.1726141,
+        "maxLat": 14.72293532
+      }
+    }
+  }
+  

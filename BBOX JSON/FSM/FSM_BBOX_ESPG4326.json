@@ -1,0 +1,47 @@
+{
+    "FMTRK": {
+      "name": "Chuuk",
+      "sub_id": "FMTRK",
+      "sub_num": "TRK",
+      "bbox": {
+        "minLon": 149.1684164,
+        "minLat": 5.282777786,
+        "maxLon": 153.8230555,
+        "maxLat": 8.985903144
+      }
+    },
+    "FMKSA": {
+      "name": "Kosrae",
+      "sub_id": "FMKSA",
+      "sub_num": "KSA",
+      "bbox": {
+        "minLon": 162.8972652,
+        "minLat": 5.258399963,
+        "maxLon": 163.0353147,
+        "maxLat": 5.369698643
+      }
+    },
+    "FMPNI": {
+      "name": "Pohnpei",
+      "sub_id": "FMPNI",
+      "sub_num": "PNI",
+      "bbox": {
+        "minLon": 154.7786111,
+        "minLat": 1.025277734,
+        "maxLon": 160.715996,
+        "maxLat": 7.62833333
+      }
+    },
+    "FMYAP": {
+      "name": "Yap",
+      "sub_id": "FMYAP",
+      "sub_num": "YAP",
+      "bbox": {
+        "minLon": 137.425311,
+        "minLat": 6.68143022,
+        "maxLon": 147.6494193,
+        "maxLat": 10.09066093
+      }
+    }
+  }
+  

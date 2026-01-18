@@ -1,0 +1,113 @@
+{
+    "SBCT": {
+      "name": "Capital Territory (Honiara)",
+      "sub_id": "SBCT",
+      "sub_num": "CT",
+      "bbox": {
+        "minLon": 159.9004641,
+        "minLat": -9.452694655,
+        "maxLon": 160.0202103,
+        "maxLat": -9.415676833
+      }
+    },
+    "SBCE": {
+      "name": "Central",
+      "sub_id": "SBCE",
+      "sub_num": "CE",
+      "bbox": {
+        "minLon": 159.0260396,
+        "minLat": -9.212213636,
+        "maxLon": 160.4140775,
+        "maxLat": -8.845953941
+      }
+    },
+    "SBCH": {
+      "name": "Choiseul",
+      "sub_id": "SBCH",
+      "sub_num": "CH",
+      "bbox": {
+        "minLon": 156.3884853,
+        "minLat": -7.545392275,
+        "maxLon": 157.8853188,
+        "maxLat": -6.588843584
+      }
+    },
+    "SBGU": {
+      "name": "Guadalcanal",
+      "sub_id": "SBGU",
+      "sub_num": "GU",
+      "bbox": {
+        "minLon": 159.582718,
+        "minLat": -9.946678043,
+        "maxLon": 160.9079086,
+        "maxLat": -9.249804616
+      }
+    },
+    "SBIS": {
+      "name": "Isabel",
+      "sub_id": "SBIS",
+      "sub_num": "IS",
+      "bbox": {
+        "minLon": 157.9598931,
+        "minLat": -8.578611136,
+        "maxLon": 160.1919445,
+        "maxLat": -7.317777753
+      }
+    },
+    "SBMK": {
+      "name": "Makira-Ulawa",
+      "sub_id": "SBMK",
+      "sub_num": "MK",
+      "bbox": {
+        "minLon": 161.2666155,
+        "minLat": -10.90117371,
+        "maxLon": 162.4874514,
+        "maxLat": -9.715055466
+      }
+    },
+    "SBML": {
+      "name": "Malaita",
+      "sub_id": "SBML",
+      "sub_num": "ML",
+      "bbox": {
+        "minLon": 159.1883334,
+        "minLat": -9.729044199,
+        "maxLon": 162.9509212,
+        "maxLat": -5.026800871
+      }
+    },
+    "SBRB": {
+      "name": "Rennell and Bellona",
+      "sub_id": "SBRB",
+      "sub_num": "RB",
+      "bbox": {
+        "minLon": 159.7504153,
+        "minLat": -11.88246655,
+        "maxLon": 160.6582859,
+        "maxLat": -11.27167213
+      }
+    },
+    "SBTE": {
+      "name": "Temotu",
+      "sub_id": "SBTE",
+      "sub_num": "TE",
+      "bbox": {
+        "minLon": 165.7170305,
+        "minLat": -12.30828464,
+        "maxLon": 170.1921345,
+        "maxLat": -9.759134054
+      }
+    },
+    "SBWE": {
+      "name": "Western",
+      "sub_id": "SBWE",
+      "sub_num": "WE",
+      "bbox": {
+        "minLon": 155.5122222,
+        "minLat": -9.033092737,
+        "maxLon": 158.7547222,
+        "maxLat": -6.643333316
+      }
+    }
+  }
+  

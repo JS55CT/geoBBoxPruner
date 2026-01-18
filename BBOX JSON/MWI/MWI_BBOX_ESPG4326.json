@@ -1,0 +1,311 @@
+{
+    "MWBA": {
+      "name": "Balaka",
+      "sub_id": "MWBA",
+      "sub_num": "BA",
+      "bbox": {
+        "minLon": 34.83658016,
+        "minLat": -15.32444203,
+        "maxLon": 35.30177069,
+        "maxLat": -14.79158545
+      }
+    },
+    "MWBL": {
+      "name": "Blantyre",
+      "sub_id": "MWBL",
+      "sub_num": "BL",
+      "bbox": {
+        "minLon": 34.72023714,
+        "minLat": -16.01755142,
+        "maxLon": 35.12502766,
+        "maxLat": -15.35871506
+      }
+    },
+    "MWCK": {
+      "name": "Chikwawa",
+      "sub_id": "MWCK",
+      "sub_num": "CK",
+      "bbox": {
+        "minLon": 34.2537533,
+        "minLat": -16.68754578,
+        "maxLon": 35.08058584,
+        "maxLat": -15.74821472
+      }
+    },
+    "MWCR": {
+      "name": "Chiradzulu",
+      "sub_id": "MWCR",
+      "sub_num": "CR",
+      "bbox": {
+        "minLon": 35.09702456,
+        "minLat": -16.00416183,
+        "maxLon": 35.32736456,
+        "maxLat": -15.54702759
+      }
+    },
+    "MWCT": {
+      "name": "Chitipa",
+      "sub_id": "MWCT",
+      "sub_num": "CT",
+      "bbox": {
+        "minLon": 32.94339156,
+        "minLat": -10.57865691,
+        "maxLon": 33.94248259,
+        "maxLat": -9.366016388
+      }
+    },
+    "MWDE": {
+      "name": "Dedza",
+      "sub_id": "MWDE",
+      "sub_num": "DE",
+      "bbox": {
+        "minLon": 33.64092219,
+        "minLat": -14.61988449,
+        "maxLon": 34.74440432,
+        "maxLat": -13.92911911
+      }
+    },
+    "MWDO": {
+      "name": "Dowa",
+      "sub_id": "MWDO",
+      "sub_num": "DO",
+      "bbox": {
+        "minLon": 33.40652442,
+        "minLat": -13.84706497,
+        "maxLon": 34.20106614,
+        "maxLat": -13.23117971
+      }
+    },
+    "MWKR": {
+      "name": "Karonga",
+      "sub_id": "MWKR",
+      "sub_num": "KR",
+      "bbox": {
+        "minLon": 33.5408715,
+        "minLat": -10.60317993,
+        "maxLon": 34.60962904,
+        "maxLat": -9.493582607
+      }
+    },
+    "MWKS": {
+      "name": "Kasungu",
+      "sub_id": "MWKS",
+      "sub_num": "KS",
+      "bbox": {
+        "minLon": 32.91899347,
+        "minLat": -13.62562227,
+        "maxLon": 34.0179174,
+        "maxLat": -12.36090207
+      }
+    },
+    "MWLK": {
+      "name": "Likoma",
+      "sub_id": "MWLK",
+      "sub_num": "LK",
+      "bbox": {
+        "minLon": 34.60634017,
+        "minLat": -12.10011864,
+        "maxLon": 34.76061535,
+        "maxLat": -12.00747728
+      }
+    },
+    "MWLI": {
+      "name": "Lilongwe",
+      "sub_id": "MWLI",
+      "sub_num": "LI",
+      "bbox": {
+        "minLon": 33.24786031,
+        "minLat": -14.58662129,
+        "maxLon": 34.21223795,
+        "maxLat": -13.48709106
+      }
+    },
+    "MWMH": {
+      "name": "Machinga",
+      "sub_id": "MWMH",
+      "sub_num": "MH",
+      "bbox": {
+        "minLon": 35.11394358,
+        "minLat": -15.27511597,
+        "maxLon": 35.91788602,
+        "maxLat": -14.58816636
+      }
+    },
+    "MWMG": {
+      "name": "Mangochi",
+      "sub_id": "MWMG",
+      "sub_num": "MG",
+      "bbox": {
+        "minLon": 34.72508836,
+        "minLat": -14.81300354,
+        "maxLon": 35.80189741,
+        "maxLat": -13.48429119
+      }
+    },
+    "MWMC": {
+      "name": "Mchinji",
+      "sub_id": "MWMC",
+      "sub_num": "MC",
+      "bbox": {
+        "minLon": 32.67144477,
+        "minLat": -14.22060013,
+        "maxLon": 33.35688674,
+        "maxLat": -13.35851669
+      }
+    },
+    "MWMU": {
+      "name": "Mulanje",
+      "sub_id": "MWMU",
+      "sub_num": "MU",
+      "bbox": {
+        "minLon": 35.27877498,
+        "minLat": -16.21677542,
+        "maxLon": 35.81868863,
+        "maxLat": -15.61019898
+      }
+    },
+    "MWMW": {
+      "name": "Mwanza",
+      "sub_id": "MWMW",
+      "sub_num": "MW",
+      "bbox": {
+        "minLon": 34.32653117,
+        "minLat": -15.83524704,
+        "maxLon": 34.76393151,
+        "maxLat": -15.42834997
+      }
+    },
+    "MWMZ": {
+      "name": "Mzimba",
+      "sub_id": "MWMZ",
+      "sub_num": "MZ",
+      "bbox": {
+        "minLon": 33.23003161,
+        "minLat": -12.72354126,
+        "maxLon": 34.10444915,
+        "maxLat": -10.94693184
+      }
+    },
+    "MWNE": {
+      "name": "Neno",
+      "sub_id": "MWNE",
+      "sub_num": "NE",
+      "bbox": {
+        "minLon": 34.4376179,
+        "minLat": -15.58311939,
+        "maxLon": 35.04619837,
+        "maxLat": -15.207932
+      }
+    },
+    "MWNB": {
+      "name": "Nkhata Bay",
+      "sub_id": "MWNB",
+      "sub_num": "NB",
+      "bbox": {
+        "minLon": 33.7143904,
+        "minLat": -12.24615097,
+        "maxLon": 34.96403754,
+        "maxLat": -11.06479669
+      }
+    },
+    "MWNK": {
+      "name": "Nkhotakota",
+      "sub_id": "MWNK",
+      "sub_num": "NK",
+      "bbox": {
+        "minLon": 33.74082947,
+        "minLat": -13.47494733,
+        "maxLon": 34.57720435,
+        "maxLat": -12.16306686
+      }
+    },
+    "MWNS": {
+      "name": "Nsanje",
+      "sub_id": "MWNS",
+      "sub_num": "NS",
+      "bbox": {
+        "minLon": 34.89829648,
+        "minLat": -17.12974548,
+        "maxLon": 35.31414938,
+        "maxLat": -16.33294499
+      }
+    },
+    "MWNU": {
+      "name": "Ntcheu",
+      "sub_id": "MWNU",
+      "sub_num": "NU",
+      "bbox": {
+        "minLon": 34.41088712,
+        "minLat": -15.32773018,
+        "maxLon": 34.99472046,
+        "maxLat": -14.39311981
+      }
+    },
+    "MWNI": {
+      "name": "Ntchisi",
+      "sub_id": "MWNI",
+      "sub_num": "NI",
+      "bbox": {
+        "minLon": 33.61321259,
+        "minLat": -13.53629851,
+        "maxLon": 34.13743615,
+        "maxLat": -13.01107407
+      }
+    },
+    "MWPH": {
+      "name": "Phalombe",
+      "sub_id": "MWPH",
+      "sub_num": "PH",
+      "bbox": {
+        "minLon": 35.51576459,
+        "minLat": -15.94177377,
+        "maxLon": 35.84694886,
+        "maxLat": -15.50033569
+      }
+    },
+    "MWRU": {
+      "name": "Rumphi",
+      "sub_id": "MWRU",
+      "sub_num": "RU",
+      "bbox": {
+        "minLon": 33.24353218,
+        "minLat": -11.12640381,
+        "maxLon": 34.68221653,
+        "maxLat": -10.50224304
+      }
+    },
+    "MWSA": {
+      "name": "Salima",
+      "sub_id": "MWSA",
+      "sub_num": "SA",
+      "bbox": {
+        "minLon": 34.07245672,
+        "minLat": -14.15313721,
+        "maxLon": 34.86679518,
+        "maxLat": -13.39273846
+      }
+    },
+    "MWTH": {
+      "name": "Thyolo",
+      "sub_id": "MWTH",
+      "sub_num": "TH",
+      "bbox": {
+        "minLon": 34.9026531,
+        "minLat": -16.42534399,
+        "maxLon": 35.33115566,
+        "maxLat": -15.84614754
+      }
+    },
+    "MWZO": {
+      "name": "Zomba",
+      "sub_id": "MWZO",
+      "sub_num": "ZO",
+      "bbox": {
+        "minLon": 34.93739522,
+        "minLat": -15.70495606,
+        "maxLon": 35.85485578,
+        "maxLat": -15.2243042
+      }
+    }
+  }
+  

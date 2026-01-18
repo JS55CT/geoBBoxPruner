@@ -1,0 +1,113 @@
+{
+    "DM02": {
+      "name": "Saint Andrew",
+      "sub_id": "DM02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": -61.45321667,
+        "minLat": 15.45250654,
+        "maxLon": -61.27062655,
+        "maxLat": 15.64003527
+      }
+    },
+    "DM03": {
+      "name": "Saint David",
+      "sub_id": "DM03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -61.33196032,
+        "minLat": 15.3209281,
+        "maxLon": -61.2402724,
+        "maxLat": 15.51998544
+      }
+    },
+    "DM04": {
+      "name": "Saint George",
+      "sub_id": "DM04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": -61.39411926,
+        "minLat": 15.2641511,
+        "maxLon": -61.30917656,
+        "maxLat": 15.35862923
+      }
+    },
+    "DM05": {
+      "name": "Saint John",
+      "sub_id": "DM05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -61.47991395,
+        "minLat": 15.50417662,
+        "maxLon": -61.39878881,
+        "maxLat": 15.63827431
+      }
+    },
+    "DM06": {
+      "name": "Saint Joseph",
+      "sub_id": "DM06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": -61.45603085,
+        "minLat": 15.39096594,
+        "maxLon": -61.31683421,
+        "maxLat": 15.50102234
+      }
+    },
+    "DM07": {
+      "name": "Saint Luke",
+      "sub_id": "DM07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": -61.37763393,
+        "minLat": 15.23383141,
+        "maxLon": -61.34966743,
+        "maxLat": 15.27216816
+      }
+    },
+    "DM08": {
+      "name": "Saint Mark",
+      "sub_id": "DM08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": -61.37411726,
+        "minLat": 15.20628178,
+        "maxLon": -61.34540427,
+        "maxLat": 15.25823808
+      }
+    },
+    "DM09": {
+      "name": "Saint Patrick",
+      "sub_id": "DM09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": -61.35371602,
+        "minLat": 15.20841944,
+        "maxLon": -61.24113846,
+        "maxLat": 15.34288383
+      }
+    },
+    "DM10": {
+      "name": "Saint Paul",
+      "sub_id": "DM10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": -61.42299414,
+        "minLat": 15.31882525,
+        "maxLon": -61.32510686,
+        "maxLat": 15.40909767
+      }
+    },
+    "DM11": {
+      "name": "Saint Peter",
+      "sub_id": "DM11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": -61.47629082,
+        "minLat": 15.46419025,
+        "maxLon": -61.39771199,
+        "maxLat": 15.53526878
+      }
+    }
+  }
+  

@@ -1,0 +1,14 @@
+[
+    {
+      "Saint Martin": {
+        "sub_num": "MF",
+        "name": "Saint Martin",
+        "bbox": {
+            "minLon": -63.15367317,
+            "minLat": 18.04574335,
+            "maxLon": -62.96968985,
+            "maxLat": 18.12529755
+          }
+      }
+    }
+  ]

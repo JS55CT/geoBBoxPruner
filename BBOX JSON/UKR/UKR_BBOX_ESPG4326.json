@@ -1,0 +1,165 @@
+{
+    "UA43": {
+      "name": "Avtonomna Respublika Krym",
+      "sub_id": "UA43",
+      "sub_num": "43",
+      "bbox": { "minLon": 32.47928512, "minLat": 44.38608968, "maxLon": 36.64707172, "maxLat": 46.22999668 }
+    },
+    "UA71": {
+      "name": "Cherkaska oblast",
+      "sub_id": "UA71",
+      "sub_num": "71",
+      "bbox": { "minLon": 29.61120975, "minLat": 48.45193481, "maxLon": 32.89157951, "maxLat": 50.23173451 }
+    },
+    "UA77": {
+      "name": "Chernihivska oblast",
+      "sub_id": "UA77",
+      "sub_num": "77",
+      "bbox": { "minLon": 24.90873456, "minLat": 47.72512436, "maxLon": 27.53163159, "maxLat": 48.67578506 }
+    },
+    "UA74": {
+      "name": "Chernihivska oblast",
+      "sub_id": "UA74",
+      "sub_num": "74",
+      "bbox": { "minLon": 30.48467124, "minLat": 50.34742355, "maxLon": 33.50132477, "maxLat": 52.38401413 }
+    },
+    "UA12": {
+      "name": "Dnipropetrovska oblast",
+      "sub_id": "UA12",
+      "sub_num": "12",
+      "bbox": { "minLon": 32.95992494, "minLat": 47.45939255, "maxLon": 36.93573809, "maxLat": 49.19420242 }
+    },
+    "UA14": {
+      "name": "Donets'ka oblast",
+      "sub_id": "UA14",
+      "sub_num": "14",
+      "bbox": { "minLon": 36.54277825, "minLat": 46.86721695, "maxLon": 39.09480882, "maxLat": 49.23722506 }
+    },
+    "UA26": {
+      "name": "Ivano-Frankivska oblast",
+      "sub_id": "UA26",
+      "sub_num": "26",
+      "bbox": { "minLon": 23.54735625, "minLat": 47.72357941, "maxLon": 25.65301693, "maxLat": 49.55793142 }
+    },
+    "UA63": {
+      "name": "Kharkivska oblast",
+      "sub_id": "UA63",
+      "sub_num": "63",
+      "bbox": { "minLon": 34.85697627, "minLat": 48.53279114, "maxLon": 38.09348774, "maxLat": 50.45917511 }
+    },
+    "UA65": {
+      "name": "Khersonska oblast",
+      "sub_id": "UA65",
+      "sub_num": "65",
+      "bbox": { "minLon": 31.51125085, "minLat": 45.76098704, "maxLon": 35.10406876, "maxLat": 47.59972572 }
+    },
+    "UA68": {
+      "name": "Khmelnytska oblast",
+      "sub_id": "UA68",
+      "sub_num": "68",
+      "bbox": { "minLon": 26.13259888, "minLat": 48.45133781, "maxLon": 27.89812815, "maxLat": 50.58860779 }
+    },
+    "UA35": {
+      "name": "Kirovohradska oblast",
+      "sub_id": "UA35",
+      "sub_num": "35",
+      "bbox": { "minLon": 29.75112355, "minLat": 47.74735451, "maxLon": 33.89276755, "maxLat": 49.24203157 }
+    },
+    "UA30": {
+      "name": "Kyiv",
+      "sub_id": "UA30",
+      "sub_num": "30",
+      "bbox": { "minLon": 30.23666906, "minLat": 50.21249771, "maxLon": 30.83251202, "maxLat": 50.5903244 }
+    },
+    "UA32": {
+      "name": "Kyivska oblast",
+      "sub_id": "UA32",
+      "sub_num": "32",
+      "bbox": { "minLon": 29.27014434, "minLat": 49.17669296, "maxLon": 32.16244948, "maxLat": 51.53085709 }
+    },
+    "UA09": {
+      "name": "Luhanska oblast",
+      "sub_id": "UA09",
+      "sub_num": "9",
+      "bbox": { "minLon": 37.83552945, "minLat": 47.82503128, "maxLon": 40.21973443, "maxLat": 50.08769989 }
+    },
+    "UA46": {
+      "name": "Lvivska oblast",
+      "sub_id": "UA46",
+      "sub_num": "46",
+      "bbox": { "minLon": 22.64419913, "minLat": 48.72094274, "maxLon": 25.4262141, "maxLat": 50.6487751 }
+    },
+    "UA48": {
+      "name": "Mykolaivska oblast",
+      "sub_id": "UA48",
+      "sub_num": "48",
+      "bbox": { "minLon": 30.20790184, "minLat": 46.37218368, "maxLon": 33.17705202, "maxLat": 48.23204041 }
+    },
+    "UA51": {
+      "name": "Odeska oblast",
+      "sub_id": "UA51",
+      "sub_num": "51",
+      "bbox": { "minLon": 28.2128979, "minLat": 45.20331013, "maxLon": 31.30533993, "maxLat": 48.2331562 }
+    },
+    "UA53": {
+      "name": "Poltavska oblast",
+      "sub_id": "UA53",
+      "sub_num": "53",
+      "bbox": { "minLon": 32.08962333, "minLat": 48.73016846, "maxLon": 35.49026215, "maxLat": 50.55350304 }
+    },
+    "UA56": {
+      "name": "Rivnenska oblast",
+      "sub_id": "UA56",
+      "sub_num": "56",
+      "bbox": { "minLon": 25.08425427, "minLat": 50.004462, "maxLon": 27.72882903, "maxLat": 51.9437027 }
+    },
+    "UA40": {
+      "name": "Sevastopol",
+      "sub_id": "UA40",
+      "sub_num": "40",
+      "bbox": { "minLon": 33.37855852, "minLat": 44.38668966, "maxLon": 33.90445173, "maxLat": 44.89648306 }
+    },
+    "UA59": {
+      "name": "Sumska oblast",
+      "sub_id": "UA59",
+      "sub_num": "59",
+      "bbox": { "minLon": 32.94250643, "minLat": 50.10997295, "maxLon": 35.67445981, "maxLat": 52.36925125 }
+    },
+    "UA61": {
+      "name": "Ternopilska oblast",
+      "sub_id": "UA61",
+      "sub_num": "61",
+      "bbox": { "minLon": 24.71589196, "minLat": 48.50738525, "maxLon": 26.44478381, "maxLat": 50.26888847 }
+    },
+    "UA05": {
+      "name": "Vinnytska oblast",
+      "sub_id": "UA05",
+      "sub_num": "5",
+      "bbox": { "minLon": 27.3720293, "minLat": 48.06527138, "maxLon": 30.02088547, "maxLat": 49.88918424 }
+    },
+    "UA07": {
+      "name": "Volynska oblast",
+      "sub_id": "UA07",
+      "sub_num": "7",
+      "bbox": { "minLon": 23.60588908, "minLat": 50.29644012, "maxLon": 26.10923302, "maxLat": 51.96773529 }
+    },
+    "UA21": {
+      "name": "Zakarpatska oblast",
+      "sub_id": "UA21",
+      "sub_num": "21",
+      "bbox": { "minLon": 22.13846564, "minLat": 47.89661407, "maxLon": 24.62827754, "maxLat": 49.09481049 }
+    },
+    "UA23": {
+      "name": "Zaporizka oblast",
+      "sub_id": "UA23",
+      "sub_num": "23",
+      "bbox": { "minLon": 34.16959739, "minLat": 46.0787189, "maxLon": 37.24815083, "maxLat": 48.14401245 }
+    },
+    "UA18": {
+      "name": "Zhytomyrska oblast",
+      "sub_id": "UA18",
+      "sub_num": "18",
+      "bbox": { "minLon": 27.19854069, "minLat": 49.58349025, "maxLon": 29.73721695, "maxLat": 51.68157577 }
+    }
+  }
+  

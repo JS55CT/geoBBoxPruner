@@ -1,0 +1,201 @@
+{
+    "AW": {
+      "name": "Aruba",
+      "sub_id": "AW",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -70.0630821,
+        "minLat": 12.41257322,
+        "maxLon": -69.86528027,
+        "maxLat": 12.62377405
+      }
+    },
+    "NLBQ1": {
+      "name": "Bonaire",
+      "sub_id": "NLBQ1",
+      "sub_num": "BQ1",
+      "bbox": {
+        "minLon": -68.42049456,
+        "minLat": 12.02434027,
+        "maxLon": -68.19520116,
+        "maxLat": 12.31163347
+      }
+    },
+    "NLCW": {
+      "name": "Curaçao",
+      "sub_id": "NLCW",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -69.16265345,
+        "minLat": 11.9779439,
+        "maxLon": -68.64002919,
+        "maxLat": 12.39283252
+      }
+    },
+    "NLDR": {
+      "name": "Drenthe",
+      "sub_id": "NLDR",
+      "sub_num": "DR",
+      "bbox": {
+        "minLon": 6.118888736,
+        "minLat": 52.61442661,
+        "maxLon": 7.09259677,
+        "maxLat": 53.21022034
+      }
+    },
+    "NLFL": {
+      "name": "Flevoland",
+      "sub_id": "NLFL",
+      "sub_num": "FL",
+      "bbox": {
+        "minLon": 5.120881319,
+        "minLat": 52.24917412,
+        "maxLon": 6.013503909,
+        "maxLat": 52.84432411
+      }
+    },
+    "NLFR": {
+      "name": "Fryslân",
+      "sub_id": "NLFR",
+      "sub_num": "FR",
+      "bbox": {
+        "minLon": 4.848949432,
+        "minLat": 52.80055046,
+        "maxLon": 6.428254724,
+        "maxLat": 53.50944769
+      }
+    },
+    "NLGE": {
+      "name": "Gelderland",
+      "sub_id": "NLGE",
+      "sub_num": "GE",
+      "bbox": {
+        "minLon": 5.000528812,
+        "minLat": 51.73419452,
+        "maxLon": 6.829490304,
+        "maxLat": 52.52160072
+      }
+    },
+    "NLGR": {
+      "name": "Groningen",
+      "sub_id": "NLGR",
+      "sub_num": "GR",
+      "bbox": {
+        "minLon": 6.170957804,
+        "minLat": 52.83796191,
+        "maxLon": 7.22689414,
+        "maxLat": 53.5544374
+      }
+    },
+    "NLLI": {
+      "name": "Limburg",
+      "sub_id": "NLLI",
+      "sub_num": "LI",
+      "bbox": {
+        "minLon": 5.569089889,
+        "minLat": 50.75091362,
+        "maxLon": 6.228461027,
+        "maxLat": 51.78208351
+      }
+    },
+    "NLNB": {
+      "name": "Noord-Brabant",
+      "sub_id": "NLNB",
+      "sub_num": "NB",
+      "bbox": {
+        "minLon": 4.186665535,
+        "minLat": 51.21968377,
+        "maxLon": 6.047655464,
+        "maxLat": 51.83036327
+      }
+    },
+    "NLNH": {
+      "name": "Noord-Holland",
+      "sub_id": "NLNH",
+      "sub_num": "NH",
+      "bbox": {
+        "minLon": 4.493106484,
+        "minLat": 52.18128204,
+        "maxLon": 5.323482036,
+        "maxLat": 53.18295693
+      }
+    },
+    "NLOV": {
+      "name": "Overijssel",
+      "sub_id": "NLOV",
+      "sub_num": "OV",
+      "bbox": {
+        "minLon": 5.779880762,
+        "minLat": 52.11742401,
+        "maxLon": 7.072371006,
+        "maxLat": 52.85428047
+      }
+    },
+    "NLUT": {
+      "name": "Utrecht",
+      "sub_id": "NLUT",
+      "sub_num": "UT",
+      "bbox": {
+        "minLon": 4.792294979,
+        "minLat": 51.93841696,
+        "maxLon": 5.62607038,
+        "maxLat": 52.296381
+      }
+    },
+    "NLZE": {
+      "name": "Zeeland",
+      "sub_id": "NLZE",
+      "sub_num": "ZE",
+      "bbox": {
+        "minLon": 3.359161616,
+        "minLat": 51.2014389,
+        "maxLon": 4.277412891,
+        "maxLat": 51.76757813
+      }
+    },
+    "NLZH": {
+      "name": "Zuid-Holland",
+      "sub_id": "NLZH",
+      "sub_num": "ZH",
+      "bbox": {
+        "minLon": 3.82436049,
+        "minLat": 51.65382147,
+        "maxLon": 5.179605484,
+        "maxLat": 52.32659602
+      }
+    },
+    "NLBQ2": {
+      "name": "Saba",
+      "sub_id": "NLBQ2",
+      "sub_num": "BQ2",
+      "bbox": {
+        "minLon": -63.2592628,
+        "minLat": 17.61317551,
+        "maxLon": -63.21440458,
+        "maxLat": 17.6507225
+      }
+    },
+    "NLBQ3": {
+      "name": "Sint Eustatius",
+      "sub_id": "NLBQ3",
+      "sub_num": "BQ3",
+      "bbox": {
+        "minLon": -63.00924766,
+        "minLat": 17.46366107,
+        "maxLon": -62.94169199,
+        "maxLat": 17.52726901
+      }
+    },
+    "NLSX": {
+      "name": "Sint Maarten",
+      "sub_id": "NLSX",
+      "sub_num": "SX",
+      "bbox": {
+        "minLon": -63.14011502,
+        "minLat": 18.00419807,
+        "maxLon": -63.01456928,
+        "maxLat": 18.06452751
+      }
+    }
+  }
+  

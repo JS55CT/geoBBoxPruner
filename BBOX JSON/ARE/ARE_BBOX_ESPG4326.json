@@ -1,0 +1,80 @@
+{
+    "AEAJ": {
+      "name": "Ajmān",
+      "sub_id": "AEAJ",
+      "sub_num": "AJ",
+      "bbox": {
+        "minLon": 55.42275822,
+        "minLat": 24.74185359,
+        "maxLon": 56.12916517,
+        "maxLat": 25.45025826
+      }
+    },
+    "AEAZ": {
+      "name": "Abū Ẓaby",
+      "sub_id": "AEAZ",
+      "sub_num": "AZ",
+      "bbox": {
+        "minLon": 51.49973631,
+        "minLat": 22.63123512,
+        "maxLon": 56.01837277,
+        "maxLat": 25.25418532
+      }
+    },
+    "AEFU": {
+      "name": "Al Fujayrah",
+      "sub_id": "AEFU",
+      "sub_num": "FU",
+      "bbox": {
+        "minLon": 55.96622169,
+        "minLat": 24.90658522,
+        "maxLon": 56.38315487,
+        "maxLat": 25.66028595
+      }
+    },
+    "AESH": {
+      "name": "Ash Shāriqah",
+      "sub_id": "AESH",
+      "sub_num": "SH",
+      "bbox": {
+        "minLon": 55.35059583,
+        "minLat": 24.74659681,
+        "maxLon": 56.38137257,
+        "maxLat": 25.5194968
+      }
+    },
+    "AEDU": {
+      "name": "Dubayy",
+      "sub_id": "AEDU",
+      "sub_num": "DU",
+      "bbox": {
+        "minLon": 54.88135695,
+        "minLat": 24.62364435,
+        "maxLon": 56.20578492,
+        "maxLat": 25.36938965
+      }
+    },
+    "AERK": {
+      "name": "Ra's al Khaymah",
+      "sub_id": "AERK",
+      "sub_num": "RK",
+      "bbox": {
+        "minLon": 55.73292124,
+        "minLat": 24.84080672,
+        "maxLon": 56.24678576,
+        "maxLat": 26.06987536
+      }
+    },
+    "AEUQ": {
+      "name": "Umm al Qaywayn",
+      "sub_id": "AEUQ",
+      "sub_num": "UQ",
+      "bbox": {
+        "minLon": 55.5207907,
+        "minLat": 25.33030987,
+        "maxLon": 55.93361151,
+        "maxLat": 25.65687621
+      }
+    }
+  }
+  

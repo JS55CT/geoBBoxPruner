@@ -1,0 +1,355 @@
+{
+    "MXAGU": {
+      "name": "Aguascalientes",
+      "sub_id": "MXAGU",
+      "sub_num": "AGU",
+      "bbox": {
+        "minLon": -102.8749057,
+        "minLat": 21.62195206,
+        "maxLon": -101.8358182,
+        "maxLat": 22.45849013
+      }
+    },
+    "MXBCN": {
+      "name": "Baja California",
+      "sub_id": "MXBCN",
+      "sub_num": "BCN",
+      "bbox": {
+        "minLon": -118.3690358,
+        "minLat": 28.00003052,
+        "maxLon": -112.7534113,
+        "maxLat": 32.71876228
+      }
+    },
+    "MXBCS": {
+      "name": "Baja California Sur",
+      "sub_id": "MXBCS",
+      "sub_num": "BCS",
+      "bbox": {
+        "minLon": -115.766302,
+        "minLat": 22.87116516,
+        "maxLon": -109.4127988,
+        "maxLat": 28.00039923
+      }
+    },
+    "MXCAM": {
+      "name": "Campeche",
+      "sub_id": "MXCAM",
+      "sub_num": "CAM",
+      "bbox": {
+        "minLon": -92.46665335,
+        "minLat": 17.81467438,
+        "maxLon": -89.22983491,
+        "maxLat": 20.96026719
+      }
+    },
+    "MXCHP": {
+      "name": "Chiapas",
+      "sub_id": "MXCHP",
+      "sub_num": "CHP",
+      "bbox": {
+        "minLon": -94.19484353,
+        "minLat": 14.52937603,
+        "maxLon": -90.37120294,
+        "maxLat": 17.96266437
+      }
+    },
+    "MXCHH": {
+      "name": "Chihuahua",
+      "sub_id": "MXCHH",
+      "sub_num": "CHH",
+      "bbox": {
+        "minLon": -109.0001795,
+        "minLat": 25.56312561,
+        "maxLon": -103.2996316,
+        "maxLat": 31.7839154
+      }
+    },
+    "MXCMX": {
+      "name": "Ciudad de México",
+      "sub_id": "MXCMX",
+      "sub_num": "CMX",
+      "bbox": {
+        "minLon": -99.35625327,
+        "minLat": 19.04843152,
+        "maxLon": -98.93337262,
+        "maxLat": 19.59360123
+      }
+    },
+    "MXCOA": {
+      "name": "Coahuila de Zaragoza",
+      "sub_id": "MXCOA",
+      "sub_num": "COA",
+      "bbox": {
+        "minLon": -103.9857451,
+        "minLat": 24.54405785,
+        "maxLon": -99.84226537,
+        "maxLat": 29.87991142
+      }
+    },
+    "MXCOL": {
+      "name": "Colima",
+      "sub_id": "MXCOL",
+      "sub_num": "COL",
+      "bbox": {
+        "minLon": -114.7606204,
+        "minLat": 18.33791053,
+        "maxLon": -103.4859695,
+        "maxLat": 19.51240456
+      }
+    },
+    "MXDUR": {
+      "name": "Durango",
+      "sub_id": "MXDUR",
+      "sub_num": "DUR",
+      "bbox": {
+        "minLon": -107.2096285,
+        "minLat": 22.3447752,
+        "maxLon": -102.4727182,
+        "maxLat": 26.84535027
+      }
+    },
+    "MXGUA": {
+      "name": "Guanajuato",
+      "sub_id": "MXGUA",
+      "sub_num": "GUA",
+      "bbox": {
+        "minLon": -102.0937419,
+        "minLat": 19.90602493,
+        "maxLon": -99.69068384,
+        "maxLat": 21.84210777
+      }
+    },
+    "MXGRO": {
+      "name": "Guerrero",
+      "sub_id": "MXGRO",
+      "sub_num": "GRO",
+      "bbox": {
+        "minLon": -102.1846898,
+        "minLat": 16.30494368,
+        "maxLon": -98.07267606,
+        "maxLat": 18.91296387
+      }
+    },
+    "MXHID": {
+      "name": "Hidalgo",
+      "sub_id": "MXHID",
+      "sub_num": "HID",
+      "bbox": {
+        "minLon": -99.90072501,
+        "minLat": 19.58141327,
+        "maxLon": -97.97010982,
+        "maxLat": 21.39381409
+      }
+    },
+    "MXJAL": {
+      "name": "Jalisco",
+      "sub_id": "MXJAL",
+      "sub_num": "JAL",
+      "bbox": {
+        "minLon": -105.6952291,
+        "minLat": 18.92570972,
+        "maxLon": -101.5116531,
+        "maxLat": 22.74993896
+      }
+    },
+    "MXMIC": {
+      "name": "Michoacán de Ocampo",
+      "sub_id": "MXMIC",
+      "sub_num": "MIC",
+      "bbox": {
+        "minLon": -103.7370707,
+        "minLat": 17.3522296,
+        "maxLon": -100.0700525,
+        "maxLat": 20.39422989
+      }
+    },
+    "MXMOR": {
+      "name": "Morelos",
+      "sub_id": "MXMOR",
+      "sub_num": "MOR",
+      "bbox": {
+        "minLon": -99.50882125,
+        "minLat": 18.33137512,
+        "maxLon": -98.62632453,
+        "maxLat": 19.13755596
+      }
+    },
+    "MXMEX": {
+      "name": "México",
+      "sub_id": "MXMEX",
+      "sub_num": "MEX",
+      "bbox": {
+        "minLon": -100.6125172,
+        "minLat": 18.367939,
+        "maxLon": -98.60663092,
+        "maxLat": 20.28282166
+      }
+    },
+    "MXNAY": {
+      "name": "Nayarit",
+      "sub_id": "MXNAY",
+      "sub_num": "NAY",
+      "bbox": {
+        "minLon": -106.7033037,
+        "minLat": 20.60309887,
+        "maxLon": -103.721143,
+        "maxLat": 23.08495128
+      }
+    },
+    "MXNLE": {
+      "name": "Nuevo León",
+      "sub_id": "MXNLE",
+      "sub_num": "NLE",
+      "bbox": {
+        "minLon": -101.2010099,
+        "minLat": 23.18106651,
+        "maxLon": -98.43893254,
+        "maxLat": 27.79824257
+      }
+    },
+    "MXOAX": {
+      "name": "Oaxaca",
+      "sub_id": "MXOAX",
+      "sub_num": "OAX",
+      "bbox": {
+        "minLon": -98.51861429,
+        "minLat": 15.65635562,
+        "maxLon": -93.87574589,
+        "maxLat": 18.64963531
+      }
+    },
+    "MXPUE": {
+      "name": "Puebla",
+      "sub_id": "MXPUE",
+      "sub_num": "PUE",
+      "bbox": {
+        "minLon": -99.07075548,
+        "minLat": 17.84866333,
+        "maxLon": -96.72480917,
+        "maxLat": 20.84003449
+      }
+    },
+    "MXQUE": {
+      "name": "Querétaro",
+      "sub_id": "MXQUE",
+      "sub_num": "QUE",
+      "bbox": {
+        "minLon": -100.5780352,
+        "minLat": 20.00902176,
+        "maxLon": -99.04597139,
+        "maxLat": 21.63092458
+      }
+    },
+    "MXROO": {
+      "name": "Quintana Roo",
+      "sub_id": "MXROO",
+      "sub_num": "ROO",
+      "bbox": {
+        "minLon": -89.43975055,
+        "minLat": 17.81673431,
+        "maxLon": -86.71042502,
+        "maxLat": 21.60484159
+      }
+    },
+    "MXSLP": {
+      "name": "San Luis Potosí",
+      "sub_id": "MXSLP",
+      "sub_num": "SLP",
+      "bbox": {
+        "minLon": -102.301193,
+        "minLat": 21.16018295,
+        "maxLon": -98.35493338,
+        "maxLat": 24.55109596
+      }
+    },
+    "MXSIN": {
+      "name": "Sinaloa",
+      "sub_id": "MXSIN",
+      "sub_num": "SIN",
+      "bbox": {
+        "minLon": -109.4478279,
+        "minLat": 22.47210872,
+        "maxLon": -105.3928944,
+        "maxLat": 27.05984116
+      }
+    },
+    "MXSON": {
+      "name": "Sonora",
+      "sub_id": "MXSON",
+      "sub_num": "SON",
+      "bbox": {
+        "minLon": -115.0324581,
+        "minLat": 26.22153544,
+        "maxLon": -108.4304492,
+        "maxLat": 32.4944284
+      }
+    },
+    "MXTAB": {
+      "name": "Tabasco",
+      "sub_id": "MXTAB",
+      "sub_num": "TAB",
+      "bbox": {
+        "minLon": -94.12914765,
+        "minLat": 17.25130653,
+        "maxLon": -90.98497701,
+        "maxLat": 18.65006328
+      }
+    },
+    "MXTAM": {
+      "name": "Tamaulipas",
+      "sub_id": "MXTAM",
+      "sub_num": "TAM",
+      "bbox": {
+        "minLon": -100.1291192,
+        "minLat": 22.20859408,
+        "maxLon": -97.14378715,
+        "maxLat": 27.66999185
+      }
+    },
+    "MXTLA": {
+      "name": "Tlaxcala",
+      "sub_id": "MXTLA",
+      "sub_num": "TLA",
+      "bbox": {
+        "minLon": -98.71339655,
+        "minLat": 19.09599781,
+        "maxLon": -97.63058925,
+        "maxLat": 19.74294662
+      }
+    },
+    "MXVER": {
+      "name": "Veracruz de Ignacio de la Llave",
+      "sub_id": "MXVER",
+      "sub_num": "VER",
+      "bbox": {
+        "minLon": -98.65699601,
+        "minLat": 17.06537187,
+        "maxLon": -93.61417103,
+        "maxLat": 22.47167587
+      }
+    },
+    "MXYUC": {
+      "name": "Yucatán",
+      "sub_id": "MXYUC",
+      "sub_num": "YUC",
+      "bbox": {
+        "minLon": -91.39994562,
+        "minLat": 19.56321716,
+        "maxLon": -87.53922439,
+        "maxLat": 22.52895176
+      }
+    },
+    "MXZAC": {
+      "name": "Zacatecas",
+      "sub_id": "MXZAC",
+      "sub_num": "ZAC",
+      "bbox": {
+        "minLon": -104.3546475,
+        "minLat": 21.0419941,
+        "maxLon": -100.8039522,
+        "maxLat": 25.15328407
+      }
+    }
+  }
+  

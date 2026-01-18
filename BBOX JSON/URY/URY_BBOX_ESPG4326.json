@@ -1,0 +1,212 @@
+{
+    "UYAR": {
+      "name": "Artigas",
+      "sub_id": "UYAR",
+      "sub_num": "AR",
+      "bbox": {
+        "minLon": -57.89397514,
+        "minLat": -31.07639551,
+        "maxLon": -55.99026287,
+        "maxLat": -30.08521199
+      }
+    },
+    "UYCA": {
+      "name": "Canelones",
+      "sub_id": "UYCA",
+      "sub_num": "CA",
+      "bbox": {
+        "minLon": -56.49433458,
+        "minLat": -34.94739008,
+        "maxLon": -55.39440525,
+        "maxLat": -34.20704842
+      }
+    },
+    "UYCL": {
+      "name": "Cerro Largo",
+      "sub_id": "UYCL",
+      "sub_num": "CL",
+      "bbox": {
+        "minLon": -55.36139774,
+        "minLat": -33.02885056,
+        "maxLon": -53.06778729,
+        "maxLat": -31.6507839
+      }
+    },
+    "UYCO": {
+      "name": "Colonia",
+      "sub_id": "UYCO",
+      "sub_num": "CO",
+      "bbox": {
+        "minLon": -58.42515552,
+        "minLat": -34.48504329,
+        "maxLon": -56.95757544,
+        "maxLat": -33.76429081
+      }
+    },
+    "UYDU": {
+      "name": "Durazno",
+      "sub_id": "UYDU",
+      "sub_num": "DU",
+      "bbox": {
+        "minLon": -57.19716764,
+        "minLat": -33.50641251,
+        "maxLon": -55.00555468,
+        "maxLat": -32.40949631
+      }
+    },
+    "UYFS": {
+      "name": "Flores",
+      "sub_id": "UYFS",
+      "sub_num": "FS",
+      "bbox": {
+        "minLon": -57.36201191,
+        "minLat": -33.98491859,
+        "maxLon": -56.39659095,
+        "maxLat": -33.10764313
+      }
+    },
+    "UYFD": {
+      "name": "Florida",
+      "sub_id": "UYFD",
+      "sub_num": "FD",
+      "bbox": {
+        "minLon": -56.54009473,
+        "minLat": -34.42609513,
+        "maxLon": -55.11174977,
+        "maxLat": -33.11187029
+      }
+    },
+    "UYLA": {
+      "name": "Lavalleja",
+      "sub_id": "UYLA",
+      "sub_num": "LA",
+      "bbox": {
+        "minLon": -55.62933552,
+        "minLat": -34.63550961,
+        "maxLon": -54.12889886,
+        "maxLat": -33.31947327
+      }
+    },
+    "UYMA": {
+      "name": "Maldonado",
+      "sub_id": "UYMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": -55.48381996,
+        "minLat": -35.02984285,
+        "maxLon": -54.46390092,
+        "maxLat": -33.93269062
+      }
+    },
+    "UYMO": {
+      "name": "Montevideo",
+      "sub_id": "UYMO",
+      "sub_num": "MO",
+      "bbox": {
+        "minLon": -56.43123829,
+        "minLat": -34.93768215,
+        "maxLon": -56.02971554,
+        "maxLat": -34.70169067
+      }
+    },
+    "UYPA": {
+      "name": "Paysandú",
+      "sub_id": "UYPA",
+      "sub_num": "PA",
+      "bbox": {
+        "minLon": -58.19560766,
+        "minLat": -32.59540558,
+        "maxLon": -56.2380625,
+        "maxLat": -31.45265579
+      }
+    },
+    "UYRV": {
+      "name": "Rivera",
+      "sub_id": "UYRV",
+      "sub_num": "RV",
+      "bbox": {
+        "minLon": -56.18538463,
+        "minLat": -32.11037636,
+        "maxLon": -54.45263147,
+        "maxLat": -30.84068298
+      }
+    },
+    "UYRO": {
+      "name": "Rocha",
+      "sub_id": "UYRO",
+      "sub_num": "RO",
+      "bbox": {
+        "minLon": -54.56945121,
+        "minLat": -34.82628763,
+        "maxLon": -53.36888397,
+        "maxLat": -33.14136124
+      }
+    },
+    "UYRN": {
+      "name": "Río Negro",
+      "sub_id": "UYRN",
+      "sub_num": "RN",
+      "bbox": {
+        "minLon": -58.42388999,
+        "minLat": -33.41168237,
+        "maxLon": -56.54701269,
+        "maxLat": -32.32699156
+      }
+    },
+    "UYSA": {
+      "name": "Salto",
+      "sub_id": "UYSA",
+      "sub_num": "SA",
+      "bbox": {
+        "minLon": -58.08337545,
+        "minLat": -31.86756134,
+        "maxLon": -56.01092088,
+        "maxLat": -30.74214935
+      }
+    },
+    "UYSJ": {
+      "name": "San José",
+      "sub_id": "UYSJ",
+      "sub_num": "SJ",
+      "bbox": {
+        "minLon": -57.15205979,
+        "minLat": -34.79567707,
+        "maxLon": -56.34400845,
+        "maxLat": -33.84572268
+      }
+    },
+    "UYSO": {
+      "name": "Soriano",
+      "sub_id": "UYSO",
+      "sub_num": "SO",
+      "bbox": {
+        "minLon": -58.43898082,
+        "minLat": -33.96000624,
+        "maxLon": -57.08867526,
+        "maxLat": -33.0004648
+      }
+    },
+    "UYTA": {
+      "name": "Tacuarembó",
+      "sub_id": "UYTA",
+      "sub_num": "TA",
+      "bbox": {
+        "minLon": -56.68374026,
+        "minLat": -32.86648035,
+        "maxLon": -54.66769052,
+        "maxLat": -31.23072982
+      }
+    },
+    "UYTT": {
+      "name": "Treinta y Tres",
+      "sub_id": "UYTT",
+      "sub_num": "TT",
+      "bbox": {
+        "minLon": -55.15909457,
+        "minLat": -33.46100807,
+        "maxLon": -53.15704536,
+        "maxLat": -32.64072418
+      }
+    }
+  }
+  

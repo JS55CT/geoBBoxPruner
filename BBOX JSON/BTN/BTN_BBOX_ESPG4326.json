@@ -1,0 +1,223 @@
+{
+    "BT33": {
+      "name": "Bumthang",
+      "sub_id": "BT33",
+      "sub_num": "33",
+      "bbox": {
+        "minLon": 90.4908514,
+        "minLat": 27.34223485,
+        "maxLon": 91.06345308,
+        "maxLat": 28.07989597
+      }
+    },
+    "BT12": {
+      "name": "Chhukha",
+      "sub_id": "BT12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 89.27366698,
+        "minLat": 26.76340902,
+        "maxLon": 89.82783759,
+        "maxLat": 27.2672081
+      }
+    },
+    "BT22": {
+      "name": "Dagana",
+      "sub_id": "BT22",
+      "sub_num": "22",
+      "bbox": {
+        "minLon": 89.63377368,
+        "minLat": 26.79604053,
+        "maxLon": 90.07610321,
+        "maxLat": 27.28094101
+      }
+    },
+    "BTGA": {
+      "name": "Gasa",
+      "sub_id": "BTGA",
+      "sub_num": "GA",
+      "bbox": {
+        "minLon": 89.45229125,
+        "minLat": 27.70477295,
+        "maxLon": 90.61613369,
+        "maxLat": 28.35090637
+      }
+    },
+    "BT13": {
+      "name": "Haa",
+      "sub_id": "BT13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 88.90133822,
+        "minLat": 27.02713966,
+        "maxLon": 89.38551891,
+        "maxLat": 27.62616277
+      }
+    },
+    "BT44": {
+      "name": "Lhuentse",
+      "sub_id": "BT44",
+      "sub_num": "44",
+      "bbox": {
+        "minLon": 90.77962863,
+        "minLat": 27.38325119,
+        "maxLon": 91.49098921,
+        "maxLat": 28.07121635
+      }
+    },
+    "BT42": {
+      "name": "Monggar",
+      "sub_id": "BT42",
+      "sub_num": "42",
+      "bbox": {
+        "minLon": 90.95613742,
+        "minLat": 26.95126534,
+        "maxLon": 91.49951339,
+        "maxLat": 27.49119401
+      }
+    },
+    "BT11": {
+      "name": "Paro",
+      "sub_id": "BT11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 89.1268276,
+        "minLat": 27.16720521,
+        "maxLon": 89.57731569,
+        "maxLat": 27.87265778
+      }
+    },
+    "BT43": {
+      "name": "Pema Gatshel",
+      "sub_id": "BT43",
+      "sub_num": "43",
+      "bbox": {
+        "minLon": 91.17499995,
+        "minLat": 26.85379386,
+        "maxLon": 91.51467526,
+        "maxLat": 27.17004776
+      }
+    },
+    "BT23": {
+      "name": "Punakha",
+      "sub_id": "BT23",
+      "sub_num": "23",
+      "bbox": {
+        "minLon": 89.73127842,
+        "minLat": 27.52658844,
+        "maxLon": 90.03951883,
+        "maxLat": 27.86944985
+      }
+    },
+    "BT45": {
+      "name": "Samdrup Jongkhar",
+      "sub_id": "BT45",
+      "sub_num": "45",
+      "bbox": {
+        "minLon": 91.07203519,
+        "minLat": 26.78177118,
+        "maxLon": 92.12049699,
+        "maxLat": 27.15949058
+      }
+    },
+    "BT14": {
+      "name": "Samtse",
+      "sub_id": "BT14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 88.74759686,
+        "minLat": 26.80372238,
+        "maxLon": 89.37771738,
+        "maxLat": 27.2778976
+      }
+    },
+    "BT31": {
+      "name": "Sarpang",
+      "sub_id": "BT31",
+      "sub_num": "31",
+      "bbox": {
+        "minLon": 89.62399459,
+        "minLat": 26.69897675,
+        "maxLon": 90.89016747,
+        "maxLat": 27.15017796
+      }
+    },
+    "BT15": {
+      "name": "Thimphu",
+      "sub_id": "BT15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 89.36941361,
+        "minLat": 27.1449852,
+        "maxLon": 89.87584412,
+        "maxLat": 28.00055623
+      }
+    },
+    "BTTY": {
+      "name": "Trashi Yangtse",
+      "sub_id": "BTTY",
+      "sub_num": "TY",
+      "bbox": {
+        "minLon": 91.27849603,
+        "minLat": 27.35939026,
+        "maxLon": 91.76651943,
+        "maxLat": 27.94518471
+      }
+    },
+    "BT41": {
+      "name": "Trashigang",
+      "sub_id": "BT41",
+      "sub_num": "41",
+      "bbox": {
+        "minLon": 91.37560785,
+        "minLat": 26.93796158,
+        "maxLon": 92.125,
+        "maxLat": 27.48547554
+      }
+    },
+    "BT32": {
+      "name": "Trongsa",
+      "sub_id": "BT32",
+      "sub_num": "32",
+      "bbox": {
+        "minLon": 90.25789118,
+        "minLat": 27.0476532,
+        "maxLon": 90.74732816,
+        "maxLat": 27.79335022
+      }
+    },
+    "BT21": {
+      "name": "Tsirang",
+      "sub_id": "BT21",
+      "sub_num": "21",
+      "bbox": {
+        "minLon": 90.00634229,
+        "minLat": 26.82394624,
+        "maxLon": 90.3421942,
+        "maxLat": 27.19184876
+      }
+    },
+    "BT24": {
+      "name": "Wangdue Phodrang",
+      "sub_id": "BT24",
+      "sub_num": "24",
+      "bbox": {
+        "minLon": 89.6379571,
+        "minLat": 27.11750221,
+        "maxLon": 90.53433526,
+        "maxLat": 28.06740761
+      }
+    },
+    "BT34": {
+      "name": "Zhemgang",
+      "sub_id": "BT34",
+      "sub_num": "34",
+      "bbox": {
+        "minLon": 90.51602936,
+        "minLat": 26.78246546,
+        "maxLon": 91.18250871,
+        "maxLat": 27.38491416
+      }
+    }
+  }
+  

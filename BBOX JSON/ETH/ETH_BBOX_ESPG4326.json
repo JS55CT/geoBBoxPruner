@@ -1,0 +1,135 @@
+{
+    "ETBE": {
+      "name": "Bīnshangul Gumuz",
+      "sub_id": "ETBE",
+      "sub_num": "BE",
+      "bbox": {
+        "minLon": 34.10203576,
+        "minLat": 8.787616015,
+        "maxLon": 37.03793955,
+        "maxLat": 12.05981255
+      }
+    },
+    "ETDD": {
+      "name": "Dirē Dawa",
+      "sub_id": "ETDD",
+      "sub_num": "DD",
+      "bbox": {
+        "minLon": 41.73120284,
+        "minLat": 9.475816012,
+        "maxLon": 42.34380281,
+        "maxLat": 9.787016034
+      }
+    },
+    "ETGA": {
+      "name": "Gambēla Hizboch",
+      "sub_id": "ETGA",
+      "sub_num": "GA",
+      "bbox": {
+        "minLon": 32.99776292,
+        "minLat": 7.0014292,
+        "maxLon": 35.36720276,
+        "maxLat": 8.612316012
+      }
+    },
+    "ETHA": {
+      "name": "Hārerī Hizb",
+      "sub_id": "ETHA",
+      "sub_num": "HA",
+      "bbox": {
+        "minLon": 42.0624522,
+        "minLat": 9.189316034,
+        "maxLon": 42.27530277,
+        "maxLat": 9.392016053
+      }
+    },
+    "ETOR": {
+      "name": "Oromīya",
+      "sub_id": "ETOR",
+      "sub_num": "OR",
+      "bbox": {
+        "minLon": 34.12861705,
+        "minLat": 3.516933918,
+        "maxLon": 42.9156028,
+        "maxLat": 10.39134979
+      }
+    },
+    "ETSO": {
+      "name": "Sumalē",
+      "sub_id": "ETSO",
+      "sub_num": "SO",
+      "bbox": {
+        "minLon": 39.09170198,
+        "minLat": 3.403186799,
+        "maxLon": 47.99970639,
+        "maxLat": 11.09670639
+      }
+    },
+    "ETSI": {
+      "name": "Sīdama",
+      "sub_id": "ETSI",
+      "sub_num": "SI",
+      "bbox": {
+        "minLon": 37.9831177,
+        "minLat": 6.142416001,
+        "maxLon": 39.14352334,
+        "maxLat": 7.168616057
+      }
+    },
+    "ETTI": {
+      "name": "Tigray",
+      "sub_id": "ETTI",
+      "sub_num": "TI",
+      "bbox": {
+        "minLon": 36.45137024,
+        "minLat": 12.255216,
+        "maxLon": 39.99615335,
+        "maxLat": 14.89419937
+      }
+    },
+    "ETSN": {
+      "name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+      "sub_id": "ETSN",
+      "sub_num": "SN",
+      "bbox": {
+        "minLon": 34.18908167,
+        "minLat": 4.44190979,
+        "maxLon": 38.71960282,
+        "maxLat": 8.46161604
+      }
+    },
+    "ETAA": {
+      "name": "Ādīs Ābeba",
+      "sub_id": "ETAA",
+      "sub_num": "AA",
+      "bbox": {
+        "minLon": 38.65640283,
+        "minLat": 8.833016038,
+        "maxLon": 38.90682268,
+        "maxLat": 9.098716021
+      }
+    },
+    "ETAF": {
+      "name": "Āfar",
+      "sub_id": "ETAF",
+      "sub_num": "AF",
+      "bbox": {
+        "minLon": 39.6634028,
+        "minLat": 8.834381104,
+        "maxLon": 42.40426803,
+        "maxLat": 14.54916596
+      }
+    },
+    "ETAM": {
+      "name": "Āmara",
+      "sub_id": "ETAM",
+      "sub_num": "AM",
+      "bbox": {
+        "minLon": 35.26078653,
+        "minLat": 8.735216021,
+        "maxLon": 40.19940281,
+        "maxLat": 13.77794409
+      }
+    }
+  }
+  

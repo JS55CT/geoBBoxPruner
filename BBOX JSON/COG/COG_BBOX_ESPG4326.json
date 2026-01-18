@@ -1,0 +1,135 @@
+{
+    "CG11": {
+      "name": "Bouenza",
+      "sub_id": "CG11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 12.59406447,
+        "minLat": -4.781627655,
+        "maxLon": 14.3804245,
+        "maxLat": -3.47792387
+      }
+    },
+    "CGBZV": {
+      "name": "Brazzaville",
+      "sub_id": "CGBZV",
+      "sub_num": "BZV",
+      "bbox": {
+        "minLon": 15.22720659,
+        "minLat": -4.318828583,
+        "maxLon": 15.31393623,
+        "maxLat": -4.225273133
+      }
+    },
+    "CG8": {
+      "name": "Cuvette",
+      "sub_id": "CG8",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 14.3644402,
+        "minLat": -2.036429643,
+        "maxLon": 17.51519966,
+        "maxLat": 0.415935517
+      }
+    },
+    "CG15": {
+      "name": "Cuvette-Ouest",
+      "sub_id": "CG15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 13.88546777,
+        "minLat": -1.259651184,
+        "maxLon": 15.35120714,
+        "maxLat": 1.391388655
+      }
+    },
+    "CG5": {
+      "name": "Kouilou",
+      "sub_id": "CG5",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 11.1490674,
+        "minLat": -5.030147195,
+        "maxLon": 12.77923882,
+        "maxLat": -3.464813233
+      }
+    },
+    "CG7": {
+      "name": "Likouala",
+      "sub_id": "CG7",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 16.44274592,
+        "minLat": -0.750959039,
+        "maxLon": 18.64924955,
+        "maxLat": 3.709259033
+      }
+    },
+    "CG2": {
+      "name": "Lékoumou",
+      "sub_id": "CG2",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 12.60878205,
+        "minLat": -4.04918027,
+        "maxLon": 14.35074651,
+        "maxLat": -2.093753815
+      }
+    },
+    "CG9": {
+      "name": "Niari",
+      "sub_id": "CG9",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 11.51704133,
+        "minLat": -4.920330047,
+        "maxLon": 13.62545824,
+        "maxLat": -1.813602447
+      }
+    },
+    "CG14": {
+      "name": "Plateaux",
+      "sub_id": "CG14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 14.11062872,
+        "minLat": -3.096173048,
+        "maxLon": 16.63998866,
+        "maxLat": -0.933769226
+      }
+    },
+    "CG16": {
+      "name": "Pointe-Noire",
+      "sub_id": "CG16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 11.82328057,
+        "minLat": -4.844121575,
+        "maxLon": 11.9102639,
+        "maxLat": -4.764204025
+      }
+    },
+    "CG12": {
+      "name": "Pool",
+      "sub_id": "CG12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 13.86162543,
+        "minLat": -4.921574593,
+        "maxLon": 16.21359205,
+        "maxLat": -2.713263631
+      }
+    },
+    "CG13": {
+      "name": "Sangha",
+      "sub_id": "CG13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 13.12493014,
+        "minLat": 0.034439564,
+        "maxLon": 17.04972076,
+        "maxLat": 2.719464183
+      }
+    }
+  }
+  

@@ -1,0 +1,179 @@
+{
+    "PSBTH": {
+      "name": "Bethlehem",
+      "sub_id": "PSBTH",
+      "sub_num": "BTH",
+      "bbox": {
+        "minLon": 35.07304203,
+        "minLat": 31.4626435,
+        "maxLon": 35.53474188,
+        "maxLat": 31.74485564
+      }
+    },
+    "PSDEB": {
+      "name": "Deir El Balah",
+      "sub_id": "PSDEB",
+      "sub_num": "DEB",
+      "bbox": {
+        "minLon": 34.29659116,
+        "minLat": 31.3724097,
+        "maxLon": 34.42499518,
+        "maxLat": 31.46656036
+      }
+    },
+    "PSGZA": {
+      "name": "Gaza",
+      "sub_id": "PSGZA",
+      "sub_num": "GZA",
+      "bbox": {
+        "minLon": 34.37541425,
+        "minLat": 31.42656636,
+        "maxLon": 34.51600444,
+        "maxLat": 31.54576433
+      }
+    },
+    "PSHBN": {
+      "name": "Hebron",
+      "sub_id": "PSHBN",
+      "sub_num": "HBN",
+      "bbox": {
+        "minLon": 34.88036633,
+        "minLat": 31.3424921,
+        "maxLon": 35.35493255,
+        "maxLat": 31.68272495
+      }
+    },
+    "PSJEN": {
+      "name": "Jenin",
+      "sub_id": "PSJEN",
+      "sub_num": "JEN",
+      "bbox": {
+        "minLon": 35.07428932,
+        "minLat": 32.30374753,
+        "maxLon": 35.43896997,
+        "maxLat": 32.5529784
+      }
+    },
+    "PSJRH": {
+      "name": "Jericho - Al Aghwar",
+      "sub_id": "PSJRH",
+      "sub_num": "JRH",
+      "bbox": {
+        "minLon": 35.38107514,
+        "minLat": 31.73022354,
+        "maxLon": 35.56991673,
+        "maxLat": 32.2397232
+      }
+    },
+    "PSJEM": {
+      "name": "Jerusalem",
+      "sub_id": "PSJEM",
+      "sub_num": "JEM",
+      "bbox": {
+        "minLon": 35.07419169,
+        "minLat": 31.70580268,
+        "maxLon": 35.54112422,
+        "maxLat": 31.88743115
+      }
+    },
+    "PSKYS": {
+      "name": "Khan Yunis",
+      "sub_id": "PSKYS",
+      "sub_num": "KYS",
+      "bbox": {
+        "minLon": 34.24420464,
+        "minLat": 31.26156175,
+        "maxLon": 34.37337363,
+        "maxLat": 31.39301026
+      }
+    },
+    "PSNBS": {
+      "name": "Nablus",
+      "sub_id": "PSNBS",
+      "sub_num": "NBS",
+      "bbox": {
+        "minLon": 35.14331889,
+        "minLat": 32.01124191,
+        "maxLon": 35.44937491,
+        "maxLat": 32.32821465
+      }
+    },
+    "PSNGZ": {
+      "name": "North Gaza",
+      "sub_id": "PSNGZ",
+      "sub_num": "NGZ",
+      "bbox": {
+        "minLon": 34.45258546,
+        "minLat": 31.50139213,
+        "maxLon": 34.56780005,
+        "maxLat": 31.59520125
+      }
+    },
+    "PSQQA": {
+      "name": "Qalqilya",
+      "sub_id": "PSQQA",
+      "sub_num": "QQA",
+      "bbox": {
+        "minLon": 34.95755887,
+        "minLat": 32.10617065,
+        "maxLon": 35.18729126,
+        "maxLat": 32.25362778
+      }
+    },
+    "PSRFH": {
+      "name": "Rafah",
+      "sub_id": "PSRFH",
+      "sub_num": "RFH",
+      "bbox": {
+        "minLon": 34.21779025,
+        "minLat": 31.2194109,
+        "maxLon": 34.33084405,
+        "maxLat": 31.34650004
+      }
+    },
+    "PSRBH": {
+      "name": "Ramallah",
+      "sub_id": "PSRBH",
+      "sub_num": "RBH",
+      "bbox": {
+        "minLon": 34.95683634,
+        "minLat": 31.8156693,
+        "maxLon": 35.42530251,
+        "maxLat": 32.07160234
+      }
+    },
+    "PSSLT": {
+      "name": "Salfit",
+      "sub_id": "PSSLT",
+      "sub_num": "SLT",
+      "bbox": {
+        "minLon": 34.98336685,
+        "minLat": 32.04317093,
+        "maxLon": 35.26653135,
+        "maxLat": 32.16796875
+      }
+    },
+    "PSTBS": {
+      "name": "Tubas",
+      "sub_id": "PSTBS",
+      "sub_num": "TBS",
+      "bbox": {
+        "minLon": 35.32789362,
+        "minLat": 32.17964172,
+        "maxLon": 35.57387257,
+        "maxLat": 32.41275787
+      }
+    },
+    "PSTKM": {
+      "name": "Tulkarm",
+      "sub_id": "PSTKM",
+      "sub_num": "TKM",
+      "bbox": {
+        "minLon": 35.00899613,
+        "minLat": 32.20122814,
+        "maxLon": 35.17707372,
+        "maxLat": 32.46090889
+      }
+    }
+  }
+  

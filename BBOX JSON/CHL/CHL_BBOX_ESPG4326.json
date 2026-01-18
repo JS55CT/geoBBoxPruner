@@ -1,0 +1,179 @@
+{
+    "CLAI": {
+      "name": "Aisén del General Carlos Ibáñez del Campo",
+      "sub_id": "CLAI",
+      "sub_num": "AI",
+      "bbox": {
+        "minLon": -75.67730164,
+        "minLat": -49.2105763,
+        "maxLon": -71.09080005,
+        "maxLat": -43.67533207
+      }
+    },
+    "CLAN": {
+      "name": "Antofagasta",
+      "sub_id": "CLAN",
+      "sub_num": "AN",
+      "bbox": {
+        "minLon": -70.74176908,
+        "minLat": -26.14849091,
+        "maxLon": -66.99049997,
+        "maxLat": -20.88390303
+      }
+    },
+    "CLAP": {
+      "name": "Arica y Parinacota",
+      "sub_id": "CLAP",
+      "sub_num": "AP",
+      "bbox": {
+        "minLon": -70.37794256,
+        "minLat": -19.18736625,
+        "maxLon": -68.91153896,
+        "maxLat": -17.49834812
+      }
+    },
+    "CLAT": {
+      "name": "Atacama",
+      "sub_id": "CLAT",
+      "sub_num": "AT",
+      "bbox": {
+        "minLon": -71.59269905,
+        "minLat": -29.76223397,
+        "maxLon": -68.26317,
+        "maxLat": -25.28488398
+      }
+    },
+    "CLBI": {
+      "name": "Biobío",
+      "sub_id": "CLBI",
+      "sub_num": "BI",
+      "bbox": {
+        "minLon": -73.96186769,
+        "minLat": -38.49152982,
+        "maxLon": -71.09258997,
+        "maxLat": -36.44186437
+      }
+    },
+    "CLCO": {
+      "name": "Coquimbo",
+      "sub_id": "CLCO",
+      "sub_num": "CO",
+      "bbox": {
+        "minLon": -71.71875,
+        "minLat": -32.28242397,
+        "maxLon": -69.80919004,
+        "maxLat": -29.05360222
+      }
+    },
+    "CLAR": {
+      "name": "La Araucanía",
+      "sub_id": "CLAR",
+      "sub_num": "AR",
+      "bbox": {
+        "minLon": -73.53056896,
+        "minLat": -39.63730705,
+        "maxLon": -70.82692003,
+        "maxLat": -37.58987844
+      }
+    },
+    "CLLI": {
+      "name": "Libertador General Bernardo O'Higgins",
+      "sub_id": "CLLI",
+      "sub_num": "LI",
+      "bbox": {
+        "minLon": -72.06964982,
+        "minLat": -35.00531006,
+        "maxLon": -70.00913,
+        "maxLat": -33.85085106
+      }
+    },
+    "CLLL": {
+      "name": "Los Lagos",
+      "sub_id": "CLLL",
+      "sub_num": "LL",
+      "bbox": {
+        "minLon": -74.84162831,
+        "minLat": -43.95166397,
+        "maxLon": -71.58074701,
+        "maxLat": -39.44889271
+      }
+    },
+    "CLLR": {
+      "name": "Los Ríos",
+      "sub_id": "CLLR",
+      "sub_num": "LR",
+      "bbox": {
+        "minLon": -73.72710919,
+        "minLat": -40.68033457,
+        "maxLon": -71.59267998,
+        "maxLat": -39.28736687
+      }
+    },
+    "CLMA": {
+      "name": "Magallanes",
+      "sub_id": "CLMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": -75.74491584,
+        "minLat": -56.52470112,
+        "maxLon": -66.414891,
+        "maxLat": -48.59462118
+      }
+    },
+    "CLML": {
+      "name": "Maule",
+      "sub_id": "CLML",
+      "sub_num": "ML",
+      "bbox": {
+        "minLon": -72.7515918,
+        "minLat": -36.5504688,
+        "maxLon": -70.31182003,
+        "maxLat": -34.71207619
+      }
+    },
+    "CLRM": {
+      "name": "Región Metropolitana de Santiago",
+      "sub_id": "CLRM",
+      "sub_num": "RM",
+      "bbox": {
+        "minLon": -71.9863354,
+        "minLat": -34.29093003,
+        "maxLon": -69.7687,
+        "maxLat": -32.91405201
+      }
+    },
+    "CLTA": {
+      "name": "Tarapacá",
+      "sub_id": "CLTA",
+      "sub_num": "TA",
+      "bbox": {
+        "minLon": -70.28674126,
+        "minLat": -21.46378756,
+        "maxLon": -68.40493298,
+        "maxLat": -18.93663001
+      }
+    },
+    "CLVS": {
+      "name": "Valparaíso",
+      "sub_id": "CLVS",
+      "sub_num": "VS",
+      "bbox": {
+        "minLon": -109.4549843,
+        "minLat": -33.81746161,
+        "maxLon": -69.98933005,
+        "maxLat": -26.28618586
+      }
+    },
+    "CLNB": {
+      "name": "Ñuble",
+      "sub_id": "CLNB",
+      "sub_num": "NB",
+      "bbox": {
+        "minLon": -72.88626993,
+        "minLat": -37.1973896,
+        "maxLon": -71.00715995,
+        "maxLat": -35.95455575
+      }
+    }
+  }
+  

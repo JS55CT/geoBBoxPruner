@@ -1,0 +1,157 @@
+{
+    "CIAB": {
+      "name": "Abidjan",
+      "sub_id": "CIAB",
+      "sub_num": "AB",
+      "bbox": {
+        "minLon": -4.455731154,
+        "minLat": 5.220756054,
+        "maxLon": -3.721302629,
+        "maxLat": 5.608520508
+      }
+    },
+    "CIBS": {
+      "name": "Bas-Sassandra",
+      "sub_id": "CIBS",
+      "sub_num": "BS",
+      "bbox": {
+        "minLon": -7.599567056,
+        "minLat": 4.361607194,
+        "maxLon": -5.370438576,
+        "maxLat": 6.560510993
+      }
+    },
+    "CICM": {
+      "name": "Comoé",
+      "sub_id": "CICM",
+      "sub_num": "CM",
+      "bbox": {
+        "minLon": -3.846573472,
+        "minLat": 5.092288017,
+        "maxLon": -2.723573207,
+        "maxLat": 7.353533506
+      }
+    },
+    "CIDN": {
+      "name": "Denguélé",
+      "sub_id": "CIDN",
+      "sub_num": "DN",
+      "bbox": {
+        "minLon": -8.163637877,
+        "minLat": 8.507060409,
+        "maxLon": -6.568410516,
+        "maxLat": 10.46242833
+      }
+    },
+    "CIGD": {
+      "name": "Gôh-Djiboua",
+      "sub_id": "CIGD",
+      "sub_num": "GD",
+      "bbox": {
+        "minLon": -6.40141964,
+        "minLat": 5.09765625,
+        "maxLon": -4.935961246,
+        "maxLat": 6.65102005
+      }
+    },
+    "CILC": {
+      "name": "Lacs",
+      "sub_id": "CILC",
+      "sub_num": "LC",
+      "bbox": {
+        "minLon": -5.668314814,
+        "minLat": 6.177921295,
+        "maxLon": -3.500678182,
+        "maxLat": 8.050517797
+      }
+    },
+    "CILG": {
+      "name": "Lagunes",
+      "sub_id": "CILG",
+      "sub_num": "LG",
+      "bbox": {
+        "minLon": -5.511082173,
+        "minLat": 5.092411399,
+        "maxLon": -3.314661503,
+        "maxLat": 6.647500992
+      }
+    },
+    "CIMG": {
+      "name": "Montagnes",
+      "sub_id": "CIMG",
+      "sub_num": "MG",
+      "bbox": {
+        "minLon": -8.604333878,
+        "minLat": 5.617790222,
+        "maxLon": -6.972802043,
+        "maxLat": 8.159419299
+      }
+    },
+    "CISM": {
+      "name": "Sassandra-Marahoué",
+      "sub_id": "CISM",
+      "sub_num": "SM",
+      "bbox": {
+        "minLon": -7.089339852,
+        "minLat": 6.265640259,
+        "maxLon": -5.400267601,
+        "maxLat": 7.800400257
+      }
+    },
+    "CISV": {
+      "name": "Savanes",
+      "sub_id": "CISV",
+      "sub_num": "SV",
+      "bbox": {
+        "minLon": -6.957736373,
+        "minLat": 8.530130864,
+        "maxLon": -3.777898311,
+        "maxLat": 10.73810041
+      }
+    },
+    "CIVB": {
+      "name": "Vallée du Bandama",
+      "sub_id": "CIVB",
+      "sub_num": "VB",
+      "bbox": {
+        "minLon": -5.768333435,
+        "minLat": 7.196366787,
+        "maxLon": -3.900636673,
+        "maxLat": 9.424681664
+      }
+    },
+    "CIWR": {
+      "name": "Woroba",
+      "sub_id": "CIWR",
+      "sub_num": "WR",
+      "bbox": {
+        "minLon": -8.243153453,
+        "minLat": 7.542103529,
+        "maxLon": -5.335663796,
+        "maxLat": 9.209469795
+      }
+    },
+    "CIYM": {
+      "name": "Yamoussoukro",
+      "sub_id": "CIYM",
+      "sub_num": "YM",
+      "bbox": {
+        "minLon": -5.530625701,
+        "minLat": 6.550623179,
+        "maxLon": -4.949362874,
+        "maxLat": 7.077233791
+      }
+    },
+    "CIZZ": {
+      "name": "Zanzan",
+      "sub_id": "CIZZ",
+      "sub_num": "ZZ",
+      "bbox": {
+        "minLon": -4.314189315,
+        "minLat": 7.043119669,
+        "maxLon": -2.493031025,
+        "maxLat": 9.958591461
+      }
+    }
+  }
+  

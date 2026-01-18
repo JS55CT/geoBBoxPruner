@@ -1,0 +1,69 @@
+{
+    "AZ": {
+      "name": "Azerbaijan",
+      "sub_id": "AZ",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 45.08976758,
+        "minLat": 38.39226806,
+        "maxLon": 50.91520298,
+        "maxLat": 41.73872352
+      }
+    },
+    "AZBAL": {
+      "name": "Balakən",
+      "sub_id": "AZBAL",
+      "sub_num": "BAL",
+      "bbox": {
+        "minLon": 46.17859006,
+        "minLat": 41.57252312,
+        "maxLon": 46.75925374,
+        "maxLat": 41.91327095
+      }
+    },
+    "AZNX": {
+      "name": "Naxçıvan",
+      "sub_id": "AZNX",
+      "sub_num": "NX",
+      "bbox": {
+        "minLon": 44.76111054,
+        "minLat": 38.84270489,
+        "maxLon": 46.15078926,
+        "maxLat": 39.80805874
+      }
+    },
+    "AZQAZ": {
+      "name": "Qazax",
+      "sub_id": "AZQAZ",
+      "sub_num": "QAZ",
+      "bbox": {
+        "minLon": 44.96991563,
+        "minLat": 40.97793102,
+        "maxLon": 45.4032774,
+        "maxLat": 41.34523273
+      }
+    },
+    "AZXAC": {
+      "name": "Xaçmaz",
+      "sub_id": "AZXAC",
+      "sub_num": "XAC",
+      "bbox": {
+        "minLon": 48.50201738,
+        "minLat": 41.35691643,
+        "maxLon": 49.06033802,
+        "maxLat": 41.84193993
+      }
+    },
+    "AZZAQ": {
+      "name": "Zaqatala",
+      "sub_id": "AZZAQ",
+      "sub_num": "ZAQ",
+      "bbox": {
+        "minLon": 46.29719198,
+        "minLat": 41.37678623,
+        "maxLon": 47.02330375,
+        "maxLat": 41.86168671
+      }
+    }
+  }
+  

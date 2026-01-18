@@ -1,0 +1,234 @@
+{
+    "HR07": {
+      "name": "Bjelovarsko-bilogorska županija",
+      "sub_id": "HR07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 16.48586249,
+        "minLat": 45.46588898,
+        "maxLon": 17.49869895,
+        "maxLat": 46.08895302
+      }
+    },
+    "HR12": {
+      "name": "Brodsko-posavska županija",
+      "sub_id": "HR12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 17.07416797,
+        "minLat": 45.04346466,
+        "maxLon": 18.57644796,
+        "maxLat": 45.39223552
+      }
+    },
+    "HR19": {
+      "name": "Dubrovačko-neretvanska županija",
+      "sub_id": "HR19",
+      "sub_num": "19",
+      "bbox": {
+        "minLon": 16.25033438,
+        "minLat": 42.37761497,
+        "maxLon": 18.53394723,
+        "maxLat": 43.17620516
+      }
+    },
+    "HR21": {
+      "name": "Grad Zagreb",
+      "sub_id": "HR21",
+      "sub_num": "21",
+      "bbox": {
+        "minLon": 15.77370656,
+        "minLat": 45.61380696,
+        "maxLon": 16.2398659,
+        "maxLat": 45.96907699
+      }
+    },
+    "HR18": {
+      "name": "Istarska županija",
+      "sub_id": "HR18",
+      "sub_num": "18",
+      "bbox": {
+        "minLon": 13.48974466,
+        "minLat": 44.76563633,
+        "maxLon": 14.22814274,
+        "maxLat": 45.5197171
+      }
+    },
+    "HR04": {
+      "name": "Karlovačka županija",
+      "sub_id": "HR04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 14.96146202,
+        "minLat": 44.88014102,
+        "maxLon": 15.92468405,
+        "maxLat": 45.76321948
+      }
+    },
+    "HR06": {
+      "name": "Koprivničko-križevačka županija",
+      "sub_id": "HR06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 16.34123194,
+        "minLat": 45.88024736,
+        "maxLon": 17.30493879,
+        "maxLat": 46.35503054
+      }
+    },
+    "HR02": {
+      "name": "Krapinsko-zagorska županija",
+      "sub_id": "HR02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 15.59587884,
+        "minLat": 45.90161204,
+        "maxLon": 16.25751901,
+        "maxLat": 46.27973556
+      }
+    },
+    "HR09": {
+      "name": "Ličko-senjska županija",
+      "sub_id": "HR09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 14.68283021,
+        "minLat": 44.27127504,
+        "maxLon": 16.14092422,
+        "maxLat": 45.12289202
+      }
+    },
+    "HR20": {
+      "name": "Međimurska županija",
+      "sub_id": "HR20",
+      "sub_num": "20",
+      "bbox": {
+        "minLon": 16.24142647,
+        "minLat": 46.28754616,
+        "maxLon": 16.85823,
+        "maxLat": 46.55436421
+      }
+    },
+    "HR14": {
+      "name": "Osječko-baranjska županija",
+      "sub_id": "HR14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 17.8837657,
+        "minLat": 45.20350456,
+        "maxLon": 19.10189176,
+        "maxLat": 45.92203641
+      }
+    },
+    "HR11": {
+      "name": "Požeško-slavonska županija",
+      "sub_id": "HR11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 16.92906535,
+        "minLat": 45.18176997,
+        "maxLon": 18.11539018,
+        "maxLat": 45.58137417
+      }
+    },
+    "HR08": {
+      "name": "Primorsko-goranska županija",
+      "sub_id": "HR08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 14.10721898,
+        "minLat": 44.44073081,
+        "maxLon": 15.23526967,
+        "maxLat": 45.67352414
+      }
+    },
+    "HR03": {
+      "name": "Sisačko-moslavačka županija",
+      "sub_id": "HR03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 15.76609695,
+        "minLat": 44.99569738,
+        "maxLon": 17.19371796,
+        "maxLat": 45.67008018
+      }
+    },
+    "HR17": {
+      "name": "Splitsko-dalmatinska županija",
+      "sub_id": "HR17",
+      "sub_num": "17",
+      "bbox": {
+        "minLon": 15.45858848,
+        "minLat": 42.95293522,
+        "maxLon": 17.45338881,
+        "maxLat": 43.97428703
+      }
+    },
+    "HR05": {
+      "name": "Varaždinska županija",
+      "sub_id": "HR05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 15.87449121,
+        "minLat": 46.01180697,
+        "maxLon": 16.77217495,
+        "maxLat": 46.4051342
+      }
+    },
+    "HR10": {
+      "name": "Virovitičko-podravska županija",
+      "sub_id": "HR10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 17.11933279,
+        "minLat": 45.47142506,
+        "maxLon": 18.06755626,
+        "maxLat": 45.99591494
+      }
+    },
+    "HR16": {
+      "name": "Vukovarsko-srijemska županija",
+      "sub_id": "HR16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 18.49444461,
+        "minLat": 44.84965897,
+        "maxLon": 19.447456,
+        "maxLat": 45.48494339
+      }
+    },
+    "HR13": {
+      "name": "Zadarska županija",
+      "sub_id": "HR13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 14.56655955,
+        "minLat": 43.82591534,
+        "maxLon": 16.22076702,
+        "maxLat": 44.53693056
+      }
+    },
+    "HR01": {
+      "name": "Zagrebačka županija",
+      "sub_id": "HR01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 15.32812202,
+        "minLat": 45.46930075,
+        "maxLon": 16.71378005,
+        "maxLat": 46.07154906
+      }
+    },
+    "HR15": {
+      "name": "Šibensko-kninska županija",
+      "sub_id": "HR15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 15.20436776,
+        "minLat": 43.47021615,
+        "maxLon": 16.54432702,
+        "maxLat": 44.21593666
+      }
+    }
+  }
+  

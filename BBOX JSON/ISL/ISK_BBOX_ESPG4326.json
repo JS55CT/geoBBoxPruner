@@ -1,0 +1,91 @@
+{
+    "IS7": {
+      "name": "Austurland",
+      "sub_id": "IS7",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": -17.38335431,
+        "minLat": 63.76871467,
+        "maxLon": -13.49407017,
+        "maxLat": 65.96717381
+      }
+    },
+    "IS1": {
+      "name": "Höfuðborgarsvæði",
+      "sub_id": "IS1",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": -22.13139236,
+        "minLat": 63.82990479,
+        "maxLon": -21.16251004,
+        "maxLat": 64.37980771
+      }
+    },
+    "IS6": {
+      "name": "Norðurland eystra",
+      "sub_id": "IS6",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": -19.04281187,
+        "minLat": 64.40936279,
+        "maxLon": -14.52893663,
+        "maxLat": 66.56659126
+      }
+    },
+    "IS5": {
+      "name": "Norðurland vestra",
+      "sub_id": "IS5",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -21.48414481,
+        "minLat": 64.76535141,
+        "maxLon": -18.28836894,
+        "maxLat": 66.15902781
+      }
+    },
+    "IS8": {
+      "name": "Suðurland",
+      "sub_id": "IS8",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": -21.91640151,
+        "minLat": 63.29618454,
+        "maxLon": -17.27704644,
+        "maxLat": 64.86757004
+      }
+    },
+    "IS2": {
+      "name": "Suðurnes",
+      "sub_id": "IS2",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": -22.75665796,
+        "minLat": 63.7989378,
+        "maxLon": -21.71110046,
+        "maxLat": 64.08671463
+      }
+    },
+    "IS4": {
+      "name": "Vestfirðir",
+      "sub_id": "IS4",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": -24.53391516,
+        "minLat": 65.23099601,
+        "maxLon": -21.27458882,
+        "maxLat": 66.47140503
+      }
+    },
+    "IS3": {
+      "name": "Vesturland",
+      "sub_id": "IS3",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -24.04551971,
+        "minLat": 64.29762912,
+        "maxLon": -19.79340994,
+        "maxLat": 65.50616968
+      }
+    }
+  }
+  

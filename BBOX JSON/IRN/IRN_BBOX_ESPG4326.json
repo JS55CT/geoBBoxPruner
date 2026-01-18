@@ -1,0 +1,344 @@
+{
+    "IR32": {
+      "name": "Alborz",
+      "sub_id": "IR32",
+      "sub_num": "32",
+      "bbox": {
+        "minLon": 50.23594046,
+        "minLat": 35.682235,
+        "maxLon": 51.45657992,
+        "maxLat": 36.38388061
+      }
+    },
+    "IR24": {
+      "name": "Ardabil",
+      "sub_id": "IR24",
+      "sub_num": "24",
+      "bbox": {
+        "minLon": 46.84222519,
+        "minLat": 37.00435638,
+        "maxLon": 48.88959658,
+        "maxLat": 39.70875263
+      }
+    },
+    "IR18": {
+      "name": "Bushehr",
+      "sub_id": "IR18",
+      "sub_num": "18",
+      "bbox": {
+        "minLon": 50.0333066,
+        "minLat": 27.35549462,
+        "maxLon": 52.98952866,
+        "maxLat": 30.29416275
+      }
+    },
+    "IR14": {
+      "name": "Chahar Mahaal va Bakhtiari",
+      "sub_id": "IR14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 49.76292133,
+        "minLat": 31.09954834,
+        "maxLon": 51.34443665,
+        "maxLat": 32.69693756
+      }
+    },
+    "IR10": {
+      "name": "Esfahan",
+      "sub_id": "IR10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 49.47499085,
+        "minLat": 30.79944229,
+        "maxLon": 55.46952093,
+        "maxLat": 34.57388306
+      }
+    },
+    "IR07": {
+      "name": "Fars",
+      "sub_id": "IR07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 50.63360596,
+        "minLat": 27.18388367,
+        "maxLon": 55.61294293,
+        "maxLat": 31.76416397
+      }
+    },
+    "IR27": {
+      "name": "Golestan",
+      "sub_id": "IR27",
+      "sub_num": "27",
+      "bbox": {
+        "minLon": 53.76878023,
+        "minLat": 36.42190933,
+        "maxLon": 56.35907984,
+        "maxLat": 38.12427521
+      }
+    },
+    "IR01": {
+      "name": "Gilan",
+      "sub_id": "IR01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 48.55810618,
+        "minLat": 36.59786224,
+        "maxLon": 50.63262057,
+        "maxLat": 38.45171392
+      }
+    },
+    "IR13": {
+      "name": "Hamadan",
+      "sub_id": "IR13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 47.71997535,
+        "minLat": 34.00480986,
+        "maxLon": 49.62229395,
+        "maxLat": 35.78560352
+      }
+    },
+    "IR22": {
+      "name": "Hormozgan",
+      "sub_id": "IR22",
+      "sub_num": "22",
+      "bbox": {
+        "minLon": 52.61342919,
+        "minLat": 25.40223765,
+        "maxLon": 59.25868964,
+        "maxLat": 28.98471832
+      }
+    },
+    "IR08": {
+      "name": "Kerman",
+      "sub_id": "IR08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 54.43915558,
+        "minLat": 26.02854156,
+        "maxLon": 59.48510444,
+        "maxLat": 32.31216431
+      }
+    },
+    "IR05": {
+      "name": "Kermanshah",
+      "sub_id": "IR05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 45.40068197,
+        "minLat": 33.59653473,
+        "maxLon": 48.23972142,
+        "maxLat": 35.44258118
+      }
+    },
+    "IR29": {
+      "name": "Khorasan-e Jonubi",
+      "sub_id": "IR29",
+      "sub_num": "29",
+      "bbox": {
+        "minLon": 57.738796,
+        "minLat": 30.39110565,
+        "maxLon": 61.14471436,
+        "maxLat": 34.11458731
+      }
+    },
+    "IR09": {
+      "name": "Khorasan-e Razavi",
+      "sub_id": "IR09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 56.31071091,
+        "minLat": 33.38127136,
+        "maxLon": 61.28222013,
+        "maxLat": 37.70456314
+      }
+    },
+    "IR28": {
+      "name": "Khorasan-e Shomali",
+      "sub_id": "IR28",
+      "sub_num": "28",
+      "bbox": {
+        "minLon": 55.8881911,
+        "minLat": 36.63582611,
+        "maxLon": 58.42897105,
+        "maxLat": 38.28413486
+      }
+    },
+    "IR06": {
+      "name": "Khuzestan",
+      "sub_id": "IR06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 47.61440492,
+        "minLat": 29.92228973,
+        "maxLon": 50.43415833,
+        "maxLat": 33.09360504
+      }
+    },
+    "IR17": {
+      "name": "Kohgiluyeh va Boyer Ahmad",
+      "sub_id": "IR17",
+      "sub_num": "17",
+      "bbox": {
+        "minLon": 49.91209185,
+        "minLat": 30.17666245,
+        "maxLon": 51.7080164,
+        "maxLat": 31.51355469
+      }
+    },
+    "IR12": {
+      "name": "Kordestan",
+      "sub_id": "IR12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 45.54080617,
+        "minLat": 34.78099823,
+        "maxLon": 48.49812806,
+        "maxLat": 36.51597977
+      }
+    },
+    "IR15": {
+      "name": "Lorestan",
+      "sub_id": "IR15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 46.87304687,
+        "minLat": 32.64415741,
+        "maxLon": 50.07153904,
+        "maxLat": 34.33759689
+      }
+    },
+    "IR00": {
+      "name": "Markazi",
+      "sub_id": "IR00",
+      "sub_num": "0",
+      "bbox": {
+        "minLon": 48.88777161,
+        "minLat": 33.54739463,
+        "maxLon": 51.08582306,
+        "maxLat": 35.70851994
+      }
+    },
+    "IR02": {
+      "name": "Mazandaran",
+      "sub_id": "IR02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 50.31079447,
+        "minLat": 35.82195282,
+        "maxLon": 54.25918019,
+        "maxLat": 36.94978285
+      }
+    },
+    "IR26": {
+      "name": "Qazvin",
+      "sub_id": "IR26",
+      "sub_num": "26",
+      "bbox": {
+        "minLon": 48.75341356,
+        "minLat": 35.42043686,
+        "maxLon": 50.8307724,
+        "maxLat": 36.76158571
+      }
+    },
+    "IR25": {
+      "name": "Qom",
+      "sub_id": "IR25",
+      "sub_num": "25",
+      "bbox": {
+        "minLon": 50.29111958,
+        "minLat": 34.17193604,
+        "maxLon": 51.9549942,
+        "maxLat": 35.27435303
+      }
+    },
+    "IR20": {
+      "name": "Semnan",
+      "sub_id": "IR20",
+      "sub_num": "20",
+      "bbox": {
+        "minLon": 51.83055115,
+        "minLat": 34.34965742,
+        "maxLon": 57.15110016,
+        "maxLat": 37.26459503
+      }
+    },
+    "IR11": {
+      "name": "Sistan va Baluchestan",
+      "sub_id": "IR11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 58.79388428,
+        "minLat": 25.05871057,
+        "maxLon": 63.33348143,
+        "maxLat": 31.4579773
+      }
+    },
+    "IR23": {
+      "name": "Tehran",
+      "sub_id": "IR23",
+      "sub_num": "23",
+      "bbox": {
+        "minLon": 50.32228947,
+        "minLat": 34.90804291,
+        "maxLon": 53.15871084,
+        "maxLat": 36.10708237
+      }
+    },
+    "IR21": {
+      "name": "Yazd",
+      "sub_id": "IR21",
+      "sub_num": "21",
+      "bbox": {
+        "minLon": 52.88456368,
+        "minLat": 29.84194183,
+        "maxLon": 58.1469717,
+        "maxLat": 35.13565064
+      }
+    },
+    "IR19": {
+      "name": "Zanjan",
+      "sub_id": "IR19",
+      "sub_num": "19",
+      "bbox": {
+        "minLon": 47.13091957,
+        "minLat": 35.62814713,
+        "maxLon": 49.46136224,
+        "maxLat": 37.20279694
+      }
+    },
+    "IR04": {
+      "name": "Azarbayjan-e Gharbi",
+      "sub_id": "IR04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 44.03230786,
+        "minLat": 35.9676075,
+        "maxLon": 47.36748361,
+        "maxLat": 39.78099203
+      }
+    },
+    "IR03": {
+      "name": "Azarbayjan-e Sharqi",
+      "sub_id": "IR03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 45.11092508,
+        "minLat": 36.71717763,
+        "maxLon": 48.35410261,
+        "maxLat": 39.13658917
+      }
+    },
+    "IR16": {
+      "name": "Ilam",
+      "sub_id": "IR16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 45.87036729,
+        "minLat": 32.10651398,
+        "maxLon": 47.94832611,
+        "maxLat": 33.91651153
+      }
+    }
+  }
+  

@@ -1,0 +1,14 @@
+[
+    {
+      "Guadeloupe": {
+        "sub_num": "971",
+        "name": "Guadeloupe",
+        "bbox": {
+            "minLon": -61.80998397,
+            "minLat": 15.83169997,
+            "maxLon": -61.00022185,
+            "maxLat": 16.51464963
+          }
+      }
+    }
+  ]

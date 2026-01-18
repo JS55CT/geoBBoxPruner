@@ -1,0 +1,135 @@
+{
+    "DK84": {
+      "name": "Hovedstaden",
+      "sub_id": "DK84",
+      "sub_num": "84",
+      "bbox": {
+        "minLon": 11.69393706,
+        "minLat": 54.98720551,
+        "maxLon": 15.19287407,
+        "maxLat": 56.20033467
+      }
+    },
+    "DK82": {
+      "name": "Midtjylland",
+      "sub_id": "DK82",
+      "sub_num": "82",
+      "bbox": {
+        "minLon": 8.096711635,
+        "minLat": 55.66858768,
+        "maxLon": 11.65747821,
+        "maxLat": 56.84614754
+      }
+    },
+    "DK81": {
+      "name": "Nordjylland",
+      "sub_id": "DK81",
+      "sub_num": "81",
+      "bbox": {
+        "minLon": 8.211541414,
+        "minLat": 56.55212533,
+        "maxLon": 11.20036852,
+        "maxLat": 57.75165618
+      }
+    },
+    "DK85": {
+      "name": "Sjælland",
+      "sub_id": "DK85",
+      "sub_num": "85",
+      "bbox": {
+        "minLon": 10.86782801,
+        "minLat": 54.5589515,
+        "maxLon": 12.55394924,
+        "maxLat": 56.01079988
+      }
+    },
+    "DK83": {
+      "name": "Syddanmark",
+      "sub_id": "DK83",
+      "sub_num": "83",
+      "bbox": {
+        "minLon": 8.072979927,
+        "minLat": 54.72134757,
+        "maxLon": 10.95576942,
+        "maxLat": 55.95654488
+      }
+    },
+    "FO": {
+      "name": "Faroe Islands",
+      "sub_id": "FO",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -7.688976884,
+        "minLat": 61.38761044,
+        "maxLon": -6.254614353,
+        "maxLat": 62.39659309
+      }
+    },
+    "GLAV": {
+      "name": "Avannaata Kommunia (Greenland)",
+      "sub_id": "GLAV",
+      "sub_num": "AV",
+      "bbox": {
+        "minLon": -73.25249577,
+        "minLat": 68.75209808,
+        "maxLon": -44.92780876,
+        "maxLat": 81.31622851
+      }
+    },
+    "GLKU": {
+      "name": "Kommune Kujalleq (Greenland)",
+      "sub_id": "GLKU",
+      "sub_num": "KU",
+      "bbox": {
+        "minLon": -48.44056797,
+        "minLat": 59.74437785,
+        "maxLon": -42.0513382,
+        "maxLat": 62.76369095
+      }
+    },
+    "GLQT": {
+      "name": "Kommune Qeqertalik (Greenland)",
+      "sub_id": "GLQT",
+      "sub_num": "QT",
+      "bbox": {
+        "minLon": -54.97820401,
+        "minLat": 67.46664512,
+        "maxLon": -44.95436716,
+        "maxLat": 70.33000565
+      }
+    },
+    "GLSM": {
+      "name": "Kommuneqarfik Sermersooq (Greenland)",
+      "sub_id": "GLSM",
+      "sub_num": "SM",
+      "bbox": {
+        "minLon": -52.33575654,
+        "minLat": 60.95420837,
+        "maxLon": -21.38449752,
+        "maxLat": 71.94336891
+      }
+    },
+    "GL": {
+      "name": "Northeast Greenland National Park (Greenland)",
+      "sub_id": "GL",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -61.95432043,
+        "minLat": 70.97315836,
+        "maxLon": -11.47692561,
+        "maxLat": 83.6654911
+      }
+    },
+    "GLQE": {
+      "name": "Qeqqata Kommunia (Greenland)",
+      "sub_id": "GLQE",
+      "sub_num": "QE",
+      "bbox": {
+        "minLon": -53.97365761,
+        "minLat": 64.56379259,
+        "maxLon": -44.96964574,
+        "maxLat": 67.77418804
+      }
+    }
+  }
+  

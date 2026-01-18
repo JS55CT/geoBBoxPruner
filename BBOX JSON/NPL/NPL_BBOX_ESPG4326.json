@@ -1,0 +1,80 @@
+{
+    "NPP3": {
+      "name": "Bagmati",
+      "sub_id": "NPP3",
+      "sub_num": "P3",
+      "bbox": {
+        "minLon": 83.91872215,
+        "minLat": 26.92697525,
+        "maxLon": 86.5680424,
+        "maxLat": 28.38941503
+      }
+    },
+    "NPP4": {
+      "name": "Gandaki",
+      "sub_id": "NPP4",
+      "sub_num": "P4",
+      "bbox": {
+        "minLon": 82.87579989,
+        "minLat": 27.43723452,
+        "maxLon": 85.19800746,
+        "maxLat": 29.33122158
+      }
+    },
+    "NPP6": {
+      "name": "Karnali",
+      "sub_id": "NPP6",
+      "sub_num": "P6",
+      "bbox": {
+        "minLon": 80.98193002,
+        "minLat": 28.13670886,
+        "maxLon": 83.67981017,
+        "maxLat": 30.44740677
+      }
+    },
+    "NPP1": {
+      "name": "Koshi",
+      "sub_id": "NPP1",
+      "sub_num": "P1",
+      "bbox": {
+        "minLon": 86.15572607,
+        "minLat": 26.34789705,
+        "maxLon": 88.20177674,
+        "maxLat": 28.11285496
+      }
+    },
+    "NPP5": {
+      "name": "Lumbinī",
+      "sub_id": "NPP5",
+      "sub_num": "P5",
+      "bbox": {
+        "minLon": 81.05962861,
+        "minLat": 27.33072281,
+        "maxLon": 84.02617824,
+        "maxLat": 28.86949539
+      }
+    },
+    "NPP2": {
+      "name": "Madhesh",
+      "sub_id": "NPP2",
+      "sub_num": "P2",
+      "bbox": {
+        "minLon": 84.48399115,
+        "minLat": 26.42263413,
+        "maxLon": 87.01791143,
+        "maxLat": 27.4628377
+      }
+    },
+    "NPP7": {
+      "name": "Sudūr Pashchim",
+      "sub_id": "NPP7",
+      "sub_num": "P7",
+      "bbox": {
+        "minLon": 80.050138,
+        "minLat": 28.39451766,
+        "maxLon": 81.80912042,
+        "maxLat": 30.21444082
+      }
+    }
+  }
+  

@@ -1,0 +1,234 @@
+{
+    "SEK": {
+      "name": "Blekinge län",
+      "sub_id": "SEK",
+      "sub_num": "K",
+      "bbox": {
+        "minLon": 14.38995194,
+        "minLat": 55.9509542,
+        "maxLon": 16.0688566,
+        "maxLat": 56.50262117
+      }
+    },
+    "SEW": {
+      "name": "Dalarnas län",
+      "sub_id": "SEW",
+      "sub_num": "W",
+      "bbox": {
+        "minLon": 12.13940156,
+        "minLat": 59.85371947,
+        "maxLon": 16.70269954,
+        "maxLat": 62.26807952
+      }
+    },
+    "SEI": {
+      "name": "Gotlands län",
+      "sub_id": "SEI",
+      "sub_num": "I",
+      "bbox": {
+        "minLon": 17.95555031,
+        "minLat": 56.9042052,
+        "maxLon": 19.35056472,
+        "maxLat": 58.39752781
+      }
+    },
+    "SEX": {
+      "name": "Gävleborgs län",
+      "sub_id": "SEX",
+      "sub_num": "X",
+      "bbox": {
+        "minLon": 14.4484396,
+        "minLat": 60.18983245,
+        "maxLon": 17.6412251,
+        "maxLat": 62.34420013
+      }
+    },
+    "SEN": {
+      "name": "Hallands län",
+      "sub_id": "SEN",
+      "sub_num": "N",
+      "bbox": {
+        "minLon": 11.86975277,
+        "minLat": 56.32429719,
+        "maxLon": 13.69243026,
+        "maxLat": 57.59557843
+      }
+    },
+    "SEZ": {
+      "name": "Jämtlands län",
+      "sub_id": "SEZ",
+      "sub_num": "Z",
+      "bbox": {
+        "minLon": 11.98314762,
+        "minLat": 61.56437874,
+        "maxLon": 16.9931432,
+        "maxLat": 65.11796236
+      }
+    },
+    "SEF": {
+      "name": "Jönköpings län",
+      "sub_id": "SEF",
+      "sub_num": "F",
+      "bbox": {
+        "minLon": 13.07632267,
+        "minLat": 56.87850595,
+        "maxLon": 15.66544449,
+        "maxLat": 58.18590045
+      }
+    },
+    "SEH": {
+      "name": "Kalmar län",
+      "sub_id": "SEH",
+      "sub_num": "H",
+      "bbox": {
+        "minLon": 15.33744299,
+        "minLat": 56.19340909,
+        "maxLon": 17.15147769,
+        "maxLat": 58.14447641
+      }
+    },
+    "SEG": {
+      "name": "Kronobergs län",
+      "sub_id": "SEG",
+      "sub_num": "G",
+      "bbox": {
+        "minLon": 13.29507565,
+        "minLat": 56.35883117,
+        "maxLon": 15.83765709,
+        "maxLat": 57.23798633
+      }
+    },
+    "SEBD": {
+      "name": "Norrbottens län",
+      "sub_id": "SEBD",
+      "sub_num": "BD",
+      "bbox": {
+        "minLon": 15.38015938,
+        "minLat": 65.06110251,
+        "maxLon": 24.16746283,
+        "maxLat": 69.05961597
+      }
+    },
+    "SEM": {
+      "name": "Skåne län",
+      "sub_id": "SEM",
+      "sub_num": "M",
+      "bbox": {
+        "minLon": 12.44554269,
+        "minLat": 55.33621657,
+        "maxLon": 14.58656037,
+        "maxLat": 56.53472185
+      }
+    },
+    "SEC": {
+      "name": "Uppsala län & (Stockholm capital tiny bbox)",
+      "sub_id": "SEC",
+      "sub_num": "C",
+      "bbox": {
+        "minLon": 16.72917807,
+        "minLat": 59.38613534,
+        "maxLon": 18.86211228,
+        "maxLat": 60.66222906
+      }
+    },
+    "SEAB": {
+      "name": "Stockholms län",
+      "sub_id": "SEAB",
+      "sub_num": "AB",
+      "bbox": {
+        "minLon": 17.25018549,
+        "minLat": 58.73692477,
+        "maxLon": 19.58700013,
+        "maxLat": 60.28278482
+      }
+    },
+    "SED": {
+      "name": "Södermanlands län",
+      "sub_id": "SED",
+      "sub_num": "D",
+      "bbox": {
+        "minLon": 15.61815262,
+        "minLat": 58.52780473,
+        "maxLon": 17.70739162,
+        "maxLat": 59.52645779
+      }
+    },
+    "SES": {
+      "name": "Värmlands län",
+      "sub_id": "SES",
+      "sub_num": "S",
+      "bbox": {
+        "minLon": 11.69347644,
+        "minLat": 58.72467041,
+        "maxLon": 14.47578859,
+        "maxLat": 61.05835164
+      }
+    },
+    "SEAC": {
+      "name": "Västerbottens län",
+      "sub_id": "SEAC",
+      "sub_num": "AC",
+      "bbox": {
+        "minLon": 14.32499969,
+        "minLat": 63.40599668,
+        "maxLon": 21.61925459,
+        "maxLat": 66.34514713
+      }
+    },
+    "SEY": {
+      "name": "Västernorrlands län",
+      "sub_id": "SEY",
+      "sub_num": "Y",
+      "bbox": {
+        "minLon": 14.78101492,
+        "minLat": 62.13612664,
+        "maxLon": 19.28797317,
+        "maxLat": 64.02586341
+      }
+    },
+    "SEU": {
+      "name": "Västmanlands län",
+      "sub_id": "SEU",
+      "sub_num": "U",
+      "bbox": {
+        "minLon": 15.4239409,
+        "minLat": 59.20214653,
+        "maxLon": 17.37904656,
+        "maxLat": 60.3006506
+      }
+    },
+    "SEO": {
+      "name": "Västra Götalands län",
+      "sub_id": "SEO",
+      "sub_num": "O",
+      "bbox": {
+        "minLon": 10.95703018,
+        "minLat": 57.14522481,
+        "maxLon": 14.77395022,
+        "maxLat": 59.2616272
+      }
+    },
+    "SET": {
+      "name": "Örebro län",
+      "sub_id": "SET",
+      "sub_num": "T",
+      "bbox": {
+        "minLon": 14.28468513,
+        "minLat": 58.64553452,
+        "maxLon": 15.80532158,
+        "maxLat": 60.111233
+      }
+    },
+    "SEE": {
+      "name": "Östergötlands län",
+      "sub_id": "SEE",
+      "sub_num": "E",
+      "bbox": {
+        "minLon": 14.36803496,
+        "minLat": 57.69927323,
+        "maxLon": 17.06864011,
+        "maxLat": 59.02063608
+      }
+    }
+  }
+  

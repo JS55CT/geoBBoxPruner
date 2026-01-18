@@ -1,0 +1,124 @@
+{
+    "MLBKO": {
+      "name": "Bamako",
+      "sub_id": "MLBKO",
+      "sub_num": "BKO",
+      "bbox": {
+        "minLon": -8.133244634,
+        "minLat": 12.42313385,
+        "maxLon": -7.813403726,
+        "maxLat": 12.74208069
+      }
+    },
+    "ML9": {
+      "name": "Gao",
+      "sub_id": "ML9",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 1.311499,
+        "minLat": 15.27812803,
+        "maxLon": 4.243411065,
+        "maxLat": 18.00006866
+      }
+    },
+    "ML7": {
+      "name": "Gao",
+      "sub_id": "ML7",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": -1.696807861,
+        "minLat": 14.94516134,
+        "maxLon": 1.768146634,
+        "maxLat": 19.02505875
+      }
+    },
+    "ML1": {
+      "name": "Kayes",
+      "sub_id": "ML1",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": -12.24151754,
+        "minLat": 11.89630508,
+        "maxLon": -8.147929669,
+        "maxLat": 15.70278502
+      }
+    },
+    "ML8": {
+      "name": "Kidal",
+      "sub_id": "ML8",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": -1.969743848,
+        "minLat": 17.69631386,
+        "maxLon": 4.245487332,
+        "maxLat": 21.89984977
+      }
+    },
+    "ML2": {
+      "name": "Koulikoro",
+      "sub_id": "ML2",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": -9.190014481,
+        "minLat": 11.46942616,
+        "maxLon": -5.959758878,
+        "maxLat": 15.50179672
+      }
+    },
+    "ML5": {
+      "name": "Mopti",
+      "sub_id": "ML5",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -5.69488585,
+        "minLat": 13.15534735,
+        "maxLon": -0.721664428,
+        "maxLat": 15.84365845
+      }
+    },
+    "ML3": {
+      "name": "Sikasso",
+      "sub_id": "ML3",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -8.67601788,
+        "minLat": 10.14535904,
+        "maxLon": -4.363909364,
+        "maxLat": 12.8229332
+      }
+    },
+    "ML4": {
+      "name": "Ségou",
+      "sub_id": "ML4",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": -7.115509034,
+        "minLat": 12.56552696,
+        "maxLon": -3.969239235,
+        "maxLat": 15.55217743
+      }
+    },
+    "ML10": {
+      "name": "Taoudénit",
+      "sub_id": "ML10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": -6.57197833,
+        "minLat": 16.74805975,
+        "maxLon": -0.0000046494,
+        "maxLat": 25.0
+      }
+    },
+    "ML6": {
+      "name": "Tombouctou",
+      "sub_id": "ML6",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": -5.634045363,
+        "minLat": 15.08403337,
+        "maxLon": -0.512338758,
+        "maxLat": 17.26695132
+      }
+    }
+  }
+  

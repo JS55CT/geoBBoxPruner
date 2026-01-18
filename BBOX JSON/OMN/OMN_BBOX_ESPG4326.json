@@ -1,0 +1,124 @@
+{
+    "OMDA": {
+      "name": "Ad Dākhilīyah",
+      "sub_id": "OMDA",
+      "sub_num": "DA",
+      "bbox": {
+        "minLon": 56.53923309,
+        "minLat": 20.90895653,
+        "maxLon": 58.3451916,
+        "maxLat": 23.52035523
+      }
+    },
+    "OMBU": {
+      "name": "Al Buraymī",
+      "sub_id": "OMBU",
+      "sub_num": "BU",
+      "bbox": {
+        "minLon": 55.39355111,
+        "minLat": 23.32878113,
+        "maxLon": 56.37923622,
+        "maxLat": 25.0060308
+      }
+    },
+    "OMWU": {
+      "name": "Al Wusṭá",
+      "sub_id": "OMWU",
+      "sub_num": "WU",
+      "bbox": {
+        "minLon": 55.00522685,
+        "minLat": 17.95692909,
+        "maxLon": 58.80615056,
+        "maxLat": 21.47053313
+      }
+    },
+    "OMZA": {
+      "name": "Az̧ Z̧āhirah",
+      "sub_id": "OMZA",
+      "sub_num": "ZA",
+      "bbox": {
+        "minLon": 55.21299028,
+        "minLat": 21.31669152,
+        "maxLon": 57.12372637,
+        "maxLat": 24.00735855
+      }
+    },
+    "OMBJ": {
+      "name": "Janūb al Bāṭinah",
+      "sub_id": "OMBJ",
+      "sub_num": "BJ",
+      "bbox": {
+        "minLon": 57.02175307,
+        "minLat": 23.11034203,
+        "maxLon": 58.04647517,
+        "maxLat": 23.83965135
+      }
+    },
+    "OMSJ": {
+      "name": "Janūb ash Sharqīyah",
+      "sub_id": "OMSJ",
+      "sub_num": "SJ",
+      "bbox": {
+        "minLon": 58.44712365,
+        "minLat": 20.16064417,
+        "maxLon": 59.83828926,
+        "maxLat": 22.92429996
+      }
+    },
+    "OMMA": {
+      "name": "Masqaṭ",
+      "sub_id": "OMMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": 57.96857047,
+        "minLat": 22.86915779,
+        "maxLon": 59.21314359,
+        "maxLat": 23.86216521
+      }
+    },
+    "OMMU": {
+      "name": "Musandam",
+      "sub_id": "OMMU",
+      "sub_num": "MU",
+      "bbox": {
+        "minLon": 56.08275139,
+        "minLat": 25.23573518,
+        "maxLon": 56.54889035,
+        "maxLat": 26.50664997
+      }
+    },
+    "OMBS": {
+      "name": "Shamāl al Bāṭinah",
+      "sub_id": "OMBS",
+      "sub_num": "BS",
+      "bbox": {
+        "minLon": 56.16530311,
+        "minLat": 23.53575826,
+        "maxLon": 57.48183763,
+        "maxLat": 24.98066497
+      }
+    },
+    "OMSS": {
+      "name": "Shamāl ash Sharqīyah",
+      "sub_id": "OMSS",
+      "sub_num": "SS",
+      "bbox": {
+        "minLon": 57.65229166,
+        "minLat": 21.20447159,
+        "maxLon": 59.21059191,
+        "maxLat": 23.26331377
+      }
+    },
+    "OMZU": {
+      "name": "Ẓufār",
+      "sub_id": "OMZU",
+      "sub_num": "ZU",
+      "bbox": {
+        "minLon": 52,
+        "minLat": 16.6494832,
+        "maxLon": 56.35631669,
+        "maxLat": 19.98413086
+      }
+    }
+  }
+  

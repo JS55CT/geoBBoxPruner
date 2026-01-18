@@ -1,0 +1,201 @@
+{
+    "BV": {
+      "name": "Bouvet Island (NO)",
+      "sub_id": "BV",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 3.284723162,
+        "minLat": -54.45596695,
+        "maxLon": 3.433270335,
+        "maxLat": -54.38638103
+      }
+    },
+    "NO42": {
+      "name": "Agder",
+      "sub_id": "NO42",
+      "sub_num": "42",
+      "bbox": {
+        "minLon": 6.377619266,
+        "minLat": 57.95902073,
+        "maxLon": 9.368708372,
+        "maxLat": 59.67395782
+      }
+    },
+    "NO09": {
+      "name": "Aust-Agder",
+      "sub_id": "NO09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 8.177235246,
+        "minLat": 58.11465645,
+        "maxLon": 9.320613146,
+        "maxLat": 58.74122679
+      }
+    },
+    "NO34": {
+      "name": "Innlandet",
+      "sub_id": "NO34",
+      "sub_num": "34",
+      "bbox": {
+        "minLon": 7.334913015,
+        "minLat": 59.84115601,
+        "maxLon": 12.87409914,
+        "maxLat": 62.69742966
+      }
+    },
+    "NO15": {
+      "name": "Møre og Romsdal",
+      "sub_id": "NO15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 5.258013725,
+        "minLat": 61.92338705,
+        "maxLon": 9.583248973,
+        "maxLat": 63.53457499
+      }
+    },
+    "NO18": {
+      "name": "Nordland",
+      "sub_id": "NO18",
+      "sub_num": "18",
+      "bbox": {
+        "minLon": 11.38167524,
+        "minLat": 64.94567871,
+        "maxLon": 18.15447175,
+        "maxLat": 69.32971716
+      }
+    },
+    "NO03": {
+      "name": "Oslo",
+      "sub_id": "NO03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 10.49544251,
+        "minLat": 59.81266022,
+        "maxLon": 10.93620229,
+        "maxLat": 60.13315725
+      }
+    },
+    "NO11": {
+      "name": "Rogaland",
+      "sub_id": "NO11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 4.845597148,
+        "minLat": 58.27714086,
+        "maxLon": 7.218210459,
+        "maxLat": 59.84647751
+      }
+    },
+    "NO14": {
+      "name": "Sogn og Fjordane",
+      "sub_id": "NO14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 5.099815846,
+        "minLat": 62.19537723,
+        "maxLon": 5.189381361,
+        "maxLat": 62.19760609
+      }
+    },
+    "NO21": {
+      "name": "Svalbard (NO)",
+      "sub_id": "NO21",
+      "sub_num": "21",
+      "bbox": {
+        "minLon": 10.45931208,
+        "minLat": 74.34171367,
+        "maxLon": 33.51870668,
+        "maxLat": 80.82457066
+      }
+    },
+    "NO22": {
+      "name": "Jan Mayen (NO)",
+      "sub_id": "NO22",
+      "sub_num": "22",
+      "bbox": {
+        "minLon": -9.07713604,
+        "minLat": 70.82286167,
+        "maxLon": -7.930012584,
+        "maxLat": 71.15921915
+      }
+    },
+    "NO54": {
+      "name": "Troms og Finnmark",
+      "sub_id": "NO54",
+      "sub_num": "54",
+      "bbox": {
+        "minLon": 15.60650599,
+        "minLat": 68.35624695,
+        "maxLon": 31.16835094,
+        "maxLat": 71.18615174
+      }
+    },
+    "NO23": {
+      "name": "Trøndelag",
+      "sub_id": "NO23",
+      "sub_num": "23",
+      "bbox": {
+        "minLon": 7.258115768,
+        "minLat": 64.27430749,
+        "maxLon": 7.259046078,
+        "maxLat": 64.2745347
+      }
+    },
+    "NO50": {
+      "name": "Trøndelag",
+      "sub_id": "NO50",
+      "sub_num": "50",
+      "bbox": {
+        "minLon": 8.237618923,
+        "minLat": 62.25797653,
+        "maxLon": 14.32499969,
+        "maxLat": 65.23432732
+      }
+    },
+    "NO38": {
+      "name": "Vestfold og Telemark",
+      "sub_id": "NO38",
+      "sub_num": "38",
+      "bbox": {
+        "minLon": 7.101146102,
+        "minLat": 58.76814854,
+        "maxLon": 10.60052562,
+        "maxLat": 60.19398451
+      }
+    },
+    "NO46": {
+      "name": "Vestland",
+      "sub_id": "NO46",
+      "sub_num": "46",
+      "bbox": {
+        "minLon": 4.498511672,
+        "minLat": 59.47551727,
+        "maxLon": 8.317423463,
+        "maxLat": 62.21706045
+      }
+    },
+    "NO30": {
+      "name": "Viken",
+      "sub_id": "NO30",
+      "sub_num": "30",
+      "bbox": {
+        "minLon": 7.47400868,
+        "minLat": 58.88225555,
+        "maxLon": 11.9424088,
+        "maxLat": 61.0820961
+      }
+    },
+    "Peter_I": {
+      "name": "Peter Island (NO)",
+      "sub_id": "Peter_I",
+      "sub_num": "",
+      "bbox": {
+        "minLon": -90.72429657,
+        "minLat": -68.89360046,
+        "maxLon": -90.44716656,
+        "maxLat": -68.71218097
+      }
+    }
+  }
+  

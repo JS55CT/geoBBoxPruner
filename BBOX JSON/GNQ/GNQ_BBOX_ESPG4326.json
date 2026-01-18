@@ -1,0 +1,80 @@
+{
+    "GQAN": {
+      "name": "Annobón",
+      "sub_id": "GQAN",
+      "sub_num": "AN",
+      "bbox": {
+        "minLon": 5.616511345,
+        "minLat": -1.46818757,
+        "maxLon": 5.655555725,
+        "maxLat": -1.403532267
+      }
+    },
+    "GQBN": {
+      "name": "Bioko Norte",
+      "sub_id": "GQBN",
+      "sub_num": "BN",
+      "bbox": {
+        "minLon": 8.610829949,
+        "minLat": 3.503419042,
+        "maxLon": 8.938500762,
+        "maxLat": 3.788820624
+      }
+    },
+    "GQBS": {
+      "name": "Bioko Sur",
+      "sub_id": "GQBS",
+      "sub_num": "BS",
+      "bbox": {
+        "minLon": 8.41397357,
+        "minLat": 3.208676219,
+        "maxLon": 8.842500925,
+        "maxLat": 3.648506522
+      }
+    },
+    "GQCS": {
+      "name": "Centro Sur",
+      "sub_id": "GQCS",
+      "sub_num": "CS",
+      "bbox": {
+        "minLon": 9.91146636,
+        "minLat": 0.997009277,
+        "maxLon": 10.98907912,
+        "maxLat": 2.17502594
+      }
+    },
+    "GQKN": {
+      "name": "Kié-Ntem",
+      "sub_id": "GQKN",
+      "sub_num": "KN",
+      "bbox": {
+        "minLon": 10.40205622,
+        "minLat": 1.720218658,
+        "maxLon": 11.35920417,
+        "maxLat": 2.17288971
+      }
+    },
+    "GQLI": {
+      "name": "Litoral",
+      "sub_id": "GQLI",
+      "sub_num": "LI",
+      "bbox": {
+        "minLon": 9.302705288,
+        "minLat": 0.889187574,
+        "maxLon": 10.26046824,
+        "maxLat": 2.347640038
+      }
+    },
+    "GQWN": {
+      "name": "Wele-Nzas",
+      "sub_id": "GQWN",
+      "sub_num": "WN",
+      "bbox": {
+        "minLon": 10.52566826,
+        "minLat": 0.999584198,
+        "maxLon": 11.35313642,
+        "maxLat": 1.985521317
+      }
+    }
+  }
+  

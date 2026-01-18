@@ -1,0 +1,58 @@
+{
+    "FJC": {
+      "name": "Central",
+      "sub_id": "FJC",
+      "sub_num": "C",
+      "bbox": {
+        "minLon": 177.7613519,
+        "minLat": -18.43440402,
+        "maxLon": 178.7687328,
+        "maxLat": -17.37771654
+      }
+    },
+    "FJE": {
+      "name": "Eastern",
+      "sub_id": "FJE",
+      "sub_num": "E",
+      "bbox": {
+        "minLon": -179.9082395,
+        "minLat": -21.04250002,
+        "maxLon": 179.9528977,
+        "maxLat": -16.73768163
+      }
+    },
+    "FJN": {
+      "name": "Northern",
+      "sub_id": "FJN",
+      "sub_num": "N",
+      "bbox": {
+        "minLon": -179.9999885,
+        "minLat": -17.11521089,
+        "maxLon": 179.9999885,
+        "maxLat": -15.70973301
+      }
+    },
+    "FJR": {
+      "name": "Rotuma",
+      "sub_id": "FJR",
+      "sub_num": "R",
+      "bbox": {
+        "minLon": 176.9340696,
+        "minLat": -12.52782905,
+        "maxLon": 177.1493009,
+        "maxLat": -12.46152437
+      }
+    },
+    "FJW": {
+      "name": "Western",
+      "sub_id": "FJW",
+      "sub_num": "W",
+      "bbox": {
+        "minLon": 176.8999798,
+        "minLat": -18.6006453,
+        "maxLon": 178.4675,
+        "maxLat": -16.65222228
+      }
+    }
+  }
+  

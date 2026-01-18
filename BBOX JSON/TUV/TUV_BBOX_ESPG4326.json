@@ -1,0 +1,102 @@
+{
+    "TVFUN": {
+      "name": "Funafuti",
+      "sub_id": "TVFUN",
+      "sub_num": "FUN",
+      "bbox": {
+        "minLon": 179.0362439,
+        "minLat": -8.64559865,
+        "maxLon": 179.203405,
+        "maxLat": -8.4232198
+      }
+    },
+    "TVNMG": {
+      "name": "Nanumaga",
+      "sub_id": "TVNMG",
+      "sub_num": "NMG",
+      "bbox": {
+        "minLon": 176.3124635,
+        "minLat": -6.302253962,
+        "maxLon": 176.3277431,
+        "maxLat": -6.274489879
+      }
+    },
+    "TVNMA": {
+      "name": "Nanumea",
+      "sub_id": "TVNMA",
+      "sub_num": "NMA",
+      "bbox": {
+        "minLon": 176.0572872,
+        "minLat": -5.701553584,
+        "maxLon": 176.1371634,
+        "maxLat": -5.642681121
+      }
+    },
+    "TVNKI": {
+      "name": "Niulakita Island",
+      "sub_id": "TVNKI",
+      "sub_num": "NKI",
+      "bbox": {
+        "minLon": 179.4681228,
+        "minLat": -10.79219878,
+        "maxLon": 179.4776645,
+        "maxLat": -10.78624487
+      }
+    },
+    "TVNIT": {
+      "name": "Niutao",
+      "sub_id": "TVNIT",
+      "sub_num": "NIT",
+      "bbox": {
+        "minLon": 177.3305484,
+        "minLat": -6.115226507,
+        "maxLon": 177.3544284,
+        "maxLat": -6.102678537
+      }
+    },
+    "TVNIU": {
+      "name": "Nui",
+      "sub_id": "TVNIU",
+      "sub_num": "NIU",
+      "bbox": {
+        "minLon": 177.1413889,
+        "minLat": -7.253611088,
+        "maxLon": 177.1666666,
+        "maxLat": -7.187777757
+      }
+    },
+    "TVNKF": {
+      "name": "Nukufetau",
+      "sub_id": "TVNKF",
+      "sub_num": "NKF",
+      "bbox": {
+        "minLon": 178.3060442,
+        "minLat": -8.074484348,
+        "maxLon": 178.4373755,
+        "maxLat": -7.927360177
+      }
+    },
+    "TVNKL": {
+      "name": "Nukulaelae",
+      "sub_id": "TVNKL",
+      "sub_num": "NKL",
+      "bbox": {
+        "minLon": 179.8018659,
+        "minLat": -9.435504198,
+        "maxLon": 179.8712815,
+        "maxLat": -9.346814632
+      }
+    },
+    "TVVAI": {
+      "name": "Vaitupu",
+      "sub_id": "TVVAI",
+      "sub_num": "VAI",
+      "bbox": {
+        "minLon": 178.6623741,
+        "minLat": -7.499639511,
+        "maxLon": 178.6976293,
+        "maxLat": -7.457838655
+      }
+    }
+  }
+  

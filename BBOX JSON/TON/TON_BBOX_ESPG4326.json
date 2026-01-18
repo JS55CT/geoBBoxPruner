@@ -1,0 +1,58 @@
+{
+    "TO01": {
+      "name": "'Eua",
+      "sub_id": "TO01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": -174.9765353,
+        "minLat": -21.47491789,
+        "maxLon": -174.9000628,
+        "maxLat": -21.28159249
+      }
+    },
+    "TO02": {
+      "name": "Ha'apai",
+      "sub_id": "TO02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": -175.4086111,
+        "minLat": -20.55638886,
+        "maxLon": -174.2647806,
+        "maxLat": -19.59209585
+      }
+    },
+    "TO03": {
+      "name": "Niuas",
+      "sub_id": "TO03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -175.6799999,
+        "minLat": -15.98372281,
+        "maxLon": -173.7352399,
+        "maxLat": -15.56583333
+      }
+    },
+    "TO04": {
+      "name": "Tongatapu",
+      "sub_id": "TO04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": -176.2135233,
+        "minLat": -22.34959924,
+        "maxLon": -174.9734998,
+        "maxLat": -21.0360074
+      }
+    },
+    "TO05": {
+      "name": "Vava'u",
+      "sub_id": "TO05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -174.8508936,
+        "minLat": -19.18008184,
+        "maxLon": -173.9020567,
+        "maxLat": -18.01199782
+      }
+    }
+  }
+  

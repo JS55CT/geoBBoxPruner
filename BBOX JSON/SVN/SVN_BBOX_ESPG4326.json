@@ -1,0 +1,2962 @@
+{
+    "SI001": {
+      "name": "Ajdovščina",
+      "sub_id": "SI001",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 13.75341296,
+        "minLat": 45.82198083,
+        "maxLon": 14.13367343,
+        "maxLat": 45.99632263
+      }
+    },
+    "SI213": {
+      "name": "Ankaran",
+      "sub_id": "SI213",
+      "sub_num": "213",
+      "bbox": {
+        "minLon": 13.70346832,
+        "minLat": 45.557127,
+        "maxLon": 13.77116942,
+        "maxLat": 45.59621215
+      }
+    },
+    "SI195": {
+      "name": "Apače",
+      "sub_id": "SI195",
+      "sub_num": "195",
+      "bbox": {
+        "minLon": 15.77953577,
+        "minLat": 46.65275574,
+        "maxLon": 15.96605074,
+        "maxLat": 46.72205591
+      }
+    },
+    "SI002": {
+      "name": "Beltinci",
+      "sub_id": "SI002",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 16.15908849,
+        "minLat": 46.54998791,
+        "maxLon": 16.30121899,
+        "maxLat": 46.65221119
+      }
+    },
+    "SI148": {
+      "name": "Benedikt",
+      "sub_id": "SI148",
+      "sub_num": "148",
+      "bbox": {
+        "minLon": 15.86127186,
+        "minLat": 46.57722473,
+        "maxLon": 15.93765962,
+        "maxLat": 46.64039612
+      }
+    },
+    "SI149": {
+      "name": "Bistrica ob Sotli",
+      "sub_id": "SI149",
+      "sub_num": "149",
+      "bbox": {
+        "minLon": 15.59508884,
+        "minLat": 46.02928162,
+        "maxLon": 15.72369945,
+        "maxLat": 46.08747482
+      }
+    },
+    "SI003": {
+      "name": "Bled",
+      "sub_id": "SI003",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 13.98689318,
+        "minLat": 46.28986359,
+        "maxLon": 14.1547178,
+        "maxLat": 46.40559018
+      }
+    },
+    "SI150": {
+      "name": "Bloke",
+      "sub_id": "SI150",
+      "sub_num": "150",
+      "bbox": {
+        "minLon": 14.45083404,
+        "minLat": 45.73196411,
+        "maxLon": 14.5956924,
+        "maxLat": 45.84354401
+      }
+    },
+    "SI004": {
+      "name": "Bohinj",
+      "sub_id": "SI004",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 13.72861457,
+        "minLat": 46.22600555,
+        "maxLon": 14.18064666,
+        "maxLat": 46.37397766
+      }
+    },
+    "SI005": {
+      "name": "Borovnica",
+      "sub_id": "SI005",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 14.3373493,
+        "minLat": 45.8555603,
+        "maxLon": 14.42927384,
+        "maxLat": 45.96302032
+      }
+    },
+    "SI006": {
+      "name": "Bovec",
+      "sub_id": "SI006",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 13.40189123,
+        "minLat": 46.26651764,
+        "maxLon": 13.84563613,
+        "maxLat": 46.44641876
+      }
+    },
+    "SI151": {
+      "name": "Braslovče",
+      "sub_id": "SI151",
+      "sub_num": "151",
+      "bbox": {
+        "minLon": 14.96429062,
+        "minLat": 46.21707916,
+        "maxLon": 15.08813,
+        "maxLat": 46.32865906
+      }
+    },
+    "SI007": {
+      "name": "Brda",
+      "sub_id": "SI007",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 13.4794265,
+        "minLat": 45.9679985,
+        "maxLon": 13.63283086,
+        "maxLat": 46.06970787
+      }
+    },
+    "SI008": {
+      "name": "Brezovica",
+      "sub_id": "SI008",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 14.37589824,
+        "minLat": 45.86071014,
+        "maxLon": 14.48917019,
+        "maxLat": 46.03443146
+      }
+    },
+    "SI009": {
+      "name": "Brežice",
+      "sub_id": "SI009",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 15.49438715,
+        "minLat": 45.82084489,
+        "maxLon": 15.73255909,
+        "maxLat": 46.0515976
+      }
+    },
+    "SI152": {
+      "name": "Cankova",
+      "sub_id": "SI152",
+      "sub_num": "152",
+      "bbox": {
+        "minLon": 15.98756301,
+        "minLat": 46.68434143,
+        "maxLon": 16.06408203,
+        "maxLat": 46.76948547
+      }
+    },
+    "SI011": {
+      "name": "Celje",
+      "sub_id": "SI011",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 15.20850658,
+        "minLat": 46.18274689,
+        "maxLon": 15.35154975,
+        "maxLat": 46.31320953
+      }
+    },
+    "SI012": {
+      "name": "Cerklje na Gorenjskem",
+      "sub_id": "SI012",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 14.44471645,
+        "minLat": 46.1995697,
+        "maxLon": 14.56906295,
+        "maxLat": 46.29878998
+      }
+    },
+    "SI013": {
+      "name": "Cerknica",
+      "sub_id": "SI013",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 14.26513851,
+        "minLat": 45.70552826,
+        "maxLon": 14.5169754,
+        "maxLat": 45.88886261
+      }
+    },
+    "SI014": {
+      "name": "Cerkno",
+      "sub_id": "SI014",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 13.88653564,
+        "minLat": 46.05503082,
+        "maxLon": 14.0824039,
+        "maxLat": 46.18480682
+      }
+    },
+    "SI153": {
+      "name": "Cerkvenjak",
+      "sub_id": "SI153",
+      "sub_num": "153",
+      "bbox": {
+        "minLon": 15.91069925,
+        "minLat": 46.52503967,
+        "maxLon": 15.98459065,
+        "maxLat": 46.58029521
+      }
+    },
+    "SI196": {
+      "name": "Cirkulane",
+      "sub_id": "SI196",
+      "sub_num": "196",
+      "bbox": {
+        "minLon": 15.94732511,
+        "minLat": 46.30666494,
+        "maxLon": 16.03993142,
+        "maxLat": 46.38968468
+      }
+    },
+    "SI015": {
+      "name": "Črenšovci",
+      "sub_id": "SI015",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 16.24324954,
+        "minLat": 46.52340889,
+        "maxLon": 16.34284306,
+        "maxLat": 46.59061432
+      }
+    },
+    "SI016": {
+      "name": "Črna na Koroškem",
+      "sub_id": "SI016",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 14.67492855,
+        "minLat": 46.41723633,
+        "maxLon": 14.97126853,
+        "maxLat": 46.5080452
+      }
+    },
+    "SI017": {
+      "name": "Črnomelj",
+      "sub_id": "SI017",
+      "sub_num": "17",
+      "bbox": {
+        "minLon": 15.05610311,
+        "minLat": 45.42111754,
+        "maxLon": 15.38654852,
+        "maxLat": 45.62793732
+      }
+    },
+    "SI018": {
+      "name": "Destrnik",
+      "sub_id": "SI018",
+      "sub_num": "18",
+      "bbox": {
+        "minLon": 15.82383084,
+        "minLat": 46.44264221,
+        "maxLon": 15.93743026,
+        "maxLat": 46.50203705
+      }
+    },
+    "SI019": {
+      "name": "Divača",
+      "sub_id": "SI019",
+      "sub_num": "19",
+      "bbox": {
+        "minLon": 13.95003843,
+        "minLat": 45.59841156,
+        "maxLon": 14.11178601,
+        "maxLat": 45.76475143
+      }
+    },
+    "SI154": {
+      "name": "Dobje",
+      "sub_id": "SI154",
+      "sub_num": "154",
+      "bbox": {
+        "minLon": 15.36225021,
+        "minLat": 46.10069275,
+        "maxLon": 15.43767798,
+        "maxLat": 46.15150452
+      }
+    },
+    "SI020": {
+      "name": "Dobrepolje",
+      "sub_id": "SI020",
+      "sub_num": "20",
+      "bbox": {
+        "minLon": 14.64659596,
+        "minLat": 45.73059082,
+        "maxLon": 14.85131919,
+        "maxLat": 45.89092255
+      }
+    },
+    "SI155": {
+      "name": "Dobrna",
+      "sub_id": "SI155",
+      "sub_num": "155",
+      "bbox": {
+        "minLon": 15.18810499,
+        "minLat": 46.30943298,
+        "maxLon": 15.2650938,
+        "maxLat": 46.3842988
+      }
+    },
+    "SI021": {
+      "name": "Dobrova-Polhov Gradec",
+      "sub_id": "SI021",
+      "sub_num": "21",
+      "bbox": {
+        "minLon": 14.19353187,
+        "minLat": 46.01211548,
+        "maxLon": 14.44999015,
+        "maxLat": 46.10549927
+      }
+    },
+    "SI156": {
+      "name": "Dobrovnik",
+      "sub_id": "SI156",
+      "sub_num": "156",
+      "bbox": {
+        "minLon": 16.30861366,
+        "minLat": 46.60984039,
+        "maxLon": 16.3937577,
+        "maxLat": 46.68159485
+      }
+    },
+    "SI022": {
+      "name": "Dol pri Ljubljani",
+      "sub_id": "SI022",
+      "sub_num": "22",
+      "bbox": {
+        "minLon": 14.59729827,
+        "minLat": 46.07322693,
+        "maxLon": 14.75653183,
+        "maxLat": 46.11785889
+      }
+    },
+    "SI157": {
+      "name": "Dolenjske Toplice",
+      "sub_id": "SI157",
+      "sub_num": "157",
+      "bbox": {
+        "minLon": 14.9727037,
+        "minLat": 45.63549042,
+        "maxLon": 15.12653303,
+        "maxLat": 45.7906723
+      }
+    },
+    "SI023": {
+      "name": "Domžale",
+      "sub_id": "SI023",
+      "sub_num": "23",
+      "bbox": {
+        "minLon": 14.57207012,
+        "minLat": 46.09313965,
+        "maxLon": 14.69120133,
+        "maxLat": 46.21330261
+      }
+    },
+    "SI024": {
+      "name": "Dornava",
+      "sub_id": "SI024",
+      "sub_num": "24",
+      "bbox": {
+        "minLon": 15.94032157,
+        "minLat": 46.41242981,
+        "maxLon": 16.03692889,
+        "maxLat": 46.48349762
+      }
+    },
+    "SI025": {
+      "name": "Dravograd",
+      "sub_id": "SI025",
+      "sub_num": "25",
+      "bbox": {
+        "minLon": 14.91904676,
+        "minLat": 46.52400971,
+        "maxLon": 15.12737024,
+        "maxLat": 46.64983749
+      }
+    },
+    "SI026": {
+      "name": "Duplek",
+      "sub_id": "SI026",
+      "sub_num": "26",
+      "bbox": {
+        "minLon": 15.71601713,
+        "minLat": 46.46461487,
+        "maxLon": 15.81990099,
+        "maxLat": 46.54186249
+      }
+    },
+    "SI027": {
+      "name": "Gorenja vas-Poljane",
+      "sub_id": "SI027",
+      "sub_num": "27",
+      "bbox": {
+        "minLon": 14.0244503,
+        "minLat": 46.03134155,
+        "maxLon": 14.23728025,
+        "maxLat": 46.17828369
+      }
+    },
+    "SI028": {
+      "name": "Gorišnica",
+      "sub_id": "SI028",
+      "sub_num": "28",
+      "bbox": {
+        "minLon": 15.97766972,
+        "minLat": 46.37114525,
+        "maxLon": 16.05502605,
+        "maxLat": 46.4333725
+      }
+    },
+    "SI207": {
+      "name": "Gorje",
+      "sub_id": "SI207",
+      "sub_num": "207",
+      "bbox": {
+        "minLon": 13.84563613,
+        "minLat": 46.3444519,
+        "maxLon": 14.09465849,
+        "maxLat": 46.43989563
+      }
+    },
+    "SI029": {
+      "name": "Gornja Radgona",
+      "sub_id": "SI029",
+      "sub_num": "29",
+      "bbox": {
+        "minLon": 15.8937242,
+        "minLat": 46.57756805,
+        "maxLon": 16.04535937,
+        "maxLat": 46.68630195
+      }
+    },
+    "SI030": {
+      "name": "Gornji Grad",
+      "sub_id": "SI030",
+      "sub_num": "30",
+      "bbox": {
+        "minLon": 14.69660628,
+        "minLat": 46.24351501,
+        "maxLon": 14.87878048,
+        "maxLat": 46.33655548
+      }
+    },
+    "SI031": {
+      "name": "Gornji Petrovci",
+      "sub_id": "SI031",
+      "sub_num": "31",
+      "bbox": {
+        "minLon": 16.12922359,
+        "minLat": 46.7351532,
+        "maxLon": 16.27002955,
+        "maxLat": 46.85909271
+      }
+    },
+    "SI158": {
+      "name": "Grad",
+      "sub_id": "SI158",
+      "sub_num": "158",
+      "bbox": {
+        "minLon": 16.04923475,
+        "minLat": 46.74888611,
+        "maxLon": 16.14325404,
+        "maxLat": 46.82167053
+      }
+    },
+    "SI032": {
+      "name": "Grosuplje",
+      "sub_id": "SI032",
+      "sub_num": "32",
+      "bbox": {
+        "minLon": 14.59580958,
+        "minLat": 45.87409973,
+        "maxLon": 14.75789464,
+        "maxLat": 46.01211548
+      }
+    },
+    "SI159": {
+      "name": "Hajdina",
+      "sub_id": "SI159",
+      "sub_num": "159",
+      "bbox": {
+        "minLon": 15.79041672,
+        "minLat": 46.37638092,
+        "maxLon": 15.87154984,
+        "maxLat": 46.44950867
+      }
+    },
+    "SI034": {
+      "name": "Hrastnik",
+      "sub_id": "SI034",
+      "sub_num": "34",
+      "bbox": {
+        "minLon": 15.05948377,
+        "minLat": 46.07666016,
+        "maxLon": 15.18235922,
+        "maxLat": 46.17794037
+      }
+    },
+    "SI035": {
+      "name": "Hrpelje-Kozina",
+      "sub_id": "SI035",
+      "sub_num": "35",
+      "bbox": {
+        "minLon": 13.86690557,
+        "minLat": 45.48075914,
+        "maxLon": 14.13386393,
+        "maxLat": 45.64270019
+      }
+    },
+    "SI036": {
+      "name": "Idrija",
+      "sub_id": "SI036",
+      "sub_num": "36",
+      "bbox": {
+        "minLon": 13.86832476,
+        "minLat": 45.88062286,
+        "maxLon": 14.15008187,
+        "maxLat": 46.08275414
+      }
+    },
+    "SI037": {
+      "name": "Ig",
+      "sub_id": "SI037",
+      "sub_num": "37",
+      "bbox": {
+        "minLon": 14.45559871,
+        "minLat": 45.86620331,
+        "maxLon": 14.60098672,
+        "maxLat": 45.99838257
+      }
+    },
+    "SI038": {
+      "name": "Ilirska Bistrica",
+      "sub_id": "SI038",
+      "sub_num": "38",
+      "bbox": {
+        "minLon": 14.10148299,
+        "minLat": 45.46883941,
+        "maxLon": 14.50260699,
+        "maxLat": 45.68286896
+      }
+    },
+    "SI039": {
+      "name": "Ivančna Gorica",
+      "sub_id": "SI039",
+      "sub_num": "39",
+      "bbox": {
+        "minLon": 14.71492732,
+        "minLat": 45.79204559,
+        "maxLon": 14.9169302,
+        "maxLat": 46.00971222
+      }
+    },
+    "SI040": {
+      "name": "Izola",
+      "sub_id": "SI040",
+      "sub_num": "40",
+      "bbox": {
+        "minLon": 13.61193049,
+        "minLat": 45.47138214,
+        "maxLon": 13.70311511,
+        "maxLat": 45.5481981
+      }
+    },
+    "SI041": {
+      "name": "Jesenice",
+      "sub_id": "SI041",
+      "sub_num": "41",
+      "bbox": {
+        "minLon": 13.9833194,
+        "minLat": 46.39843941,
+        "maxLon": 14.1485709,
+        "maxLat": 46.49242401
+      }
+    },
+    "SI163": {
+      "name": "Jezersko",
+      "sub_id": "SI163",
+      "sub_num": "163",
+      "bbox": {
+        "minLon": 14.40352643,
+        "minLat": 46.34307861,
+        "maxLon": 14.56764996,
+        "maxLat": 46.42564774
+      }
+    },
+    "SI042": {
+      "name": "Juršinci",
+      "sub_id": "SI042",
+      "sub_num": "42",
+      "bbox": {
+        "minLon": 15.93406594,
+        "minLat": 46.43689156,
+        "maxLon": 16.01804149,
+        "maxLat": 46.51851654
+      }
+    },
+    "SI043": {
+      "name": "Kamnik",
+      "sub_id": "SI043",
+      "sub_num": "43",
+      "bbox": {
+        "minLon": 14.53828728,
+        "minLat": 46.1813736,
+        "maxLon": 14.92196619,
+        "maxLat": 46.36196136
+      }
+    },
+    "SI044": {
+      "name": "Kanal",
+      "sub_id": "SI044",
+      "sub_num": "44",
+      "bbox": {
+        "minLon": 13.53163135,
+        "minLat": 45.98988533,
+        "maxLon": 13.7790097,
+        "maxLat": 46.1715889
+      }
+    },
+    "SI045": {
+      "name": "Kidričevo",
+      "sub_id": "SI045",
+      "sub_num": "45",
+      "bbox": {
+        "minLon": 15.66949248,
+        "minLat": 46.35131836,
+        "maxLon": 15.82526576,
+        "maxLat": 46.42856598
+      }
+    },
+    "SI046": {
+      "name": "Kobarid",
+      "sub_id": "SI046",
+      "sub_num": "46",
+      "bbox": {
+        "minLon": 13.37754178,
+        "minLat": 46.18429184,
+        "maxLon": 13.73833561,
+        "maxLat": 46.30376816
+      }
+    },
+    "SI047": {
+      "name": "Kobilje",
+      "sub_id": "SI047",
+      "sub_num": "47",
+      "bbox": {
+        "minLon": 16.35220802,
+        "minLat": 46.65859222,
+        "maxLon": 16.42826402,
+        "maxLat": 46.70442581
+      }
+    },
+    "SI049": {
+      "name": "Komen",
+      "sub_id": "SI049",
+      "sub_num": "49",
+      "bbox": {
+        "minLon": 13.59418857,
+        "minLat": 45.77419281,
+        "maxLon": 13.91630471,
+        "maxLat": 45.85693359
+      }
+    },
+    "SI164": {
+      "name": "Komenda",
+      "sub_id": "SI164",
+      "sub_num": "164",
+      "bbox": {
+        "minLon": 14.50960004,
+        "minLat": 46.17004394,
+        "maxLon": 14.58296156,
+        "maxLat": 46.23973846
+      }
+    },
+    "SI050": {
+      "name": "Koper",
+      "sub_id": "SI050",
+      "sub_num": "50",
+      "bbox": {
+        "minLon": 13.67017806,
+        "minLat": 45.42529106,
+        "maxLon": 14.01062584,
+        "maxLat": 45.59875488
+      }
+    },
+    "SI197": {
+      "name": "Kosanjevica na Krki",
+      "sub_id": "SI197",
+      "sub_num": "197",
+      "bbox": {
+        "minLon": 15.37496531,
+        "minLat": 45.79190075,
+        "maxLon": 15.47648895,
+        "maxLat": 45.88474274
+      }
+    },
+    "SI165": {
+      "name": "Kostel",
+      "sub_id": "SI165",
+      "sub_num": "165",
+      "bbox": {
+        "minLon": 14.79489243,
+        "minLat": 45.45953751,
+        "maxLon": 14.96969771,
+        "maxLat": 45.53901672
+      }
+    },
+    "SI051": {
+      "name": "Kozje",
+      "sub_id": "SI051",
+      "sub_num": "51",
+      "bbox": {
+        "minLon": 15.45735073,
+        "minLat": 45.99151611,
+        "maxLon": 15.65295935,
+        "maxLat": 46.12884521
+      }
+    },
+    "SI048": {
+      "name": "Kočevje",
+      "sub_id": "SI048",
+      "sub_num": "48",
+      "bbox": {
+        "minLon": 14.71275485,
+        "minLat": 45.48523307,
+        "maxLon": 15.11747789,
+        "maxLat": 45.77316284
+      }
+    },
+    "SI052": {
+      "name": "Kranj",
+      "sub_id": "SI052",
+      "sub_num": "52",
+      "bbox": {
+        "minLon": 14.16971731,
+        "minLat": 46.15528107,
+        "maxLon": 14.42744255,
+        "maxLat": 46.3489151
+      }
+    },
+    "SI053": {
+      "name": "Kranjska Gora",
+      "sub_id": "SI053",
+      "sub_num": "53",
+      "bbox": {
+        "minLon": 13.6839025,
+        "minLat": 46.37397766,
+        "maxLon": 14.00669658,
+        "maxLat": 46.52263641
+      }
+    },
+    "SI166": {
+      "name": "Križevci",
+      "sub_id": "SI166",
+      "sub_num": "166",
+      "bbox": {
+        "minLon": 16.07509077,
+        "minLat": 46.52591944,
+        "maxLon": 16.16809464,
+        "maxLat": 46.600914
+      }
+    },
+    "SI054": {
+      "name": "Krško",
+      "sub_id": "SI054",
+      "sub_num": "54",
+      "bbox": {
+        "minLon": 15.3438741,
+        "minLat": 45.819466,
+        "maxLon": 15.56248319,
+        "maxLat": 46.06876373
+      }
+    },
+    "SI055": {
+      "name": "Kungota",
+      "sub_id": "SI055",
+      "sub_num": "55",
+      "bbox": {
+        "minLon": 15.54220045,
+        "minLat": 46.58512116,
+        "maxLon": 15.66657972,
+        "maxLat": 46.68931961
+      }
+    },
+    "SI056": {
+      "name": "Kuzma",
+      "sub_id": "SI056",
+      "sub_num": "56",
+      "bbox": {
+        "minLon": 16.05556345,
+        "minLat": 46.80139565,
+        "maxLon": 16.14317787,
+        "maxLat": 46.8702507
+      }
+    },
+    "SI057": {
+      "name": "Laško",
+      "sub_id": "SI057",
+      "sub_num": "57",
+      "bbox": {
+        "minLon": 15.11599219,
+        "minLat": 46.0515976,
+        "maxLon": 15.3738066,
+        "maxLat": 46.19476318
+      }
+    },
+    "SI058": {
+      "name": "Lenart",
+      "sub_id": "SI058",
+      "sub_num": "58",
+      "bbox": {
+        "minLon": 15.75297904,
+        "minLat": 46.48693085,
+        "maxLon": 15.87724841,
+        "maxLat": 46.60984039
+      }
+    },
+    "SI059": {
+      "name": "Lendava",
+      "sub_id": "SI059",
+      "sub_num": "59",
+      "bbox": {
+        "minLon": 16.31326842,
+        "minLat": 46.4623189,
+        "maxLon": 16.59685504,
+        "maxLat": 46.63473129
+      }
+    },
+    "SI060": {
+      "name": "Litija",
+      "sub_id": "SI060",
+      "sub_num": "60",
+      "bbox": {
+        "minLon": 14.7164427,
+        "minLat": 45.9627856,
+        "maxLon": 15.09609747,
+        "maxLat": 46.12815857
+      }
+    },
+    "SI061": {
+      "name": "Ljubljana",
+      "sub_id": "SI061",
+      "sub_num": "61",
+      "bbox": {
+        "minLon": 14.41624927,
+        "minLat": 45.97366333,
+        "maxLon": 14.75723433,
+        "maxLat": 46.14154816
+      }
+    },
+    "SI062": {
+      "name": "Ljubno",
+      "sub_id": "SI062",
+      "sub_num": "62",
+      "bbox": {
+        "minLon": 14.77917886,
+        "minLat": 46.30531311,
+        "maxLon": 14.89898837,
+        "maxLat": 46.42238617
+      }
+    },
+    "SI063": {
+      "name": "Ljutomer",
+      "sub_id": "SI063",
+      "sub_num": "63",
+      "bbox": {
+        "minLon": 16.02408481,
+        "minLat": 46.46669626,
+        "maxLon": 16.27659667,
+        "maxLat": 46.58168793
+      }
+    },
+    "SI208": {
+      "name": "Log-Dragomer",
+      "sub_id": "SI208",
+      "sub_num": "208",
+      "bbox": {
+        "minLon": 14.34075916,
+        "minLat": 45.98773956,
+        "maxLon": 14.418401,
+        "maxLat": 46.03031158
+      }
+    },
+    "SI064": {
+      "name": "Logatec",
+      "sub_id": "SI064",
+      "sub_num": "64",
+      "bbox": {
+        "minLon": 14.10813379,
+        "minLat": 45.85041046,
+        "maxLon": 14.32252276,
+        "maxLat": 46.03134155
+      }
+    },
+    "SI167": {
+      "name": "Lovrenc na Pohorju",
+      "sub_id": "SI167",
+      "sub_num": "167",
+      "bbox": {
+        "minLon": 15.32821763,
+        "minLat": 46.45740509,
+        "maxLon": 15.45695412,
+        "maxLat": 46.58512116
+      }
+    },
+    "SI065": {
+      "name": "Loška dolina",
+      "sub_id": "SI065",
+      "sub_num": "65",
+      "bbox": {
+        "minLon": 14.39477456,
+        "minLat": 45.58021545,
+        "maxLon": 14.57941437,
+        "maxLat": 45.74947393
+      }
+    },
+    "SI066": {
+      "name": "Loški Potok",
+      "sub_id": "SI066",
+      "sub_num": "66",
+      "bbox": {
+        "minLon": 14.55396819,
+        "minLat": 45.58005452,
+        "maxLon": 14.74715018,
+        "maxLat": 45.74226379
+      }
+    },
+    "SI068": {
+      "name": "Lukovica",
+      "sub_id": "SI068",
+      "sub_num": "68",
+      "bbox": {
+        "minLon": 14.64863753,
+        "minLat": 46.13880157,
+        "maxLon": 14.89763081,
+        "maxLat": 46.20368958
+      }
+    },
+    "SI067": {
+      "name": "Luče",
+      "sub_id": "SI067",
+      "sub_num": "67",
+      "bbox": {
+        "minLon": 14.63376641,
+        "minLat": 46.27372742,
+        "maxLon": 14.82316768,
+        "maxLat": 46.43131256
+      }
+    },
+    "SI069": {
+      "name": "Majšperk",
+      "sub_id": "SI069",
+      "sub_num": "69",
+      "bbox": {
+        "minLon": 15.66754913,
+        "minLat": 46.25827789,
+        "maxLon": 15.81381917,
+        "maxLat": 46.36299133
+      }
+    },
+    "SI198": {
+      "name": "Makole",
+      "sub_id": "SI198",
+      "sub_num": "198",
+      "bbox": {
+        "minLon": 15.6347686,
+        "minLat": 46.26686096,
+        "maxLon": 15.71630812,
+        "maxLat": 46.34479523
+      }
+    },
+    "SI070": {
+      "name": "Maribor",
+      "sub_id": "SI070",
+      "sub_num": "70",
+      "bbox": {
+        "minLon": 15.5209434,
+        "minLat": 46.49757385,
+        "maxLon": 15.77395451,
+        "maxLat": 46.6355896
+      }
+    },
+    "SI168": {
+      "name": "Markovci",
+      "sub_id": "SI168",
+      "sub_num": "168",
+      "bbox": {
+        "minLon": 15.90056801,
+        "minLat": 46.35964394,
+        "maxLon": 15.99456012,
+        "maxLat": 46.41551971
+      }
+    },
+    "SI071": {
+      "name": "Medvode",
+      "sub_id": "SI071",
+      "sub_num": "71",
+      "bbox": {
+        "minLon": 14.33403039,
+        "minLat": 46.0773468,
+        "maxLon": 14.47313619,
+        "maxLat": 46.18824005
+      }
+    },
+    "SI072": {
+      "name": "Mengeš",
+      "sub_id": "SI072",
+      "sub_num": "72",
+      "bbox": {
+        "minLon": 14.51567781,
+        "minLat": 46.12953186,
+        "maxLon": 14.59333718,
+        "maxLat": 46.19235992
+      }
+    },
+    "SI073": {
+      "name": "Metlika",
+      "sub_id": "SI073",
+      "sub_num": "73",
+      "bbox": {
+        "minLon": 15.20689523,
+        "minLat": 45.573349,
+        "maxLon": 15.40620959,
+        "maxLat": 45.71848869
+      }
+    },
+    "SI074": {
+      "name": "Mežica",
+      "sub_id": "SI074",
+      "sub_num": "74",
+      "bbox": {
+        "minLon": 14.81797779,
+        "minLat": 46.48761749,
+        "maxLon": 14.90335035,
+        "maxLat": 46.54769898
+      }
+    },
+    "SI169": {
+      "name": "Miklavž na Dravskem polju",
+      "sub_id": "SI169",
+      "sub_num": "169",
+      "bbox": {
+        "minLon": 15.68206298,
+        "minLat": 46.45397186,
+        "maxLon": 15.73499155,
+        "maxLat": 46.50718689
+      }
+    },
+    "SI075": {
+      "name": "Miren-Kostanjevica",
+      "sub_id": "SI075",
+      "sub_num": "75",
+      "bbox": {
+        "minLon": 13.57471478,
+        "minLat": 45.80783844,
+        "maxLon": 13.72760987,
+        "maxLat": 45.90611458
+      }
+    },
+    "SI212": {
+      "name": "Mirna",
+      "sub_id": "SI212",
+      "sub_num": "212",
+      "bbox": {
+        "minLon": 14.99633014,
+        "minLat": 45.91280937,
+        "maxLon": 15.11517108,
+        "maxLat": 45.97297669
+      }
+    },
+    "SI170": {
+      "name": "Mirna Peč",
+      "sub_id": "SI170",
+      "sub_num": "170",
+      "bbox": {
+        "minLon": 15.0288378,
+        "minLat": 45.80955505,
+        "maxLon": 15.14326429,
+        "maxLat": 45.89366913
+      }
+    },
+    "SI076": {
+      "name": "Mislinja",
+      "sub_id": "SI076",
+      "sub_num": "76",
+      "bbox": {
+        "minLon": 15.13175619,
+        "minLat": 46.37466431,
+        "maxLon": 15.32871652,
+        "maxLat": 46.49997711
+      }
+    },
+    "SI199": {
+      "name": "Mokronog-Trebelno",
+      "sub_id": "SI199",
+      "sub_num": "199",
+      "bbox": {
+        "minLon": 15.09791982,
+        "minLat": 45.85899353,
+        "maxLon": 15.23134637,
+        "maxLat": 45.97057343
+      }
+    },
+    "SI078": {
+      "name": "Moravske Toplice",
+      "sub_id": "SI078",
+      "sub_num": "78",
+      "bbox": {
+        "minLon": 16.17782915,
+        "minLat": 46.6400528,
+        "maxLon": 16.38089442,
+        "maxLat": 46.77841187
+      }
+    },
+    "SI077": {
+      "name": "Moravče",
+      "sub_id": "SI077",
+      "sub_num": "77",
+      "bbox": {
+        "minLon": 14.68080783,
+        "minLat": 46.09176636,
+        "maxLon": 14.84062254,
+        "maxLat": 46.16317749
+      }
+    },
+    "SI079": {
+      "name": "Mozirje",
+      "sub_id": "SI079",
+      "sub_num": "79",
+      "bbox": {
+        "minLon": 14.8875345,
+        "minLat": 46.29364014,
+        "maxLon": 15.00427651,
+        "maxLat": 46.40419006
+      }
+    },
+    "SI080": {
+      "name": "Murska Sobota",
+      "sub_id": "SI080",
+      "sub_num": "80",
+      "bbox": {
+        "minLon": 16.10363746,
+        "minLat": 46.59576416,
+        "maxLon": 16.23695767,
+        "maxLat": 46.69773102
+      }
+    },
+    "SI081": {
+      "name": "Muta",
+      "sub_id": "SI081",
+      "sub_num": "81",
+      "bbox": {
+        "minLon": 15.08042324,
+        "minLat": 46.58340454,
+        "maxLon": 15.17845142,
+        "maxLat": 46.65807724
+      }
+    },
+    "SI082": {
+      "name": "Naklo",
+      "sub_id": "SI082",
+      "sub_num": "82",
+      "bbox": {
+        "minLon": 14.26025808,
+        "minLat": 46.24952316,
+        "maxLon": 14.33912337,
+        "maxLat": 46.32105398
+      }
+    },
+    "SI083": {
+      "name": "Nazarje",
+      "sub_id": "SI083",
+      "sub_num": "83",
+      "bbox": {
+        "minLon": 14.85296833,
+        "minLat": 46.23390198,
+        "maxLon": 14.97421706,
+        "maxLat": 46.33174896
+      }
+    },
+    "SI084": {
+      "name": "Nova Gorica",
+      "sub_id": "SI084",
+      "sub_num": "84",
+      "bbox": {
+        "minLon": 13.61159527,
+        "minLat": 45.83049774,
+        "maxLon": 13.87327278,
+        "maxLat": 46.10240936
+      }
+    },
+    "SI085": {
+      "name": "Novo Mesto",
+      "sub_id": "SI085",
+      "sub_num": "85",
+      "bbox": {
+        "minLon": 15.09848344,
+        "minLat": 45.68149567,
+        "maxLon": 15.31948185,
+        "maxLat": 45.8706665
+      }
+    },
+    "SI086": {
+      "name": "Odranci",
+      "sub_id": "SI086",
+      "sub_num": "86",
+      "bbox": {
+        "minLon": 16.25467098,
+        "minLat": 46.5662384,
+        "maxLon": 16.29971743,
+        "maxLat": 46.59816742
+      }
+    },
+    "SI171": {
+      "name": "Oplotnica",
+      "sub_id": "SI171",
+      "sub_num": "171",
+      "bbox": {
+        "minLon": 15.40167236,
+        "minLat": 46.34409511,
+        "maxLon": 15.49929225,
+        "maxLat": 46.41929626
+      }
+    },
+    "SI087": {
+      "name": "Ormož",
+      "sub_id": "SI087",
+      "sub_num": "87",
+      "bbox": {
+        "minLon": 16.01949978,
+        "minLat": 46.37811363,
+        "maxLon": 16.27049255,
+        "maxLat": 46.49566412
+      }
+    },
+    "SI088": {
+      "name": "Osilnica",
+      "sub_id": "SI088",
+      "sub_num": "88",
+      "bbox": {
+        "minLon": 14.68626976,
+        "minLat": 45.50015688,
+        "maxLon": 14.79783499,
+        "maxLat": 45.60081482
+      }
+    },
+    "SI089": {
+      "name": "Pesnica",
+      "sub_id": "SI089",
+      "sub_num": "89",
+      "bbox": {
+        "minLon": 15.65109777,
+        "minLat": 46.55216217,
+        "maxLon": 15.76896036,
+        "maxLat": 46.66408539
+      }
+    },
+    "SI090": {
+      "name": "Piran",
+      "sub_id": "SI090",
+      "sub_num": "90",
+      "bbox": {
+        "minLon": 13.56250501,
+        "minLat": 45.44603252,
+        "maxLon": 13.7217387,
+        "maxLat": 45.53828335
+      }
+    },
+    "SI091": {
+      "name": "Pivka",
+      "sub_id": "SI091",
+      "sub_num": "91",
+      "bbox": {
+        "minLon": 14.07403588,
+        "minLat": 45.61454773,
+        "maxLon": 14.44742954,
+        "maxLat": 45.7559967
+      }
+    },
+    "SI172": {
+      "name": "Podlehnik",
+      "sub_id": "SI172",
+      "sub_num": "172",
+      "bbox": {
+        "minLon": 15.81482124,
+        "minLat": 46.27017415,
+        "maxLon": 15.9167254,
+        "maxLat": 46.34616852
+      }
+    },
+    "SI093": {
+      "name": "Podvelka",
+      "sub_id": "SI093",
+      "sub_num": "93",
+      "bbox": {
+        "minLon": 15.27930617,
+        "minLat": 46.50272369,
+        "maxLon": 15.44894505,
+        "maxLat": 46.65361404
+      }
+    },
+    "SI092": {
+      "name": "Podčetrtek",
+      "sub_id": "SI092",
+      "sub_num": "92",
+      "bbox": {
+        "minLon": 15.52386618,
+        "minLat": 46.0622406,
+        "maxLon": 15.63733542,
+        "maxLat": 46.20094299
+      }
+    },
+    "SI200": {
+      "name": "Poljčane",
+      "sub_id": "SI200",
+      "sub_num": "200",
+      "bbox": {
+        "minLon": 15.54151011,
+        "minLat": 46.26754761,
+        "maxLon": 15.65813088,
+        "maxLat": 46.32762909
+      }
+    },
+    "SI173": {
+      "name": "Polzela",
+      "sub_id": "SI173",
+      "sub_num": "173",
+      "bbox": {
+        "minLon": 15.05462134,
+        "minLat": 46.25096107,
+        "maxLon": 15.11889052,
+        "maxLat": 46.34170532
+      }
+    },
+    "SI094": {
+      "name": "Postojna",
+      "sub_id": "SI094",
+      "sub_num": "94",
+      "bbox": {
+        "minLon": 14.05070567,
+        "minLat": 45.69625854,
+        "maxLon": 14.33360445,
+        "maxLat": 45.87478638
+      }
+    },
+    "SI174": {
+      "name": "Prebold",
+      "sub_id": "SI174",
+      "sub_num": "174",
+      "bbox": {
+        "minLon": 15.04067397,
+        "minLat": 46.18343353,
+        "maxLon": 15.13793814,
+        "maxLat": 46.25347137
+      }
+    },
+    "SI095": {
+      "name": "Preddvor",
+      "sub_id": "SI095",
+      "sub_num": "95",
+      "bbox": {
+        "minLon": 14.36778223,
+        "minLat": 46.2795639,
+        "maxLon": 14.55466783,
+        "maxLat": 46.36230469
+      }
+    },
+    "SI175": {
+      "name": "Prevalje",
+      "sub_id": "SI175",
+      "sub_num": "175",
+      "bbox": {
+        "minLon": 14.82866836,
+        "minLat": 46.49757385,
+        "maxLon": 14.9537431,
+        "maxLat": 46.60839188
+      }
+    },
+    "SI096": {
+      "name": "Ptuj",
+      "sub_id": "SI096",
+      "sub_num": "96",
+      "bbox": {
+        "minLon": 15.77643561,
+        "minLat": 46.3866806,
+        "maxLon": 15.94951725,
+        "maxLat": 46.48718834
+      }
+    },
+    "SI097": {
+      "name": "Puconci",
+      "sub_id": "SI097",
+      "sub_num": "97",
+      "bbox": {
+        "minLon": 16.05205584,
+        "minLat": 46.6789341,
+        "maxLon": 16.21841741,
+        "maxLat": 46.81823731
+      }
+    },
+    "SI100": {
+      "name": "Radenci",
+      "sub_id": "SI100",
+      "sub_num": "100",
+      "bbox": {
+        "minLon": 15.99927032,
+        "minLat": 46.57838345,
+        "maxLon": 16.11191964,
+        "maxLat": 46.65060997
+      }
+    },
+    "SI099": {
+      "name": "Radeče",
+      "sub_id": "SI099",
+      "sub_num": "99",
+      "bbox": {
+        "minLon": 15.07185864,
+        "minLat": 46.02104187,
+        "maxLon": 15.24127805,
+        "maxLat": 46.08876228
+      }
+    },
+    "SI101": {
+      "name": "Radlje ob Dravi",
+      "sub_id": "SI101",
+      "sub_num": "101",
+      "bbox": {
+        "minLon": 15.16042972,
+        "minLat": 46.5133667,
+        "maxLon": 15.34067547,
+        "maxLat": 46.65498734
+      }
+    },
+    "SI102": {
+      "name": "Radovljica",
+      "sub_id": "SI102",
+      "sub_num": "102",
+      "bbox": {
+        "minLon": 14.10910869,
+        "minLat": 46.26583099,
+        "maxLon": 14.26712513,
+        "maxLat": 46.42272949
+      }
+    },
+    "SI103": {
+      "name": "Ravne na Koroškem",
+      "sub_id": "SI103",
+      "sub_num": "103",
+      "bbox": {
+        "minLon": 14.8741889,
+        "minLat": 46.47594452,
+        "maxLon": 15.01614344,
+        "maxLat": 46.61035538
+      }
+    },
+    "SI176": {
+      "name": "Razkrižje",
+      "sub_id": "SI176",
+      "sub_num": "176",
+      "bbox": {
+        "minLon": 16.2412113,
+        "minLat": 46.50059569,
+        "maxLon": 16.31462038,
+        "maxLat": 46.53800011
+      }
+    },
+    "SI098": {
+      "name": "Rače-Fram",
+      "sub_id": "SI098",
+      "sub_num": "98",
+      "bbox": {
+        "minLon": 15.54874289,
+        "minLat": 46.40178681,
+        "maxLon": 15.72921383,
+        "maxLat": 46.48040772
+      }
+    },
+    "SI201": {
+      "name": "Renče-Vogrsko",
+      "sub_id": "SI201",
+      "sub_num": "201",
+      "bbox": {
+        "minLon": 13.6289804,
+        "minLat": 45.85521698,
+        "maxLon": 13.72760987,
+        "maxLat": 45.92388153
+      }
+    },
+    "SI209": {
+      "name": "Rečica ob Savinji",
+      "sub_id": "SI209",
+      "sub_num": "209",
+      "bbox": {
+        "minLon": 14.86565638,
+        "minLat": 46.28883362,
+        "maxLon": 14.93783224,
+        "maxLat": 46.36420989
+      }
+    },
+    "SI104": {
+      "name": "Ribnica",
+      "sub_id": "SI104",
+      "sub_num": "104",
+      "bbox": {
+        "minLon": 14.59501839,
+        "minLat": 45.63858032,
+        "maxLon": 14.82232881,
+        "maxLat": 45.81573486
+      }
+    },
+    "SI177": {
+      "name": "Ribnica na Pohorju",
+      "sub_id": "SI177",
+      "sub_num": "177",
+      "bbox": {
+        "minLon": 15.19640315,
+        "minLat": 46.4831543,
+        "maxLon": 15.33104289,
+        "maxLat": 46.55834198
+      }
+    },
+    "SI107": {
+      "name": "Rogatec",
+      "sub_id": "SI107",
+      "sub_num": "107",
+      "bbox": {
+        "minLon": 15.66952026,
+        "minLat": 46.207214,
+        "maxLon": 15.80004621,
+        "maxLat": 46.26171112
+      }
+    },
+    "SI106": {
+      "name": "Rogaška Slatina",
+      "sub_id": "SI106",
+      "sub_num": "106",
+      "bbox": {
+        "minLon": 15.55225515,
+        "minLat": 46.18584049,
+        "maxLon": 15.72775161,
+        "maxLat": 46.28059387
+      }
+    },
+    "SI105": {
+      "name": "Rogašovci",
+      "sub_id": "SI105",
+      "sub_num": "105",
+      "bbox": {
+        "minLon": 15.9893173,
+        "minLat": 46.7457962,
+        "maxLon": 16.06859183,
+        "maxLat": 46.84415817
+      }
+    },
+    "SI108": {
+      "name": "Ruše",
+      "sub_id": "SI108",
+      "sub_num": "108",
+      "bbox": {
+        "minLon": 15.40254629,
+        "minLat": 46.4680481,
+        "maxLon": 15.56472135,
+        "maxLat": 46.55765533
+      }
+    },
+    "SI178": {
+      "name": "Selnica ob Dravi",
+      "sub_id": "SI178",
+      "sub_num": "178",
+      "bbox": {
+        "minLon": 15.4008919,
+        "minLat": 46.52435303,
+        "maxLon": 15.55223811,
+        "maxLat": 46.65447235
+      }
+    },
+    "SI109": {
+      "name": "Semič",
+      "sub_id": "SI109",
+      "sub_num": "109",
+      "bbox": {
+        "minLon": 15.03473389,
+        "minLat": 45.59669495,
+        "maxLon": 15.27950573,
+        "maxLat": 45.70449829
+      }
+    },
+    "SI110": {
+      "name": "Sevnica",
+      "sub_id": "SI110",
+      "sub_num": "110",
+      "bbox": {
+        "minLon": 15.09211028,
+        "minLat": 45.9204483,
+        "maxLon": 15.42530346,
+        "maxLat": 46.08249664
+      }
+    },
+    "SI111": {
+      "name": "Sežana",
+      "sub_id": "SI111",
+      "sub_num": "111",
+      "bbox": {
+        "minLon": 13.71186626,
+        "minLat": 45.63892365,
+        "maxLon": 14.01242352,
+        "maxLat": 45.80745923
+      }
+    },
+    "SI112": {
+      "name": "Slovenj Gradec",
+      "sub_id": "SI112",
+      "sub_num": "112",
+      "bbox": {
+        "minLon": 14.95830464,
+        "minLat": 46.4138031,
+        "maxLon": 15.20018768,
+        "maxLat": 46.55422211
+      }
+    },
+    "SI113": {
+      "name": "Slovenska Bistrica",
+      "sub_id": "SI113",
+      "sub_num": "113",
+      "bbox": {
+        "minLon": 15.33769584,
+        "minLat": 46.31217957,
+        "maxLon": 15.68392515,
+        "maxLat": 46.4907074
+      }
+    },
+    "SI114": {
+      "name": "Slovenske Konjice",
+      "sub_id": "SI114",
+      "sub_num": "114",
+      "bbox": {
+        "minLon": 15.35751712,
+        "minLat": 46.2720108,
+        "maxLon": 15.54996383,
+        "maxLat": 46.36642456
+      }
+    },
+    "SI179": {
+      "name": "Sodražica",
+      "sub_id": "SI179",
+      "sub_num": "179",
+      "bbox": {
+        "minLon": 14.56009305,
+        "minLat": 45.71651459,
+        "maxLon": 14.68946445,
+        "maxLat": 45.79444885
+      }
+    },
+    "SI180": {
+      "name": "Solčava",
+      "sub_id": "SI180",
+      "sub_num": "180",
+      "bbox": {
+        "minLon": 14.56368804,
+        "minLat": 46.35440827,
+        "maxLon": 14.7545768,
+        "maxLat": 46.45036697
+      }
+    },
+    "SI202": {
+      "name": "Središče ob Dravi",
+      "sub_id": "SI202",
+      "sub_num": "202",
+      "bbox": {
+        "minLon": 16.21171093,
+        "minLat": 46.376243,
+        "maxLon": 16.30759645,
+        "maxLat": 46.43783569
+      }
+    },
+    "SI115": {
+      "name": "Starše",
+      "sub_id": "SI115",
+      "sub_num": "115",
+      "bbox": {
+        "minLon": 15.71601713,
+        "minLat": 46.4213562,
+        "maxLon": 15.81138849,
+        "maxLat": 46.4937973
+      }
+    },
+    "SI203": {
+      "name": "Straža",
+      "sub_id": "SI203",
+      "sub_num": "203",
+      "bbox": {
+        "minLon": 15.05097985,
+        "minLat": 45.72990417,
+        "maxLon": 15.12800932,
+        "maxLat": 45.81127167
+      }
+    },
+    "SI181": {
+      "name": "Sveta Ana",
+      "sub_id": "SI181",
+      "sub_num": "181",
+      "bbox": {
+        "minLon": 15.79393125,
+        "minLat": 46.60125732,
+        "maxLon": 15.90670514,
+        "maxLat": 46.69086456
+      }
+    },
+    "SI204": {
+      "name": "Sveta Trojica v Slovenskih goricah",
+      "sub_id": "SI204",
+      "sub_num": "204",
+      "bbox": {
+        "minLon": 15.84928954,
+        "minLat": 46.52812958,
+        "maxLon": 15.9513526,
+        "maxLat": 46.5933609
+      }
+    },
+    "SI182": {
+      "name": "Sveti Andraž v Slovenskih goricah",
+      "sub_id": "SI182",
+      "sub_num": "182",
+      "bbox": {
+        "minLon": 15.91918683,
+        "minLat": 46.48349762,
+        "maxLon": 16.00605905,
+        "maxLat": 46.54186249
+      }
+    },
+    "SI116": {
+      "name": "Sveti Jurij ob Ščavnici",
+      "sub_id": "SI116",
+      "sub_num": "116",
+      "bbox": {
+        "minLon": 15.97210896,
+        "minLat": 46.50725126,
+        "maxLon": 16.09193683,
+        "maxLat": 46.60155773
+      }
+    },
+    "SI210": {
+      "name": "Sveti Jurij v Slovenskih goricah",
+      "sub_id": "SI210",
+      "sub_num": "210",
+      "bbox": {
+        "minLon": 15.75747383,
+        "minLat": 46.56967163,
+        "maxLon": 15.82988942,
+        "maxLat": 46.64176941
+      }
+    },
+    "SI205": {
+      "name": "Sveti Tomaž",
+      "sub_id": "SI205",
+      "sub_num": "205",
+      "bbox": {
+        "minLon": 16.01205027,
+        "minLat": 46.43749237,
+        "maxLon": 16.1230787,
+        "maxLat": 46.50753021
+      }
+    },
+    "SI184": {
+      "name": "Tabor",
+      "sub_id": "SI184",
+      "sub_num": "184",
+      "bbox": {
+        "minLon": 14.96429062,
+        "minLat": 46.18480682,
+        "maxLon": 15.04717648,
+        "maxLat": 46.2538147
+      }
+    },
+    "SI010": {
+      "name": "Tišina",
+      "sub_id": "SI010",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 16.0423981,
+        "minLat": 46.61035538,
+        "maxLon": 16.13203812,
+        "maxLat": 46.69532776
+      }
+    },
+    "SI128": {
+      "name": "Tolmin",
+      "sub_id": "SI128",
+      "sub_num": "128",
+      "bbox": {
+        "minLon": 13.61713636,
+        "minLat": 46.00353241,
+        "maxLon": 14.01030421,
+        "maxLat": 46.27879941
+      }
+    },
+    "SI129": {
+      "name": "Trbovlje",
+      "sub_id": "SI129",
+      "sub_num": "129",
+      "bbox": {
+        "minLon": 14.97731447,
+        "minLat": 46.06876373,
+        "maxLon": 15.11210966,
+        "maxLat": 46.19476318
+      }
+    },
+    "SI130": {
+      "name": "Trebnje",
+      "sub_id": "SI130",
+      "sub_num": "130",
+      "bbox": {
+        "minLon": 14.867576,
+        "minLat": 45.8359909,
+        "maxLon": 15.1077776,
+        "maxLat": 45.97709656
+      }
+    },
+    "SI185": {
+      "name": "Trnovska vas",
+      "sub_id": "SI185",
+      "sub_num": "185",
+      "bbox": {
+        "minLon": 15.85328364,
+        "minLat": 46.49208069,
+        "maxLon": 15.9306699,
+        "maxLat": 46.54426575
+      }
+    },
+    "SI186": {
+      "name": "Trzin",
+      "sub_id": "SI186",
+      "sub_num": "186",
+      "bbox": {
+        "minLon": 14.52458179,
+        "minLat": 46.10549927,
+        "maxLon": 14.58342743,
+        "maxLat": 46.14292145
+      }
+    },
+    "SI131": {
+      "name": "Tržič",
+      "sub_id": "SI131",
+      "sub_num": "131",
+      "bbox": {
+        "minLon": 14.23578358,
+        "minLat": 46.31286621,
+        "maxLon": 14.44512939,
+        "maxLat": 46.44504547
+      }
+    },
+    "SI132": {
+      "name": "Turnišče",
+      "sub_id": "SI132",
+      "sub_num": "132",
+      "bbox": {
+        "minLon": 16.27068758,
+        "minLat": 46.58353329,
+        "maxLon": 16.37272894,
+        "maxLat": 46.64297104
+      }
+    },
+    "SI133": {
+      "name": "Velenje",
+      "sub_id": "SI133",
+      "sub_num": "133",
+      "bbox": {
+        "minLon": 15.0680263,
+        "minLat": 46.31097794,
+        "maxLon": 15.2039994,
+        "maxLat": 46.42616272
+      }
+    },
+    "SI187": {
+      "name": "Velika Polana",
+      "sub_id": "SI187",
+      "sub_num": "187",
+      "bbox": {
+        "minLon": 16.32681596,
+        "minLat": 46.55387878,
+        "maxLon": 16.40257084,
+        "maxLat": 46.59705162
+      }
+    },
+    "SI134": {
+      "name": "Velike Lašče",
+      "sub_id": "SI134",
+      "sub_num": "134",
+      "bbox": {
+        "minLon": 14.50465274,
+        "minLat": 45.79069531,
+        "maxLon": 14.69143212,
+        "maxLat": 45.90877533
+      }
+    },
+    "SI188": {
+      "name": "Veržej",
+      "sub_id": "SI188",
+      "sub_num": "188",
+      "bbox": {
+        "minLon": 16.1268996,
+        "minLat": 46.55924845,
+        "maxLon": 16.20273602,
+        "maxLat": 46.59801722
+      }
+    },
+    "SI135": {
+      "name": "Videm",
+      "sub_id": "SI135",
+      "sub_num": "135",
+      "bbox": {
+        "minLon": 15.78695893,
+        "minLat": 46.28600121,
+        "maxLon": 15.97429884,
+        "maxLat": 46.39191556
+      }
+    },
+    "SI136": {
+      "name": "Vipava",
+      "sub_id": "SI136",
+      "sub_num": "136",
+      "bbox": {
+        "minLon": 13.89931536,
+        "minLat": 45.75659752,
+        "maxLon": 14.0743326,
+        "maxLat": 45.87654412
+      }
+    },
+    "SI137": {
+      "name": "Vitanje",
+      "sub_id": "SI137",
+      "sub_num": "137",
+      "bbox": {
+        "minLon": 15.231318,
+        "minLat": 46.35509491,
+        "maxLon": 15.35535276,
+        "maxLat": 46.44161224
+      }
+    },
+    "SI138": {
+      "name": "Vodice",
+      "sub_id": "SI138",
+      "sub_num": "138",
+      "bbox": {
+        "minLon": 14.46054685,
+        "minLat": 46.13536835,
+        "maxLon": 14.54527509,
+        "maxLat": 46.20265961
+      }
+    },
+    "SI139": {
+      "name": "Vojnik",
+      "sub_id": "SI139",
+      "sub_num": "139",
+      "bbox": {
+        "minLon": 15.22984505,
+        "minLat": 46.25621796,
+        "maxLon": 15.37939739,
+        "maxLat": 46.3609314
+      }
+    },
+    "SI189": {
+      "name": "Vransko",
+      "sub_id": "SI189",
+      "sub_num": "189",
+      "bbox": {
+        "minLon": 14.88076603,
+        "minLat": 46.18618011,
+        "maxLon": 15.00747073,
+        "maxLat": 46.27613068
+      }
+    },
+    "SI140": {
+      "name": "Vrhnika",
+      "sub_id": "SI140",
+      "sub_num": "140",
+      "bbox": {
+        "minLon": 14.1938355,
+        "minLat": 45.86791992,
+        "maxLon": 14.3857826,
+        "maxLat": 46.0281769
+      }
+    },
+    "SI141": {
+      "name": "Vuzenica",
+      "sub_id": "SI141",
+      "sub_num": "141",
+      "bbox": {
+        "minLon": 15.10090721,
+        "minLat": 46.50512695,
+        "maxLon": 15.21185672,
+        "maxLat": 46.6160202
+      }
+    },
+    "SI142": {
+      "name": "Zagorje ob Savi",
+      "sub_id": "SI142",
+      "sub_num": "142",
+      "bbox": {
+        "minLon": 14.81434917,
+        "minLat": 46.04541779,
+        "maxLon": 15.09165847,
+        "maxLat": 46.20368958
+      }
+    },
+    "SI143": {
+      "name": "Zavrč",
+      "sub_id": "SI143",
+      "sub_num": "143",
+      "bbox": {
+        "minLon": 16.02250314,
+        "minLat": 46.33480668,
+        "maxLon": 16.07707644,
+        "maxLat": 46.39655113
+      }
+    },
+    "SI144": {
+      "name": "Zreče",
+      "sub_id": "SI144",
+      "sub_num": "144",
+      "bbox": {
+        "minLon": 15.31424987,
+        "minLat": 46.32556915,
+        "maxLon": 15.41810846,
+        "maxLat": 46.47628784
+      }
+    },
+    "SI015": {
+      "name": "Črenšovci",
+      "sub_id": "SI015",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 16.24324954,
+        "minLat": 46.52340889,
+        "maxLon": 16.34284306,
+        "maxLat": 46.59061432
+      }
+    },
+    "SI016": {
+      "name": "Črna na Koroškem",
+      "sub_id": "SI016",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 14.67492855,
+        "minLat": 46.41723633,
+        "maxLon": 14.97126853,
+        "maxLat": 46.5080452
+      }
+    },
+    "SI017": {
+      "name": "Črnomelj",
+      "sub_id": "SI017",
+      "sub_num": "17",
+      "bbox": {
+        "minLon": 15.05610311,
+        "minLat": 45.42111754,
+        "maxLon": 15.38654852,
+        "maxLat": 45.62793732
+      }
+    },
+    "SI033": {
+      "name": "Šalovci",
+      "sub_id": "SI033",
+      "sub_num": "33",
+      "bbox": {
+        "minLon": 16.18083954,
+        "minLat": 46.76811218,
+        "maxLon": 16.31423354,
+        "maxLat": 46.8755722
+      }
+    },
+    "SI183": {
+      "name": "Šempeter-Vrtojba",
+      "sub_id": "SI183",
+      "sub_num": "183",
+      "bbox": {
+        "minLon": 13.61541152,
+        "minLat": 45.89435577,
+        "maxLon": 13.69752288,
+        "maxLat": 45.94379425
+      }
+    },
+    "SI118": {
+      "name": "Šentilj",
+      "sub_id": "SI118",
+      "sub_num": "118",
+      "bbox": {
+        "minLon": 15.62263095,
+        "minLat": 46.6235733,
+        "maxLon": 15.80791497,
+        "maxLat": 46.70657158
+      }
+    },
+    "SI119": {
+      "name": "Šentjernej",
+      "sub_id": "SI119",
+      "sub_num": "119",
+      "bbox": {
+        "minLon": 15.25989139,
+        "minLat": 45.75993729,
+        "maxLon": 15.40128195,
+        "maxLat": 45.88199615
+      }
+    },
+    "SI120": {
+      "name": "Šentjur",
+      "sub_id": "SI120",
+      "sub_num": "120",
+      "bbox": {
+        "minLon": 15.32957304,
+        "minLat": 46.0591507,
+        "maxLon": 15.53233743,
+        "maxLat": 46.30977631
+      }
+    },
+    "SI211": {
+      "name": "Šentrupert",
+      "sub_id": "SI211",
+      "sub_num": "211",
+      "bbox": {
+        "minLon": 15.02591288,
+        "minLat": 45.94173431,
+        "maxLon": 15.16421557,
+        "maxLat": 46.01726532
+      }
+    },
+    "SI117": {
+      "name": "Šenčur",
+      "sub_id": "SI117",
+      "sub_num": "117",
+      "bbox": {
+        "minLon": 14.3905375,
+        "minLat": 46.18309021,
+        "maxLon": 14.4705267,
+        "maxLat": 46.28883362
+      }
+    },
+    "SI121": {
+      "name": "Škocjan",
+      "sub_id": "SI121",
+      "sub_num": "121",
+      "bbox": {
+        "minLon": 15.23134637,
+        "minLat": 45.86242676,
+        "maxLon": 15.35670543,
+        "maxLat": 45.95375061
+      }
+    },
+    "SI122": {
+      "name": "Škofja Loka",
+      "sub_id": "SI122",
+      "sub_num": "122",
+      "bbox": {
+        "minLon": 14.16683602,
+        "minLat": 46.09313965,
+        "maxLon": 14.39954865,
+        "maxLat": 46.24111176
+      }
+    },
+    "SI123": {
+      "name": "Škofljica",
+      "sub_id": "SI123",
+      "sub_num": "123",
+      "bbox": {
+        "minLon": 14.53705883,
+        "minLat": 45.89607239,
+        "maxLon": 14.62197483,
+        "maxLat": 46.01829529
+      }
+    },
+    "SI124": {
+      "name": "Šmarje pri Jelšah",
+      "sub_id": "SI124",
+      "sub_num": "124",
+      "bbox": {
+        "minLon": 15.43771434,
+        "minLat": 46.14927292,
+        "maxLon": 15.5999738,
+        "maxLat": 46.27784729
+      }
+    },
+    "SI206": {
+      "name": "Šmarješke Toplice",
+      "sub_id": "SI206",
+      "sub_num": "206",
+      "bbox": {
+        "minLon": 15.19896269,
+        "minLat": 45.84217072,
+        "maxLon": 15.30489409,
+        "maxLat": 45.9204483
+      }
+    },
+    "SI125": {
+      "name": "Šmartno ob Paki",
+      "sub_id": "SI125",
+      "sub_num": "125",
+      "bbox": {
+        "minLon": 14.99830437,
+        "minLat": 46.29123688,
+        "maxLon": 15.0680263,
+        "maxLat": 46.36505127
+      }
+    },
+    "SI194": {
+      "name": "Šmartno pri Litiji",
+      "sub_id": "SI194",
+      "sub_num": "194",
+      "bbox": {
+        "minLon": 14.73300803,
+        "minLat": 45.95787048,
+        "maxLon": 14.9540081,
+        "maxLat": 46.06807709
+      }
+    },
+    "SI126": {
+      "name": "Šoštanj",
+      "sub_id": "SI126",
+      "sub_num": "126",
+      "bbox": {
+        "minLon": 14.89500439,
+        "minLat": 46.34170532,
+        "maxLon": 15.09236562,
+        "maxLat": 46.45088196
+      }
+    },
+    "SI127": {
+      "name": "Štore",
+      "sub_id": "SI127",
+      "sub_num": "127",
+      "bbox": {
+        "minLon": 15.28091919,
+        "minLat": 46.15837097,
+        "maxLon": 15.36215294,
+        "maxLat": 46.22571576
+      }
+    },
+    "SI190": {
+      "name": "Žalec",
+      "sub_id": "SI190",
+      "sub_num": "190",
+      "bbox": {
+        "minLon": 15.09869873,
+        "minLat": 46.17656708,
+        "maxLon": 15.22190511,
+        "maxLat": 46.32900238
+      }
+    },
+    "SI146": {
+      "name": "Železniki",
+      "sub_id": "SI146",
+      "sub_num": "146",
+      "bbox": {
+        "minLon": 13.97905231,
+        "minLat": 46.15401197,
+        "maxLon": 14.24819422,
+        "maxLat": 46.28093719
+      }
+    },
+    "SI191": {
+      "name": "Žetale",
+      "sub_id": "SI191",
+      "sub_num": "191",
+      "bbox": {
+        "minLon": 15.74864829,
+        "minLat": 46.25141144,
+        "maxLon": 15.86645424,
+        "maxLat": 46.31664276
+      }
+    },
+    "SI147": {
+      "name": "Žiri",
+      "sub_id": "SI147",
+      "sub_num": "147",
+      "bbox": {
+        "minLon": 14.03895867,
+        "minLat": 45.99769592,
+        "maxLon": 14.19353187,
+        "maxLat": 46.07975006
+      }
+    },
+    "SI192": {
+      "name": "Žirovnica",
+      "sub_id": "SI192",
+      "sub_num": "192",
+      "bbox": {
+        "minLon": 14.11764228,
+        "minLat": 46.36384964,
+        "maxLon": 14.23600113,
+        "maxLat": 46.44229889
+      }
+    },
+    "SI193": {
+      "name": "Žužemberk",
+      "sub_id": "SI193",
+      "sub_num": "193",
+      "bbox": {
+        "minLon": 14.7999568,
+        "minLat": 45.74329376,
+        "maxLon": 15.08891082,
+        "maxLat": 45.8706665
+      }
+    },
+    "SI148": {
+      "name": "Benedikt",
+      "sub_id": "SI148",
+      "sub_num": "148",
+      "bbox": {
+        "minLon": 15.86127186,
+        "minLat": 46.57722473,
+        "maxLon": 15.93765962,
+        "maxLat": 46.64039612
+      }
+    },
+    "SI149": {
+      "name": "Bistrica ob Sotli",
+      "sub_id": "SI149",
+      "sub_num": "149",
+      "bbox": {
+        "minLon": 15.59508884,
+        "minLat": 46.02928162,
+        "maxLon": 15.72369945,
+        "maxLat": 46.08747482
+      }
+    },
+    "SI150": {
+      "name": "Bloke",
+      "sub_id": "SI150",
+      "sub_num": "150",
+      "bbox": {
+        "minLon": 14.45083404,
+        "minLat": 45.73196411,
+        "maxLon": 14.5956924,
+        "maxLat": 45.84354401
+      }
+    },
+    "SI151": {
+      "name": "Braslovče",
+      "sub_id": "SI151",
+      "sub_num": "151",
+      "bbox": {
+        "minLon": 14.96429062,
+        "minLat": 46.21707916,
+        "maxLon": 15.08813,
+        "maxLat": 46.32865906
+      }
+    },
+    "SI152": {
+      "name": "Cankova",
+      "sub_id": "SI152",
+      "sub_num": "152",
+      "bbox": {
+        "minLon": 15.98756301,
+        "minLat": 46.68434143,
+        "maxLon": 16.06408203,
+        "maxLat": 46.76948547
+      }
+    },
+    "SI153": {
+      "name": "Cerkvenjak",
+      "sub_id": "SI153",
+      "sub_num": "153",
+      "bbox": {
+        "minLon": 15.91069925,
+        "minLat": 46.52503967,
+        "maxLon": 15.98459065,
+        "maxLat": 46.58029521
+      }
+    },
+    "SI154": {
+      "name": "Dobje",
+      "sub_id": "SI154",
+      "sub_num": "154",
+      "bbox": {
+        "minLon": 15.36225021,
+        "minLat": 46.10069275,
+        "maxLon": 15.43767798,
+        "maxLat": 46.15150452
+      }
+    },
+    "SI155": {
+      "name": "Dobrna",
+      "sub_id": "SI155",
+      "sub_num": "155",
+      "bbox": {
+        "minLon": 15.18810499,
+        "minLat": 46.30943298,
+        "maxLon": 15.2650938,
+        "maxLat": 46.3842988
+      }
+    },
+    "SI156": {
+      "name": "Dobrovnik",
+      "sub_id": "SI156",
+      "sub_num": "156",
+      "bbox": {
+        "minLon": 16.30861366,
+        "minLat": 46.60984039,
+        "maxLon": 16.3937577,
+        "maxLat": 46.68159485
+      }
+    },
+    "SI157": {
+      "name": "Dolenjske Toplice",
+      "sub_id": "SI157",
+      "sub_num": "157",
+      "bbox": {
+        "minLon": 14.9727037,
+        "minLat": 45.63549042,
+        "maxLon": 15.12653303,
+        "maxLat": 45.7906723
+      }
+    },
+    "SI158": {
+      "name": "Grad",
+      "sub_id": "SI158",
+      "sub_num": "158",
+      "bbox": {
+        "minLon": 16.04923475,
+        "minLat": 46.74888611,
+        "maxLon": 16.14325404,
+        "maxLat": 46.82167053
+      }
+    },
+    "SI159": {
+      "name": "Hajdina",
+      "sub_id": "SI159",
+      "sub_num": "159",
+      "bbox": {
+        "minLon": 15.79041672,
+        "minLat": 46.37638092,
+        "maxLon": 15.87154984,
+        "maxLat": 46.44950867
+      }
+    },
+    "SI163": {
+      "name": "Jezersko",
+      "sub_id": "SI163",
+      "sub_num": "163",
+      "bbox": {
+        "minLon": 14.40352643,
+        "minLat": 46.34307861,
+        "maxLon": 14.56764996,
+        "maxLat": 46.42564774
+      }
+    },
+    "SI164": {
+      "name": "Komenda",
+      "sub_id": "SI164",
+      "sub_num": "164",
+      "bbox": {
+        "minLon": 14.50960004,
+        "minLat": 46.17004394,
+        "maxLon": 14.58296156,
+        "maxLat": 46.23973846
+      }
+    },
+    "SI165": {
+      "name": "Kostel",
+      "sub_id": "SI165",
+      "sub_num": "165",
+      "bbox": {
+        "minLon": 14.79489243,
+        "minLat": 45.45953751,
+        "maxLon": 14.96969771,
+        "maxLat": 45.53901672
+      }
+    },
+    "SI166": {
+      "name": "Križevci",
+      "sub_id": "SI166",
+      "sub_num": "166",
+      "bbox": {
+        "minLon": 16.07509077,
+        "minLat": 46.52591944,
+        "maxLon": 16.16809464,
+        "maxLat": 46.600914
+      }
+    },
+    "SI167": {
+      "name": "Lovrenc na Pohorju",
+      "sub_id": "SI167",
+      "sub_num": "167",
+      "bbox": {
+        "minLon": 15.32821763,
+        "minLat": 46.45740509,
+        "maxLon": 15.45695412,
+        "maxLat": 46.58512116
+      }
+    },
+    "SI168": {
+      "name": "Markovci",
+      "sub_id": "SI168",
+      "sub_num": "168",
+      "bbox": {
+        "minLon": 15.90056801,
+        "minLat": 46.35964394,
+        "maxLon": 15.99456012,
+        "maxLat": 46.41551971
+      }
+    },
+    "SI169": {
+      "name": "Miklavž na Dravskem polju",
+      "sub_id": "SI169",
+      "sub_num": "169",
+      "bbox": {
+        "minLon": 15.68206298,
+        "minLat": 46.45397186,
+        "maxLon": 15.73499155,
+        "maxLat": 46.50718689
+      }
+    },
+    "SI170": {
+      "name": "Mirna Peč",
+      "sub_id": "SI170",
+      "sub_num": "170",
+      "bbox": {
+        "minLon": 15.0288378,
+        "minLat": 45.80955505,
+        "maxLon": 15.14326429,
+        "maxLat": 45.89366913
+      }
+    },
+    "SI171": {
+      "name": "Oplotnica",
+      "sub_id": "SI171",
+      "sub_num": "171",
+      "bbox": {
+        "minLon": 15.40167236,
+        "minLat": 46.34409511,
+        "maxLon": 15.49929225,
+        "maxLat": 46.41929626
+      }
+    },
+    "SI172": {
+      "name": "Podlehnik",
+      "sub_id": "SI172",
+      "sub_num": "172",
+      "bbox": {
+        "minLon": 15.81482124,
+        "minLat": 46.27017415,
+        "maxLon": 15.9167254,
+        "maxLat": 46.34616852
+      }
+    },
+    "SI173": {
+      "name": "Polzela",
+      "sub_id": "SI173",
+      "sub_num": "173",
+      "bbox": {
+        "minLon": 15.05462134,
+        "minLat": 46.25096107,
+        "maxLon": 15.11889052,
+        "maxLat": 46.34170532
+      }
+    },
+    "SI174": {
+      "name": "Prebold",
+      "sub_id": "SI174",
+      "sub_num": "174",
+      "bbox": {
+        "minLon": 15.04067397,
+        "minLat": 46.18343353,
+        "maxLon": 15.13793814,
+        "maxLat": 46.25347137
+      }
+    },
+    "SI175": {
+      "name": "Prevalje",
+      "sub_id": "SI175",
+      "sub_num": "175",
+      "bbox": {
+        "minLon": 14.82866836,
+        "minLat": 46.49757385,
+        "maxLon": 14.9537431,
+        "maxLat": 46.60839188
+      }
+    },
+    "SI176": {
+      "name": "Razkrižje",
+      "sub_id": "SI176",
+      "sub_num": "176",
+      "bbox": {
+        "minLon": 16.2412113,
+        "minLat": 46.50059569,
+        "maxLon": 16.31462038,
+        "maxLat": 46.53800011
+      }
+    },
+    "SI177": {
+      "name": "Ribnica na Pohorju",
+      "sub_id": "SI177",
+      "sub_num": "177",
+      "bbox": {
+        "minLon": 15.19640315,
+        "minLat": 46.4831543,
+        "maxLon": 15.33104289,
+        "maxLat": 46.55834198
+      }
+    },
+    "SI178": {
+      "name": "Selnica ob Dravi",
+      "sub_id": "SI178",
+      "sub_num": "178",
+      "bbox": {
+        "minLon": 15.4008919,
+        "minLat": 46.52435303,
+        "maxLon": 15.55223811,
+        "maxLat": 46.65447235
+      }
+    },
+    "SI179": {
+      "name": "Sodražica",
+      "sub_id": "SI179",
+      "sub_num": "179",
+      "bbox": {
+        "minLon": 14.56009305,
+        "minLat": 45.71651459,
+        "maxLon": 14.68946445,
+        "maxLat": 45.79444885
+      }
+    },
+    "SI180": {
+      "name": "Solčava",
+      "sub_id": "SI180",
+      "sub_num": "180",
+      "bbox": {
+        "minLon": 14.56368804,
+        "minLat": 46.35440827,
+        "maxLon": 14.7545768,
+        "maxLat": 46.45036697
+      }
+    },
+    "SI181": {
+      "name": "Sveta Ana",
+      "sub_id": "SI181",
+      "sub_num": "181",
+      "bbox": {
+        "minLon": 15.79393125,
+        "minLat": 46.60125732,
+        "maxLon": 15.90670514,
+        "maxLat": 46.69086456
+      }
+    },
+    "SI182": {
+      "name": "Sveti Andraž v Slovenskih goricah",
+      "sub_id": "SI182",
+      "sub_num": "182",
+      "bbox": {
+        "minLon": 15.91918683,
+        "minLat": 46.48349762,
+        "maxLon": 16.00605905,
+        "maxLat": 46.54186249
+      }
+    },
+    "SI183": {
+      "name": "Šempeter-Vrtojba",
+      "sub_id": "SI183",
+      "sub_num": "183",
+      "bbox": {
+        "minLon": 13.61541152,
+        "minLat": 45.89435577,
+        "maxLon": 13.69752288,
+        "maxLat": 45.94379425
+      }
+    },
+    "SI184": {
+      "name": "Tabor",
+      "sub_id": "SI184",
+      "sub_num": "184",
+      "bbox": {
+        "minLon": 14.96429062,
+        "minLat": 46.18480682,
+        "maxLon": 15.04717648,
+        "maxLat": 46.2538147
+      }
+    },
+    "SI185": {
+      "name": "Trnovska vas",
+      "sub_id": "SI185",
+      "sub_num": "185",
+      "bbox": {
+        "minLon": 15.85328364,
+        "minLat": 46.49208069,
+        "maxLon": 15.9306699,
+        "maxLat": 46.54426575
+      }
+    },
+    "SI186": {
+      "name": "Trzin",
+      "sub_id": "SI186",
+      "sub_num": "186",
+      "bbox": {
+        "minLon": 14.52458179,
+        "minLat": 46.10549927,
+        "maxLon": 14.58342743,
+        "maxLat": 46.14292145
+      }
+    },
+    "SI187": {
+      "name": "Velika Polana",
+      "sub_id": "SI187",
+      "sub_num": "187",
+      "bbox": {
+        "minLon": 16.32681596,
+        "minLat": 46.55387878,
+        "maxLon": 16.40257084,
+        "maxLat": 46.59705162
+      }
+    },
+    "SI188": {
+      "name": "Veržej",
+      "sub_id": "SI188",
+      "sub_num": "188",
+      "bbox": {
+        "minLon": 16.1268996,
+        "minLat": 46.55924845,
+        "maxLon": 16.20273602,
+        "maxLat": 46.59801722
+      }
+    },
+    "SI189": {
+      "name": "Vransko",
+      "sub_id": "SI189",
+      "sub_num": "189",
+      "bbox": {
+        "minLon": 14.88076603,
+        "minLat": 46.18618011,
+        "maxLon": 15.00747073,
+        "maxLat": 46.27613068
+      }
+    },
+    "SI196": {
+      "name": "Cirkulane",
+      "sub_id": "SI196",
+      "sub_num": "196",
+      "bbox": {
+        "minLon": 15.94732511,
+        "minLat": 46.30666494,
+        "maxLon": 16.03993142,
+        "maxLat": 46.38968468
+      }
+    },
+    "SI197": {
+      "name": "Kosanjevica na Krki",
+      "sub_id": "SI197",
+      "sub_num": "197",
+      "bbox": {
+        "minLon": 15.37496531,
+        "minLat": 45.79190075,
+        "maxLon": 15.47648895,
+        "maxLat": 45.88474274
+      }
+    },
+    "SI198": {
+      "name": "Makole",
+      "sub_id": "SI198",
+      "sub_num": "198",
+      "bbox": {
+        "minLon": 15.6347686,
+        "minLat": 46.26686096,
+        "maxLon": 15.71630812,
+        "maxLat": 46.34479523
+      }
+    },
+    "SI199": {
+      "name": "Mokronog-Trebelno",
+      "sub_id": "SI199",
+      "sub_num": "199",
+      "bbox": {
+        "minLon": 15.09791982,
+        "minLat": 45.85899353,
+        "maxLon": 15.23134637,
+        "maxLat": 45.97057343
+      }
+    },
+    "SI200": {
+      "name": "Poljčane",
+      "sub_id": "SI200",
+      "sub_num": "200",
+      "bbox": {
+        "minLon": 15.54151011,
+        "minLat": 46.26754761,
+        "maxLon": 15.65813088,
+        "maxLat": 46.32762909
+      }
+    },
+    "SI201": {
+      "name": "Renče-Vogrsko",
+      "sub_id": "SI201",
+      "sub_num": "201",
+      "bbox": {
+        "minLon": 13.6289804,
+        "minLat": 45.85521698,
+        "maxLon": 13.72760987,
+        "maxLat": 45.92388153
+      }
+    },
+    "SI202": {
+      "name": "Središče ob Dravi",
+      "sub_id": "SI202",
+      "sub_num": "202",
+      "bbox": {
+        "minLon": 16.21171093,
+        "minLat": 46.376243,
+        "maxLon": 16.30759645,
+        "maxLat": 46.43783569
+      }
+    },
+    "SI203": {
+      "name": "Straža",
+      "sub_id": "SI203",
+      "sub_num": "203",
+      "bbox": {
+        "minLon": 15.05097985,
+        "minLat": 45.72990417,
+        "maxLon": 15.12800932,
+        "maxLat": 45.81127167
+      }
+    },
+    "SI204": {
+      "name": "Sveta Trojica v Slovenskih goricah",
+      "sub_id": "SI204",
+      "sub_num": "204",
+      "bbox": {
+        "minLon": 15.84928954,
+        "minLat": 46.52812958,
+        "maxLon": 15.9513526,
+        "maxLat": 46.5933609
+      }
+    },
+    "SI205": {
+      "name": "Sveti Tomaž",
+      "sub_id": "SI205",
+      "sub_num": "205",
+      "bbox": {
+        "minLon": 16.01205027,
+        "minLat": 46.43749237,
+        "maxLon": 16.1230787,
+        "maxLat": 46.50753021
+      }
+    },
+    "SI206": {
+      "name": "Šmarješke Toplice",
+      "sub_id": "SI206",
+      "sub_num": "206",
+      "bbox": {
+        "minLon": 15.19896269,
+        "minLat": 45.84217072,
+        "maxLon": 15.30489409,
+        "maxLat": 45.9204483
+      }
+    },
+    "SI207": {
+      "name": "Gorje",
+      "sub_id": "SI207",
+      "sub_num": "207",
+      "bbox": {
+        "minLon": 13.84563613,
+        "minLat": 46.3444519,
+        "maxLon": 14.09465849,
+        "maxLat": 46.43989563
+      }
+    },
+    "SI208": {
+      "name": "Log-Dragomer",
+      "sub_id": "SI208",
+      "sub_num": "208",
+      "bbox": {
+        "minLon": 14.34075916,
+        "minLat": 45.98773956,
+        "maxLon": 14.418401,
+        "maxLat": 46.03031158
+      }
+    },
+    "SI209": {
+      "name": "Rečica ob Savinji",
+      "sub_id": "SI209",
+      "sub_num": "209",
+      "bbox": {
+        "minLon": 14.86565638,
+        "minLat": 46.28883362,
+        "maxLon": 14.93783224,
+        "maxLat": 46.36420989
+      }
+    },
+    "SI210": {
+      "name": "Sveti Jurij v Slovenskih goricah",
+      "sub_id": "SI210",
+      "sub_num": "210",
+      "bbox": {
+        "minLon": 15.75747383,
+        "minLat": 46.56967163,
+        "maxLon": 15.82988942,
+        "maxLat": 46.64176941
+      }
+    },
+    "SI211": {
+      "name": "Šentrupert",
+      "sub_id": "SI211",
+      "sub_num": "211",
+      "bbox": {
+        "minLon": 15.02591288,
+        "minLat": 45.94173431,
+        "maxLon": 15.16421557,
+        "maxLat": 46.01726532
+      }
+    },
+    "SI212": {
+      "name": "Mirna",
+      "sub_id": "SI212",
+      "sub_num": "212",
+      "bbox": {
+        "minLon": 14.99633014,
+        "minLat": 45.91280937,
+        "maxLon": 15.11517108,
+        "maxLat": 45.97297669
+      }
+    },
+    "SI213": {
+      "name": "Ankaran",
+      "sub_id": "SI213",
+      "sub_num": "213",
+      "bbox": {
+        "minLon": 13.70346832,
+        "minLat": 45.557127,
+        "maxLon": 13.77116942,
+        "maxLat": 45.59621215
+      }
+    }
+  }
+  

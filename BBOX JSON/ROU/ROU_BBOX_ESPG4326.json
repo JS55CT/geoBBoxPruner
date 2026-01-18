@@ -1,0 +1,465 @@
+{
+    "ROAB": {
+      "name": "Alba",
+      "sub_id": "ROAB",
+      "sub_num": "AB",
+      "bbox": {
+        "minLon": 22.64907622,
+        "minLat": 45.46157599,
+        "maxLon": 24.2460041,
+        "maxLat": 46.54272079
+      }
+    },
+    "ROAR": {
+      "name": "Arad",
+      "sub_id": "ROAR",
+      "sub_num": "AR",
+      "bbox": {
+        "minLon": 20.70672548,
+        "minLat": 45.90014935,
+        "maxLon": 22.7106961,
+        "maxLat": 46.64588928
+      }
+    },
+    "ROAG": {
+      "name": "Argeș",
+      "sub_id": "ROAG",
+      "sub_num": "AG",
+      "bbox": {
+        "minLon": 24.43467081,
+        "minLat": 44.38165426,
+        "maxLon": 25.334607,
+        "maxLat": 45.61027765
+      }
+    },
+    "ROBC": {
+      "name": "Bacău",
+      "sub_id": "ROBC",
+      "sub_num": "BC",
+      "bbox": {
+        "minLon": 25.95482385,
+        "minLat": 46.02934599,
+        "maxLon": 27.49853504,
+        "maxLat": 46.81978226
+      }
+    },
+    "ROBH": {
+      "name": "Bihor",
+      "sub_id": "ROBH",
+      "sub_num": "BH",
+      "bbox": {
+        "minLon": 21.42141116,
+        "minLat": 46.34702683,
+        "maxLon": 22.79952812,
+        "maxLat": 47.59775162
+      }
+    },
+    "ROBN": {
+      "name": "Bistrița-Năsăud",
+      "sub_id": "ROBN",
+      "sub_num": "BN",
+      "bbox": {
+        "minLon": 23.91769815,
+        "minLat": 46.75624609,
+        "maxLon": 25.09293211,
+        "maxLat": 47.60519743
+      }
+    },
+    "ROBT": {
+      "name": "Botoșani",
+      "sub_id": "ROBT",
+      "sub_num": "BT",
+      "bbox": {
+        "minLon": 26.02889562,
+        "minLat": 47.39613533,
+        "maxLon": 27.39047098,
+        "maxLat": 48.26525688
+      }
+    },
+    "ROBV": {
+      "name": "Brașov",
+      "sub_id": "ROBV",
+      "sub_num": "BV",
+      "bbox": {
+        "minLon": 24.65462816,
+        "minLat": 45.38104534,
+        "maxLon": 26.08374369,
+        "maxLat": 46.18866921
+      }
+    },
+    "ROBR": {
+      "name": "Brăila",
+      "sub_id": "ROBR",
+      "sub_num": "BR",
+      "bbox": {
+        "minLon": 27.07478321,
+        "minLat": 44.75012541,
+        "maxLon": 28.19731343,
+        "maxLat": 45.49550057
+      }
+    },
+    "ROB": {
+      "name": "București",
+      "sub_id": "ROB",
+      "sub_num": "B",
+      "bbox": {
+        "minLon": 25.96122134,
+        "minLat": 44.34045553,
+        "maxLon": 26.27956331,
+        "maxLat": 44.53817725
+      }
+    },
+    "ROBZ": {
+      "name": "Buzău",
+      "sub_id": "ROBZ",
+      "sub_num": "BZ",
+      "bbox": {
+        "minLon": 26.07459152,
+        "minLat": 44.73577023,
+        "maxLon": 27.42636633,
+        "maxLat": 45.80669904
+      }
+    },
+    "ROCS": {
+      "name": "Caraș-Severin",
+      "sub_id": "ROCS",
+      "sub_num": "CS",
+      "bbox": {
+        "minLon": 21.35749352,
+        "minLat": 44.5868969,
+        "maxLon": 22.70883858,
+        "maxLat": 45.67130327
+      }
+    },
+    "ROCJ": {
+      "name": "Cluj",
+      "sub_id": "ROCJ",
+      "sub_num": "CJ",
+      "bbox": {
+        "minLon": 22.62425387,
+        "minLat": 46.37088776,
+        "maxLon": 24.22194064,
+        "maxLat": 47.34055996
+      }
+    },
+    "ROCT": {
+      "name": "Constanța",
+      "sub_id": "ROCT",
+      "sub_num": "CT",
+      "bbox": {
+        "minLon": 27.27339697,
+        "minLat": 43.73313904,
+        "maxLon": 28.98882794,
+        "maxLat": 44.80147362
+      }
+    },
+    "ROCV": {
+      "name": "Covasna",
+      "sub_id": "ROCV",
+      "sub_num": "CV",
+      "bbox": {
+        "minLon": 25.43758178,
+        "minLat": 45.51672089,
+        "maxLon": 26.44508362,
+        "maxLat": 46.29314661
+      }
+    },
+    "ROCL": {
+      "name": "Călărași",
+      "sub_id": "ROCL",
+      "sub_num": "CL",
+      "bbox": {
+        "minLon": 26.27552807,
+        "minLat": 44.03951168,
+        "maxLon": 28.01354241,
+        "maxLat": 44.53170776
+      }
+    },
+    "RODJ": {
+      "name": "Dolj",
+      "sub_id": "RODJ",
+      "sub_num": "DJ",
+      "bbox": {
+        "minLon": 22.83894348,
+        "minLat": 43.70020676,
+        "maxLon": 24.28599477,
+        "maxLat": 44.72216213
+      }
+    },
+    "RODB": {
+      "name": "Dâmbovița",
+      "sub_id": "RODB",
+      "sub_num": "DB",
+      "bbox": {
+        "minLon": 25.14552724,
+        "minLat": 44.4032836,
+        "maxLon": 25.96546805,
+        "maxLat": 45.44574022
+      }
+    },
+    "ROGL": {
+      "name": "Galați",
+      "sub_id": "ROGL",
+      "sub_num": "GL",
+      "bbox": {
+        "minLon": 27.22853959,
+        "minLat": 45.39035797,
+        "maxLon": 28.22390687,
+        "maxLat": 46.16111755
+      }
+    },
+    "ROGR": {
+      "name": "Giurgiu",
+      "sub_id": "ROGR",
+      "sub_num": "GR",
+      "bbox": {
+        "minLon": 25.45675504,
+        "minLat": 43.68843734,
+        "maxLon": 26.49186218,
+        "maxLat": 44.57332492
+      }
+    },
+    "ROGJ": {
+      "name": "Gorj",
+      "sub_id": "ROGJ",
+      "sub_num": "GJ",
+      "bbox": {
+        "minLon": 22.55994582,
+        "minLat": 44.57337522,
+        "maxLon": 23.85180807,
+        "maxLat": 45.35111189
+      }
+    },
+    "ROHR": {
+      "name": "Harghita",
+      "sub_id": "ROHR",
+      "sub_num": "HR",
+      "bbox": {
+        "minLon": 24.84962571,
+        "minLat": 46.09771013,
+        "maxLon": 26.29500079,
+        "maxLat": 47.18284607
+      }
+    },
+    "ROHD": {
+      "name": "Hunedoara",
+      "sub_id": "ROHD",
+      "sub_num": "HD",
+      "bbox": {
+        "minLon": 22.38553941,
+        "minLat": 45.25377989,
+        "maxLon": 23.60594022,
+        "maxLat": 46.32097924
+      }
+    },
+    "ROIL": {
+      "name": "Ialomița",
+      "sub_id": "ROIL",
+      "sub_num": "IL",
+      "bbox": {
+        "minLon": 26.23352277,
+        "minLat": 44.32655096,
+        "maxLon": 28.11258125,
+        "maxLat": 44.85052586
+      }
+    },
+    "ROIS": {
+      "name": "Iași",
+      "sub_id": "ROIS",
+      "sub_num": "IS",
+      "bbox": {
+        "minLon": 26.48883522,
+        "minLat": 46.83252811,
+        "maxLon": 28.12716281,
+        "maxLat": 47.58995712
+      }
+    },
+    "ROIF": {
+      "name": "Ilfov",
+      "sub_id": "ROIF",
+      "sub_num": "IF",
+      "bbox": {
+        "minLon": 25.84352779,
+        "minLat": 44.27816391,
+        "maxLon": 26.40546203,
+        "maxLat": 44.75908399
+      }
+    },
+    "ROMM": {
+      "name": "Maramureș",
+      "sub_id": "ROMM",
+      "sub_num": "MM",
+      "bbox": {
+        "minLon": 22.9710362,
+        "minLat": 47.29614258,
+        "maxLon": 25.05589199,
+        "maxLat": 48.01523209
+      }
+    },
+    "ROMH": {
+      "name": "Mehedinți",
+      "sub_id": "ROMH",
+      "sub_num": "MH",
+      "bbox": {
+        "minLon": 22.02012122,
+        "minLat": 44.09799528,
+        "maxLon": 23.46635342,
+        "maxLat": 45.08960724
+      }
+    },
+    "ROMS": {
+      "name": "Mureș",
+      "sub_id": "ROMS",
+      "sub_num": "MS",
+      "bbox": {
+        "minLon": 23.91017592,
+        "minLat": 46.07472897,
+        "maxLon": 25.29356396,
+        "maxLat": 47.13688374
+      }
+    },
+    "RONT": {
+      "name": "Neamț",
+      "sub_id": "RONT",
+      "sub_num": "NT",
+      "bbox": {
+        "minLon": 25.65238655,
+        "minLat": 46.64462328,
+        "maxLon": 27.23700488,
+        "maxLat": 47.33695507
+      }
+    },
+    "ROOT": {
+      "name": "Olt",
+      "sub_id": "ROOT",
+      "sub_num": "OT",
+      "bbox": {
+        "minLon": 23.85811937,
+        "minLat": 43.68294954,
+        "maxLon": 24.89884281,
+        "maxLat": 44.90249634
+      }
+    },
+    "ROPH": {
+      "name": "Prahova",
+      "sub_id": "ROPH",
+      "sub_num": "PH",
+      "bbox": {
+        "minLon": 25.44798613,
+        "minLat": 44.73359227,
+        "maxLon": 26.59846151,
+        "maxLat": 45.51738739
+      }
+    },
+    "ROSM": {
+      "name": "Satu Mare",
+      "sub_id": "ROSM",
+      "sub_num": "SM",
+      "bbox": {
+        "minLon": 22.1607424,
+        "minLat": 47.31416702,
+        "maxLon": 23.61994982,
+        "maxLat": 48.11925888
+      }
+    },
+    "ROSB": {
+      "name": "Sibiu",
+      "sub_id": "ROSB",
+      "sub_num": "SB",
+      "bbox": {
+        "minLon": 23.58253622,
+        "minLat": 45.48223972,
+        "maxLon": 24.94943511,
+        "maxLat": 46.28503561
+      }
+    },
+    "ROSV": {
+      "name": "Suceava",
+      "sub_id": "ROSV",
+      "sub_num": "SV",
+      "bbox": {
+        "minLon": 24.9577986,
+        "minLat": 47.0746994,
+        "maxLon": 26.67949331,
+        "maxLat": 47.98253059
+      }
+    },
+    "ROSJ": {
+      "name": "Sălaj",
+      "sub_id": "ROSJ",
+      "sub_num": "SJ",
+      "bbox": {
+        "minLon": 22.48795819,
+        "minLat": 46.8227005,
+        "maxLon": 23.81290555,
+        "maxLat": 47.41922379
+      }
+    },
+    "ROTR": {
+      "name": "Teleorman",
+      "sub_id": "ROTR",
+      "sub_num": "TR",
+      "bbox": {
+        "minLon": 24.60224557,
+        "minLat": 43.61895204,
+        "maxLon": 25.68623817,
+        "maxLat": 44.52301741
+      }
+    },
+    "ROTM": {
+      "name": "Timiș",
+      "sub_id": "ROTM",
+      "sub_num": "TM",
+      "bbox": {
+        "minLon": 20.26625705,
+        "minLat": 45.17231548,
+        "maxLon": 22.55761993,
+        "maxLat": 46.18806839
+      }
+    },
+    "ROTL": {
+      "name": "Tulcea",
+      "sub_id": "ROTL",
+      "sub_num": "TL",
+      "bbox": {
+        "minLon": 27.99386108,
+        "minLat": 44.60577965,
+        "maxLon": 29.7197603,
+        "maxLat": 45.46365738
+      }
+    },
+    "ROVS": {
+      "name": "Vaslui",
+      "sub_id": "ROVS",
+      "sub_num": "VS",
+      "bbox": {
+        "minLon": 27.19802737,
+        "minLat": 46.00893974,
+        "maxLon": 28.26163447,
+        "maxLat": 46.99301004
+      }
+    },
+    "ROVN": {
+      "name": "Vrancea",
+      "sub_id": "ROVN",
+      "sub_num": "VN",
+      "bbox": {
+        "minLon": 26.37325609,
+        "minLat": 45.37119627,
+        "maxLon": 27.55190277,
+        "maxLat": 46.20160818
+      }
+    },
+    "ROVL": {
+      "name": "Vâlcea",
+      "sub_id": "ROVL",
+      "sub_num": "VL",
+      "bbox": {
+        "minLon": 23.58474875,
+        "minLat": 44.49913502,
+        "maxLon": 24.54039073,
+        "maxLat": 45.58382034
+      }
+    }
+  }
+  

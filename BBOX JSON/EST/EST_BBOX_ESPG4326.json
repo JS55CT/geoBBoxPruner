@@ -1,0 +1,168 @@
+{
+    "EE37": {
+      "name": "Harjumaa",
+      "sub_id": "EE37",
+      "sub_num": "37",
+      "bbox": {
+        "minLon": 23.73046875,
+        "minLat": 58.98935699,
+        "maxLon": 25.95504797,
+        "maxLat": 59.7001487
+      }
+    },
+    "EE39": {
+      "name": "Hiiumaa",
+      "sub_id": "EE39",
+      "sub_num": "39",
+      "bbox": {
+        "minLon": 22.03871513,
+        "minLat": 58.68529463,
+        "maxLon": 23.18015325,
+        "maxLat": 59.09312117
+      }
+    },
+    "EE45": {
+      "name": "Ida-Virumaa",
+      "sub_id": "EE45",
+      "sub_num": "45",
+      "bbox": {
+        "minLon": 26.70229852,
+        "minLat": 58.77131402,
+        "maxLon": 28.20990503,
+        "maxLat": 59.5002768
+      }
+    },
+    "EE52": {
+      "name": "Järvamaa",
+      "sub_id": "EE52",
+      "sub_num": "52",
+      "bbox": {
+        "minLon": 25.19501722,
+        "minLat": 58.60615754,
+        "maxLon": 26.16873193,
+        "maxLat": 59.26944315
+      }
+    },
+    "EE50": {
+      "name": "Jõgevamaa",
+      "sub_id": "EE50",
+      "sub_num": "50",
+      "bbox": {
+        "minLon": 25.75191581,
+        "minLat": 58.47086799,
+        "maxLon": 27.38592517,
+        "maxLat": 58.96892238
+      }
+    },
+    "EE60": {
+      "name": "Lääne-Virumaa",
+      "sub_id": "EE60",
+      "sub_num": "60",
+      "bbox": {
+        "minLon": 25.53657973,
+        "minLat": 58.87692964,
+        "maxLon": 26.95275474,
+        "maxLat": 59.96974123
+      }
+    },
+    "EE56": {
+      "name": "Läänemaa",
+      "sub_id": "EE56",
+      "sub_num": "56",
+      "bbox": {
+        "minLon": 23.0774368,
+        "minLat": 58.5343113,
+        "maxLon": 24.19259644,
+        "maxLat": 59.3039068
+      }
+    },
+    "EE68": {
+      "name": "Pärnumaa",
+      "sub_id": "EE68",
+      "sub_num": "68",
+      "bbox": {
+        "minLon": 23.60903263,
+        "minLat": 57.86773682,
+        "maxLon": 25.30700755,
+        "maxLat": 58.75627422
+      }
+    },
+    "EE64": {
+      "name": "Põlvamaa",
+      "sub_id": "EE64",
+      "sub_num": "64",
+      "bbox": {
+        "minLon": 26.56625795,
+        "minLat": 57.81733847,
+        "maxLon": 27.81899476,
+        "maxLat": 58.2683152
+      }
+    },
+    "EE71": {
+      "name": "Raplamaa",
+      "sub_id": "EE71",
+      "sub_num": "71",
+      "bbox": {
+        "minLon": 24.07078254,
+        "minLat": 58.65553319,
+        "maxLon": 25.33394372,
+        "maxLat": 59.22798383
+      }
+    },
+    "EE74": {
+      "name": "Saaremaa",
+      "sub_id": "EE74",
+      "sub_num": "74",
+      "bbox": {
+        "minLon": 21.76378572,
+        "minLat": 57.77999234,
+        "maxLon": 23.44477522,
+        "maxLat": 58.68623674
+      }
+    },
+    "EE79": {
+      "name": "Tartumaa",
+      "sub_id": "EE79",
+      "sub_num": "79",
+      "bbox": {
+        "minLon": 26.06315422,
+        "minLat": 58.1130408,
+        "maxLon": 27.55344808,
+        "maxLat": 58.7108978
+      }
+    },
+    "EE81": {
+      "name": "Valgamaa",
+      "sub_id": "EE81",
+      "sub_num": "81",
+      "bbox": {
+        "minLon": 25.5804615,
+        "minLat": 57.57223439,
+        "maxLon": 26.62488341,
+        "maxLat": 58.18432331
+      }
+    },
+    "EE84": {
+      "name": "Viljandimaa",
+      "sub_id": "EE84",
+      "sub_num": "84",
+      "bbox": {
+        "minLon": 24.97193992,
+        "minLat": 57.95584738,
+        "maxLon": 26.1910342,
+        "maxLat": 58.690117
+      }
+    },
+    "EE87": {
+      "name": "Võrumaa",
+      "sub_id": "EE87",
+      "sub_num": "87",
+      "bbox": {
+        "minLon": 26.37087762,
+        "minLat": 57.50776291,
+        "maxLon": 27.55462897,
+        "maxLat": 57.95718706
+      }
+    }
+  }
+  

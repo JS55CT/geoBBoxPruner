@@ -1,0 +1,91 @@
+{
+    "BDA": {
+      "name": "Barishal",
+      "sub_id": "BDA",
+      "sub_num": "A",
+      "bbox": {
+        "minLon": 89.85181534,
+        "minLat": 21.73778033,
+        "maxLon": 91.04718399,
+        "maxLat": 23.07386398
+      }
+    },
+    "BDB": {
+      "name": "Chattogram",
+      "sub_id": "BDB",
+      "sub_num": "B",
+      "bbox": {
+        "minLon": 90.5836935,
+        "minLat": 20.57500005,
+        "maxLon": 92.68465507,
+        "maxLat": 24.39239502
+      }
+    },
+    "BDC": {
+      "name": "Dhaka",
+      "sub_id": "BDC",
+      "sub_num": "C",
+      "bbox": {
+        "minLon": 89.35050249,
+        "minLat": 22.8455739,
+        "maxLon": 91.27706242,
+        "maxLat": 24.77464199
+      }
+    },
+    "BDD": {
+      "name": "Khulna",
+      "sub_id": "BDD",
+      "sub_num": "D",
+      "bbox": {
+        "minLon": 88.56291497,
+        "minLat": 21.65084112,
+        "maxLon": 90.03012407,
+        "maxLat": 24.18185234
+      }
+    },
+    "BDH": {
+      "name": "Mymensingh",
+      "sub_id": "BDH",
+      "sub_num": "H",
+      "bbox": {
+        "minLon": 89.61547565,
+        "minLat": 24.25064564,
+        "maxLon": 91.30776024,
+        "maxLat": 25.30897021
+      }
+    },
+    "BDE": {
+      "name": "Rajshahi",
+      "sub_id": "BDE",
+      "sub_num": "E",
+      "bbox": {
+        "minLon": 87.99441755,
+        "minLat": 23.80119324,
+        "maxLon": 89.81362271,
+        "maxLat": 25.2725929
+      }
+    },
+    "BDF": {
+      "name": "Rangpur",
+      "sub_id": "BDF",
+      "sub_num": "F",
+      "bbox": {
+        "minLon": 88.08533382,
+        "minLat": 25.00029087,
+        "maxLon": 89.88311946,
+        "maxLat": 26.63403511
+      }
+    },
+    "BDG": {
+      "name": "Sylhet",
+      "sub_id": "BDG",
+      "sub_num": "G",
+      "bbox": {
+        "minLon": 91.09144282,
+        "minLat": 24.0958178,
+        "maxLon": 92.4993403,
+        "maxLat": 25.20715356
+      }
+    }
+  }
+  

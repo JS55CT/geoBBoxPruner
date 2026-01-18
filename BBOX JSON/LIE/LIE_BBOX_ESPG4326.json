@@ -1,0 +1,124 @@
+{
+    "LI01": {
+      "name": "Balzers",
+      "sub_id": "LI01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 9.471316695,
+        "minLat": 47.05083847,
+        "maxLon": 9.634096861,
+        "maxLat": 47.16425514
+      }
+    },
+    "LI02": {
+      "name": "Eschen",
+      "sub_id": "LI02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 9.487119437,
+        "minLat": 47.18670845,
+        "maxLon": 9.580097914,
+        "maxLat": 47.22833633
+      }
+    },
+    "LI03": {
+      "name": "Gamprin",
+      "sub_id": "LI03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 9.492563486,
+        "minLat": 47.18688011,
+        "maxLon": 9.565148711,
+        "maxLat": 47.23262251
+      }
+    },
+    "LI04": {
+      "name": "Mauren",
+      "sub_id": "LI04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 9.530739665,
+        "minLat": 47.19460487,
+        "maxLon": 9.584266305,
+        "maxLat": 47.23079872
+      }
+    },
+    "LI05": {
+      "name": "Planken",
+      "sub_id": "LI05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 9.52399087,
+        "minLat": 47.15638375,
+        "maxLon": 9.591358065,
+        "maxLat": 47.19263077
+      }
+    },
+    "LI06": {
+      "name": "Ruggell",
+      "sub_id": "LI06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 9.510110021,
+        "minLat": 47.22586334,
+        "maxLon": 9.558146477,
+        "maxLat": 47.27056801
+      }
+    },
+    "LI07": {
+      "name": "Schaan",
+      "sub_id": "LI07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 9.48548162,
+        "minLat": 47.06122398,
+        "maxLon": 9.624975323,
+        "maxLat": 47.19400406
+      }
+    },
+    "LI08": {
+      "name": "Schellenberg",
+      "sub_id": "LI08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 9.526175141,
+        "minLat": 47.22463489,
+        "maxLon": 9.566964388,
+        "maxLat": 47.25256205
+      }
+    },
+    "LI09": {
+      "name": "Triesen",
+      "sub_id": "LI09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 9.513707519,
+        "minLat": 47.04843521,
+        "maxLon": 9.604853153,
+        "maxLat": 47.12566137
+      }
+    },
+    "LI10": {
+      "name": "Triesenberg",
+      "sub_id": "LI10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 9.530259251,
+        "minLat": 47.07821846,
+        "maxLon": 9.635352492,
+        "maxLat": 47.16628611
+      }
+    },
+    "LI11": {
+      "name": "Vaduz",
+      "sub_id": "LI11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 9.494478107,
+        "minLat": 47.08741307,
+        "maxLon": 9.611373186,
+        "maxLat": 47.19394219
+      }
+    }
+  }
+  

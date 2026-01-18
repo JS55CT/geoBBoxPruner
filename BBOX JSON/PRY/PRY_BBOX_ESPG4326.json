@@ -1,0 +1,201 @@
+{
+    "PY16": {
+      "name": "Alto Paraguay",
+      "sub_id": "PY16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": -61.94440985,
+        "minLat": -22.44946289,
+        "maxLon": -57.81677949,
+        "maxLat": -19.25251007
+      }
+    },
+    "PY10": {
+      "name": "Alto Paraná",
+      "sub_id": "PY10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": -55.48065734,
+        "minLat": -26.25759244,
+        "maxLon": -54.33635855,
+        "maxLat": -24.46138954
+      }
+    },
+    "PY13": {
+      "name": "Amambay",
+      "sub_id": "PY13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": -56.73643768,
+        "minLat": -23.87818337,
+        "maxLon": -55.50410354,
+        "maxLat": -22.07505226
+      }
+    },
+    "PYASU": {
+      "name": "Asunción",
+      "sub_id": "PYASU",
+      "sub_num": "ASU",
+      "bbox": {
+        "minLon": -57.69485044,
+        "minLat": -25.39146423,
+        "maxLon": -57.52182746,
+        "maxLat": -25.21510076
+      }
+    },
+    "PY19": {
+      "name": "Boquerón",
+      "sub_id": "PY19",
+      "sub_num": "19",
+      "bbox": {
+        "minLon": -62.64169848,
+        "minLat": -23.74533892,
+        "maxLon": -59.39305115,
+        "maxLat": -20.06568623
+      }
+    },
+    "PY5": {
+      "name": "Caaguazú",
+      "sub_id": "PY5",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -56.76892829,
+        "minLat": -25.82954407,
+        "maxLon": -54.92481363,
+        "maxLat": -24.52208519
+      }
+    },
+    "PY6": {
+      "name": "Caazapá",
+      "sub_id": "PY6",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": -56.84935045,
+        "minLat": -26.794281,
+        "maxLon": -55.24807012,
+        "maxLat": -25.52433014
+      }
+    },
+    "PY14": {
+      "name": "Canendeyú",
+      "sub_id": "PY14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": -56.17261124,
+        "minLat": -24.78460693,
+        "maxLon": -54.26004946,
+        "maxLat": -23.45486105
+      }
+    },
+    "PY11": {
+      "name": "Central",
+      "sub_id": "PY11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": -57.8273145,
+        "minLat": -25.9901011,
+        "maxLon": -57.17496288,
+        "maxLat": -25.096035
+      }
+    },
+    "PY1": {
+      "name": "Concepción",
+      "sub_id": "PY1",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": -57.9938724,
+        "minLat": -23.5106349,
+        "maxLon": -56.1257987,
+        "maxLat": -22.0796442
+      }
+    },
+    "PY3": {
+      "name": "Cordillera",
+      "sub_id": "PY3",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -57.47620964,
+        "minLat": -25.64677835,
+        "maxLon": -56.55245042,
+        "maxLat": -24.90789413
+      }
+    },
+    "PY4": {
+      "name": "Guairá",
+      "sub_id": "PY4",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": -56.84302783,
+        "minLat": -26.22754097,
+        "maxLon": -55.88815415,
+        "maxLat": -25.52334309
+      }
+    },
+    "PY7": {
+      "name": "Itapúa",
+      "sub_id": "PY7",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": -56.70890439,
+        "minLat": -27.584095,
+        "maxLon": -54.64968956,
+        "maxLat": -26.10282898
+      }
+    },
+    "PY8": {
+      "name": "Misiones",
+      "sub_id": "PY8",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": -57.66312623,
+        "minLat": -27.4987793,
+        "maxLon": -56.47918749,
+        "maxLat": -26.37637138
+      }
+    },
+    "PY9": {
+      "name": "Paraguarí",
+      "sub_id": "PY9",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": -57.74913132,
+        "minLat": -26.61982477,
+        "maxLon": -56.61859226,
+        "maxLat": -25.40869474
+      }
+    },
+    "PY15": {
+      "name": "Presidente Hayes",
+      "sub_id": "PY15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": -61.03195453,
+        "minLat": -25.28443336,
+        "maxLon": -57.15133297,
+        "maxLat": -22.12424087
+      }
+    },
+    "PY2": {
+      "name": "San Pedro",
+      "sub_id": "PY2",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": -57.47310126,
+        "minLat": -25.04732609,
+        "maxLon": -55.85745919,
+        "maxLat": -23.30105782
+      }
+    },
+    "PY12": {
+      "name": "Ñeembucú",
+      "sub_id": "PY12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": -58.66360128,
+        "minLat": -27.41713285,
+        "maxLon": -56.95003831,
+        "maxLat": -25.76740265
+      }
+    }
+  }
+  

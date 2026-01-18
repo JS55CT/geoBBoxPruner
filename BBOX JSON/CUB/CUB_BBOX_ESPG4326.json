@@ -1,0 +1,179 @@
+{
+    "CU15": {
+      "name": "Artemisa",
+      "sub_id": "CU15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": -83.40231645,
+        "minLat": 22.38962078,
+        "maxLon": -82.39660227,
+        "maxLat": 23.09334171
+      }
+    },
+    "CU09": {
+      "name": "Camagüey",
+      "sub_id": "CU09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": -78.9556092,
+        "minLat": 20.41237021,
+        "maxLon": -76.94948995,
+        "maxLat": 22.75045729
+      }
+    },
+    "CU08": {
+      "name": "Ciego de Ávila",
+      "sub_id": "CU08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": -79.4570365,
+        "minLat": 20.83483434,
+        "maxLon": -78.06975877,
+        "maxLat": 22.67233479
+      }
+    },
+    "CU06": {
+      "name": "Cienfuegos",
+      "sub_id": "CU06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": -80.93986964,
+        "minLat": 21.82060075,
+        "maxLon": -80.01813424,
+        "maxLat": 22.5855732
+      }
+    },
+    "CU12": {
+      "name": "Granma",
+      "sub_id": "CU12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": -77.74122024,
+        "minLat": 19.82596099,
+        "maxLon": -76.18607819,
+        "maxLat": 20.78984499
+      }
+    },
+    "CU14": {
+      "name": "Guantánamo",
+      "sub_id": "CU14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": -75.4916395,
+        "minLat": 19.8783654,
+        "maxLon": -74.1313554,
+        "maxLat": 20.55297792
+      }
+    },
+    "CU11": {
+      "name": "Holguín",
+      "sub_id": "CU11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": -76.73999441,
+        "minLat": 20.38892984,
+        "maxLon": -74.71439803,
+        "maxLat": 21.25094354
+      }
+    },
+    "CU99": {
+      "name": "Isla de la Juventud",
+      "sub_id": "CU99",
+      "sub_num": "99",
+      "bbox": {
+        "minLon": -83.19442928,
+        "minLat": 21.43756497,
+        "maxLon": -81.12338328,
+        "maxLat": 22.33518505
+      }
+    },
+    "CU03": {
+      "name": "La Habana",
+      "sub_id": "CU03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -82.51427782,
+        "minLat": 22.93653488,
+        "maxLon": -82.07819974,
+        "maxLat": 23.18075037
+      }
+    },
+    "CU10": {
+      "name": "Las Tunas",
+      "sub_id": "CU10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": -77.85729432,
+        "minLat": 20.35259879,
+        "maxLon": -76.30894983,
+        "maxLat": 21.45752561
+      }
+    },
+    "CU04": {
+      "name": "Matanzas",
+      "sub_id": "CU04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": -82.15792322,
+        "minLat": 21.62890935,
+        "maxLon": -80.46832669,
+        "maxLat": 23.27755034
+      }
+    },
+    "CU16": {
+      "name": "Mayabeque",
+      "sub_id": "CU16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": -82.45808828,
+        "minLat": 22.34752607,
+        "maxLon": -81.58024085,
+        "maxLat": 23.18735921
+      }
+    },
+    "CU01": {
+      "name": "Pinar del Río",
+      "sub_id": "CU01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": -84.95189226,
+        "minLat": 21.7542572,
+        "maxLon": -83.08038747,
+        "maxLat": 22.92716432
+      }
+    },
+    "CU07": {
+      "name": "Sancti Spíritus",
+      "sub_id": "CU07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": -80.11278236,
+        "minLat": 21.45123315,
+        "maxLon": -78.92388618,
+        "maxLat": 22.46929967
+      }
+    },
+    "CU13": {
+      "name": "Santiago de Cuba",
+      "sub_id": "CU13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": -77.0571307,
+        "minLat": 19.88232625,
+        "maxLon": -75.38219345,
+        "maxLat": 20.57306886
+      }
+    },
+    "CU05": {
+      "name": "Villa Clara",
+      "sub_id": "CU05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -80.75837386,
+        "minLat": 21.93918228,
+        "maxLon": -78.86785924,
+        "maxLat": 23.15513396
+      }
+    }
+  }
+  

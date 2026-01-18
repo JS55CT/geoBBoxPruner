@@ -1,0 +1,300 @@
+{
+    "SC02": {
+      "name": "Anse Boileau",
+      "sub_id": "SC02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 55.47546077,
+        "minLat": -4.737371207,
+        "maxLon": 55.50606036,
+        "maxLat": -4.682815075
+      }
+    },
+    "SC03": {
+      "name": "Anse Etoile",
+      "sub_id": "SC03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 55.44024813,
+        "minLat": -4.613616825,
+        "maxLon": 55.47047222,
+        "maxLat": -4.577608108
+      }
+    },
+    "SC05": {
+      "name": "Anse Royale",
+      "sub_id": "SC05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 55.50097573,
+        "minLat": -4.764086008,
+        "maxLon": 55.52950919,
+        "maxLat": -4.718022347
+      }
+    },
+    "SC01": {
+      "name": "Anse aux Pins",
+      "sub_id": "SC01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 55.50308895,
+        "minLat": -4.696038842,
+        "maxLon": 55.52944732,
+        "maxLat": -4.683539271
+      }
+    },
+    "SC04": {
+      "name": "Au Cap",
+      "sub_id": "SC04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 55.49905431,
+        "minLat": -4.73349154,
+        "maxLon": 55.52952731,
+        "maxLat": -4.687700987
+      }
+    },
+    "SC06": {
+      "name": "Baie Lazare",
+      "sub_id": "SC06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 55.46094096,
+        "minLat": -4.768592119,
+        "maxLon": 55.51010013,
+        "maxLat": -4.734796286
+      }
+    },
+    "SC07": {
+      "name": "Baie Sainte Anne",
+      "sub_id": "SC07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 55.68078852,
+        "minLat": -4.356631159,
+        "maxLon": 55.79320931,
+        "maxLat": -4.276201725
+      }
+    },
+    "SC08": {
+      "name": "Beau Vallon",
+      "sub_id": "SC08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 55.42308962,
+        "minLat": -4.627144217,
+        "maxLon": 55.44756746,
+        "maxLat": -4.592456817
+      }
+    },
+    "SC09": {
+      "name": "Bel Air",
+      "sub_id": "SC09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 55.43839383,
+        "minLat": -4.656066418,
+        "maxLon": 55.46188271,
+        "maxLat": -4.619051814
+      }
+    },
+    "SC10": {
+      "name": "Bel Ombre",
+      "sub_id": "SC10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 55.38516653,
+        "minLat": -4.64644432,
+        "maxLon": 55.43241203,
+        "maxLat": -4.614434958
+      }
+    },
+    "SC11": {
+      "name": "Cascade",
+      "sub_id": "SC11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 55.46970618,
+        "minLat": -4.69034946,
+        "maxLon": 55.51223981,
+        "maxLat": -4.649797202
+      }
+    },
+    "SC16": {
+      "name": "English River",
+      "sub_id": "SC16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 55.44754231,
+        "minLat": -4.622310042,
+        "maxLon": 55.46446598,
+        "maxLat": -4.6033144
+      }
+    },
+    "SC12": {
+      "name": "Glacis",
+      "sub_id": "SC12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 55.43158901,
+        "minLat": -4.593803525,
+        "maxLon": 55.46368265,
+        "maxLat": -4.560887575
+      }
+    },
+    "SC13": {
+      "name": "Grand Anse Mahe",
+      "sub_id": "SC13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 55.43864596,
+        "minLat": -4.708480954,
+        "maxLon": 55.48692405,
+        "maxLat": -4.656061053
+      }
+    },
+    "SC14": {
+      "name": "Grand Anse Praslin",
+      "sub_id": "SC14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 55.64403474,
+        "minLat": -4.362077236,
+        "maxLon": 55.76080346,
+        "maxLat": -4.209512711
+      }
+    },
+    "SCII": {
+      "name": "Inner Islands",
+      "sub_id": "SCII",
+      "sub_num": "II",
+      "bbox": {
+        "minLon": 55.20148253,
+        "minLat": -4.592843055,
+        "maxLon": 55.95138502,
+        "maxLat": -3.712837577
+      }
+    },
+    "SC15": {
+      "name": "La Digue",
+      "sub_id": "SC15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 55.8234365,
+        "minLat": -4.384304047,
+        "maxLon": 55.8565805,
+        "maxLat": -4.33680737
+      }
+    },
+    "SC24": {
+      "name": "Les Mamelles",
+      "sub_id": "SC24",
+      "sub_num": "24",
+      "bbox": {
+        "minLon": 55.46371877,
+        "minLat": -4.657931685,
+        "maxLon": 55.48021209,
+        "maxLat": -4.639342904
+      }
+    },
+    "SC17": {
+      "name": "Mont Buxton",
+      "sub_id": "SC17",
+      "sub_num": "17",
+      "bbox": {
+        "minLon": 55.4394331,
+        "minLat": -4.620351792,
+        "maxLon": 55.45343781,
+        "maxLat": -4.606999635
+      }
+    },
+    "SC18": {
+      "name": "Mont Fleuri",
+      "sub_id": "SC18",
+      "sub_num": "18",
+      "bbox": {
+        "minLon": 55.44744349,
+        "minLat": -4.642466069,
+        "maxLon": 55.53078711,
+        "maxLat": -4.596680045
+      }
+    },
+    "SCOI": {
+      "name": "Outer Islands",
+      "sub_id": "SCOI",
+      "sub_num": "OI",
+      "bbox": {
+        "minLon": 46.20309424,
+        "minLat": -10.22727335,
+        "maxLon": 56.29489362,
+        "maxLat": -4.878381372
+      }
+    },
+    "SC19": {
+      "name": "Plaisance",
+      "sub_id": "SC19",
+      "sub_num": "19",
+      "bbox": {
+        "minLon": 55.45097899,
+        "minLat": -4.666078091,
+        "maxLon": 55.46948552,
+        "maxLat": -4.630724907
+      }
+    },
+    "SC20": {
+      "name": "Pointe Larue",
+      "sub_id": "SC20",
+      "sub_num": "20",
+      "bbox": {
+        "minLon": 55.50600648,
+        "minLat": -4.690016866,
+        "maxLon": 55.5357064,
+        "maxLat": -4.661571979
+      }
+    },
+    "SC21": {
+      "name": "Port Glaud",
+      "sub_id": "SC21",
+      "sub_num": "21",
+      "bbox": {
+        "minLon": 55.35996485,
+        "minLat": -4.68697679,
+        "maxLon": 55.45107877,
+        "maxLat": -4.625625849
+      }
+    },
+    "SC25": {
+      "name": "Roche Caiman",
+      "sub_id": "SC25",
+      "sub_num": "25",
+      "bbox": {
+        "minLon": 55.46381569,
+        "minLat": -4.65111947,
+        "maxLon": 55.48309386,
+        "maxLat": -4.620400429
+      }
+    },
+    "SC22": {
+      "name": "Saint Louis",
+      "sub_id": "SC22",
+      "sub_num": "22",
+      "bbox": {
+        "minLon": 55.43182111,
+        "minLat": -4.629787802,
+        "maxLon": 55.45673418,
+        "maxLat": -4.61680603
+      }
+    },
+    "SC23": {
+      "name": "Takamaka",
+      "sub_id": "SC23",
+      "sub_num": "23",
+      "bbox": {
+        "minLon": 55.48297262,
+        "minLat": -4.807192922,
+        "maxLon": 55.53924239,
+        "maxLat": -4.760545492
+      }
+    }
+  }
+  

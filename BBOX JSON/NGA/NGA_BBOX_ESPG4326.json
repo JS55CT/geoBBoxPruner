@@ -1,0 +1,410 @@
+{
+    "NGAB": {
+      "name": "Abia",
+      "sub_id": "NGAB",
+      "sub_num": "AB",
+      "bbox": {
+        "minLon": 7.141726613,
+        "minLat": 4.821721793,
+        "maxLon": 8.054249406,
+        "maxLat": 5.773049831
+      }
+    },
+    "NGFC": {
+      "name": "Abuja Federal Capital Territory",
+      "sub_id": "NGFC",
+      "sub_num": "FC",
+      "bbox": {
+        "minLon": 6.819208622,
+        "minLat": 8.413553238,
+        "maxLon": 7.583946824,
+        "maxLat": 9.328937531
+      }
+    },
+    "NGAD": {
+      "name": "Adamawa",
+      "sub_id": "NGAD",
+      "sub_num": "AD",
+      "bbox": {
+        "minLon": 11.38398337,
+        "minLat": 7.323693037,
+        "maxLon": 13.72011363,
+        "maxLat": 10.89856625
+      }
+    },
+    "NGAK": {
+      "name": "Akwa Ibom",
+      "sub_id": "NGAK",
+      "sub_num": "AK",
+      "bbox": {
+        "minLon": 7.475605965,
+        "minLat": 4.469900131,
+        "maxLon": 8.343866944,
+        "maxLat": 5.804128647
+      }
+    },
+    "NGAN": {
+      "name": "Anambra",
+      "sub_id": "NGAN",
+      "sub_num": "AN",
+      "bbox": {
+        "minLon": 6.596792579,
+        "minLat": 5.652409196,
+        "maxLon": 7.371362805,
+        "maxLat": 6.885080338
+      }
+    },
+    "NGBA": {
+      "name": "Bauchi",
+      "sub_id": "NGBA",
+      "sub_num": "BA",
+      "bbox": {
+        "minLon": 8.679344773,
+        "minLat": 9.454679489,
+        "maxLon": 11.21426332,
+        "maxLat": 12.54467011
+      }
+    },
+    "NGBY": {
+      "name": "Bayelsa",
+      "sub_id": "NGBY",
+      "sub_num": "BY",
+      "bbox": {
+        "minLon": 5.376604319,
+        "minLat": 4.27062738,
+        "maxLon": 6.53623724,
+        "maxLat": 5.325622559
+      }
+    },
+    "NGBE": {
+      "name": "Benue",
+      "sub_id": "NGBE",
+      "sub_num": "BE",
+      "bbox": {
+        "minLon": 7.638632536,
+        "minLat": 6.445713043,
+        "maxLon": 9.946941733,
+        "maxLat": 8.164215088
+      }
+    },
+    "NGBO": {
+      "name": "Borno",
+      "sub_id": "NGBO",
+      "sub_num": "BO",
+      "bbox": {
+        "minLon": 11.55728018,
+        "minLat": 9.963006496,
+        "maxLon": 14.67824221,
+        "maxLat": 13.72570038
+      }
+    },
+    "NGCR": {
+      "name": "Cross River",
+      "sub_id": "NGCR",
+      "sub_num": "CR",
+      "bbox": {
+        "minLon": 7.93215847,
+        "minLat": 4.689090014,
+        "maxLon": 9.486576199,
+        "maxLat": 6.982412338
+      }
+    },
+    "NGDE": {
+      "name": "Delta",
+      "sub_id": "NGDE",
+      "sub_num": "DE",
+      "bbox": {
+        "minLon": 4.961137533,
+        "minLat": 5.011515856,
+        "maxLon": 6.763232947,
+        "maxLat": 6.466001272
+      }
+    },
+    "NGEB": {
+      "name": "Ebonyi",
+      "sub_id": "NGEB",
+      "sub_num": "EB",
+      "bbox": {
+        "minLon": 7.492608189,
+        "minLat": 5.65993309,
+        "maxLon": 8.513739943,
+        "maxLat": 6.828947067
+      }
+    },
+    "NGED": {
+      "name": "Edo",
+      "sub_id": "NGED",
+      "sub_num": "ED",
+      "bbox": {
+        "minLon": 5.008981586,
+        "minLat": 5.742931366,
+        "maxLon": 6.716292381,
+        "maxLat": 7.54117012
+      }
+    },
+    "NGEK": {
+      "name": "Ekiti",
+      "sub_id": "NGEK",
+      "sub_num": "EK",
+      "bbox": {
+        "minLon": 4.860342145,
+        "minLat": 7.144289017,
+        "maxLon": 5.807855964,
+        "maxLat": 8.066223979
+      }
+    },
+    "NGEN": {
+      "name": "Enugu",
+      "sub_id": "NGEN",
+      "sub_num": "EN",
+      "bbox": {
+        "minLon": 6.928144217,
+        "minLat": 5.906095505,
+        "maxLon": 7.818621874,
+        "maxLat": 7.072792053
+      }
+    },
+    "NGGO": {
+      "name": "Gombe",
+      "sub_id": "NGGO",
+      "sub_num": "GO",
+      "bbox": {
+        "minLon": 10.72289491,
+        "minLat": 9.518108368,
+        "maxLon": 11.93554711,
+        "maxLat": 11.23609543
+      }
+    },
+    "NGIM": {
+      "name": "Imo",
+      "sub_id": "NGIM",
+      "sub_num": "IM",
+      "bbox": {
+        "minLon": 6.645880103,
+        "minLat": 5.187177658,
+        "maxLon": 7.510639667,
+        "maxLat": 5.991497039
+      }
+    },
+    "NGJI": {
+      "name": "Jigawa",
+      "sub_id": "NGJI",
+      "sub_num": "JI",
+      "bbox": {
+        "minLon": 8.153523564,
+        "minLat": 10.93654632,
+        "maxLon": 10.61031568,
+        "maxLat": 12.95734405
+      }
+    },
+    "NGKD": {
+      "name": "Kaduna",
+      "sub_id": "NGKD",
+      "sub_num": "KD",
+      "bbox": {
+        "minLon": 6.045848131,
+        "minLat": 9.00226593,
+        "maxLon": 8.801526427,
+        "maxLat": 11.50551796
+      }
+    },
+    "NGKN": {
+      "name": "Kano",
+      "sub_id": "NGKN",
+      "sub_num": "KN",
+      "bbox": {
+        "minLon": 7.704273104,
+        "minLat": 10.54206848,
+        "maxLon": 9.433919311,
+        "maxLat": 12.57709098
+      }
+    },
+    "NGKT": {
+      "name": "Katsina",
+      "sub_id": "NGKT",
+      "sub_num": "KT",
+      "bbox": {
+        "minLon": 6.849388719,
+        "minLat": 11.13009453,
+        "maxLon": 8.988446713,
+        "maxLat": 13.34804535
+      }
+    },
+    "NGKE": {
+      "name": "Kebbi",
+      "sub_id": "NGKE",
+      "sub_num": "KE",
+      "bbox": {
+        "minLon": 3.456839204,
+        "minLat": 10.09499979,
+        "maxLon": 6.04089737,
+        "maxLat": 13.27106059
+      }
+    },
+    "NGKO": {
+      "name": "Kogi",
+      "sub_id": "NGKO",
+      "sub_num": "KO",
+      "bbox": {
+        "minLon": 5.342105508,
+        "minLat": 6.579437255,
+        "maxLon": 7.931497335,
+        "maxLat": 8.738765716
+      }
+    },
+    "NGKW": {
+      "name": "Kwara",
+      "sub_id": "NGKW",
+      "sub_num": "KW",
+      "bbox": {
+        "minLon": 2.728944659,
+        "minLat": 7.99416101,
+        "maxLon": 6.157545805,
+        "maxLat": 10.08753061
+      }
+    },
+    "NGLA": {
+      "name": "Lagos",
+      "sub_id": "NGLA",
+      "sub_num": "LA",
+      "bbox": {
+        "minLon": 2.706189633,
+        "minLat": 6.362914682,
+        "maxLon": 4.388108849,
+        "maxLat": 6.698913574
+      }
+    },
+    "NGNA": {
+      "name": "Nasarawa",
+      "sub_id": "NGNA",
+      "sub_num": "NA",
+      "bbox": {
+        "minLon": 6.964669943,
+        "minLat": 7.763210892,
+        "maxLon": 9.650989771,
+        "maxLat": 9.329109192
+      }
+    },
+    "NGNI": {
+      "name": "Niger",
+      "sub_id": "NGNI",
+      "sub_num": "NI",
+      "bbox": {
+        "minLon": 3.562855839,
+        "minLat": 8.186101914,
+        "maxLon": 7.326332211,
+        "maxLat": 11.31162644
+      }
+    },
+    "NGOG": {
+      "name": "Ogun",
+      "sub_id": "NGOG",
+      "sub_num": "OG",
+      "bbox": {
+        "minLon": 2.650110006,
+        "minLat": 6.304025054,
+        "maxLon": 4.591590881,
+        "maxLat": 7.979850769
+      }
+    },
+    "NGON": {
+      "name": "Ondo",
+      "sub_id": "NGON",
+      "sub_num": "ON",
+      "bbox": {
+        "minLon": 4.372271777,
+        "minLat": 5.906524658,
+        "maxLon": 6.021954179,
+        "maxLat": 7.756347656
+      }
+    },
+    "NGOS": {
+      "name": "Osun",
+      "sub_id": "NGOS",
+      "sub_num": "OS",
+      "bbox": {
+        "minLon": 4.070353985,
+        "minLat": 6.961212158,
+        "maxLon": 5.029567242,
+        "maxLat": 8.06722641
+      }
+    },
+    "NGOY": {
+      "name": "Oyo",
+      "sub_id": "NGOY",
+      "sub_num": "OY",
+      "bbox": {
+        "minLon": 2.690051914,
+        "minLat": 7.077941894,
+        "maxLon": 4.543956995,
+        "maxLat": 9.219074249
+      }
+    },
+    "NGPL": {
+      "name": "Plateau",
+      "sub_id": "NGPL",
+      "sub_num": "PL",
+      "bbox": {
+        "minLon": 8.571697592,
+        "minLat": 8.316907883,
+        "maxLon": 10.67840445,
+        "maxLat": 10.40139198
+      }
+    },
+    "NGRI": {
+      "name": "Rivers",
+      "sub_id": "NGRI",
+      "sub_num": "RI",
+      "bbox": {
+        "minLon": 6.24361372,
+        "minLat": 4.304845333,
+        "maxLon": 7.588193536,
+        "maxLat": 5.655298233
+      }
+    },
+    "NGSO": {
+      "name": "Sokoto",
+      "sub_id": "NGSO",
+      "sub_num": "SO",
+      "bbox": {
+        "minLon": 4.141888976,
+        "minLat": 12.02000046,
+        "maxLon": 6.698770166,
+        "maxLat": 13.88849974
+      }
+    },
+    "NGTA": {
+      "name": "Taraba",
+      "sub_id": "NGTA",
+      "sub_num": "TA",
+      "bbox": {
+        "minLon": 9.228877663,
+        "minLat": 6.503734588,
+        "maxLon": 11.90082049,
+        "maxLat": 9.584197998
+      }
+    },
+    "NGYO": {
+      "name": "Yobe",
+      "sub_id": "NGYO",
+      "sub_num": "YO",
+      "bbox": {
+        "minLon": 9.652307391,
+        "minLat": 10.52048206,
+        "maxLon": 12.48600113,
+        "maxLat": 13.38289261
+      }
+    },
+    "NGZA": {
+      "name": "Zamfara",
+      "sub_id": "NGZA",
+      "sub_num": "ZA",
+      "bbox": {
+        "minLon": 4.497379541,
+        "minLat": 10.86513519,
+        "maxLon": 7.165172815,
+        "maxLat": 13.32167947
+      }
+    }
+  }
+  

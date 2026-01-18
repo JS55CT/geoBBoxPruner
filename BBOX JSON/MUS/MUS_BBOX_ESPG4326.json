@@ -1,0 +1,135 @@
+{
+    "MUAG": {
+      "name": "Agalega Islands",
+      "sub_id": "MUAG",
+      "sub_num": "AG",
+      "bbox": {
+        "minLon": 56.58571446,
+        "minLat": -10.49106562,
+        "maxLon": 56.70456278,
+        "maxLat": -10.33702362
+      }
+    },
+    "MUBL": {
+      "name": "Black River",
+      "sub_id": "MUBL",
+      "sub_num": "BL",
+      "bbox": {
+        "minLon": 57.30826914,
+        "minLat": -20.48926377,
+        "maxLon": 57.47337782,
+        "maxLat": -20.16386509
+      }
+    },
+    "MUCC": {
+      "name": "Cargados Carajos Shoals",
+      "sub_id": "MUCC",
+      "sub_num": "CC",
+      "bbox": {
+        "minLon": 59.48341215,
+        "minLat": -16.82150996,
+        "maxLon": 59.71141827,
+        "maxLat": -16.23746026
+      }
+    },
+    "MUFL": {
+      "name": "Flacq",
+      "sub_id": "MUFL",
+      "sub_num": "FL",
+      "bbox": {
+        "minLon": 57.61808431,
+        "minLat": -20.33234596,
+        "maxLon": 57.81018424,
+        "maxLat": -20.10766435
+      }
+    },
+    "MUGP": {
+      "name": "Grand Port",
+      "sub_id": "MUGP",
+      "sub_num": "GP",
+      "bbox": {
+        "minLon": 57.52094781,
+        "minLat": -20.49562097,
+        "maxLon": 57.78885913,
+        "maxLat": -20.31144619
+      }
+    },
+    "MUMO": {
+      "name": "Moka",
+      "sub_id": "MUMO",
+      "sub_num": "MO",
+      "bbox": {
+        "minLon": 57.47200572,
+        "minLat": -20.33698082,
+        "maxLon": 57.6696198,
+        "maxLat": -20.16918182
+      }
+    },
+    "MUPA": {
+      "name": "Pamplemousses",
+      "sub_id": "MUPA",
+      "sub_num": "PA",
+      "bbox": {
+        "minLon": 57.49628258,
+        "minLat": -20.19853592,
+        "maxLon": 57.64612031,
+        "maxLat": -19.99896765
+      }
+    },
+    "MUPW": {
+      "name": "Plaines Wilhems",
+      "sub_id": "MUPW",
+      "sub_num": "PW",
+      "bbox": {
+        "minLon": 57.43930888,
+        "minLat": -20.42250037,
+        "maxLon": 57.59769702,
+        "maxLat": -20.18222809
+      }
+    },
+    "MUPL": {
+      "name": "Port Louis",
+      "sub_id": "MUPL",
+      "sub_num": "PL",
+      "bbox": {
+        "minLon": 57.47237539,
+        "minLat": -20.19804239,
+        "maxLon": 57.55605876,
+        "maxLat": -20.13801193
+      }
+    },
+    "MURR": {
+      "name": "Rivière du Rempart",
+      "sub_id": "MURR",
+      "sub_num": "RR",
+      "bbox": {
+        "minLon": 57.56882095,
+        "minLat": -20.15139341,
+        "maxLon": 57.80895829,
+        "maxLat": -19.81582487
+      }
+    },
+    "MURO": {
+      "name": "Rodrigues Island",
+      "sub_id": "MURO",
+      "sub_num": "RO",
+      "bbox": {
+        "minLon": 63.29820919,
+        "minLat": -19.78559113,
+        "maxLon": 63.50317085,
+        "maxLat": -19.66770828
+      }
+    },
+    "MUSA": {
+      "name": "Savanne",
+      "sub_id": "MUSA",
+      "sub_num": "SA",
+      "bbox": {
+        "minLon": 57.37099695,
+        "minLat": -20.52571976,
+        "maxLon": 57.62404382,
+        "maxLat": -20.39191246
+      }
+    }
+  }
+  

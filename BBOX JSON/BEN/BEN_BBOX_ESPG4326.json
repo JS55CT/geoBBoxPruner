@@ -1,0 +1,135 @@
+{
+    "BJAL": {
+      "name": "Alibori",
+      "sub_id": "BJAL",
+      "sub_num": "AL",
+      "bbox": {
+        "minLon": 1.940386414,
+        "minLat": 10.52267075,
+        "maxLon": 3.7984519,
+        "maxLat": 12.4077661
+      }
+    },
+    "BJAK": {
+      "name": "Atacora",
+      "sub_id": "BJAK",
+      "sub_num": "AK",
+      "bbox": {
+        "minLon": 0.774414062,
+        "minLat": 9.969770908,
+        "maxLon": 2.197633505,
+        "maxLat": 11.47865295
+      }
+    },
+    "BJAQ": {
+      "name": "Atlantique",
+      "sub_id": "BJAQ",
+      "sub_num": "AQ",
+      "bbox": {
+        "minLon": 1.942101836,
+        "minLat": 6.302206397,
+        "maxLon": 2.548097014,
+        "maxLat": 6.995458603
+      }
+    },
+    "BJBO": {
+      "name": "Borgou",
+      "sub_id": "BJBO",
+      "sub_num": "BO",
+      "bbox": {
+        "minLon": 1.963564276,
+        "minLat": 8.753099441,
+        "maxLon": 3.84423542,
+        "maxLat": 10.72694778
+      }
+    },
+    "BJCO": {
+      "name": "Collines",
+      "sub_id": "BJCO",
+      "sub_num": "CO",
+      "bbox": {
+        "minLon": 1.610141516,
+        "minLat": 7.488191128,
+        "maxLon": 2.768512368,
+        "maxLat": 8.763914108
+      }
+    },
+    "BJKO": {
+      "name": "Couffo",
+      "sub_id": "BJKO",
+      "sub_num": "KO",
+      "bbox": {
+        "minLon": 1.557013154,
+        "minLat": 6.76328659,
+        "maxLon": 2.043897867,
+        "maxLat": 7.552283287
+      }
+    },
+    "BJDO": {
+      "name": "Donga",
+      "sub_id": "BJDO",
+      "sub_num": "DO",
+      "bbox": {
+        "minLon": 1.337129235,
+        "minLat": 8.481874466,
+        "maxLon": 2.25052619,
+        "maxLat": 10.07805443
+      }
+    },
+    "BJLI": {
+      "name": "Littoral",
+      "sub_id": "BJLI",
+      "sub_num": "LI",
+      "bbox": {
+        "minLon": 2.271545172,
+        "minLat": 6.341257095,
+        "maxLon": 2.580388307,
+        "maxLat": 6.519721985
+      }
+    },
+    "BJMO": {
+      "name": "Mono",
+      "sub_id": "BJMO",
+      "sub_num": "MO",
+      "bbox": {
+        "minLon": 1.57465446,
+        "minLat": 6.23521328,
+        "maxLon": 2.034696699,
+        "maxLat": 6.867184639
+      }
+    },
+    "BJOU": {
+      "name": "Ouémé",
+      "sub_id": "BJOU",
+      "sub_num": "OU",
+      "bbox": {
+        "minLon": 2.402493954,
+        "minLat": 6.360523939,
+        "maxLon": 2.718478083,
+        "maxLat": 6.993983626
+      }
+    },
+    "BJPL": {
+      "name": "Plateau",
+      "sub_id": "BJPL",
+      "sub_num": "PL",
+      "bbox": {
+        "minLon": 2.407829166,
+        "minLat": 6.511631012,
+        "maxLon": 2.795231104,
+        "maxLat": 7.767162323
+      }
+    },
+    "BJZO": {
+      "name": "Zou",
+      "sub_id": "BJZO",
+      "sub_num": "ZO",
+      "bbox": {
+        "minLon": 1.631448746,
+        "minLat": 6.910572052,
+        "maxLon": 2.513149142,
+        "maxLat": 7.676696777
+      }
+    }
+  }
+  

@@ -1,0 +1,223 @@
+{
+    "IT65": {
+      "name": "Abruzzo",
+      "sub_id": "IT65",
+      "sub_num": "65",
+      "bbox": {
+        "minLon": 13.01928687,
+        "minLat": 41.68221474,
+        "maxLon": 14.7854172,
+        "maxLat": 42.89506137
+      }
+    },
+    "IT77": {
+      "name": "Basilicata",
+      "sub_id": "IT77",
+      "sub_num": "77",
+      "bbox": {
+        "minLon": 15.34001315,
+        "minLat": 39.89659309,
+        "maxLon": 16.85900903,
+        "maxLat": 41.14251137
+      }
+    },
+    "IT78": {
+      "name": "Calabria",
+      "sub_id": "IT78",
+      "sub_num": "78",
+      "bbox": {
+        "minLon": 15.62991726,
+        "minLat": 37.91524792,
+        "maxLon": 17.20680165,
+        "maxLat": 40.14043808
+      }
+    },
+    "IT72": {
+      "name": "Campania",
+      "sub_id": "IT72",
+      "sub_num": "72",
+      "bbox": {
+        "minLon": 13.7628144,
+        "minLat": 39.99000406,
+        "maxLon": 15.80685127,
+        "maxLat": 41.50008202
+      }
+    },
+    "IT45": {
+      "name": "Emilia-Romagna",
+      "sub_id": "IT45",
+      "sub_num": "45",
+      "bbox": {
+        "minLon": 9.196284533,
+        "minLat": 43.74172211,
+        "maxLon": 12.75597954,
+        "maxLat": 45.14003277
+      }
+    },
+    "IT36": {
+      "name": "Friuli Venezia Giulia",
+      "sub_id": "IT36",
+      "sub_num": "36",
+      "bbox": {
+        "minLon": 12.317361,
+        "minLat": 45.58124542,
+        "maxLon": 13.91722441,
+        "maxLat": 46.64726257
+      }
+    },
+    "IT62": {
+      "name": "Lazio",
+      "sub_id": "IT62",
+      "sub_num": "62",
+      "bbox": {
+        "minLon": 11.44706082,
+        "minLat": 40.78465307,
+        "maxLon": 14.02899265,
+        "maxLat": 42.8366375
+      }
+    },
+    "IT42": {
+      "name": "Liguria",
+      "sub_id": "IT42",
+      "sub_num": "42",
+      "bbox": {
+        "minLon": 7.495084763,
+        "minLat": 43.77582633,
+        "maxLon": 10.0718025,
+        "maxLat": 44.67675912
+      }
+    },
+    "IT25": {
+      "name": "Lombardia",
+      "sub_id": "IT25",
+      "sub_num": "25",
+      "bbox": {
+        "minLon": 8.501054406,
+        "minLat": 44.67822075,
+        "maxLon": 11.42740309,
+        "maxLat": 46.63644791
+      }
+    },
+    "IT57": {
+      "name": "Marche",
+      "sub_id": "IT57",
+      "sub_num": "57",
+      "bbox": {
+        "minLon": 12.0964247,
+        "minLat": 42.69176602,
+        "maxLon": 13.91627395,
+        "maxLat": 43.97092223
+      }
+    },
+    "IT67": {
+      "name": "Molise",
+      "sub_id": "IT67",
+      "sub_num": "67",
+      "bbox": {
+        "minLon": 13.9420625,
+        "minLat": 41.3621521,
+        "maxLon": 15.16241586,
+        "maxLat": 42.0704118
+      }
+    },
+    "IT21": {
+      "name": "Piemonte",
+      "sub_id": "IT21",
+      "sub_num": "21",
+      "bbox": {
+        "minLon": 6.627237677,
+        "minLat": 44.06040895,
+        "maxLon": 9.213837147,
+        "maxLat": 46.46392822
+      }
+    },
+    "IT75": {
+      "name": "Puglia",
+      "sub_id": "IT75",
+      "sub_num": "75",
+      "bbox": {
+        "minLon": 14.93062365,
+        "minLat": 39.78969574,
+        "maxLon": 18.52089107,
+        "maxLat": 42.22659206
+      }
+    },
+    "IT88": {
+      "name": "Sardegna",
+      "sub_id": "IT88",
+      "sub_num": "88",
+      "bbox": {
+        "minLon": 8.131533504,
+        "minLat": 38.85882759,
+        "maxLon": 9.828579306,
+        "maxLat": 41.3121556
+      }
+    },
+    "IT82": {
+      "name": "Sicilia",
+      "sub_id": "IT82",
+      "sub_num": "82",
+      "bbox": {
+        "minLon": 11.92566657,
+        "minLat": 35.49270678,
+        "maxLon": 15.6524514,
+        "maxLat": 38.81197321
+      }
+    },
+    "IT52": {
+      "name": "Toscana",
+      "sub_id": "IT52",
+      "sub_num": "52",
+      "bbox": {
+        "minLon": 9.70404613,
+        "minLat": 42.23777533,
+        "maxLon": 12.37121296,
+        "maxLat": 44.4730854
+      }
+    },
+    "IT32": {
+      "name": "Trentino-Alto Adige",
+      "sub_id": "IT32",
+      "sub_num": "32",
+      "bbox": {
+        "minLon": 10.38653588,
+        "minLat": 45.67952156,
+        "maxLon": 12.48131239,
+        "maxLat": 47.09117889
+      }
+    },
+    "IT55": {
+      "name": "Umbria",
+      "sub_id": "IT55",
+      "sub_num": "55",
+      "bbox": {
+        "minLon": 11.89266837,
+        "minLat": 42.36362457,
+        "maxLon": 13.26328862,
+        "maxLat": 43.61526132
+      }
+    },
+    "IT23": {
+      "name": "Valle d'Aosta",
+      "sub_id": "IT23",
+      "sub_num": "23",
+      "bbox": {
+        "minLon": 6.802725554,
+        "minLat": 45.4684639,
+        "maxLon": 7.940445661,
+        "maxLat": 45.9875679
+      }
+    },
+    "IT34": {
+      "name": "Veneto",
+      "sub_id": "IT34",
+      "sub_num": "34",
+      "bbox": {
+        "minLon": 10.63235474,
+        "minLat": 44.79130256,
+        "maxLon": 13.10029733,
+        "maxLat": 46.68039322
+      }
+    }
+  }
+  

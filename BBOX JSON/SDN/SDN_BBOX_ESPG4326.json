@@ -1,0 +1,201 @@
+{
+    "SDRS": {
+      "name": "Al Baḥr al Aḥmar",
+      "sub_id": "SDRS",
+      "sub_num": "RS",
+      "bbox": {
+        "minLon": 33.25848997,
+        "minLat": 17.00059998,
+        "maxLon": 38.84933209,
+        "maxLat": 23.14656591
+      }
+    },
+    "SDGZ": {
+      "name": "Al Jazīrah",
+      "sub_id": "SDGZ",
+      "sub_num": "GZ",
+      "bbox": {
+        "minLon": 32.42434287,
+        "minLat": 13.53455544,
+        "maxLon": 34.30359006,
+        "maxLat": 15.47346997
+      }
+    },
+    "SDKH": {
+      "name": "Al Kharṭūm",
+      "sub_id": "SDKH",
+      "sub_num": "KH",
+      "bbox": {
+        "minLon": 31.72065938,
+        "minLat": 15.18412995,
+        "maxLon": 34.38058996,
+        "maxLat": 16.61703074
+      }
+    },
+    "SDGD": {
+      "name": "Al Qaḍārif",
+      "sub_id": "SDGD",
+      "sub_num": "GD",
+      "bbox": {
+        "minLon": 33.56871998,
+        "minLat": 12.66371727,
+        "maxLon": 36.55869234,
+        "maxLat": 15.76282001
+      }
+    },
+    "SDNW": {
+      "name": "An Nīl al Abyaḍ",
+      "sub_id": "SDNW",
+      "sub_num": "NW",
+      "bbox": {
+        "minLon": 31.52337003,
+        "minLat": 11.94500005,
+        "maxLon": 33.25585997,
+        "maxLat": 15.25005996
+      }
+    },
+    "SDNB": {
+      "name": "An Nīl al Azraq",
+      "sub_id": "SDNB",
+      "sub_num": "NB",
+      "bbox": {
+        "minLon": 33.13529003,
+        "minLat": 9.498639941,
+        "maxLon": 35.07951283,
+        "maxLat": 12.56473994
+      }
+    },
+    "SDNO": {
+      "name": "Ash Shamālīyah",
+      "sub_id": "SDNO",
+      "sub_num": "NO",
+      "bbox": {
+        "minLon": 24.99804592,
+        "minLat": 16.50146484,
+        "maxLon": 32.66623628,
+        "maxLat": 22.23070622
+      }
+    },
+    "SDDW": {
+      "name": "Gharb Dārfūr",
+      "sub_id": "SDDW",
+      "sub_num": "DW",
+      "bbox": {
+        "minLon": 21.81505704,
+        "minLat": 12.02198267,
+        "maxLon": 23.33087003,
+        "maxLat": 14.97226238
+      }
+    },
+    "SDGK": {
+      "name": "Gharb Kurdufān",
+      "sub_id": "SDGK",
+      "sub_num": "GK",
+      "bbox": {
+        "minLon": 27.03531003,
+        "minLat": 9.343230009,
+        "maxLon": 29.98207891,
+        "maxLat": 14.0809536
+      }
+    },
+    "SDDS": {
+      "name": "Janūb Dārfūr",
+      "sub_id": "SDDS",
+      "sub_num": "DS",
+      "bbox": {
+        "minLon": 23.04661047,
+        "minLat": 8.64443779,
+        "maxLon": 25.93144882,
+        "maxLat": 13.13297999
+      }
+    },
+    "SDKS": {
+      "name": "Janūb Kurdufān",
+      "sub_id": "SDKS",
+      "sub_num": "KS",
+      "bbox": {
+        "minLon": 29.23566175,
+        "minLat": 9.722149968,
+        "maxLon": 32.47063005,
+        "maxLat": 12.70852089
+      }
+    },
+    "SDKA": {
+      "name": "Kassalā",
+      "sub_id": "SDKA",
+      "sub_num": "KA",
+      "bbox": {
+        "minLon": 34.19808996,
+        "minLat": 14.90454996,
+        "maxLon": 37.03123963,
+        "maxLat": 17.20898998
+      }
+    },
+    "SDNR": {
+      "name": "Nahr an Nīl",
+      "sub_id": "SDNR",
+      "sub_num": "NR",
+      "bbox": {
+        "minLon": 31.903193,
+        "minLat": 15.96461999,
+        "maxLon": 35.69630003,
+        "maxLat": 21.99995041
+      }
+    },
+    "SDDN": {
+      "name": "Shamāl Dārfūr",
+      "sub_id": "SDDN",
+      "sub_num": "DN",
+      "bbox": {
+        "minLon": 22.75487876,
+        "minLat": 11.71791005,
+        "maxLon": 27.52976,
+        "maxLat": 20.00127995
+      }
+    },
+    "SDKN": {
+      "name": "Shamāl Kurdufān",
+      "sub_id": "SDKN",
+      "sub_num": "KN",
+      "bbox": {
+        "minLon": 26.95537448,
+        "minLat": 12.23767996,
+        "maxLon": 32.35566998,
+        "maxLat": 16.51488996
+      }
+    },
+    "SDDE": {
+      "name": "Sharq Dārfūr",
+      "sub_id": "SDDE",
+      "sub_num": "DE",
+      "bbox": {
+        "minLon": 25.29369032,
+        "minLat": 9.488330007,
+        "maxLon": 27.90722001,
+        "maxLat": 12.97309995
+      }
+    },
+    "SDSI": {
+      "name": "Sinnār",
+      "sub_id": "SDSI",
+      "sub_num": "SI",
+      "bbox": {
+        "minLon": 32.92368996,
+        "minLat": 11.73408508,
+        "maxLon": 35.70352042,
+        "maxLat": 14.10508597
+      }
+    },
+    "SDDC": {
+      "name": "Wasaṭ Dārfūr",
+      "sub_id": "SDDC",
+      "sub_num": "DC",
+      "bbox": {
+        "minLon": 22.54883134,
+        "minLat": 10.69377184,
+        "maxLon": 24.71807003,
+        "maxLat": 13.56225002
+      }
+    }
+  }
+  

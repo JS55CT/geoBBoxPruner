@@ -1,0 +1,267 @@
+{
+    "TN13": {
+      "name": "Ben Arous",
+      "sub_id": "TN13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 9.96823287,
+        "minLat": 36.44388199,
+        "maxLon": 10.42712128,
+        "maxLat": 36.77624941
+      }
+    },
+    "TN23": {
+      "name": "Bizerte",
+      "sub_id": "TN23",
+      "sub_num": "23",
+      "bbox": {
+        "minLon": 8.86914587,
+        "minLat": 36.7224884,
+        "maxLon": 10.33078456,
+        "maxLat": 37.55980694
+      }
+    },
+    "TN31": {
+      "name": "Béja",
+      "sub_id": "TN31",
+      "sub_num": "31",
+      "bbox": {
+        "minLon": 8.888057351,
+        "minLat": 36.38028145,
+        "maxLon": 9.853340745,
+        "maxLat": 37.15710437
+      }
+    },
+    "TN81": {
+      "name": "Gabès",
+      "sub_id": "TN81",
+      "sub_num": "81",
+      "bbox": {
+        "minLon": 9.259983659,
+        "minLat": 33.28685761,
+        "maxLon": 10.47033298,
+        "maxLat": 34.29330826
+      }
+    },
+    "TN71": {
+      "name": "Gafsa",
+      "sub_id": "TN71",
+      "sub_num": "71",
+      "bbox": {
+        "minLon": 8.022042632,
+        "minLat": 34.05718803,
+        "maxLon": 9.596695185,
+        "maxLat": 34.75663233
+      }
+    },
+    "TN32": {
+      "name": "Jendouba",
+      "sub_id": "TN32",
+      "sub_num": "32",
+      "bbox": {
+        "minLon": 8.153752088,
+        "minLat": 36.38774872,
+        "maxLon": 9.066659808,
+        "maxLat": 37.01036453
+      }
+    },
+    "TN41": {
+      "name": "Kairouan",
+      "sub_id": "TN41",
+      "sub_num": "41",
+      "bbox": {
+        "minLon": 9.277667165,
+        "minLat": 35.05213737,
+        "maxLon": 10.30668879,
+        "maxLat": 36.14986062
+      }
+    },
+    "TN42": {
+      "name": "Kasserine",
+      "sub_id": "TN42",
+      "sub_num": "42",
+      "bbox": {
+        "minLon": 8.256861925,
+        "minLat": 34.62716889,
+        "maxLon": 9.330587864,
+        "maxLat": 35.79345703
+      }
+    },
+    "TN73": {
+      "name": "Kébili",
+      "sub_id": "TN73",
+      "sub_num": "73",
+      "bbox": {
+        "minLon": 7.741953492,
+        "minLat": 32.53234768,
+        "maxLon": 9.99336636,
+        "maxLat": 34.16790962
+      }
+    },
+    "TN12": {
+      "name": "L'Ariana",
+      "sub_id": "TN12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 9.98241961,
+        "minLat": 36.79149628,
+        "maxLon": 10.32906413,
+        "maxLat": 37.11413383
+      }
+    },
+    "TN14": {
+      "name": "La Manouba",
+      "sub_id": "TN14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 9.556811452,
+        "minLat": 36.59863472,
+        "maxLon": 10.05781495,
+        "maxLat": 36.97277069
+      }
+    },
+    "TN33": {
+      "name": "Le Kef",
+      "sub_id": "TN33",
+      "sub_num": "33",
+      "bbox": {
+        "minLon": 8.258363127,
+        "minLat": 35.61407077,
+        "maxLon": 9.162481785,
+        "maxLat": 36.4324199
+      }
+    },
+    "TN53": {
+      "name": "Mahdia",
+      "sub_id": "TN53",
+      "sub_num": "53",
+      "bbox": {
+        "minLon": 10.17593622,
+        "minLat": 35.09718049,
+        "maxLon": 11.1679951,
+        "maxLat": 35.5769062
+      }
+    },
+    "TN52": {
+      "name": "Monastir",
+      "sub_id": "TN52",
+      "sub_num": "52",
+      "bbox": {
+        "minLon": 10.48524547,
+        "minLat": 35.46575546,
+        "maxLon": 11.05032098,
+        "maxLat": 35.80583978
+      }
+    },
+    "TN82": {
+      "name": "Médenine",
+      "sub_id": "TN82",
+      "sub_num": "82",
+      "bbox": {
+        "minLon": 9.740795851,
+        "minLat": 32.27140403,
+        "maxLon": 11.60087657,
+        "maxLat": 33.90780461
+      }
+    },
+    "TN21": {
+      "name": "Nabeul",
+      "sub_id": "TN21",
+      "sub_num": "21",
+      "bbox": {
+        "minLon": 10.34285796,
+        "minLat": 36.35359132,
+        "maxLon": 11.13621736,
+        "maxLat": 37.14257813
+      }
+    },
+    "TN61": {
+      "name": "Sfax",
+      "sub_id": "TN61",
+      "sub_num": "61",
+      "bbox": {
+        "minLon": 9.708741546,
+        "minLat": 34.1537993,
+        "maxLon": 11.45473456,
+        "maxLat": 35.26456833
+      }
+    },
+    "TN43": {
+      "name": "Sidi Bouzid",
+      "sub_id": "TN43",
+      "sub_num": "43",
+      "bbox": {
+        "minLon": 8.797628879,
+        "minLat": 34.23717499,
+        "maxLon": 10.06161368,
+        "maxLat": 35.49554849
+      }
+    },
+    "TN34": {
+      "name": "Siliana",
+      "sub_id": "TN34",
+      "sub_num": "34",
+      "bbox": {
+        "minLon": 8.928489446,
+        "minLat": 35.47811508,
+        "maxLon": 9.766103149,
+        "maxLat": 36.4693737
+      }
+    },
+    "TN51": {
+      "name": "Sousse",
+      "sub_id": "TN51",
+      "sub_num": "51",
+      "bbox": {
+        "minLon": 10.1588639,
+        "minLat": 35.52643776,
+        "maxLon": 10.6845392,
+        "maxLat": 36.37899399
+      }
+    },
+    "TN83": {
+      "name": "Tataouine",
+      "sub_id": "TN83",
+      "sub_num": "83",
+      "bbox": {
+        "minLon": 8.360286951,
+        "minLat": 30.22785187,
+        "maxLon": 11.43928266,
+        "maxLat": 33.26256752
+      }
+    },
+    "TN72": {
+      "name": "Tozeur",
+      "sub_id": "TN72",
+      "sub_num": "72",
+      "bbox": {
+        "minLon": 7.524328112,
+        "minLat": 33.42096806,
+        "maxLon": 8.67784059,
+        "maxLat": 34.51457977
+      }
+    },
+    "TN11": {
+      "name": "Tunis",
+      "sub_id": "TN11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 9.998326659,
+        "minLat": 36.68437958,
+        "maxLon": 10.35502338,
+        "maxLat": 36.88855732
+      }
+    },
+    "TN22": {
+      "name": "Zaghouan",
+      "sub_id": "TN22",
+      "sub_num": "22",
+      "bbox": {
+        "minLon": 9.640625358,
+        "minLat": 35.99842072,
+        "maxLon": 10.38132429,
+        "maxLat": 36.64884567
+      }
+    }
+  }
+  

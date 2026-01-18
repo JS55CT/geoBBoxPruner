@@ -1,0 +1,739 @@
+{
+  "VN44": {
+    "name": "An Giang",
+    "sub_id": "VN44",
+    "sub_num": "44",
+    "bbox": {
+      "minLon": 104.7468117,
+      "minLat": 10.21289444,
+      "maxLon": 105.5708333,
+      "maxLat": 10.96144962
+    }
+  },
+  "VN43": {
+    "name": "Bà Rịa - Vũng Tàu",
+    "sub_id": "VN43",
+    "sub_num": "43",
+    "bbox": {
+      "minLon": 107.0019827,
+      "minLat": 10.32022035,
+      "maxLon": 107.5823785,
+      "maxLat": 10.78720093
+    }
+  },
+  "VN57": {
+    "name": "Bình Dương",
+    "sub_id": "VN57",
+    "sub_num": "57",
+    "bbox": {
+      "minLon": 106.3356578,
+      "minLat": 10.91792107,
+      "maxLon": 106.9675626,
+      "maxLat": 11.54980659
+    }
+  },
+  "VN58": {
+    "name": "Bình Phước",
+    "sub_id": "VN58",
+    "sub_num": "58",
+    "bbox": {
+      "minLon": 106.4102881,
+      "minLat": 11.27197266,
+      "maxLon": 107.4538701,
+      "maxLat": 12.29975224
+    }
+  },
+  "VN40": {
+    "name": "Bình Thuận",
+    "sub_id": "VN40",
+    "sub_num": "40",
+    "bbox": {
+      "minLon": 107.4231761,
+      "minLat": 9.970021128,
+      "maxLon": 109.0852274,
+      "maxLat": 11.55650139
+    }
+  },
+  "VN31": {
+    "name": "Bình Định",
+    "sub_id": "VN31",
+    "sub_num": "31",
+    "bbox": {
+      "minLon": 108.6329167,
+      "minLat": 13.50854874,
+      "maxLon": 109.3634174,
+      "maxLat": 14.64717865
+    }
+  },
+  "VN55": {
+    "name": "Bạc Liêu",
+    "sub_id": "VN55",
+    "sub_num": "55",
+    "bbox": {
+      "minLon": 105.2289609,
+      "minLat": 9.018491745,
+      "maxLon": 105.9346247,
+      "maxLat": 9.601492882
+    }
+  },
+  "VN54": {
+    "name": "Bắc Giang",
+    "sub_id": "VN54",
+    "sub_num": "54",
+    "bbox": {
+      "minLon": 105.8813319,
+      "minLat": 21.12052917,
+      "maxLon": 107.0358236,
+      "maxLat": 21.62444115
+    }
+  },
+  "VN53": {
+    "name": "Bắc Kạn",
+    "sub_id": "VN53",
+    "sub_num": "53",
+    "bbox": {
+      "minLon": 105.4318222,
+      "minLat": 21.78082466,
+      "maxLon": 106.2491031,
+      "maxLat": 22.41597176
+    }
+  },
+  "VN56": {
+    "name": "Bắc Ninh",
+    "sub_id": "VN56",
+    "sub_num": "56",
+    "bbox": {
+      "minLon": 105.8889282,
+      "minLat": 20.97822189,
+      "maxLon": 106.310964,
+      "maxLat": 21.26369476
+    }
+  },
+  "VN50": {
+    "name": "Bến Tre",
+    "sub_id": "VN50",
+    "sub_num": "50",
+    "bbox": {
+      "minLon": 106.0259038,
+      "minLat": 9.802403927,
+      "maxLon": 106.7917941,
+      "maxLat": 10.34388888
+    }
+  },
+  "VN04": {
+    "name": "Cao Bằng",
+    "sub_id": "VN04",
+    "sub_num": "4",
+    "bbox": {
+      "minLon": 105.2593259,
+      "minLat": 22.27023125,
+      "maxLon": 106.8373201,
+      "maxLat": 23.12210083
+    }
+  },
+  "VN59": {
+    "name": "Cà Mau",
+    "sub_id": "VN59",
+    "sub_num": "59",
+    "bbox": {
+      "minLon": 104.5222223,
+      "minLat": 8.412071466,
+      "maxLon": 105.4181262,
+      "maxLat": 9.528630376
+    }
+  },
+  "VNCT": {
+    "name": "Cần Thơ",
+    "sub_id": "VNCT",
+    "sub_num": "CT",
+    "bbox": {
+      "minLon": 105.2288231,
+      "minLat": 9.835875034,
+      "maxLon": 105.8744184,
+      "maxLat": 10.32443178
+    }
+  },
+  "VN30": {
+    "name": "Gia Lai",
+    "sub_id": "VN30",
+    "sub_num": "30",
+    "bbox": {
+      "minLon": 107.452053,
+      "minLat": 12.9940474,
+      "maxLon": 108.9302441,
+      "maxLat": 14.62683678
+    }
+  },
+  "VN03": {
+    "name": "Hà Giang",
+    "sub_id": "VN03",
+    "sub_num": "3",
+    "bbox": {
+      "minLon": 104.335148,
+      "minLat": 22.17071056,
+      "maxLon": 105.5638193,
+      "maxLat": 23.38221073
+    }
+  },
+  "VN63": {
+    "name": "Hà Nam",
+    "sub_id": "VN63",
+    "sub_num": "63",
+    "bbox": {
+      "minLon": 105.7729158,
+      "minLat": 20.35256958,
+      "maxLon": 106.1818876,
+      "maxLat": 20.70815563
+    }
+  },
+  "VNHN": {
+    "name": "Hà Nội",
+    "sub_id": "VNHN",
+    "sub_num": "HN",
+    "bbox": {
+      "minLon": 105.2909269,
+      "minLat": 20.56267262,
+      "maxLon": 106.0215156,
+      "maxLat": 21.41638756
+    }
+  },
+  "VN23": {
+    "name": "Hà Tĩnh",
+    "sub_id": "VN23",
+    "sub_num": "23",
+    "bbox": {
+      "minLon": 105.1016681,
+      "minLat": 17.90136337,
+      "maxLon": 106.511067,
+      "maxLat": 18.80620682
+    }
+  },
+  "VN14": {
+    "name": "Hòa Bình",
+    "sub_id": "VN14",
+    "sub_num": "14",
+    "bbox": {
+      "minLon": 104.8115323,
+      "minLat": 20.30260563,
+      "maxLon": 105.8543122,
+      "maxLat": 21.11224437
+    }
+  },
+  "VN66": {
+    "name": "Hưng Yên",
+    "sub_id": "VN66",
+    "sub_num": "66",
+    "bbox": {
+      "minLon": 105.8950624,
+      "minLat": 20.59624314,
+      "maxLon": 106.2687142,
+      "maxLat": 21.00826263
+    }
+  },
+  "VN61": {
+    "name": "Hải Dương",
+    "sub_id": "VN61",
+    "sub_num": "61",
+    "bbox": {
+      "minLon": 106.1287585,
+      "minLat": 20.68914413,
+      "maxLon": 106.6109039,
+      "maxLat": 21.23228073
+    }
+  },
+  "VNHP": {
+    "name": "Hải Phòng",
+    "sub_id": "VNHP",
+    "sub_num": "HP",
+    "bbox": {
+      "minLon": 106.4007719,
+      "minLat": 20.12528563,
+      "maxLon": 107.7414039,
+      "maxLat": 21.0203433
+    }
+  },
+  "VN73": {
+    "name": "Hậu Giang",
+    "sub_id": "VN73",
+    "sub_num": "73",
+    "bbox": {
+      "minLon": 105.3290942,
+      "minLat": 9.582180977,
+      "maxLon": 105.8936076,
+      "maxLat": 9.947683335
+    }
+  },
+  "VNSG": {
+    "name": "Hồ Chí Minh",
+    "sub_id": "VNSG",
+    "sub_num": "SG",
+    "bbox": {
+      "minLon": 106.3665409,
+      "minLat": 10.39526951,
+      "maxLon": 106.8780103,
+      "maxLat": 11.16434097
+    }
+  },
+  "VN34": {
+    "name": "Khánh Hòa",
+    "sub_id": "VN34",
+    "sub_num": "34",
+    "bbox": {
+      "minLon": 108.669885,
+      "minLat": 11.78000462,
+      "maxLon": 109.4695256,
+      "maxLat": 12.86739349
+    }
+  },
+  "VN47": {
+    "name": "Kiên Giang",
+    "sub_id": "VN47",
+    "sub_num": "47",
+    "bbox": {
+      "minLon": 103.4584417,
+      "minLat": 9.254059076,
+      "maxLon": 105.552047,
+      "maxLat": 10.54052353
+    }
+  },
+  "VN28": {
+    "name": "Kon Tum",
+    "sub_id": "VN28",
+    "sub_num": "28",
+    "bbox": {
+      "minLon": 107.3317344,
+      "minLat": 13.92225265,
+      "maxLon": 108.569103,
+      "maxLat": 15.2329731
+    }
+  },
+  "VN01": {
+    "name": "Lai Châu",
+    "sub_id": "VN01",
+    "sub_num": "1",
+    "bbox": {
+      "minLon": 102.3739593,
+      "minLat": 21.97952271,
+      "maxLon": 103.7822272,
+      "maxLat": 22.81826019
+    }
+  },
+  "VN41": {
+    "name": "Long An",
+    "sub_id": "VN41",
+    "sub_num": "41",
+    "bbox": {
+      "minLon": 105.4971521,
+      "minLat": 10.40036201,
+      "maxLon": 106.7475988,
+      "maxLat": 11.03250503
+    }
+  },
+  "VN02": {
+    "name": "Lào Cai",
+    "sub_id": "VN02",
+    "sub_num": "2",
+    "bbox": {
+      "minLon": 103.5173199,
+      "minLat": 21.68520927,
+      "maxLon": 104.6166493,
+      "maxLat": 22.87613153
+    }
+  },
+  "VN35": {
+    "name": "Lâm Đồng",
+    "sub_id": "VN35",
+    "sub_num": "35",
+    "bbox": {
+      "minLon": 107.3689257,
+      "minLat": 11.23287678,
+      "maxLon": 108.7288551,
+      "maxLat": 12.41034508
+    }
+  },
+  "VN09": {
+    "name": "Lạng Sơn",
+    "sub_id": "VN09",
+    "sub_num": "9",
+    "bbox": {
+      "minLon": 106.0982133,
+      "minLat": 21.32343292,
+      "maxLon": 107.3651325,
+      "maxLat": 22.46103287
+    }
+  },
+  "VN67": {
+    "name": "Nam Định",
+    "sub_id": "VN67",
+    "sub_num": "67",
+    "bbox": {
+      "minLon": 105.9360631,
+      "minLat": 19.90969622,
+      "maxLon": 106.5872222,
+      "maxLat": 20.48598456
+    }
+  },
+  "VN22": {
+    "name": "Nghệ An",
+    "sub_id": "VN22",
+    "sub_num": "22",
+    "bbox": {
+      "minLon": 103.8747332,
+      "minLat": 18.5561657,
+      "maxLon": 105.8063889,
+      "maxLat": 20.00318527
+    }
+  },
+  "VN18": {
+    "name": "Ninh Bình",
+    "sub_id": "VN18",
+    "sub_num": "18",
+    "bbox": {
+      "minLon": 105.5421463,
+      "minLat": 19.91331637,
+      "maxLon": 106.1670928,
+      "maxLat": 20.47287226
+    }
+  },
+  "VN36": {
+    "name": "Ninh Thuận",
+    "sub_id": "VN36",
+    "sub_num": "36",
+    "bbox": {
+      "minLon": 108.5525956,
+      "minLat": 11.30688894,
+      "maxLon": 109.2327497,
+      "maxLat": 12.16521263
+    }
+  },
+  "VN68": {
+    "name": "Phú Thọ",
+    "sub_id": "VN68",
+    "sub_num": "68",
+    "bbox": {
+      "minLon": 104.8134271,
+      "minLat": 20.9217453,
+      "maxLon": 105.457358,
+      "maxLat": 21.7093277
+    }
+  },
+  "VN32": {
+    "name": "Phú Yên",
+    "sub_id": "VN32",
+    "sub_num": "32",
+    "bbox": {
+      "minLon": 108.6727293,
+      "minLat": 12.75924683,
+      "maxLon": 109.4591861,
+      "maxLat": 13.6947155
+    }
+  },
+  "VN24": {
+    "name": "Quảng Bình",
+    "sub_id": "VN24",
+    "sub_num": "24",
+    "bbox": {
+      "minLon": 105.6099579,
+      "minLat": 16.92443848,
+      "maxLon": 107.0107847,
+      "maxLat": 18.09448242
+    }
+  },
+  "VN27": {
+    "name": "Quảng Nam",
+    "sub_id": "VN27",
+    "sub_num": "27",
+    "bbox": {
+      "minLon": 107.2120738,
+      "minLat": 15.02363205,
+      "maxLon": 108.7730556,
+      "maxLat": 16.07630253
+    }
+  },
+  "VN29": {
+    "name": "Quảng Ngãi",
+    "sub_id": "VN29",
+    "sub_num": "29",
+    "bbox": {
+      "minLon": 108.2271224,
+      "minLat": 14.54739082,
+      "maxLon": 109.1471686,
+      "maxLat": 15.43390131
+    }
+  },
+  "VN13": {
+    "name": "Quảng Ninh",
+    "sub_id": "VN13",
+    "sub_num": "13",
+    "bbox": {
+      "minLon": 106.4392053,
+      "minLat": 20.61192441,
+      "maxLon": 108.0786459,
+      "maxLat": 21.66366577
+    }
+  },
+  "VN25": {
+    "name": "Quảng Trị",
+    "sub_id": "VN25",
+    "sub_num": "25",
+    "bbox": {
+      "minLon": 106.5151024,
+      "minLat": 16.30152226,
+      "maxLon": 107.4143207,
+      "maxLat": 17.16706693
+    }
+  },
+  "VN52": {
+    "name": "Sóc Trăng",
+    "sub_id": "VN52",
+    "sub_num": "52",
+    "bbox": {
+      "minLon": 105.545706,
+      "minLat": 8.605830908,
+      "maxLon": 106.7435657,
+      "maxLat": 9.932370186
+    }
+  },
+  "VN05": {
+    "name": "Sơn La",
+    "sub_id": "VN05",
+    "sub_num": "5",
+    "bbox": {
+      "minLon": 103.2843229,
+      "minLat": 20.57335854,
+      "maxLon": 105.0410004,
+      "maxLat": 22.05093384
+    }
+  },
+  "VN21": {
+    "name": "Thanh Hóa",
+    "sub_id": "VN21",
+    "sub_num": "21",
+    "bbox": {
+      "minLon": 104.3728404,
+      "minLat": 19.2870357,
+      "maxLon": 106.0768985,
+      "maxLat": 20.65343857
+    }
+  },
+  "VN20": {
+    "name": "Thái Bình",
+    "sub_id": "VN20",
+    "sub_num": "20",
+    "bbox": {
+      "minLon": 106.109652,
+      "minLat": 20.25138891,
+      "maxLon": 106.6487863,
+      "maxLat": 20.72871208
+    }
+  },
+  "VN69": {
+    "name": "Thái Nguyên",
+    "sub_id": "VN69",
+    "sub_num": "69",
+    "bbox": {
+      "minLon": 105.4783959,
+      "minLat": 21.32497787,
+      "maxLon": 106.2698653,
+      "maxLat": 22.04807997
+    }
+  },
+  "VN26": {
+    "name": "Thừa Thiên-Huế",
+    "sub_id": "VN26",
+    "sub_num": "26",
+    "bbox": {
+      "minLon": 107.0504527,
+      "minLat": 15.99514961,
+      "maxLon": 108.2113889,
+      "maxLat": 16.72161651
+    }
+  },
+  "VN46": {
+    "name": "Tiền Giang",
+    "sub_id": "VN46",
+    "sub_num": "46",
+    "bbox": {
+      "minLon": 105.7449408,
+      "minLat": 10.20219266,
+      "maxLon": 106.7843317,
+      "maxLat": 10.60850143
+    }
+  },
+  "VN51": {
+    "name": "Trà Vinh",
+    "sub_id": "VN51",
+    "sub_num": "51",
+    "bbox": {
+      "minLon": 105.9857651,
+      "minLat": 9.529052734,
+      "maxLon": 106.5794538,
+      "maxLat": 10.07555175
+    }
+  },
+  "VN07": {
+    "name": "Tuyên Quang",
+    "sub_id": "VN07",
+    "sub_num": "7",
+    "bbox": {
+      "minLon": 104.848148,
+      "minLat": 21.49801254,
+      "maxLon": 105.5972115,
+      "maxLat": 22.66239166
+    }
+  },
+  "VN37": {
+    "name": "Tây Ninh",
+    "sub_id": "VN37",
+    "sub_num": "37",
+    "bbox": {
+      "minLon": 105.8090764,
+      "minLat": 10.97482681,
+      "maxLon": 106.4906321,
+      "maxLat": 11.77974701
+    }
+  },
+  "VN49": {
+    "name": "Vĩnh Long",
+    "sub_id": "VN49",
+    "sub_num": "49",
+    "bbox": {
+      "minLon": 105.6608461,
+      "minLat": 9.856923104,
+      "maxLon": 106.2738061,
+      "maxLat": 10.32826364
+    }
+  },
+  "VN70": {
+    "name": "Vĩnh Phúc",
+    "sub_id": "VN70",
+    "sub_num": "70",
+    "bbox": {
+      "minLon": 105.3230805,
+      "minLat": 21.1510849,
+      "maxLon": 105.7253368,
+      "maxLat": 21.57345772
+    }
+  },
+  "VN06": {
+    "name": "Yên Bái",
+    "sub_id": "VN06",
+    "sub_num": "6",
+    "bbox": {
+      "minLon": 103.90772,
+      "minLat": 21.31364822,
+      "maxLon": 105.1057769,
+      "maxLat": 22.29269743
+    }
+  },
+  "VN39": {
+    "name": "Đồng Nai",
+    "sub_id": "VN39",
+    "sub_num": "39",
+    "bbox": {
+      "minLon": 106.7568384,
+      "minLat": 10.37641394,
+      "maxLon": 107.5709258,
+      "maxLat": 11.58138156
+    }
+  },
+  "VN45": {
+    "name": "Đồng Tháp",
+    "sub_id": "VN45",
+    "sub_num": "45",
+    "bbox": {
+      "minLon": 105.1971982,
+      "minLat": 10.15016556,
+      "maxLon": 105.92068,
+      "maxLat": 10.97336769
+    }
+  },
+  "VN71": {
+    "name": "Điện Biên",
+    "sub_id": "VN71",
+    "sub_num": "71",
+    "bbox": {
+      "minLon": 102.1429924,
+      "minLat": 20.82630157,
+      "maxLon": 103.5878514,
+      "maxLat": 22.5945425
+    }
+  },
+  "VNDN": {
+    "name": "Đà Nẵng",
+    "sub_id": "VNDN",
+    "sub_num": "DN",
+    "bbox": {
+      "minLon": 107.8188982,
+      "minLat": 15.93137741,
+      "maxLon": 108.3383399,
+      "maxLat": 16.21504784
+    }
+  },
+  "VN33": {
+    "name": "Đắk Lắk",
+    "sub_id": "VN33",
+    "sub_num": "33",
+    "bbox": {
+      "minLon": 107.4849635,
+      "minLat": 12.17061996,
+      "maxLon": 109.1148643,
+      "maxLat": 13.54837418
+    }
+  },
+  "VN72": {
+    "name": "Đắk Nông",
+    "sub_id": "VN72",
+    "sub_num": "72",
+    "bbox": {
+      "minLon": 107.209517,
+      "minLat": 11.74870849,
+      "maxLon": 108.1310042,
+      "maxLat": 12.56587029
+    }
+  },
+  "VNSCAY": {
+    "name": "Sand Cay (VN)",
+    "sub_id": "VNSCAY",
+    "sub_num": "",
+    "bbox": {
+      "minLon": 114.4786879,
+      "minLat": 10.3736794,
+      "maxLon": 114.481371,
+      "maxLat": 10.37660837
+    }
+  },
+  "VNSCOWE": {
+    "name": "Sin Cowe Island (VN)",
+    "sub_id": "VNSCOWE",
+    "sub_num": "",
+    "bbox": {
+      "minLon": 114.3280562,
+      "minLat": 9.885131121,
+      "maxLon": 114.3309966,
+      "maxLat": 9.885699749
+    }
+  },
+  "SWCAY": {
+    "name": "Southwest Cay (VN)",
+    "sub_id": "SWCAY",
+    "sub_num": "",
+    "bbox": {
+      "minLon": 114.3294232,
+      "minLat": 11.42783093,
+      "maxLon": 114.3339175,
+      "maxLat": 11.43205607
+    }
+  },
+  "SPRAT": {
+    "name": "Spratly Island (VN)",
+    "sub_id": "SPRAT",
+    "sub_num": "",
+    "bbox": {
+      "minLon": 111.9178237,
+      "minLat": 8.64181304,
+      "maxLon": 111.9221542,
+      "maxLat": 8.647109032
+    }
+  }
+}

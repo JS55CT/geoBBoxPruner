@@ -1,0 +1,168 @@
+{
+    "TTARI": {
+      "name": "Arima",
+      "sub_id": "TTARI",
+      "sub_num": "ARI",
+      "bbox": {
+        "minLon": -61.29302835,
+        "minLat": 10.61372638,
+        "maxLon": -61.25441849,
+        "maxLat": 10.65563321
+      }
+    },
+    "TTCHA": {
+      "name": "Chaguanas",
+      "sub_id": "TTCHA",
+      "sub_num": "CHA",
+      "bbox": {
+        "minLon": -61.46869278,
+        "minLat": 10.49376726,
+        "maxLon": -61.35794723,
+        "maxLat": 10.5712167
+      }
+    },
+    "TTCTT": {
+      "name": "Couva-Tabaquite-Talparo",
+      "sub_id": "TTCTT",
+      "sub_num": "CTT",
+      "bbox": {
+        "minLon": -61.49971747,
+        "minLat": 10.30500078,
+        "maxLon": -61.19876099,
+        "maxLat": 10.59290278
+      }
+    },
+    "TTDMN": {
+      "name": "Diego Martin",
+      "sub_id": "TTDMN",
+      "sub_num": "DMN",
+      "bbox": {
+        "minLon": -61.76505065,
+        "minLat": 10.65718031,
+        "maxLon": -61.49060821,
+        "maxLat": 10.77129197
+      }
+    },
+    "TTMRC": {
+      "name": "Mayaro-Rio Claro",
+      "sub_id": "TTMRC",
+      "sub_num": "MRC",
+      "bbox": {
+        "minLon": -61.23981667,
+        "minLat": 10.07484555,
+        "maxLon": -60.96689034,
+        "maxLat": 10.44064724
+      }
+    },
+    "TTPED": {
+      "name": "Penal-Debe",
+      "sub_id": "TTPED",
+      "sub_num": "PED",
+      "bbox": {
+        "minLon": -61.51499569,
+        "minLat": 10.06704438,
+        "maxLon": -61.37413061,
+        "maxLat": 10.26885366
+      }
+    },
+    "TTPTF": {
+      "name": "Point Fortin",
+      "sub_id": "TTPTF",
+      "sub_num": "PTF",
+      "bbox": {
+        "minLon": -61.71210456,
+        "minLat": 10.13677597,
+        "maxLon": -61.65193379,
+        "maxLat": 10.21249676
+      }
+    },
+    "TTPOS": {
+      "name": "Port of Spain",
+      "sub_id": "TTPOS",
+      "sub_num": "POS",
+      "bbox": {
+        "minLon": -61.54960561,
+        "minLat": 10.64668012,
+        "maxLon": -61.50675595,
+        "maxLat": 10.68128586
+      }
+    },
+    "TTPRT": {
+      "name": "Princes Town",
+      "sub_id": "TTPRT",
+      "sub_num": "PRT",
+      "bbox": {
+        "minLon": -61.46755016,
+        "minLat": 10.07068312,
+        "maxLon": -61.17956388,
+        "maxLat": 10.3407526
+      }
+    },
+    "TTSFO": {
+      "name": "San Fernando",
+      "sub_id": "TTSFO",
+      "sub_num": "SFO",
+      "bbox": {
+        "minLon": -61.47523534,
+        "minLat": 10.26002884,
+        "maxLon": -61.43288875,
+        "maxLat": 10.29443085
+      }
+    },
+    "TTSJL": {
+      "name": "San Juan-Laventille",
+      "sub_id": "TTSJL",
+      "sub_num": "SJL",
+      "bbox": {
+        "minLon": -61.52163529,
+        "minLat": 10.54808247,
+        "maxLon": -61.33256424,
+        "maxLat": 10.81299758
+      }
+    },
+    "TTSGE": {
+      "name": "Sangre Grande",
+      "sub_id": "TTSGE",
+      "sub_num": "SGE",
+      "bbox": {
+        "minLon": -61.24518335,
+        "minLat": 10.41034996,
+        "maxLon": -60.90891349,
+        "maxLat": 10.84425747
+      }
+    },
+    "TTSIP": {
+      "name": "Siparia",
+      "sub_id": "TTSIP",
+      "sub_num": "SIP",
+      "bbox": {
+        "minLon": -61.92995822,
+        "minLat": 10.04304409,
+        "maxLon": -61.46888483,
+        "maxLat": 10.25104678
+      }
+    },
+    "TTTOB": {
+      "name": "Tobago",
+      "sub_id": "TTTOB",
+      "sub_num": "TOB",
+      "bbox": {
+        "minLon": -60.84587455,
+        "minLat": 11.13372922,
+        "maxLon": -60.49210238,
+        "maxLat": 11.35944355
+      }
+    },
+    "TTTUP": {
+      "name": "Tunapuna-Piarco",
+      "sub_id": "TTTUP",
+      "sub_num": "TUP",
+      "bbox": {
+        "minLon": -61.43980718,
+        "minLat": 10.56139815,
+        "maxLon": -61.1552943,
+        "maxLat": 10.80994237
+      }
+    }
+  }
+  

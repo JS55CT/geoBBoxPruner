@@ -90,7 +90,7 @@
     "id": "AUT",
     "ISO_ALPHA2": "AT",
     "ISO_ALPHA3": "AUT",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 9.533573262, "minLat": 46.40749113, "maxLon": 17.16638225, "maxLat": 49.018745 }]
   },
   "AZE": {
@@ -98,7 +98,7 @@
     "id": "AZE",
     "ISO_ALPHA2": "AZ",
     "ISO_ALPHA3": "AZE",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 44.77886333, "minLat": 38.26280904, "maxLon": 51.67700923, "maxLat": 42.71075398 }]
   },
   "BHS": {
@@ -106,7 +106,7 @@
     "id": "BHS",
     "ISO_ALPHA2": "BS",
     "ISO_ALPHA3": "BHS",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -78.97889989, "minLat": 20.91527316, "maxLon": -72.73889097, "maxLat": 26.92916415 }]
   },
   "BHR": {
@@ -114,7 +114,7 @@
     "id": "BHR",
     "ISO_ALPHA2": "BH",
     "ISO_ALPHA3": "BHR",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 50.45332714, "minLat": 25.57194509, "maxLon": 50.79639123, "maxLat": 26.28889118 }]
   },
   "BGD": {
@@ -122,7 +122,7 @@
     "id": "BGD",
     "ISO_ALPHA2": "BD",
     "ISO_ALPHA3": "BGD",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 88.04387238, "minLat": 20.7448181, "maxLon": 92.66934519, "maxLat": 26.62613605 }]
   },
   "BRB": {
@@ -130,7 +130,7 @@
     "id": "BRB",
     "ISO_ALPHA2": "BB",
     "ISO_ALPHA3": "BRB",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -59.65944601, "minLat": 13.050554, "maxLon": -59.42708188, "maxLat": 13.33708216 }]
   },
   "BLR": {
@@ -138,7 +138,7 @@
     "id": "BLR",
     "ISO_ALPHA2": "BY",
     "ISO_ALPHA3": "BLR",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 23.16540022, "minLat": 51.25184511, "maxLon": 32.74005412, "maxLat": 56.1674912 }]
   },
   "BEL": {
@@ -146,7 +146,7 @@
     "id": "BEL",
     "ISO_ALPHA2": "BE",
     "ISO_ALPHA3": "BEL",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 2.541663199, "minLat": 49.50888215, "maxLon": 6.398200162, "maxLat": 51.50124512 }]
   },
   "BLZ": {
@@ -154,7 +154,7 @@
     "id": "BLZ",
     "ISO_ALPHA2": "BZ",
     "ISO_ALPHA3": "BLZ",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -89.21639988, "minLat": 15.88985398, "maxLon": -87.77959097, "maxLat": 18.48990006 }]
   },
   "BEN": {
@@ -162,7 +162,7 @@
     "id": "BEN",
     "ISO_ALPHA2": "BJ",
     "ISO_ALPHA3": "BEN",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 0.776663211, "minLat": 6.218718008, "maxLon": 3.855000142, "maxLat": 12.39665408 }]
   },
   "BTN": {
@@ -170,15 +170,15 @@
     "id": "BTN",
     "ISO_ALPHA2": "BT",
     "ISO_ALPHA3": "BTN",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 88.75193616, "minLat": 26.70360914, "maxLon": 92.11421828, "maxLat": 28.32500014 }]
   },
   "BOL": {
-    "name": "Bolivia,  Plurinational State of",
+    "name": "Bolivia",
     "id": "BOL",
     "ISO_ALPHA2": "BO",
     "ISO_ALPHA3": "BOL",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -69.65619092, "minLat": -22.90110888, "maxLon": -57.5211179, "maxLat": -9.679191018 }]
   },
   "BIH": {
@@ -186,7 +186,7 @@
     "id": "BIH",
     "ISO_ALPHA2": "BA",
     "ISO_ALPHA3": "BIH",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 15.74059118, "minLat": 42.56582702, "maxLon": 19.61978225, "maxLat": 45.26594499 }]
   },
   "BWA": {
@@ -194,7 +194,7 @@
     "id": "BWA",
     "ISO_ALPHA2": "BW",
     "ISO_ALPHA3": "BWA",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 19.99610925, "minLat": -26.87555509, "maxLon": 29.3736181, "maxLat": -17.78208195 }]
   },
   "BRA": {
@@ -202,7 +202,7 @@
     "id": "BRA",
     "ISO_ALPHA2": "BR",
     "ISO_ALPHA3": "BRA",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -74.00459087, "minLat": -33.74111785, "maxLon": -34.79291783, "maxLat": 5.272709088 }]
   },
   "BRN": {
@@ -210,7 +210,7 @@
     "id": "BRN",
     "ISO_ALPHA2": "BN",
     "ISO_ALPHA3": "BRN",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 114.0950823, "minLat": 4.018191145, "maxLon": 115.3602634, "maxLat": 5.053053939 }]
   },
   "BGR": {
@@ -218,7 +218,7 @@
     "id": "BGR",
     "ISO_ALPHA2": "BG",
     "ISO_ALPHA3": "BGR",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 22.3652733, "minLat": 41.24304501, "maxLon": 28.60513621, "maxLat": 44.22471815 }]
   },
   "BFA": {
@@ -226,7 +226,7 @@
     "id": "BFA",
     "ISO_ALPHA2": "BF",
     "ISO_ALPHA3": "BFA",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -5.520836682, "minLat": 9.395691164, "maxLon": 2.397927138, "maxLat": 15.08277309 }]
   },
   "BDI": {
@@ -234,7 +234,7 @@
     "id": "BDI",
     "ISO_ALPHA2": "BI",
     "ISO_ALPHA3": "BDI",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 28.98500021, "minLat": -4.448054955, "maxLon": 30.85319115, "maxLat": -2.301564043 }]
   },
   "CIV": {
@@ -242,7 +242,7 @@
     "id": "CIV",
     "ISO_ALPHA2": "CI",
     "ISO_ALPHA3": "CIV",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -8.606381882, "minLat": 4.344718075, "maxLon": -2.48778181, "maxLat": 10.73525408 }]
   },
   "CPV": {
@@ -250,7 +250,7 @@
     "id": "CPV",
     "ISO_ALPHA2": "CV",
     "ISO_ALPHA3": "CPV",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -25.36055496, "minLat": 14.81110907, "maxLon": -22.66610886, "maxLat": 17.19236418 }]
   },
   "KHM": {
@@ -258,7 +258,7 @@
     "id": "KHM",
     "ISO_ALPHA2": "KH",
     "ISO_ALPHA3": "KHM",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 102.3465093, "minLat": 10.42273599, "maxLon": 107.6363823, "maxLat": 14.70861801 }]
   },
   "CMR": {
@@ -266,7 +266,7 @@
     "id": "CMR",
     "ISO_ALPHA2": "CM",
     "ISO_ALPHA3": "CMR",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 8.502363302, "minLat": 1.654164196, "maxLon": 16.20700017, "maxLat": 13.08500011 }]
   },
   "CAN": {
@@ -282,7 +282,7 @@
     "id": "CAF",
     "ISO_ALPHA2": "CF",
     "ISO_ALPHA3": "CAF",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 14.41889128, "minLat": 2.221264153, "maxLon": 27.45971813, "maxLat": 11.00083602 }]
   },
   "TCD": {
@@ -290,7 +290,7 @@
     "id": "TCD",
     "ISO_ALPHA2": "TD",
     "ISO_ALPHA3": "TCD",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 13.46194515, "minLat": 7.458536104, "maxLon": 24.00274515, "maxLat": 23.45055395 }]
   },
   "CHL": {
@@ -298,7 +298,7 @@
     "id": "CHL",
     "ISO_ALPHA2": "CL",
     "ISO_ALPHA3": "CHL",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -109.4461088, "minLat": -55.90222685, "maxLon": -66.42062692, "maxLat": -17.505282 }]
   },
   "CHN": {
@@ -306,7 +306,7 @@
     "id": "CHN",
     "ISO_ALPHA2": "CN",
     "ISO_ALPHA3": "CHN",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 73.62004508, "minLat": 18.16888206, "maxLon": 134.7684634, "maxLat": 53.55374506 }]
   },
   "COL": {
@@ -314,7 +314,7 @@
     "id": "COL",
     "ISO_ALPHA2": "CO",
     "ISO_ALPHA3": "COL",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -81.72014601, "minLat": -4.236872904, "maxLon": -66.870455, "maxLat": 12.59027319 }]
   },
   "COM": {
@@ -322,7 +322,7 @@
     "id": "COM",
     "ISO_ALPHA2": "KM",
     "ISO_ALPHA3": "COM",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 43.21402721, "minLat": -12.38305502, "maxLon": 44.53041819, "maxLat": -11.36694607 }]
   },
   "COG": {
@@ -330,15 +330,15 @@
     "id": "COG",
     "ISO_ALPHA2": "CG",
     "ISO_ALPHA3": "COG",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 11.14066322, "minLat": -5.014999847, "maxLon": 18.64360921, "maxLat": 3.711109057 }]
   },
   "COD": {
-    "name": "Congo, The Democratic Republic of the",
+    "name": "Congo DRC",
     "id": "COD",
     "ISO_ALPHA2": "CD",
     "ISO_ALPHA3": "COD",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 12.21455417, "minLat": -13.45805506, "maxLon": 31.3027733, "maxLat": 5.380691135 }]
   },
   "CRI": {
@@ -346,7 +346,7 @@
     "id": "CRI",
     "ISO_ALPHA2": "CR",
     "ISO_ALPHA3": "CRI",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -85.91139098, "minLat": 8.025673109, "maxLon": -82.56139992, "maxLat": 11.21284503 }]
   },
   "HRV": {
@@ -354,7 +354,7 @@
     "id": "HRV",
     "ISO_ALPHA2": "HR",
     "ISO_ALPHA3": "HRV",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 13.50479126, "minLat": 42.39999106, "maxLon": 19.42500023, "maxLat": 46.53582712 }]
   },
   "CUB": {
@@ -362,7 +362,7 @@
     "id": "CUB",
     "ISO_ALPHA2": "CU",
     "ISO_ALPHA3": "CUB",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -84.95292688, "minLat": 19.82194508, "maxLon": -74.13125501, "maxLat": 23.19402698 }]
   },
   "CYP": {
@@ -370,7 +370,7 @@
     "id": "CYP",
     "ISO_ALPHA2": "CY",
     "ISO_ALPHA3": "CYP",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 32.26986321, "minLat": 34.64027319, "maxLon": 34.5860362, "maxLat": 35.68860905 }]
   },
   "CZE": {
@@ -378,7 +378,7 @@
     "id": "CZE",
     "ISO_ALPHA2": "CZ",
     "ISO_ALPHA3": "CZE",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 12.0937002, "minLat": 48.58138215, "maxLon": 18.85221818, "maxLat": 51.0524911 }]
   },
   "DNK": {
@@ -386,31 +386,19 @@
     "id": "DNK",
     "ISO_ALPHA2": "DK",
     "ISO_ALPHA3": "DNK",
-    "Sub_level": 0,
-    "bbox": [{ "minLon": 8.092918227, "minLat": 54.56193613, "maxLon": 15.14916325, "maxLat": 57.74597322 }]
-  },
-  "FRO": {
-    "name": "Faroe Islands",
-    "id": "FRO",
-    "ISO_ALPHA2": "FO",
-    "ISO_ALPHA3": "FRO",
-    "Sub_level": 0,
-    "bbox": [{ "minLon": -7.433472831, "minLat": 61.38832708, "maxLon": -6.389717844, "maxLat": 62.35750006 }]
-  },
-  "GRL": {
-    "name": "Greenland",
-    "id": "GRL",
-    "ISO_ALPHA2": "GL",
-    "ISO_ALPHA3": "GRL",
-    "Sub_level": 0,
-    "bbox": [{ "minLon": -73.0536088, "minLat": 59.79027315, "maxLon": -12.15763669, "maxLat": 83.62360016 }]
+    "Sub_level": 1,
+    "bbox": [
+      { "minLon": 8.092918227, "minLat": 54.56193613, "maxLon": 15.14916325, "maxLat": 57.74597322 },
+      { "minLon": -7.433472831, "minLat": 61.38832708, "maxLon": -6.389717844, "maxLat": 62.35750006 },
+      { "minLon": -73.0536088, "minLat": 59.79027315, "maxLon": -12.15763669, "maxLat": 83.62360016 }
+    ]
   },
   "DJI": {
     "name": "Djibouti",
     "id": "DJI",
     "ISO_ALPHA2": "DJ",
     "ISO_ALPHA3": "DJI",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 41.75985418, "minLat": 10.94221802, "maxLon": 43.42040912, "maxLat": 12.7083271 }]
   },
   "DMA": {
@@ -418,7 +406,7 @@
     "id": "DMA",
     "ISO_ALPHA2": "DM",
     "ISO_ALPHA3": "DMA",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -61.49139092, "minLat": 15.19805393, "maxLon": -61.25069987, "maxLat": 15.63194499 }]
   },
   "DOM": {
@@ -426,7 +414,7 @@
     "id": "DOM",
     "ISO_ALPHA2": "DO",
     "ISO_ALPHA3": "DOM",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -72.00306397, "minLat": 17.60416424, "maxLon": -68.32292684, "maxLat": 19.93082701 }]
   },
   "ECU": {
@@ -434,7 +422,7 @@
     "id": "ECU",
     "ISO_ALPHA2": "EC",
     "ISO_ALPHA3": "ECU",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -91.66389098, "minLat": -5.000308885, "maxLon": -75.21684592, "maxLat": 1.43778218 }]
   },
   "EGY": {
@@ -442,7 +430,7 @@
     "id": "EGY",
     "ISO_ALPHA2": "EG",
     "ISO_ALPHA3": "EGY",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 24.7068002, "minLat": 21.99416424, "maxLon": 36.8958272, "maxLat": 31.64694502 }]
   },
   "SLV": {
@@ -450,7 +438,7 @@
     "id": "SLV",
     "ISO_ALPHA2": "SV",
     "ISO_ALPHA3": "SLV",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -90.1080639, "minLat": 13.15639112, "maxLon": -87.6946729, "maxLat": 14.43198218 }]
   },
   "GNQ": {
@@ -458,7 +446,7 @@
     "id": "GNQ",
     "ISO_ALPHA2": "GQ",
     "ISO_ALPHA3": "GNQ",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 8.42416333, "minLat": 0.930154005, "maxLon": 11.35389113, "maxLat": 3.763336025 }]
   },
   "ERI": {
@@ -466,7 +454,7 @@
     "id": "ERI",
     "ISO_ALPHA2": "ER",
     "ISO_ALPHA3": "ERI",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 36.44328221, "minLat": 12.36389106, "maxLon": 43.1213822, "maxLat": 17.99488213 }]
   },
   "EST": {
@@ -482,7 +470,7 @@
     "id": "SWZ",
     "ISO_ALPHA2": "SZ",
     "ISO_ALPHA3": "SWZ",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 30.79833612, "minLat": -27.31639089, "maxLon": 32.13340013, "maxLat": -25.7283359 }]
   },
   "ETH": {
@@ -490,7 +478,7 @@
     "id": "ETH",
     "ISO_ALPHA2": "ET",
     "ISO_ALPHA3": "ETH",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 32.99180022, "minLat": 3.406664084, "maxLon": 47.98824511, "maxLat": 14.88360901 }]
   },
   "FJI": {
@@ -498,7 +486,7 @@
     "id": "FJI",
     "ISO_ALPHA2": "FJ",
     "ISO_ALPHA3": "FJI",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -179.9999885, "minLat": -19.1627819, "maxLon": 179.9999885, "maxLat": -16.15347296 }]
   },
   "FIN": {
@@ -506,7 +494,7 @@
     "id": "FIN",
     "ISO_ALPHA2": "FI",
     "ISO_ALPHA3": "FIN",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 19.51139117, "minLat": 59.80680008, "maxLon": 31.58196326, "maxLat": 70.08860916 }]
   },
   "FRA": {
@@ -515,14 +503,29 @@
     "ISO_ALPHA2": "FR",
     "ISO_ALPHA3": "FRA",
     "Sub_level": 2,
-    "bbox": [{ "minLon": -5.143751144, "minLat": 41.333751678, "maxLon": 9.560416221, "maxLat": 51.089397430 }]
+    "bbox": [
+      { "minLon": -4.790281902, "minLat": 41.36492711, "maxLon": 9.562218081, "maxLat": 51.09110904 },
+      { "minLon": -54.60378191, "minLat": 2.113473213, "maxLon": -51.64805495, "maxLat": 5.755418032 },
+      { "minLon": -151.497773, "minLat": -17.87083591, "maxLon": -138.8097551, "maxLat": -8.778190907 },
+      { "minLon": 51.65083624, "minLat": -49.72500894, "maxLon": 70.56749122, "maxLat": -46.32764487 },
+      { "minLon": 47.27909118, "minLat": -11.57778195, "maxLon": 47.3030542, "maxLat": -11.55409989 },
+      { "minLon": -61.79610881, "minLat": 15.8700001, "maxLon": -61.1870819, "maxLat": 16.51291806 },
+      { "minLon": -61.23153583, "minLat": 14.40277309, "maxLon": -60.81694594, "maxLat": 14.88013605 },
+      { "minLon": 45.03916333, "minLat": -12.99249985, "maxLon": 45.29334505, "maxLat": -12.66249997 },
+      { "minLon": 163.9827452, "minLat": -22.67389091, "maxLon": 168.1305093, "maxLat": -20.08791787 },
+      { "minLon": 55.22055419, "minLat": -21.37389092, "maxLon": 55.85305412, "maxLat": -20.85652683 },
+      { "minLon": -62.87622141, "minLat": 17.87700397, "maxLon": -62.78864461, "maxLat": 17.92968742 },
+      { "minLon": -63.15280394, "minLat": 18.0469323, "maxLon": -63.00961236, "maxLat": 18.12464562 },
+      { "minLon": -56.39778194, "minLat": 46.74719106, "maxLon": -56.14549989, "maxLat": 47.13582706 },
+      { "minLon": -178.190273, "minLat": -14.32389091, "maxLon": -176.121936, "maxLat": -13.21486403 }
+    ]
   },
   "GAB": {
     "name": "Gabon",
     "id": "GAB",
     "ISO_ALPHA2": "GA",
     "ISO_ALPHA3": "GAB",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 8.700836041, "minLat": -3.925282023, "maxLon": 14.51958224, "maxLat": 2.31790012 }]
   },
   "GMB": {
@@ -530,7 +533,7 @@
     "id": "GMB",
     "ISO_ALPHA2": "GM",
     "ISO_ALPHA3": "GMB",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -16.82166391, "minLat": 13.05997308, "maxLon": -13.79860882, "maxLat": 13.82639118 }]
   },
   "GEO": {
@@ -538,7 +541,7 @@
     "id": "GEO",
     "ISO_ALPHA2": "GE",
     "ISO_ALPHA3": "GEO",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 40.00296335, "minLat": 41.04804506, "maxLon": 46.71081825, "maxLat": 43.5847181 }]
   },
   "DEU": {
@@ -546,7 +549,7 @@
     "id": "DEU",
     "ISO_ALPHA2": "DE",
     "ISO_ALPHA3": "DEU",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 5.865000142, "minLat": 47.27471804, "maxLon": 15.03381821, "maxLat": 55.0565271 }]
   },
   "GHA": {
@@ -554,7 +557,7 @@
     "id": "GHA",
     "ISO_ALPHA2": "GH",
     "ISO_ALPHA3": "GHA",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -3.248890807, "minLat": 4.727082058, "maxLon": 1.202782238, "maxLat": 11.15569118 }]
   },
   "GRC": {
@@ -562,7 +565,7 @@
     "id": "GRC",
     "ISO_ALPHA2": "GR",
     "ISO_ALPHA3": "GRC",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 19.64000024, "minLat": 34.93054503, "maxLon": 28.23804506, "maxLat": 41.74777322 }]
   },
   "GRD": {
@@ -570,7 +573,7 @@
     "id": "GRD",
     "ISO_ALPHA2": "GD",
     "ISO_ALPHA3": "GRD",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -61.78518199, "minLat": 11.99694508, "maxLon": -61.59639085, "maxLat": 12.237154 }]
   },
   "GTM": {
@@ -578,7 +581,7 @@
     "id": "GTM",
     "ISO_ALPHA2": "GT",
     "ISO_ALPHA3": "GTM",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -92.24678193, "minLat": 13.74583606, "maxLon": -88.2147358, "maxLat": 17.82110901 }]
   },
   "GIN": {
@@ -586,7 +589,7 @@
     "id": "GIN",
     "ISO_ALPHA2": "GN",
     "ISO_ALPHA3": "GIN",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -15.08083683, "minLat": 7.193926964, "maxLon": -7.653372899, "maxLat": 12.67750014 }]
   },
   "GNB": {
@@ -594,7 +597,7 @@
     "id": "GNB",
     "ISO_ALPHA2": "GW",
     "ISO_ALPHA3": "GNB",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -16.7177729, "minLat": 10.92510016, "maxLon": -13.64389078, "maxLat": 12.68471813 }]
   },
   "GUY": {
@@ -602,7 +605,7 @@
     "id": "GUY",
     "ISO_ALPHA2": "GY",
     "ISO_ALPHA3": "GUY",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -61.38972681, "minLat": 1.186873093, "maxLon": -56.47063576, "maxLat": 8.53527321 }]
   },
   "HTI": {
@@ -610,7 +613,7 @@
     "id": "HTI",
     "ISO_ALPHA2": "HT",
     "ISO_ALPHA3": "HTI",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -74.46779094, "minLat": 18.02278213, "maxLon": -71.62918197, "maxLat": 20.09145394 }]
   },
   "VAT": {
@@ -626,7 +629,7 @@
     "id": "HND",
     "ISO_ALPHA2": "HN",
     "ISO_ALPHA3": "HND",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -89.35049089, "minLat": 12.98517315, "maxLon": -83.13185498, "maxLat": 16.43582701 }]
   },
   "HUN": {
@@ -635,14 +638,14 @@
     "ISO_ALPHA2": "HU",
     "ISO_ALPHA3": "HUN",
     "Sub_level": 2,
-    "bbox": [{ "minLon": 16.1138404350, "minLat": 45.7478294370, "maxLon": 22.9055843360, "maxLat": 48.5863761900 }]
+    "bbox": [{ "minLon": 16.113840435, "minLat": 45.747829437, "maxLon": 22.905584336, "maxLat": 48.58637619 }]
   },
   "ISL": {
     "name": "Iceland",
     "id": "ISL",
     "ISO_ALPHA2": "IS",
     "ISO_ALPHA3": "ISL",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -24.53839989, "minLat": 63.39000016, "maxLon": -13.49944595, "maxLat": 66.53610009 }]
   },
   "IND": {
@@ -662,7 +665,7 @@
     "id": "IDN",
     "ISO_ALPHA2": "ID",
     "ISO_ALPHA3": "IDN",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 95.21094511, "minLat": -10.92965497, "maxLon": 141.0070182, "maxLat": 5.913473066 }]
   },
   "IRN": {
@@ -670,7 +673,7 @@
     "id": "IRN",
     "ISO_ALPHA2": "IR",
     "ISO_ALPHA3": "IRN",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 44.03495416, "minLat": 25.07597313, "maxLon": 63.33027319, "maxLat": 39.779154 }]
   },
   "IRQ": {
@@ -678,7 +681,7 @@
     "id": "IRQ",
     "ISO_ALPHA2": "IQ",
     "ISO_ALPHA3": "IRQ",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 38.79470027, "minLat": 29.06166415, "maxLon": 48.56069122, "maxLat": 37.38367312 }]
   },
   "IRL": {
@@ -686,7 +689,7 @@
     "id": "IRL",
     "ISO_ALPHA2": "IE",
     "ISO_ALPHA3": "IRL",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -10.47472671, "minLat": 51.44554503, "maxLon": -6.013054895, "maxLat": 55.37999111 }]
   },
   "ISR": {
@@ -694,7 +697,7 @@
     "id": "ISR",
     "ISO_ALPHA2": "IL",
     "ISO_ALPHA3": "ISR",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 34.26758221, "minLat": 29.48670912, "maxLon": 35.68110922, "maxLat": 33.27027324 }]
   },
   "ITA": {
@@ -702,7 +705,7 @@
     "id": "ITA",
     "ISO_ALPHA2": "IT",
     "ISO_ALPHA3": "ITA",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 6.623963204, "minLat": 36.64916426, "maxLon": 18.51444508, "maxLat": 47.09458223 }]
   },
   "JAM": {
@@ -710,7 +713,7 @@
     "id": "JAM",
     "ISO_ALPHA2": "JM",
     "ISO_ALPHA3": "JAM",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -78.37389999, "minLat": 17.69721811, "maxLon": -76.22111795, "maxLat": 18.52250013 }]
   },
   "JPN": {
@@ -718,7 +721,7 @@
     "id": "JPN",
     "ISO_ALPHA2": "JP",
     "ISO_ALPHA3": "JPN",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 123.6788634, "minLat": 24.25139116, "maxLon": 145.8124092, "maxLat": 45.48638217 }]
   },
   "JOR": {
@@ -726,7 +729,7 @@
     "id": "JOR",
     "ISO_ALPHA2": "JO",
     "ISO_ALPHA3": "JOR",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 34.96041809, "minLat": 29.18889105, "maxLon": 39.30110921, "maxLat": 33.3775911 }]
   },
   "KAZ": {
@@ -734,7 +737,7 @@
     "id": "KAZ",
     "ISO_ALPHA2": "KZ",
     "ISO_ALPHA3": "KAZ",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 46.4991633, "minLat": 40.59443608, "maxLon": 87.34820928, "maxLat": 55.44262706 }]
   },
   "KEN": {
@@ -742,15 +745,15 @@
     "id": "KEN",
     "ISO_ALPHA2": "KE",
     "ISO_ALPHA3": "KEN",
-    "Sub_level": 0,
-    "bbox": [{ "minLon": 33.9102886550, "minLat": -4.6768798830, "maxLon": 41.9060214590, "maxLat": 5.4141235350 }]
+    "Sub_level": 1,
+    "bbox": [{ "minLon": 33.910288655, "minLat": -4.676879883, "maxLon": 41.906021459, "maxLat": 5.414123535 }]
   },
   "KIR": {
     "name": "Kiribati",
     "id": "KIR",
     "ISO_ALPHA2": "KI",
     "ISO_ALPHA3": "KIR",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -157.5817, "minLat": 1.335991174, "maxLon": 172.9475094, "maxLat": 2.033054048 }]
   },
   "PRK": {
@@ -758,7 +761,7 @@
     "id": "PRK",
     "ISO_ALPHA2": "KP",
     "ISO_ALPHA3": "PRK",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 124.3239542, "minLat": 37.67138212, "maxLon": 130.6974182, "maxLat": 43.00610006 }]
   },
   "KOR": {
@@ -766,7 +769,7 @@
     "id": "KOR",
     "ISO_ALPHA2": "KR",
     "ISO_ALPHA3": "KOR",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 126.0990183, "minLat": 33.19220905, "maxLon": 129.5868724, "maxLat": 38.62524505 }]
   },
   "KWT": {
@@ -774,7 +777,7 @@
     "id": "KWT",
     "ISO_ALPHA2": "KW",
     "ISO_ALPHA3": "KWT",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 46.54694517, "minLat": 28.53888217, "maxLon": 48.41659121, "maxLat": 30.08416414 }]
   },
   "KGZ": {
@@ -782,7 +785,7 @@
     "id": "KGZ",
     "ISO_ALPHA2": "KG",
     "ISO_ALPHA3": "KGZ",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 69.24950031, "minLat": 39.19547313, "maxLon": 80.28158226, "maxLat": 43.21690007 }]
   },
   "LAO": {
@@ -790,7 +793,7 @@
     "id": "LAO",
     "ISO_ALPHA2": "LA",
     "ISO_ALPHA3": "LAO",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 100.0913723, "minLat": 13.92666422, "maxLon": 107.6952541, "maxLat": 22.49992711 }]
   },
   "LVA": {
@@ -798,7 +801,7 @@
     "id": "LVA",
     "ISO_ALPHA2": "LV",
     "ISO_ALPHA3": "LVA",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 20.96860918, "minLat": 55.67483612, "maxLon": 28.23596333, "maxLat": 58.08325397 }]
   },
   "LBN": {
@@ -806,7 +809,7 @@
     "id": "LBN",
     "ISO_ALPHA2": "LB",
     "ISO_ALPHA3": "LBN",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 35.10082721, "minLat": 33.06208219, "maxLon": 36.62374509, "maxLat": 34.64750006 }]
   },
   "LSO": {
@@ -814,7 +817,7 @@
     "id": "LSO",
     "ISO_ALPHA2": "LS",
     "ISO_ALPHA3": "LSO",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 27.01397321, "minLat": -30.65052691, "maxLon": 29.45555405, "maxLat": -28.5706909 }]
   },
   "LBR": {
@@ -822,7 +825,7 @@
     "id": "LBR",
     "ISO_ALPHA2": "LR",
     "ISO_ALPHA3": "LBR",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -11.49232681, "minLat": 4.343609149, "maxLon": -7.368399758, "maxLat": 8.512782049 }]
   },
   "LBY": {
@@ -830,7 +833,7 @@
     "id": "LBY",
     "ISO_ALPHA2": "LY",
     "ISO_ALPHA3": "LBY",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 9.311391136, "minLat": 19.49906411, "maxLon": 25.15166335, "maxLat": 33.17113611 }]
   },
   "LIE": {
@@ -838,7 +841,7 @@
     "id": "LIE",
     "ISO_ALPHA2": "LI",
     "ISO_ALPHA3": "LIE",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 9.474636077, "minLat": 47.05745408, "maxLon": 9.633891232, "maxLat": 47.27454504 }]
   },
   "LTU": {
@@ -846,7 +849,7 @@
     "id": "LTU",
     "ISO_ALPHA2": "LT",
     "ISO_ALPHA3": "LTU",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 20.94283616, "minLat": 53.89033614, "maxLon": 26.81305413, "maxLat": 56.44985405 }]
   },
   "LUX": {
@@ -854,7 +857,7 @@
     "id": "LUX",
     "ISO_ALPHA2": "LU",
     "ISO_ALPHA3": "LUX",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 5.734445127, "minLat": 49.44846422, "maxLon": 6.524027114, "maxLat": 50.18180917 }]
   },
   "MDG": {
@@ -862,7 +865,7 @@
     "id": "MDG",
     "ISO_ALPHA2": "MG",
     "ISO_ALPHA3": "MDG",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 43.23682716, "minLat": -25.58833582, "maxLon": 50.50139115, "maxLat": -11.94555505 }]
   },
   "MWI": {
@@ -870,7 +873,7 @@
     "id": "MWI",
     "ISO_ALPHA2": "MW",
     "ISO_ALPHA3": "MWI",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 32.68187331, "minLat": -17.135282, "maxLon": 35.92096325, "maxLat": -9.376673045 }]
   },
   "MYS": {
@@ -878,7 +881,7 @@
     "id": "MYS",
     "ISO_ALPHA2": "MY",
     "ISO_ALPHA3": "MYS",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 99.64193614, "minLat": 0.852782166, "maxLon": 119.2758182, "maxLat": 7.352918089 }]
   },
   "MDV": {
@@ -886,7 +889,7 @@
     "id": "MDV",
     "ISO_ALPHA2": "MV",
     "ISO_ALPHA3": "MDV",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 72.86339123, "minLat": -0.641663901, "maxLon": 73.63727224, "maxLat": 7.027773168 }]
   },
   "MLI": {
@@ -894,7 +897,7 @@
     "id": "MLI",
     "ISO_ALPHA2": "ML",
     "ISO_ALPHA3": "MLI",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -12.24483681, "minLat": 10.14215396, "maxLon": 4.25139124, "maxLat": 25.00027314 }]
   },
   "MLT": {
@@ -902,7 +905,7 @@
     "id": "MLT",
     "ISO_ALPHA2": "MT",
     "ISO_ALPHA3": "MLT",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 14.32910014, "minLat": 35.80000019, "maxLon": 14.57000023, "maxLat": 35.99193605 }]
   },
   "MHL": {
@@ -910,7 +913,7 @@
     "id": "MHL",
     "ISO_ALPHA2": "MH",
     "ISO_ALPHA3": "MHL",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 162.3249634, "minLat": 5.600273194, "maxLon": 171.3780634, "maxLat": 14.594027 }]
   },
   "MRT": {
@@ -918,7 +921,7 @@
     "id": "MRT",
     "ISO_ALPHA2": "MR",
     "ISO_ALPHA3": "MRT",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -17.07555494, "minLat": 14.72563595, "maxLon": -4.806108779, "maxLat": 27.29045401 }]
   },
   "MUS": {
@@ -926,7 +929,7 @@
     "id": "MUS",
     "ISO_ALPHA2": "MU",
     "ISO_ALPHA3": "MUS",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 57.30630917, "minLat": -20.520555, "maxLon": 63.49575409, "maxLat": -19.67333586 }]
   },
   "MEX": {
@@ -934,7 +937,7 @@
     "id": "MEX",
     "ISO_ALPHA2": "MX",
     "ISO_ALPHA3": "MEX",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -118.4041639, "minLat": 14.55054503, "maxLon": -86.73861794, "maxLat": 32.71845399 }]
   },
   "FSM": {
@@ -942,7 +945,7 @@
     "id": "FSM",
     "ISO_ALPHA2": "FM",
     "ISO_ALPHA3": "FSM",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 158.1201003, "minLat": 5.261664086, "maxLon": 163.0428913, "maxLat": 6.977635975 }]
   },
   "MDA": {
@@ -950,7 +953,7 @@
     "id": "MDA",
     "ISO_ALPHA2": "MD",
     "ISO_ALPHA3": "MDA",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 26.63499115, "minLat": 45.44864499, "maxLon": 30.12870922, "maxLat": 48.46831816 }]
   },
   "MCO": {
@@ -974,7 +977,7 @@
     "id": "MNE",
     "ISO_ALPHA2": "ME",
     "ISO_ALPHA3": "MNE",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 18.4533271, "minLat": 41.84900012, "maxLon": 20.37902711, "maxLat": 43.5559732 }]
   },
   "MAR": {
@@ -982,7 +985,7 @@
     "id": "MAR",
     "ISO_ALPHA2": "MA",
     "ISO_ALPHA3": "MAR",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -17.10152677, "minLat": 20.76410017, "maxLon": -1.011808788, "maxLat": 35.9191642 }]
   },
   "MOZ": {
@@ -990,7 +993,7 @@
     "id": "MOZ",
     "ISO_ALPHA2": "MZ",
     "ISO_ALPHA3": "MOZ",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 30.21301809, "minLat": -26.86028192, "maxLon": 40.84610922, "maxLat": -10.47110887 }]
   },
   "MMR": {
@@ -998,7 +1001,7 @@
     "id": "MMR",
     "ISO_ALPHA2": "MM",
     "ISO_ALPHA3": "MMR",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 92.20499127, "minLat": 9.839582173, "maxLon": 101.1694272, "maxLat": 28.54652714 }]
   },
   "NAM": {
@@ -1006,7 +1009,7 @@
     "id": "NAM",
     "ISO_ALPHA2": "NA",
     "ISO_ALPHA3": "NAM",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 11.71639118, "minLat": -28.96187299, "maxLon": 25.2644271, "maxLat": -16.95417304 }]
   },
   "NRU": {
@@ -1014,7 +1017,7 @@
     "id": "NRU",
     "ISO_ALPHA2": "NR",
     "ISO_ALPHA3": "NRU",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 166.9044184, "minLat": -0.55221793, "maxLon": 166.9570453, "maxLat": -0.493335898 }]
   },
   "NPL": {
@@ -1022,7 +1025,7 @@
     "id": "NPL",
     "ISO_ALPHA2": "NP",
     "ISO_ALPHA3": "NPL",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 80.05220025, "minLat": 26.3683642, "maxLon": 88.19455419, "maxLat": 30.42471802 }]
   },
   "NLD": {
@@ -1030,7 +1033,7 @@
     "id": "NLD",
     "ISO_ALPHA2": "NL",
     "ISO_ALPHA3": "NLD",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [
       { "minLon": 3.370863257, "minLat": 50.75388211, "maxLon": 7.210973199, "maxLat": 53.46582711 },
       { "minLon": -70.05966389, "minLat": 12.411109, "maxLon": -69.87486388, "maxLat": 12.62777315 },
@@ -1046,7 +1049,7 @@
     "id": "NZL",
     "ISO_ALPHA2": "NZ",
     "ISO_ALPHA3": "NZL",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [
       { "minLon": -176.8487551, "minLat": -52.57805507, "maxLon": 178.8410634, "maxLat": -34.41471793 },
       { "minLon": -165.8483448, "minLat": -21.94083581, "maxLon": -157.703764, "maxLat": -10.88131788 },
@@ -1059,7 +1062,7 @@
     "id": "NIC",
     "ISO_ALPHA2": "NI",
     "ISO_ALPHA3": "NIC",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -87.68982682, "minLat": 10.70969112, "maxLon": -83.13185498, "maxLat": 15.02221803 }]
   },
   "NER": {
@@ -1067,7 +1070,7 @@
     "id": "NER",
     "ISO_ALPHA2": "NE",
     "ISO_ALPHA3": "NER",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 0.166663333, "minLat": 11.69327309, "maxLon": 15.99666318, "maxLat": 23.52230908 }]
   },
   "NGA": {
@@ -1075,7 +1078,7 @@
     "id": "NGA",
     "ISO_ALPHA2": "NG",
     "ISO_ALPHA3": "NGA",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 2.692500241, "minLat": 4.272844931, "maxLon": 14.64965413, "maxLat": 13.89150013 }]
   },
   "MKD": {
@@ -1083,7 +1086,7 @@
     "id": "MKD",
     "ISO_ALPHA2": "MK",
     "ISO_ALPHA3": "MKD",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 20.45881814, "minLat": 40.85589111, "maxLon": 23.03097327, "maxLat": 42.3589541 }]
   },
   "NOR": {
@@ -1091,11 +1094,11 @@
     "id": "NOR",
     "ISO_ALPHA2": "NO",
     "ISO_ALPHA3": "NOR",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [
       { "minLon": 4.789582181, "minLat": 57.98791803, "maxLon": 31.07353613, "maxLat": 71.15470913 },
       { "minLon": 3.342363277, "minLat": -54.46278199, "maxLon": 3.484163286, "maxLat": -54.38360888 },
-      { "minLon": -9.119908905, "minLat": 70.80386328, "maxLon": 33.63750013, "maxLat": 80.76416317 } 
+      { "minLon": -9.119908905, "minLat": 70.80386328, "maxLon": 33.63750013, "maxLat": 80.76416317 }
     ]
   },
   "OMN": {
@@ -1103,7 +1106,7 @@
     "id": "OMN",
     "ISO_ALPHA2": "OM",
     "ISO_ALPHA3": "OMN",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 51.99929123, "minLat": 16.64278207, "maxLon": 59.84708229, "maxLat": 26.36870903 }]
   },
   "PAK": {
@@ -1111,7 +1114,7 @@
     "id": "PAK",
     "ISO_ALPHA2": "PK",
     "ISO_ALPHA3": "PAK",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 60.86630026, "minLat": 23.68804496, "maxLon": 77.82392727, "maxLat": 37.06079115 }]
   },
   "PLW": {
@@ -1119,11 +1122,11 @@
     "id": "PLW",
     "ISO_ALPHA2": "PW",
     "ISO_ALPHA3": "PLW",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 134.4524824, "minLat": 7.305254061, "maxLon": 134.6588723, "maxLat": 7.729445083 }]
   },
   "PSE": {
-    "name": "Palestine, State of",
+    "name": "Palestinian Territory",
     "id": "PSE",
     "ISO_ALPHA2": "PS",
     "ISO_ALPHA3": "PSE",
@@ -1135,7 +1138,7 @@
     "id": "PAN",
     "ISO_ALPHA2": "PA",
     "ISO_ALPHA3": "PAN",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -83.03029096, "minLat": 7.206109055, "maxLon": -77.19833588, "maxLat": 9.620136068 }]
   },
   "PNG": {
@@ -1143,7 +1146,7 @@
     "id": "PNG",
     "ISO_ALPHA2": "PG",
     "ISO_ALPHA3": "PNG",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 140.8588541, "minLat": -11.64249996, "maxLon": 155.9668452, "maxLat": -1.355281872 }]
   },
   "PRY": {
@@ -1151,7 +1154,7 @@
     "id": "PRY",
     "ISO_ALPHA2": "PY",
     "ISO_ALPHA3": "PRY",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -62.64377286, "minLat": -27.58472696, "maxLon": -54.24389986, "maxLat": -19.29680887 }]
   },
   "PER": {
@@ -1159,7 +1162,7 @@
     "id": "PER",
     "ISO_ALPHA2": "PE",
     "ISO_ALPHA3": "PER",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -81.35514598, "minLat": -18.34854606, "maxLon": -68.67390881, "maxLat": -0.03687304 }]
   },
   "PHL": {
@@ -1168,14 +1171,14 @@
     "ISO_ALPHA2": "PH",
     "ISO_ALPHA3": "PHL",
     "Sub_level": 2,
-    "bbox": [{ "minLon": 114.2778922530, "minLat": 4.5872944970, "maxLon": 126.6049655960, "maxLat": 21.1218854790 }]
+    "bbox": [{ "minLon": 114.277892253, "minLat": 4.587294497, "maxLon": 126.604965596, "maxLat": 21.121885479 }]
   },
   "POL": {
     "name": "Poland",
     "id": "POL",
     "ISO_ALPHA2": "PL",
     "ISO_ALPHA3": "POL",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 14.14763613, "minLat": 49.00291812, "maxLon": 24.14347328, "maxLat": 54.8360361 }]
   },
   "PRT": {
@@ -1183,7 +1186,7 @@
     "id": "PRT",
     "ISO_ALPHA2": "PT",
     "ISO_ALPHA3": "PRT",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [
       { "minLon": -9.490836787, "minLat": 37.00832714, "maxLon": -6.190454859, "maxLat": 42.1506732 },
       { "minLon": -31.28902681, "minLat": 36.92916425, "maxLon": -25.01284595, "maxLat": 39.52194508 },
@@ -1196,14 +1199,14 @@
     "ISO_ALPHA2": "QA",
     "ISO_ALPHA3": "QAT",
     "Sub_level": 1,
-    "bbox": [{ "minLon": 50.7334054860, "minLat": 24.4704362390, "maxLon": 51.6621674230, "maxLat": 26.5842665950 }]
+    "bbox": [{ "minLon": 50.733405486, "minLat": 24.470436239, "maxLon": 51.662167423, "maxLat": 26.584266595 }]
   },
   "ROU": {
     "name": "Romania",
     "id": "ROU",
     "ISO_ALPHA2": "RO",
     "ISO_ALPHA3": "ROU",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 20.26102718, "minLat": 43.62330905, "maxLon": 29.6722182, "maxLat": 48.2638822 }]
   },
   "RUS": {
@@ -1211,7 +1214,7 @@
     "id": "RUS",
     "ISO_ALPHA2": "RU",
     "ISO_ALPHA3": "RUS",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -179.9999885, "minLat": 41.19658211, "maxLon": 179.9999885, "maxLat": 81.85192717 }]
   },
   "RWA": {
@@ -1219,7 +1222,7 @@
     "id": "RWA",
     "ISO_ALPHA2": "RW",
     "ISO_ALPHA3": "RWA",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 28.85444519, "minLat": -2.825490995, "maxLon": 30.89326335, "maxLat": -1.054445979 }]
   },
   "STP": {
@@ -1227,7 +1230,7 @@
     "id": "STP",
     "ISO_ALPHA2": "ST",
     "ISO_ALPHA3": "STP",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 6.465136029, "minLat": 0.018336042, "maxLon": 7.463473171, "maxLat": 1.701245011 }]
   },
   "KNA": {
@@ -1235,7 +1238,7 @@
     "id": "KNA",
     "ISO_ALPHA2": "KN",
     "ISO_ALPHA3": "KNA",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -62.86278193, "minLat": 17.20888206, "maxLon": -62.62250881, "maxLat": 17.41013608 }]
   },
   "LCA": {
@@ -1243,7 +1246,7 @@
     "id": "LCA",
     "ISO_ALPHA2": "LC",
     "ISO_ALPHA3": "LCA",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -61.07958198, "minLat": 13.70944502, "maxLon": -60.87806393, "maxLat": 14.10930908 }]
   },
   "VCT": {
@@ -1251,7 +1254,7 @@
     "id": "VCT",
     "ISO_ALPHA2": "VC",
     "ISO_ALPHA3": "VCT",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -61.280146, "minLat": 13.13028216, "maxLon": -61.12028199, "maxLat": 13.38319117 }]
   },
   "WSM": {
@@ -1259,7 +1262,7 @@
     "id": "WSM",
     "ISO_ALPHA2": "WS",
     "ISO_ALPHA3": "WSM",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -172.7800269, "minLat": -14.05749995, "maxLon": -171.4292001, "maxLat": -13.46055505 }]
   },
   "SMR": {
@@ -1275,7 +1278,7 @@
     "id": "SAU",
     "ISO_ALPHA2": "SA",
     "ISO_ALPHA3": "SAU",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 34.5721452, "minLat": 16.37750003, "maxLon": 55.66610918, "maxLat": 32.15494501 }]
   },
   "SEN": {
@@ -1283,7 +1286,7 @@
     "id": "SEN",
     "ISO_ALPHA2": "SN",
     "ISO_ALPHA3": "SEN",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -17.53278189, "minLat": 12.30174495, "maxLon": -11.36992672, "maxLat": 16.69061809 }]
   },
   "SRB": {
@@ -1291,7 +1294,7 @@
     "id": "SRB",
     "ISO_ALPHA2": "RS",
     "ISO_ALPHA3": "SRB",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 18.81701821, "minLat": 41.85639111, "maxLon": 23.00500027, "maxLat": 46.18110917 }]
   },
   "SYC": {
@@ -1299,7 +1302,7 @@
     "id": "SYC",
     "ISO_ALPHA2": "SC",
     "ISO_ALPHA3": "SYC",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 46.20569124, "minLat": -9.463054927, "maxLon": 55.54055414, "maxLat": -4.551663996 }]
   },
   "SLE": {
@@ -1307,7 +1310,7 @@
     "id": "SLE",
     "ISO_ALPHA2": "SL",
     "ISO_ALPHA3": "SLE",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -13.29560879, "minLat": 6.923609077, "maxLon": -10.26430876, "maxLat": 9.997500079 }]
   },
   "SGP": {
@@ -1315,7 +1318,7 @@
     "id": "SGP",
     "ISO_ALPHA2": "SG",
     "ISO_ALPHA3": "SGP",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 103.6409452, "minLat": 1.25902703, "maxLon": 103.9979452, "maxLat": 1.445282139 }]
   },
   "SVK": {
@@ -1323,7 +1326,7 @@
     "id": "SVK",
     "ISO_ALPHA2": "SK",
     "ISO_ALPHA3": "SVK",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 16.84471817, "minLat": 47.73750019, "maxLon": 22.55805406, "maxLat": 49.60082711 }]
   },
   "SVN": {
@@ -1331,7 +1334,7 @@
     "id": "SVN",
     "ISO_ALPHA2": "SI",
     "ISO_ALPHA3": "SVN",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 13.38347327, "minLat": 45.42581805, "maxLon": 16.60787324, "maxLat": 46.87624505 }]
   },
   "SLB": {
@@ -1339,7 +1342,7 @@
     "id": "SLB",
     "ISO_ALPHA2": "SB",
     "ISO_ALPHA3": "SLB",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 155.6713003, "minLat": -11.84583588, "maxLon": 166.9318362, "maxLat": -6.605517946 }]
   },
   "SOM": {
@@ -1347,7 +1350,7 @@
     "id": "SOM",
     "ISO_ALPHA2": "SO",
     "ISO_ALPHA3": "SOM",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 40.98860911, "minLat": -1.674872945, "maxLon": 51.41131815, "maxLat": 11.97916422 }]
   },
   "ZAF": {
@@ -1355,7 +1358,7 @@
     "id": "ZAF",
     "ISO_ALPHA2": "ZA",
     "ISO_ALPHA3": "ZAF",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 16.48332721, "minLat": -46.96972699, "maxLon": 37.89221823, "maxLat": -22.13639098 }]
   },
   "SSD": {
@@ -1382,7 +1385,7 @@
     "id": "LKA",
     "ISO_ALPHA2": "LK",
     "ISO_ALPHA3": "LKA",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 79.69609124, "minLat": 5.918053943, "maxLon": 81.89166339, "maxLat": 9.828191166 }]
   },
   "SDN": {
@@ -1390,7 +1393,7 @@
     "id": "SDN",
     "ISO_ALPHA2": "SD",
     "ISO_ALPHA3": "SDN",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 21.82910022, "minLat": 8.684974596, "maxLon": 38.60750018, "maxLat": 22.23221801 }]
   },
   "SUR": {
@@ -1398,7 +1401,7 @@
     "id": "SUR",
     "ISO_ALPHA2": "SR",
     "ISO_ALPHA3": "SUR",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -58.0713999, "minLat": 1.83624495, "maxLon": -53.98611778, "maxLat": 6.001809105 }]
   },
   "SWE": {
@@ -1406,7 +1409,7 @@
     "id": "SWE",
     "ISO_ALPHA2": "SE",
     "ISO_ALPHA3": "SWE",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 11.11333604, "minLat": 55.3391642, "maxLon": 24.16700916, "maxLat": 69.06030018 }]
   },
   "CHE": {
@@ -1414,7 +1417,7 @@
     "id": "CHE",
     "ISO_ALPHA2": "CH",
     "ISO_ALPHA3": "CHE",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 5.967009078, "minLat": 45.82943603, "maxLon": 10.48820917, "maxLat": 47.80666413 }]
   },
   "SYR": {
@@ -1422,7 +1425,7 @@
     "id": "SYR",
     "ISO_ALPHA2": "SY",
     "ISO_ALPHA3": "SYR",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 35.61446337, "minLat": 32.31360907, "maxLon": 42.37832716, "maxLat": 37.29054498 }]
   },
   "TJK": {
@@ -1430,7 +1433,7 @@
     "id": "TJK",
     "ISO_ALPHA2": "TJ",
     "ISO_ALPHA3": "TJK",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 67.36470029, "minLat": 36.67184502, "maxLon": 75.18748227, "maxLat": 41.04925407 }]
   },
   "TZA": {
@@ -1438,7 +1441,7 @@
     "id": "TZA",
     "ISO_ALPHA2": "TZ",
     "ISO_ALPHA3": "TZA",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 29.34082709, "minLat": -11.74041786, "maxLon": 40.43680915, "maxLat": -0.997217864 }]
   },
   "THA": {
@@ -1446,7 +1449,7 @@
     "id": "THA",
     "ISO_ALPHA2": "TH",
     "ISO_ALPHA3": "THA",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 97.34727229, "minLat": 5.633473075, "maxLon": 105.6392913, "maxLat": 20.45458213 }]
   },
   "TLS": {
@@ -1454,7 +1457,7 @@
     "id": "TLS",
     "ISO_ALPHA2": "TL",
     "ISO_ALPHA3": "TLS",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 124.0461003, "minLat": -9.463626908, "maxLon": 127.3085913, "maxLat": -8.140000006 }]
   },
   "TGO": {
@@ -1462,7 +1465,7 @@
     "id": "TGO",
     "ISO_ALPHA2": "TG",
     "ISO_ALPHA3": "TGO",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -0.149763907, "minLat": 6.100545075, "maxLon": 1.797800135, "maxLat": 11.1385361 }]
   },
   "TON": {
@@ -1470,7 +1473,7 @@
     "id": "TON",
     "ISO_ALPHA2": "TO",
     "ISO_ALPHA3": "TON",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -175.36, "minLat": -21.26806403, "maxLon": -173.9068269, "maxLat": -18.56805502 }]
   },
   "TTO": {
@@ -1478,7 +1481,7 @@
     "id": "TTO",
     "ISO_ALPHA2": "TT",
     "ISO_ALPHA3": "TTO",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -61.92159981, "minLat": 10.04034502, "maxLon": -60.52083576, "maxLat": 11.34555403 }]
   },
   "TUN": {
@@ -1486,7 +1489,7 @@
     "id": "TUN",
     "ISO_ALPHA2": "TN",
     "ISO_ALPHA3": "TUN",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 7.49221807, "minLat": 30.23439115, "maxLon": 11.58166331, "maxLat": 37.34040909 }]
   },
   "TUR": {
@@ -1494,7 +1497,7 @@
     "id": "TUR",
     "ISO_ALPHA2": "TR",
     "ISO_ALPHA3": "TUR",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 25.66582723, "minLat": 35.81844507, "maxLon": 44.82054519, "maxLat": 42.10999113 }]
   },
   "TKM": {
@@ -1502,7 +1505,7 @@
     "id": "TKM",
     "ISO_ALPHA2": "TM",
     "ISO_ALPHA3": "TKM",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 51.25018227, "minLat": 35.14599113, "maxLon": 66.67088222, "maxLat": 42.79617312 }]
   },
   "TUV": {
@@ -1510,7 +1513,7 @@
     "id": "TUV",
     "ISO_ALPHA2": "TV",
     "ISO_ALPHA3": "TUV",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 176.2952543, "minLat": -8.561290889, "maxLon": 179.2322814, "maxLat": -6.08944601 }]
   },
   "UGA": {
@@ -1518,7 +1521,7 @@
     "id": "UGA",
     "ISO_ALPHA2": "UG",
     "ISO_ALPHA3": "UGA",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 29.57430014, "minLat": -1.476108851, "maxLon": 35.0097181, "maxLat": 4.22278217 }]
   },
   "UKR": {
@@ -1526,7 +1529,7 @@
     "id": "UKR",
     "ISO_ALPHA2": "UA",
     "ISO_ALPHA3": "UKR",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 22.15144508, "minLat": 44.37915404, "maxLon": 40.1787451, "maxLat": 52.37860005 }]
   },
   "ARE": {
@@ -1534,7 +1537,7 @@
     "id": "ARE",
     "ISO_ALPHA2": "AE",
     "ISO_ALPHA3": "ARE",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 51.58332721, "minLat": 22.63332711, "maxLon": 56.38166337, "maxLat": 26.08388207 }]
   },
   "GBR": {
@@ -1542,24 +1545,26 @@
     "id": "GBR",
     "ISO_ALPHA2": "GB",
     "ISO_ALPHA3": "GBR",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [
-      { "minLon": -8.17166386, "minLat": 49.95527315, "maxLon": 1.749445103, "maxLat": 60.84332702 },
-      { "minLon": -63.16778195, "minLat": 18.16444501, "maxLon": -62.97270891, "maxLat": 18.27298211 },
-      { "minLon": -64.823064, "minLat": 32.26055397, "maxLon": -64.67680884, "maxLat": 32.37950911 },
-      { "minLon": 72.35790028, "minLat": -7.436246025, "maxLon": 72.49428222, "maxLat": -7.233473035 },
-      { "minLon": -64.69848193, "minLat": 18.38389112, "maxLon": -64.32452684, "maxLat": 18.50485405 },
-      { "minLon": -81.4008359, "minLat": 19.26500013, "maxLon": -81.09306398, "maxLat": 19.35416414 },
-      { "minLon": -61.14805492, "minLat": -52.343055, "maxLon": -57.73319983, "maxLat": -51.24945501 },
-      { "minLon": -5.356172853, "minLat": 36.1120732, "maxLon": -5.334508818, "maxLat": 36.16330909 },
-      { "minLon": -2.668608799, "minLat": 49.42249122, "maxLon": -2.500972914, "maxLat": 49.50819115 },
-      { "minLon": -4.787154949, "minLat": 54.05554513, "maxLon": -4.308681884, "maxLat": 54.41638221 },
-      { "minLon": -2.247363849, "minLat": 49.16777323, "maxLon": -2.01499989, "maxLat": 49.26110907 },
-      { "minLon": -62.23694595, "minLat": 16.67139118, "maxLon": -62.13889093, "maxLat": 16.812354 },
-      { "minLon": -130.1050551, "minLat": -25.08222695, "maxLon": -128.2861179, "maxLat": -24.32583596 },
-      { "minLon": -5.792781832, "minLat": -16.02194598, "maxLon": -5.645281793, "maxLat": -15.90375494 },
-      { "minLon": -38.02375494, "minLat": -58.49860904, "maxLon": -26.24139089, "maxLat": -53.98972699 },
-      { "minLon": -72.03146404, "minLat": 21.42991799, "maxLon": -71.12757301, "maxLat": 21.9577732 }
+      { "minLon": -13.69111502, "minLat": 49.1470927, "maxLon": 1.764096975, "maxLat": 60.85618818 },
+      { "minLon": -63.42955208, "minLat": 18.15432191, "maxLon": -62.92381907, "maxLat": 18.59540463 },
+      { "minLon": -64.88723803, "minLat": 32.24698925, "maxLon": -64.64679205, "maxLat": 32.39072084 },
+      { "minLon": 71.2374177, "minLat": -7.443902493, "maxLon": 72.49460328, "maxLat": -5.235725641 },
+      { "minLon": -64.8493042, "minLat": 18.30578506, "maxLon": -64.27030885, "maxLat": 18.74935555 },
+      { "minLon": -81.41991222, "minLat": 19.26256251, "maxLon": -79.72264326, "maxLat": 19.75724828 },
+      { "minLon": -61.46034563, "minLat": -52.91944838, "maxLon": -57.68722117, "maxLat": -50.99615538 },
+      { "minLon": -5.365943313, "minLat": 36.1085906, "maxLon": -5.33839941, "maxLat": 36.15511894 },
+      { "minLon": -2.678243875, "minLat": 49.39975548, "maxLon": -2.15582943, "maxLat": 49.73582828 },
+      { "minLon": -4.837949395, "minLat": 54.03745377, "maxLon": -4.30653429, "maxLat": 54.41817486 },
+      { "minLon": -2.254995585, "minLat": 49.1470927, "maxLon": -1.924494028, "maxLat": 49.29258013 },
+      { "minLon": -62.24170005, "minLat": 16.6747005, "maxLon": -62.14449239, "maxLat": 16.82414794 },
+      { "minLon": -130.7562256, "minLat": -25.07944584, "maxLon": -124.7715607, "maxLat": -23.90775335 },
+      { "minLon": -5.79050231, "minLat": -16.03074443, "maxLon": -5.63510716, "maxLat": -15.90485573 },
+      { "minLon": -14.42111111, "minLat": -7.993611098, "maxLon": -14.29419982, "maxLat": -7.889166713 },
+      { "minLon": -12.70631683, "minLat": -40.90778279, "maxLon": -9.874072194, "maxLat": -37.06171656 },
+      { "minLon": -38.96010232, "minLat": -59.46314025, "maxLon": -26.2672981, "maxLat": -53.94262481 },
+      { "minLon": -72.48294282, "minLat": 21.17697883, "maxLon": -71.08223951, "maxLat": 21.96263373 }
     ]
   },
   "USA": {
@@ -1584,7 +1589,7 @@
     "id": "URY",
     "ISO_ALPHA2": "UY",
     "ISO_ALPHA3": "URY",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -58.4386089, "minLat": -34.94381786, "maxLon": -53.09829989, "maxLat": -30.09667304 }]
   },
   "UZB": {
@@ -1592,7 +1597,7 @@
     "id": "UZB",
     "ISO_ALPHA2": "UZ",
     "ISO_ALPHA3": "UZB",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 55.99749124, "minLat": 37.18499117, "maxLon": 73.16754519, "maxLat": 45.57059112 }]
   },
   "VUT": {
@@ -1600,7 +1605,7 @@
     "id": "VUT",
     "ISO_ALPHA2": "VU",
     "ISO_ALPHA3": "VUT",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 166.5216363, "minLat": -20.25417292, "maxLon": 169.8938634, "maxLat": -13.70721787 }]
   },
   "VEN": {
@@ -1608,7 +1613,7 @@
     "id": "VEN",
     "ISO_ALPHA2": "VE",
     "ISO_ALPHA3": "VEN",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": -73.37806389, "minLat": 0.649164112, "maxLon": -59.803055, "maxLat": 12.19750006 }]
   },
   "VNM": {
@@ -1616,7 +1621,7 @@
     "id": "VNM",
     "ISO_ALPHA2": "VN",
     "ISO_ALPHA3": "VNM",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 102.1407453, "minLat": 8.559236065, "maxLon": 109.4648452, "maxLat": 23.32416424 }]
   },
   "YEM": {
@@ -1624,7 +1629,7 @@
     "id": "YEM",
     "ISO_ALPHA2": "YE",
     "ISO_ALPHA3": "YEM",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 42.55597321, "minLat": 12.14471804, "maxLon": 54.47347332, "maxLat": 18.9993451 }]
   },
   "ZMB": {
@@ -1632,7 +1637,7 @@
     "id": "ZMB",
     "ISO_ALPHA2": "ZM",
     "ISO_ALPHA3": "ZMB",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 21.99639127, "minLat": -18.07491782, "maxLon": 33.70228219, "maxLat": -8.191664045 }]
   },
   "ZWE": {
@@ -1640,7 +1645,7 @@
     "id": "ZWE",
     "ISO_ALPHA2": "ZW",
     "ISO_ALPHA3": "ZWE",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 25.23791816, "minLat": -22.41476404, "maxLon": 33.07159124, "maxLat": -15.6165269 }]
   }
 }

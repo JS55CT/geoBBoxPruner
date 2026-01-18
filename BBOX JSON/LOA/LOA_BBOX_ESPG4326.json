@@ -1,0 +1,201 @@
+{
+    "LAAT": {
+      "name": "Attapu",
+      "sub_id": "LAAT",
+      "sub_num": "AT",
+      "bbox": {
+        "minLon": 106.2871739,
+        "minLat": 14.2940712,
+        "maxLon": 107.599322,
+        "maxLat": 15.13276958
+      }
+    },
+    "LABK": {
+      "name": "Bokeo",
+      "sub_id": "LABK",
+      "sub_num": "BK",
+      "bbox": {
+        "minLon": 100.0847379,
+        "minLat": 20.14308929,
+        "maxLon": 100.944297,
+        "maxLat": 20.84393287
+      }
+    },
+    "LABL": {
+      "name": "Bolikhamxai",
+      "sub_id": "LABL",
+      "sub_num": "BL",
+      "bbox": {
+        "minLon": 102.8022162,
+        "minLat": 17.88829661,
+        "maxLon": 105.3296865,
+        "maxLat": 19.11878586
+      }
+    },
+    "LACH": {
+      "name": "Champasak",
+      "sub_id": "LACH",
+      "sub_num": "CH",
+      "bbox": {
+        "minLon": 105.2019881,
+        "minLat": 13.90976429,
+        "maxLon": 106.8260044,
+        "maxLat": 15.47458649
+      }
+    },
+    "LAHO": {
+      "name": "Houaphan",
+      "sub_id": "LAHO",
+      "sub_num": "HO",
+      "bbox": {
+        "minLon": 103.0595803,
+        "minLat": 19.61265564,
+        "maxLon": 104.9949195,
+        "maxLat": 20.9790802
+      }
+    },
+    "LAKH": {
+      "name": "Khammouan",
+      "sub_id": "LAKH",
+      "sub_num": "KH",
+      "bbox": {
+        "minLon": 104.2619402,
+        "minLat": 16.90128565,
+        "maxLon": 106.426561,
+        "maxLat": 18.21876526
+      }
+    },
+    "LALM": {
+      "name": "Louang Namtha",
+      "sub_id": "LALM",
+      "sub_num": "LM",
+      "bbox": {
+        "minLon": 100.5092194,
+        "minLat": 20.33770394,
+        "maxLon": 101.731916,
+        "maxLat": 21.56422019
+      }
+    },
+    "LALP": {
+      "name": "Louangphabang",
+      "sub_id": "LALP",
+      "sub_num": "LP",
+      "bbox": {
+        "minLon": 101.7271167,
+        "minLat": 19.04085159,
+        "maxLon": 103.4112756,
+        "maxLat": 21.13735199
+      }
+    },
+    "LAOU": {
+      "name": "Oudomxai",
+      "sub_id": "LAOU",
+      "sub_num": "OU",
+      "bbox": {
+        "minLon": 100.4424797,
+        "minLat": 19.7923851,
+        "maxLon": 102.3588684,
+        "maxLat": 21.19379985
+      }
+    },
+    "LAPH": {
+      "name": "Phongsali",
+      "sub_id": "LAPH",
+      "sub_num": "PH",
+      "bbox": {
+        "minLon": 101.5496705,
+        "minLat": 20.84981918,
+        "maxLon": 102.9929538,
+        "maxLat": 22.50901222
+      }
+    },
+    "LASL": {
+      "name": "Salavan",
+      "sub_id": "LASL",
+      "sub_num": "SL",
+      "bbox": {
+        "minLon": 105.3393412,
+        "minLat": 15.28262615,
+        "maxLon": 107.1521149,
+        "maxLat": 16.55296326
+      }
+    },
+    "LASV": {
+      "name": "Savannakhet",
+      "sub_id": "LASV",
+      "sub_num": "SV",
+      "bbox": {
+        "minLon": 104.7316654,
+        "minLat": 15.87635994,
+        "maxLon": 106.7389472,
+        "maxLat": 17.1236273
+      }
+    },
+    "LAVT": {
+      "name": "Viangchan",
+      "sub_id": "LAVT",
+      "sub_num": "VT",
+      "bbox": {
+        "minLon": 102.0871601,
+        "minLat": 17.80506134,
+        "maxLon": 103.1005676,
+        "maxLat": 18.37152493
+      }
+    },
+    "LAVI": {
+      "name": "Viangchan",
+      "sub_id": "LAVI",
+      "sub_num": "VI",
+      "bbox": {
+        "minLon": 101.3888465,
+        "minLat": 17.81295776,
+        "maxLon": 103.0050048,
+        "maxLat": 19.41554546
+      }
+    },
+    "LAXA": {
+      "name": "Xaignabouli",
+      "sub_id": "LAXA",
+      "sub_num": "XA",
+      "bbox": {
+        "minLon": 100.4040382,
+        "minLat": 17.46560097,
+        "maxLon": 101.8968977,
+        "maxLat": 19.93617296
+      }
+    },
+    "LAXS": {
+      "name": "Xaisomboun",
+      "sub_id": "LAXS",
+      "sub_num": "XS",
+      "bbox": {
+        "minLon": 102.5083095,
+        "minLat": 18.46200943,
+        "maxLon": 103.9010155,
+        "maxLat": 19.31198001
+      }
+    },
+    "LAXI": {
+      "name": "Xiangkhouang",
+      "sub_id": "LAXI",
+      "sub_num": "XI",
+      "bbox": {
+        "minLon": 102.6620445,
+        "minLat": 18.71988773,
+        "maxLon": 104.272718,
+        "maxLat": 20.24780273
+      }
+    },
+    "LAXE": {
+      "name": "Xekong",
+      "sub_id": "LAXE",
+      "sub_num": "XE",
+      "bbox": {
+        "minLon": 106.3416977,
+        "minLat": 15.02878189,
+        "maxLon": 107.6357046,
+        "maxLat": 16.26448631
+      }
+    }
+  }
+  

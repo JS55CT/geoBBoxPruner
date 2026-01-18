@@ -1,0 +1,58 @@
+{
+    "TJKT": {
+      "name": "Khatlon",
+      "sub_id": "TJKT",
+      "sub_num": "KT",
+      "bbox": {
+        "minLon": 67.78194821,
+        "minLat": 36.92912734,
+        "maxLon": 70.48848271,
+        "maxLat": 38.76594543
+      }
+    },
+    "TJGB": {
+      "name": "Kūhistoni Badakhshon",
+      "sub_id": "TJGB",
+      "sub_num": "GB",
+      "bbox": {
+        "minLon": 70.30195498,
+        "minLat": 36.67154252,
+        "maxLon": 75.15155554,
+        "maxLat": 39.47473526
+      }
+    },
+    "TJSU": {
+      "name": "Sughd",
+      "sub_id": "TJSU",
+      "sub_num": "SU",
+      "bbox": {
+        "minLon": 67.34174919,
+        "minLat": 38.91923904,
+        "maxLon": 70.98822618,
+        "maxLat": 41.04286194
+      }
+    },
+    "TJDU": {
+      "name": "Districts under Republic Administration (Dushanbe area)",
+      "sub_id": "TJDU",
+      "sub_num": "DU",
+      "bbox": {
+        "minLon": 68.65600884,
+        "minLat": 38.45141888,
+        "maxLon": 68.96242714,
+        "maxLat": 38.63968849
+      }
+    },
+    "TJRA": {
+      "name": "Districts under Republic Administration",
+      "sub_id": "TJRA",
+      "sub_num": "RA",
+      "bbox": {
+        "minLon": 68.05669999,
+        "minLat": 37.85425186,
+        "maxLon": 72.23266387,
+        "maxLat": 39.62579727
+      }
+    }
+  }
+  

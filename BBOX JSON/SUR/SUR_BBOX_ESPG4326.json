@@ -1,0 +1,113 @@
+{
+    "SRBR": {
+      "name": "Brokopondo",
+      "sub_id": "SRBR",
+      "sub_num": "BR",
+      "bbox": {
+        "minLon": -55.50031114,
+        "minLat": 4.014582634,
+        "maxLon": -54.73182488,
+        "maxLat": 5.326824188
+      }
+    },
+    "SRCM": {
+      "name": "Commewijne",
+      "sub_id": "SRCM",
+      "sub_num": "CM",
+      "bbox": {
+        "minLon": -55.16444075,
+        "minLat": 5.521366835,
+        "maxLon": -54.62593937,
+        "maxLat": 5.994067669
+      }
+    },
+    "SRCR": {
+      "name": "Coronie",
+      "sub_id": "SRCR",
+      "sub_num": "CR",
+      "bbox": {
+        "minLon": -56.60722232,
+        "minLat": 5.323511601,
+        "maxLon": -55.88834476,
+        "maxLat": 5.959416151
+      }
+    },
+    "SRMA": {
+      "name": "Marowijne",
+      "sub_id": "SRMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": -54.74548793,
+        "minLat": 5.212175131,
+        "maxLon": -53.98467636,
+        "maxLat": 5.980483293
+      }
+    },
+    "SRNI": {
+      "name": "Nickerie",
+      "sub_id": "SRNI",
+      "sub_num": "NI",
+      "bbox": {
+        "minLon": -57.33504164,
+        "minLat": 5.224080801,
+        "maxLon": -56.4252882,
+        "maxLat": 6.015006423
+      }
+    },
+    "SRPR": {
+      "name": "Para",
+      "sub_id": "SRPR",
+      "sub_num": "PR",
+      "bbox": {
+        "minLon": -56.01095963,
+        "minLat": 4.97694397,
+        "maxLon": -54.60736299,
+        "maxLat": 5.684826135
+      }
+    },
+    "SRPM": {
+      "name": "Paramaribo",
+      "sub_id": "SRPM",
+      "sub_num": "PM",
+      "bbox": {
+        "minLon": -55.23135841,
+        "minLat": 5.773569941,
+        "maxLon": -55.09792388,
+        "maxLat": 5.908265471
+      }
+    },
+    "SRSA": {
+      "name": "Saramacca",
+      "sub_id": "SRSA",
+      "sub_num": "SA",
+      "bbox": {
+        "minLon": -55.97137141,
+        "minLat": 5.392570496,
+        "maxLon": -55.25295424,
+        "maxLat": 6.001719117
+      }
+    },
+    "SRSI": {
+      "name": "Sipaliwini",
+      "sub_id": "SRSI",
+      "sub_num": "SI",
+      "bbox": {
+        "minLon": -58.06602204,
+        "minLat": 1.839008331,
+        "maxLon": -53.97942543,
+        "maxLat": 5.532847405
+      }
+    },
+    "SRWA": {
+      "name": "Wanica",
+      "sub_id": "SRWA",
+      "sub_num": "WA",
+      "bbox": {
+        "minLon": -55.35846305,
+        "minLat": 5.658888817,
+        "maxLon": -55.02665853,
+        "maxLat": 5.916744948
+      }
+    }
+  }
+  

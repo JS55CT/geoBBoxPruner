@@ -1,0 +1,14 @@
+[
+    {
+      "Wallis and Futuna": {
+        "sub_num": "WF",
+        "name": "Wallis and Futuna",
+        "bbox": {
+            "minLon": -178.1835999,
+            "minLat": -14.36198211,
+            "maxLon": -176.1236854,
+            "maxLat": -13.18314052
+          }
+      }
+    }
+  ]

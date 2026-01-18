@@ -1,0 +1,58 @@
+{
+    "RW02": {
+      "name": "Est",
+      "sub_id": "RW02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 29.96061563,
+        "minLat": -2.437763214,
+        "maxLon": 30.89958763,
+        "maxLat": -1.047380924
+      }
+    },
+    "RW03": {
+      "name": "Nord",
+      "sub_id": "RW03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 29.45007741,
+        "minLat": -1.952390671,
+        "maxLon": 30.27586806,
+        "maxLat": -1.308574677
+      }
+    },
+    "RW04": {
+      "name": "Ouest",
+      "sub_id": "RW04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 28.86166477,
+        "minLat": -2.744178772,
+        "maxLon": 29.67535353,
+        "maxLat": -1.505997657
+      }
+    },
+    "RW05": {
+      "name": "Sud",
+      "sub_id": "RW05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 29.24844515,
+        "minLat": -2.838871479,
+        "maxLon": 30.02001178,
+        "maxLat": -1.73163414
+      }
+    },
+    "RW01": {
+      "name": "Ville de Kigali",
+      "sub_id": "RW01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 29.98401463,
+        "minLat": -2.079119682,
+        "maxLon": 30.24118316,
+        "maxLat": -1.86999321
+      }
+    }
+  }
+  

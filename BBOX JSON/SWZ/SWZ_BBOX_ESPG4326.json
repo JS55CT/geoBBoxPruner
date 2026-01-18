@@ -1,0 +1,47 @@
+{
+    "SZHH": {
+      "name": "Hhohho",
+      "sub_id": "SZHH",
+      "sub_num": "HH",
+      "bbox": {
+        "minLon": 30.89803314,
+        "minLat": -26.48022652,
+        "maxLon": 31.75987792,
+        "maxLat": -25.71876001
+      }
+    },
+    "SZLU": {
+      "name": "Lubombo",
+      "sub_id": "SZLU",
+      "sub_num": "LU",
+      "bbox": {
+        "minLon": 31.48116577,
+        "minLat": -27.16456187,
+        "maxLon": 32.13490665,
+        "maxLat": -25.9321425
+      }
+    },
+    "SZMA": {
+      "name": "Manzini",
+      "sub_id": "SZMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": 30.79088998,
+        "minLat": -26.89720917,
+        "maxLon": 31.70441532,
+        "maxLat": -26.1625886
+      }
+    },
+    "SZSH": {
+      "name": "Shiselweni",
+      "sub_id": "SZSH",
+      "sub_num": "SH",
+      "bbox": {
+        "minLon": 30.89249897,
+        "minLat": -27.31774604,
+        "maxLon": 31.97775996,
+        "maxLat": -26.75222397
+      }
+    }
+  }
+  

@@ -1,0 +1,69 @@
+{
+    "GMB": {
+      "name": "Banjul",
+      "sub_id": "GMB",
+      "sub_num": "B",
+      "bbox": {
+        "minLon": -16.72624373,
+        "minLat": 13.38491273,
+        "maxLon": -16.57026255,
+        "maxLat": 13.48937607
+      }
+    },
+    "GMM": {
+      "name": "Central Island",
+      "sub_id": "GMM",
+      "sub_num": "M",
+      "bbox": {
+        "minLon": -15.46361601,
+        "minLat": 13.32521439,
+        "maxLon": -14.44866204,
+        "maxLat": 13.8250581
+      }
+    },
+    "GML": {
+      "name": "Lower River",
+      "sub_id": "GML",
+      "sub_num": "L",
+      "bbox": {
+        "minLon": -16.22427905,
+        "minLat": 13.23999238,
+        "maxLon": -15.16859901,
+        "maxLat": 13.55781555
+      }
+    },
+    "GMN": {
+      "name": "North Bank",
+      "sub_id": "GMN",
+      "sub_num": "N",
+      "bbox": {
+        "minLon": -16.54898894,
+        "minLat": 13.31690562,
+        "maxLon": -15.30391729,
+        "maxLat": 13.63979232
+      }
+    },
+    "GMU": {
+      "name": "Upper River",
+      "sub_id": "GMU",
+      "sub_num": "U",
+      "bbox": {
+        "minLon": -14.54879677,
+        "minLat": 13.21835005,
+        "maxLon": -13.79293716,
+        "maxLat": 13.57961655
+      }
+    },
+    "GMW": {
+      "name": "Western",
+      "sub_id": "GMW",
+      "sub_num": "W",
+      "bbox": {
+        "minLon": -16.81714797,
+        "minLat": 13.06416667,
+        "maxLon": -15.80198574,
+        "maxLat": 13.44098568
+      }
+    }
+  }
+  

@@ -1,0 +1,113 @@
+{
+    "CMAD": {
+      "name": "Adamaoua",
+      "sub_id": "CMAD",
+      "sub_num": "AD",
+      "bbox": {
+        "minLon": 11.18154872,
+        "minLat": 5.974379182,
+        "maxLon": 15.24240029,
+        "maxLat": 8.174171447
+      }
+    },
+    "CMCE": {
+      "name": "Centre",
+      "sub_id": "CMCE",
+      "sub_num": "CE",
+      "bbox": {
+        "minLon": 10.23861122,
+        "minLat": 3.140695095,
+        "maxLon": 13.24734545,
+        "maxLat": 6.263226271
+      }
+    },
+    "CMES": {
+      "name": "East",
+      "sub_id": "CMES",
+      "sub_num": "ES",
+      "bbox": {
+        "minLon": 12.50233734,
+        "minLat": 1.64932251,
+        "maxLon": 16.19093299,
+        "maxLat": 6.1381495
+      }
+    },
+    "CMEN": {
+      "name": "Far North",
+      "sub_id": "CMEN",
+      "sub_num": "EN",
+      "bbox": {
+        "minLon": 13.40117037,
+        "minLat": 9.937820435,
+        "maxLon": 15.68945599,
+        "maxLat": 13.0855751
+      }
+    },
+    "CMLT": {
+      "name": "Littoral",
+      "sub_id": "CMLT",
+      "sub_num": "LT",
+      "bbox": {
+        "minLon": 9.293968559,
+        "minLat": 3.261822581,
+        "maxLon": 11.07796633,
+        "maxLat": 5.333518982
+      }
+    },
+    "CMNO": {
+      "name": "North",
+      "sub_id": "CMNO",
+      "sub_num": "NO",
+      "bbox": {
+        "minLon": 12.2412194,
+        "minLat": 7.026857853,
+        "maxLon": 15.59144902,
+        "maxLat": 10.23488045
+      }
+    },
+    "CMNW": {
+      "name": "North-West",
+      "sub_id": "CMNW",
+      "sub_num": "NW",
+      "bbox": {
+        "minLon": 9.705051064,
+        "minLat": 5.703143477,
+        "maxLon": 11.21396315,
+        "maxLat": 7.162914276
+      }
+    },
+    "CMSU": {
+      "name": "South",
+      "sub_id": "CMSU",
+      "sub_num": "SU",
+      "bbox": {
+        "minLon": 9.817501306,
+        "minLat": 2.14348197,
+        "maxLon": 13.6801275,
+        "maxLat": 3.669433594
+      }
+    },
+    "CMSW": {
+      "name": "South-West",
+      "sub_id": "CMSW",
+      "sub_num": "SW",
+      "bbox": {
+        "minLon": 8.498874187,
+        "minLat": 3.942045093,
+        "maxLon": 10.10166836,
+        "maxLat": 6.53017044
+      }
+    },
+    "CMOU": {
+      "name": "West",
+      "sub_id": "CMOU",
+      "sub_num": "OU",
+      "bbox": {
+        "minLon": 9.832469344,
+        "minLat": 4.881019593,
+        "maxLon": 11.31524503,
+        "maxLat": 6.264438629
+      }
+    }
+  }
+  

@@ -1,0 +1,14 @@
+[
+    {
+      "Saint Barthélemy": {
+        "sub_num": "BL",
+        "name": "Saint Barthélemy",
+        "bbox": {
+            "minLon": -62.94808531,
+            "minLat": 17.87010002,
+            "maxLon": -62.78884161,
+            "maxLat": 17.97387958
+          }
+      }
+    }
+  ]

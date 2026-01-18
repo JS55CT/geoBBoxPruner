@@ -1,0 +1,146 @@
+{
+    "BF01": {
+      "name": "Boucle du Mouhoun",
+      "sub_id": "BF01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": -4.631078481,
+        "minLat": 11.22133255,
+        "maxLon": -2.438914299,
+        "maxLat": 13.7149055
+      }
+    },
+    "BF02": {
+      "name": "Cascades",
+      "sub_id": "BF02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": -5.512191296,
+        "minLat": 9.591751099,
+        "maxLon": -3.641279698,
+        "maxLat": 10.98220825
+      }
+    },
+    "BF03": {
+      "name": "Centre",
+      "sub_id": "BF03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -1.830935359,
+        "minLat": 12.09388733,
+        "maxLon": -1.063302517,
+        "maxLat": 12.67225742
+      }
+    },
+    "BF04": {
+      "name": "Centre",
+      "sub_id": "BF04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": -0.942994475,
+        "minLat": 10.91285706,
+        "maxLon": 0.605592966,
+        "maxLat": 12.56029129
+      }
+    },
+    "BF05": {
+      "name": "Centre-Nord",
+      "sub_id": "BF05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -1.915691733,
+        "minLat": 12.48381615,
+        "maxLon": -0.21501422,
+        "maxLat": 14.01280403
+      }
+    },
+    "BF06": {
+      "name": "Centre-Ouest",
+      "sub_id": "BF06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": -2.93131423,
+        "minLat": 10.97669899,
+        "maxLon": -1.286495328,
+        "maxLat": 12.88146973
+      }
+    },
+    "BF07": {
+      "name": "Centre-Sud",
+      "sub_id": "BF07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": -2.07120657,
+        "minLat": 10.96303165,
+        "maxLon": -0.580579042,
+        "maxLat": 12.27996826
+      }
+    },
+    "BF08": {
+      "name": "Est",
+      "sub_id": "BF08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": -0.381672263,
+        "minLat": 10.93551636,
+        "maxLon": 2.408730745,
+        "maxLat": 13.5842514
+      }
+    },
+    "BF09": {
+      "name": "Hauts-Bassins",
+      "sub_id": "BF09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": -5.493558168,
+        "minLat": 10.67025661,
+        "maxLon": -2.828669905,
+        "maxLat": 12.11345673
+      }
+    },
+    "BF10": {
+      "name": "Nord",
+      "sub_id": "BF10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": -2.95493567,
+        "minLat": 12.6120472,
+        "maxLon": -1.514637232,
+        "maxLat": 14.29985642
+      }
+    },
+    "BF11": {
+      "name": "Plateau Central",
+      "sub_id": "BF11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": -2.093015194,
+        "minLat": 11.81742668,
+        "maxLon": -0.408204913,
+        "maxLat": 12.97953129
+      }
+    },
+    "BF12": {
+      "name": "Sahel",
+      "sub_id": "BF12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": -2.102799654,
+        "minLat": 12.97542298,
+        "maxLon": 1.283643484,
+        "maxLat": 15.08714676
+      }
+    },
+    "BF13": {
+      "name": "Sud-Ouest",
+      "sub_id": "BF13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": -3.957820774,
+        "minLat": 9.415318012,
+        "maxLon": -2.571556568,
+        "maxLat": 11.38338089
+      }
+    }
+  }
+  

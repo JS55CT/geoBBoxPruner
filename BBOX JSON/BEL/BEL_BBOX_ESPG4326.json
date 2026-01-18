@@ -1,0 +1,36 @@
+{
+    "BEBRU": {
+      "name": "Bruxelles-Capitale: Région de",
+      "sub_id": "BEBRU",
+      "sub_num": "BRU",
+      "bbox": {
+        "minLon": 4.237867594,
+        "minLat": 50.76340771,
+        "maxLon": 4.481712341,
+        "maxLat": 50.9147644
+      }
+    },
+    "BEVLG": {
+      "name": "Vlaamse Gewest",
+      "sub_id": "BEVLG",
+      "sub_num": "VLG",
+      "bbox": {
+        "minLon": 2.546263575,
+        "minLat": 50.68842888,
+        "maxLon": 5.910568357,
+        "maxLat": 51.50407791
+      }
+    },
+    "BEWAL": {
+      "name": "wallonne, Région",
+      "sub_id": "BEWAL",
+      "sub_num": "WAL",
+      "bbox": {
+        "minLon": 2.845864296,
+        "minLat": 49.49606895,
+        "maxLon": 6.405903936,
+        "maxLat": 50.81365585
+      }
+    }
+  }
+  

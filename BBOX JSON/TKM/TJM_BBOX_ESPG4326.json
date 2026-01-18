@@ -1,0 +1,69 @@
+{
+    "TMA": {
+      "name": "Ahal",
+      "sub_id": "TMA",
+      "sub_num": "A",
+      "bbox": {
+        "minLon": 56.55191708,
+        "minLat": 35.55294239,
+        "maxLon": 61.58642089,
+        "maxLat": 40.20137787
+      }
+    },
+    "TMS": {
+      "name": "Aşgabat",
+      "sub_id": "TMS",
+      "sub_num": "S",
+      "bbox": {
+        "minLon": 58.25854135,
+        "minLat": 37.87485123,
+        "maxLon": 58.47074664,
+        "maxLat": 38.03741455
+      }
+    },
+    "TMB": {
+      "name": "Balkan",
+      "sub_id": "TMB",
+      "sub_num": "B",
+      "bbox": {
+        "minLon": 52.4456358,
+        "minLat": 37.31935501,
+        "maxLon": 57.17400145,
+        "maxLat": 42.37632751
+      }
+    },
+    "TMD": {
+      "name": "Daşoguz",
+      "sub_id": "TMD",
+      "sub_num": "D",
+      "bbox": {
+        "minLon": 56.49507725,
+        "minLat": 39.4670105,
+        "maxLon": 61.0036304,
+        "maxLat": 42.80273438
+      }
+    },
+    "TML": {
+      "name": "Lebap",
+      "sub_id": "TML",
+      "sub_num": "L",
+      "bbox": {
+        "minLon": 60.24768877,
+        "minLat": 36.85295105,
+        "maxLon": 66.6878897,
+        "maxLat": 41.28953934
+      }
+    },
+    "TMM": {
+      "name": "Mary",
+      "sub_id": "TMM",
+      "sub_num": "M",
+      "bbox": {
+        "minLon": 60.38081396,
+        "minLat": 35.12766838,
+        "maxLon": 64.74610639,
+        "maxLat": 39.52194214
+      }
+    }
+  }
+  

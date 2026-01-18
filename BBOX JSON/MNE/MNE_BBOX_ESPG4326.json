@@ -1,0 +1,267 @@
+{
+    "ME01": {
+      "name": "Andrijevica",
+      "sub_id": "ME01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 19.64527988,
+        "minLat": 42.58993864,
+        "maxLon": 19.90881276,
+        "maxLat": 42.84235597
+      }
+    },
+    "ME02": {
+      "name": "Bar",
+      "sub_id": "ME02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 18.93170595,
+        "minLat": 41.95820332,
+        "maxLon": 19.41209948,
+        "maxLat": 42.29598999
+      }
+    },
+    "ME03": {
+      "name": "Berane",
+      "sub_id": "ME03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 19.64533305,
+        "minLat": 42.69543529,
+        "maxLon": 20.04996443,
+        "maxLat": 42.96731472
+      }
+    },
+    "ME04": {
+      "name": "Bijelo Polje",
+      "sub_id": "ME04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 19.42521107,
+        "minLat": 42.90744782,
+        "maxLon": 20.07897222,
+        "maxLat": 43.24804544
+      }
+    },
+    "ME05": {
+      "name": "Budva",
+      "sub_id": "ME05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 18.77960145,
+        "minLat": 42.16166759,
+        "maxLon": 19.01188409,
+        "maxLat": 42.34582543
+      }
+    },
+    "ME06": {
+      "name": "Cetinje",
+      "sub_id": "ME06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 18.70599365,
+        "minLat": 42.25058556,
+        "maxLon": 19.15653348,
+        "maxLat": 42.70204425
+      }
+    },
+    "ME07": {
+      "name": "Danilovgrad",
+      "sub_id": "ME07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 18.94217241,
+        "minLat": 42.46131062,
+        "maxLon": 19.29740155,
+        "maxLat": 42.75803804
+      }
+    },
+    "ME22": {
+      "name": "Gusinje",
+      "sub_id": "ME22",
+      "sub_num": "22",
+      "bbox": {
+        "minLon": 19.74425089,
+        "minLat": 42.46661067,
+        "maxLon": 19.91772759,
+        "maxLat": 42.62950551
+      }
+    },
+    "ME08": {
+      "name": "Herceg-Novi",
+      "sub_id": "ME08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 18.43282032,
+        "minLat": 42.36139834,
+        "maxLon": 18.68791366,
+        "maxLat": 42.58822203
+      }
+    },
+    "ME09": {
+      "name": "Kolašin",
+      "sub_id": "ME09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 19.19753706,
+        "minLat": 42.64315367,
+        "maxLon": 19.69012153,
+        "maxLat": 42.9370594
+      }
+    },
+    "ME10": {
+      "name": "Kotor",
+      "sub_id": "ME10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 18.54295659,
+        "minLat": 42.26686668,
+        "maxLon": 18.8133682,
+        "maxLat": 42.62721062
+      }
+    },
+    "ME11": {
+      "name": "Mojkovac",
+      "sub_id": "ME11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 19.33299804,
+        "minLat": 42.88817108,
+        "maxLon": 19.68477595,
+        "maxLat": 43.07181358
+      }
+    },
+    "ME12": {
+      "name": "Nikšić",
+      "sub_id": "ME12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 18.45839739,
+        "minLat": 42.57730007,
+        "maxLon": 19.24116063,
+        "maxLat": 43.11828578
+      }
+    },
+    "ME23": {
+      "name": "Petnjica",
+      "sub_id": "ME23",
+      "sub_num": "23",
+      "bbox": {
+        "minLon": 19.89018929,
+        "minLat": 42.85428643,
+        "maxLon": 20.12056911,
+        "maxLat": 42.99629331
+      }
+    },
+    "ME13": {
+      "name": "Plav",
+      "sub_id": "ME13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 19.82787609,
+        "minLat": 42.50764847,
+        "maxLon": 20.11302555,
+        "maxLat": 42.71119773
+      }
+    },
+    "ME14": {
+      "name": "Pljevlja",
+      "sub_id": "ME14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 18.91573215,
+        "minLat": 43.06505442,
+        "maxLon": 19.5582037,
+        "maxLat": 43.55790496
+      }
+    },
+    "ME15": {
+      "name": "Plužine",
+      "sub_id": "ME15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 18.64964378,
+        "minLat": 42.93525696,
+        "maxLon": 19.03561652,
+        "maxLat": 43.3609128
+      }
+    },
+    "ME16": {
+      "name": "Podgorica",
+      "sub_id": "ME16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 18.96053207,
+        "minLat": 42.18752992,
+        "maxLon": 19.66561866,
+        "maxLat": 42.70832062
+      }
+    },
+    "ME17": {
+      "name": "Rožaje",
+      "sub_id": "ME17",
+      "sub_num": "17",
+      "bbox": {
+        "minLon": 20.02269304,
+        "minLat": 42.74632216,
+        "maxLon": 20.35393846,
+        "maxLat": 42.98950195
+      }
+    },
+    "ME19": {
+      "name": "Tivat",
+      "sub_id": "ME19",
+      "sub_num": "19",
+      "bbox": {
+        "minLon": 18.60654974,
+        "minLat": 42.36194563,
+        "maxLon": 18.73775721,
+        "maxLat": 42.46604884
+      }
+    },
+    "ME24": {
+      "name": "Tuzi",
+      "sub_id": "ME24",
+      "sub_num": "24",
+      "bbox": {
+        "minLon": 19.27470756,
+        "minLat": 42.21028602,
+        "maxLon": 19.59770918,
+        "maxLat": 42.54764557
+      }
+    },
+    "ME20": {
+      "name": "Ulcinj",
+      "sub_id": "ME20",
+      "sub_num": "20",
+      "bbox": {
+        "minLon": 19.13810539,
+        "minLat": 41.84794092,
+        "maxLon": 19.38751149,
+        "maxLat": 42.08347321
+      }
+    },
+    "ME18": {
+      "name": "Šavnik",
+      "sub_id": "ME18",
+      "sub_num": "18",
+      "bbox": {
+        "minLon": 18.93578351,
+        "minLat": 42.84590721,
+        "maxLon": 19.37205255,
+        "maxLat": 43.12760234
+      }
+    },
+    "ME21": {
+      "name": "Žabljak",
+      "sub_id": "ME21",
+      "sub_num": "21",
+      "bbox": {
+        "minLon": 18.98372483,
+        "minLat": 42.99720526,
+        "maxLon": 19.39043832,
+        "maxLat": 43.25615287
+      }
+    }
+  }
+  

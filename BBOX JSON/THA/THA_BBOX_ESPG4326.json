@@ -1,0 +1,861 @@
+{
+    "TH37": {
+      "name": "Amnat Charoen",
+      "sub_id": "TH37",
+      "sub_num": "37",
+      "bbox": {
+        "minLon": 104.4181838,
+        "minLat": 15.48761129,
+        "maxLon": 105.3248811,
+        "maxLat": 16.27761841
+      }
+    },
+    "TH15": {
+      "name": "Ang Thong",
+      "sub_id": "TH15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 100.1844039,
+        "minLat": 14.44213808,
+        "maxLon": 100.5131181,
+        "maxLat": 14.80158806
+      }
+    },
+    "TH38": {
+      "name": "Bueng Kan",
+      "sub_id": "TH38",
+      "sub_num": "38",
+      "bbox": {
+        "minLon": 103.2417458,
+        "minLat": 17.7708149,
+        "maxLon": 104.1447763,
+        "maxLat": 18.4479332
+      }
+    },
+    "TH31": {
+      "name": "Buri Ram",
+      "sub_id": "TH31",
+      "sub_num": "31",
+      "bbox": {
+        "minLon": 102.4297112,
+        "minLat": 14.13213015,
+        "maxLon": 103.5058745,
+        "maxLat": 15.73025465
+      }
+    },
+    "TH24": {
+      "name": "Chachoengsao",
+      "sub_id": "TH24",
+      "sub_num": "24",
+      "bbox": {
+        "minLon": 100.8419513,
+        "minLat": 13.1840229,
+        "maxLon": 101.9985937,
+        "maxLat": 13.97641182
+      }
+    },
+    "TH18": {
+      "name": "Chai Nat",
+      "sub_id": "TH18",
+      "sub_num": "18",
+      "bbox": {
+        "minLon": 99.71649289,
+        "minLat": 14.9046278,
+        "maxLon": 100.3026732,
+        "maxLat": 15.42886019
+      }
+    },
+    "TH36": {
+      "name": "Chaiyaphum",
+      "sub_id": "TH36",
+      "sub_num": "36",
+      "bbox": {
+        "minLon": 101.3043417,
+        "minLat": 15.22396088,
+        "maxLon": 102.4511039,
+        "maxLat": 16.7070508
+      }
+    },
+    "TH22": {
+      "name": "Chanthaburi",
+      "sub_id": "TH22",
+      "sub_num": "22",
+      "bbox": {
+        "minLon": 101.6849823,
+        "minLat": 12.28531575,
+        "maxLon": 102.5364051,
+        "maxLat": 13.34384167
+      }
+    },
+    "TH50": {
+      "name": "Chiang Mai",
+      "sub_id": "TH50",
+      "sub_num": "50",
+      "bbox": {
+        "minLon": 98.05596697,
+        "minLat": 17.25623846,
+        "maxLon": 99.58831787,
+        "maxLat": 20.15579224
+      }
+    },
+    "TH57": {
+      "name": "Chiang Rai",
+      "sub_id": "TH57",
+      "sub_num": "57",
+      "bbox": {
+        "minLon": 99.25917602,
+        "minLat": 18.99834442,
+        "maxLon": 100.5775627,
+        "maxLat": 20.46477199
+      }
+    },
+    "TH20": {
+      "name": "Chon Buri",
+      "sub_id": "TH20",
+      "sub_num": "20",
+      "bbox": {
+        "minLon": 100.6473514,
+        "minLat": 12.50776947,
+        "maxLon": 101.7259699,
+        "maxLat": 13.60330582
+      }
+    },
+    "TH86": {
+      "name": "Chumphon",
+      "sub_id": "TH86",
+      "sub_num": "86",
+      "bbox": {
+        "minLon": 98.61546159,
+        "minLat": 9.604797363,
+        "maxLon": 99.85611117,
+        "maxLat": 11.02993011
+      }
+    },
+    "TH46": {
+      "name": "Kalasin",
+      "sub_id": "TH46",
+      "sub_num": "46",
+      "bbox": {
+        "minLon": 103.1032872,
+        "minLat": 16.18187427,
+        "maxLon": 104.2402256,
+        "maxLat": 17.09738731
+      }
+    },
+    "TH62": {
+      "name": "Kamphaeng Phet",
+      "sub_id": "TH62",
+      "sub_num": "62",
+      "bbox": {
+        "minLon": 98.95997524,
+        "minLat": 15.7856369,
+        "maxLon": 100.0292714,
+        "maxLat": 16.89182282
+      }
+    },
+    "TH71": {
+      "name": "Kanchanaburi",
+      "sub_id": "TH71",
+      "sub_num": "71",
+      "bbox": {
+        "minLon": 98.18323946,
+        "minLat": 13.72467041,
+        "maxLon": 99.89283848,
+        "maxLat": 15.66181791
+      }
+    },
+    "TH40": {
+      "name": "Khon Kaen",
+      "sub_id": "TH40",
+      "sub_num": "40",
+      "bbox": {
+        "minLon": 101.7500551,
+        "minLat": 15.62334323,
+        "maxLon": 103.184176,
+        "maxLat": 17.08176613
+      }
+    },
+    "TH81": {
+      "name": "Krabi",
+      "sub_id": "TH81",
+      "sub_num": "81",
+      "bbox": {
+        "minLon": 98.61172891,
+        "minLat": 7.400289178,
+        "maxLon": 99.33596659,
+        "maxLat": 8.686773777
+      }
+    },
+    "TH10": {
+      "name": "Krung Thep Maha Nakhon",
+      "sub_id": "TH10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 100.3178849,
+        "minLat": 13.49211025,
+        "maxLon": 100.9387831,
+        "maxLat": 13.96113396
+      }
+    },
+    "TH52": {
+      "name": "Lampang",
+      "sub_id": "TH52",
+      "sub_num": "52",
+      "bbox": {
+        "minLon": 98.99908412,
+        "minLat": 17.20124245,
+        "maxLon": 100.132885,
+        "maxLat": 19.5110321
+      }
+    },
+    "TH51": {
+      "name": "Lamphun",
+      "sub_id": "TH51",
+      "sub_num": "51",
+      "bbox": {
+        "minLon": 98.67178559,
+        "minLat": 17.47894764,
+        "maxLon": 99.3150351,
+        "maxLat": 18.70416296
+      }
+    },
+    "TH42": {
+      "name": "Loei",
+      "sub_id": "TH42",
+      "sub_num": "42",
+      "bbox": {
+        "minLon": 100.893821,
+        "minLat": 16.75834167,
+        "maxLon": 102.1507711,
+        "maxLat": 18.21704864
+      }
+    },
+    "TH16": {
+      "name": "Lop Buri",
+      "sub_id": "TH16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 100.4209594,
+        "minLat": 14.6554184,
+        "maxLon": 101.4545503,
+        "maxLat": 15.51111555
+      }
+    },
+    "TH58": {
+      "name": "Mae Hong Son",
+      "sub_id": "TH58",
+      "sub_num": "58",
+      "bbox": {
+        "minLon": 97.34395373,
+        "minLat": 17.57068467,
+        "maxLon": 98.6550957,
+        "maxLat": 19.81641769
+      }
+    },
+    "TH44": {
+      "name": "Maha Sarakham",
+      "sub_id": "TH44",
+      "sub_num": "44",
+      "bbox": {
+        "minLon": 102.8419777,
+        "minLat": 15.40884018,
+        "maxLon": 103.5070832,
+        "maxLat": 16.64620757
+      }
+    },
+    "TH49": {
+      "name": "Mukdahan",
+      "sub_id": "TH49",
+      "sub_num": "49",
+      "bbox": {
+        "minLon": 104.0724869,
+        "minLat": 16.18878365,
+        "maxLon": 104.9806813,
+        "maxLat": 17.02254295
+      }
+    },
+    "TH26": {
+      "name": "Nakhon Nayok",
+      "sub_id": "TH26",
+      "sub_num": "26",
+      "bbox": {
+        "minLon": 100.913661,
+        "minLat": 13.96113396,
+        "maxLon": 101.5065773,
+        "maxLat": 14.5115447
+      }
+    },
+    "TH73": {
+      "name": "Nakhon Pathom",
+      "sub_id": "TH73",
+      "sub_num": "73",
+      "bbox": {
+        "minLon": 99.80575299,
+        "minLat": 13.65284085,
+        "maxLon": 100.3346733,
+        "maxLat": 14.18056941
+      }
+    },
+    "TH48": {
+      "name": "Nakhon Phanom",
+      "sub_id": "TH48",
+      "sub_num": "48",
+      "bbox": {
+        "minLon": 103.9826585,
+        "minLat": 16.74934387,
+        "maxLon": 104.8056667,
+        "maxLat": 18.06949091
+      }
+    },
+    "TH30": {
+      "name": "Nakhon Ratchasima",
+      "sub_id": "TH30",
+      "sub_num": "30",
+      "bbox": {
+        "minLon": 101.1850961,
+        "minLat": 14.1240406,
+        "maxLon": 103.010924,
+        "maxLat": 15.76967239
+      }
+    },
+    "TH60": {
+      "name": "Nakhon Sawan",
+      "sub_id": "TH60",
+      "sub_num": "60",
+      "bbox": {
+        "minLon": 99.08888316,
+        "minLat": 15.06481195,
+        "maxLon": 100.845552,
+        "maxLat": 16.33805084
+      }
+    },
+    "TH80": {
+      "name": "Nakhon Si Thammarat",
+      "sub_id": "TH80",
+      "sub_num": "80",
+      "bbox": {
+        "minLon": 99.23447144,
+        "minLat": 7.80941248,
+        "maxLon": 100.7453524,
+        "maxLat": 9.326496839
+      }
+    },
+    "TH55": {
+      "name": "Nan",
+      "sub_id": "TH55",
+      "sub_num": "55",
+      "bbox": {
+        "minLon": 100.3438627,
+        "minLat": 18.00899506,
+        "maxLon": 101.357231,
+        "maxLat": 19.63647366
+      }
+    },
+    "TH96": {
+      "name": "Narathiwat",
+      "sub_id": "TH96",
+      "sub_num": "96",
+      "bbox": {
+        "minLon": 101.3682005,
+        "minLat": 5.73091507,
+        "maxLon": 102.0932504,
+        "maxLat": 6.636857986
+      }
+    },
+    "TH39": {
+      "name": "Nong Bua Lam Phu",
+      "sub_id": "TH39",
+      "sub_num": "39",
+      "bbox": {
+        "minLon": 101.9472984,
+        "minLat": 16.76273346,
+        "maxLon": 102.6797687,
+        "maxLat": 17.7532196
+      }
+    },
+    "TH43": {
+      "name": "Nong Khai",
+      "sub_id": "TH43",
+      "sub_num": "43",
+      "bbox": {
+        "minLon": 102.0596246,
+        "minLat": 17.59400368,
+        "maxLon": 103.4180689,
+        "maxLat": 18.30528259
+      }
+    },
+    "TH12": {
+      "name": "Nonthaburi",
+      "sub_id": "TH12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 100.2530732,
+        "minLat": 13.78762722,
+        "maxLon": 100.5677266,
+        "maxLat": 14.14232254
+      }
+    },
+    "TH13": {
+      "name": "Pathum Thani",
+      "sub_id": "TH13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 100.3344767,
+        "minLat": 13.9203285,
+        "maxLon": 100.9149884,
+        "maxLat": 14.26497459
+      }
+    },
+    "TH94": {
+      "name": "Pattani",
+      "sub_id": "TH94",
+      "sub_num": "94",
+      "bbox": {
+        "minLon": 101.0276592,
+        "minLat": 6.549310685,
+        "maxLon": 101.7211205,
+        "maxLat": 6.951770783
+      }
+    },
+    "TH82": {
+      "name": "Phangnga",
+      "sub_id": "TH82",
+      "sub_num": "82",
+      "bbox": {
+        "minLon": 97.63020825,
+        "minLat": 7.744236827,
+        "maxLon": 98.70487523,
+        "maxLat": 9.359600544
+      }
+    },
+    "TH93": {
+      "name": "Phatthalung",
+      "sub_id": "TH93",
+      "sub_num": "93",
+      "bbox": {
+        "minLon": 99.74068153,
+        "minLat": 7.092891693,
+        "maxLon": 100.4264512,
+        "maxLat": 7.904019356
+      }
+    },
+    "THS": {
+      "name": "Phatthaya",
+      "sub_id": "THS",
+      "sub_num": "S",
+      "bbox": {
+        "minLon": 100.855737,
+        "minLat": 12.8660202,
+        "maxLon": 100.9351815,
+        "maxLat": 13.00231934
+      }
+    },
+    "TH56": {
+      "name": "Phayao",
+      "sub_id": "TH56",
+      "sub_num": "56",
+      "bbox": {
+        "minLon": 99.68719482,
+        "minLat": 18.81228769,
+        "maxLon": 100.6336136,
+        "maxLat": 19.73612309
+      }
+    },
+    "TH67": {
+      "name": "Phetchabun",
+      "sub_id": "TH67",
+      "sub_num": "67",
+      "bbox": {
+        "minLon": 100.623989,
+        "minLat": 15.31476975,
+        "maxLon": 101.7900356,
+        "maxLat": 17.11474538
+      }
+    },
+    "TH76": {
+      "name": "Phetchaburi",
+      "sub_id": "TH76",
+      "sub_num": "76",
+      "bbox": {
+        "minLon": 99.09904778,
+        "minLat": 12.54458427,
+        "maxLon": 100.1051465,
+        "maxLat": 13.34049225
+      }
+    },
+    "TH66": {
+      "name": "Phichit",
+      "sub_id": "TH66",
+      "sub_num": "66",
+      "bbox": {
+        "minLon": 99.97692871,
+        "minLat": 15.90820313,
+        "maxLon": 100.7852956,
+        "maxLat": 16.59555054
+      }
+    },
+    "TH65": {
+      "name": "Phitsanulok",
+      "sub_id": "TH65",
+      "sub_num": "65",
+      "bbox": {
+        "minLon": 99.88808513,
+        "minLat": 16.33898735,
+        "maxLon": 101.0952606,
+        "maxLat": 17.76408029
+      }
+    },
+    "TH14": {
+      "name": "Phra Nakhon Si Ayutthaya",
+      "sub_id": "TH14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 100.2103634,
+        "minLat": 14.11010063,
+        "maxLon": 100.8260702,
+        "maxLat": 14.67299223
+      }
+    },
+    "TH54": {
+      "name": "Phrae",
+      "sub_id": "TH54",
+      "sub_num": "54",
+      "bbox": {
+        "minLon": 99.31025696,
+        "minLat": 17.67753839,
+        "maxLon": 100.5422134,
+        "maxLat": 18.8319
+      }
+    },
+    "TH83": {
+      "name": "Phuket",
+      "sub_id": "TH83",
+      "sub_num": "83",
+      "bbox": {
+        "minLon": 98.25807667,
+        "minLat": 7.461169243,
+        "maxLon": 98.48323202,
+        "maxLat": 8.200266123
+      }
+    },
+    "TH25": {
+      "name": "Prachin Buri",
+      "sub_id": "TH25",
+      "sub_num": "25",
+      "bbox": {
+        "minLon": 101.1377608,
+        "minLat": 13.71879101,
+        "maxLon": 102.1069847,
+        "maxLat": 14.46477771
+      }
+    },
+    "TH77": {
+      "name": "Prachuap Khiri Khan",
+      "sub_id": "TH77",
+      "sub_num": "77",
+      "bbox": {
+        "minLon": 99.14577365,
+        "minLat": 10.95360947,
+        "maxLon": 100.0320249,
+        "maxLat": 12.63646281
+      }
+    },
+    "TH85": {
+      "name": "Ranong",
+      "sub_id": "TH85",
+      "sub_num": "85",
+      "bbox": {
+        "minLon": 97.82888305,
+        "minLat": 9.309459805,
+        "maxLon": 98.96103537,
+        "maxLat": 10.78820944
+      }
+    },
+    "TH70": {
+      "name": "Ratchaburi",
+      "sub_id": "TH70",
+      "sub_num": "70",
+      "bbox": {
+        "minLon": 99.16155553,
+        "minLat": 13.14522743,
+        "maxLon": 100.0849572,
+        "maxLat": 13.96130562
+      }
+    },
+    "TH21": {
+      "name": "Rayong",
+      "sub_id": "TH21",
+      "sub_num": "21",
+      "bbox": {
+        "minLon": 100.9849317,
+        "minLat": 12.51278293,
+        "maxLon": 101.8301108,
+        "maxLat": 13.16350937
+      }
+    },
+    "TH45": {
+      "name": "Roi Et",
+      "sub_id": "TH45",
+      "sub_num": "45",
+      "bbox": {
+        "minLon": 103.2967758,
+        "minLat": 15.40472031,
+        "maxLon": 104.3275888,
+        "maxLat": 16.47485733
+      }
+    },
+    "TH27": {
+      "name": "Sa Kaeo",
+      "sub_id": "TH27",
+      "sub_num": "27",
+      "bbox": {
+        "minLon": 101.8464662,
+        "minLat": 13.16857338,
+        "maxLon": 102.941209,
+        "maxLat": 14.19360638
+      }
+    },
+    "TH47": {
+      "name": "Sakon Nakhon",
+      "sub_id": "TH47",
+      "sub_num": "47",
+      "bbox": {
+        "minLon": 103.264262,
+        "minLat": 16.77610779,
+        "maxLon": 104.4409555,
+        "maxLat": 18.08861911
+      }
+    },
+    "TH11": {
+      "name": "Samut Prakan",
+      "sub_id": "TH11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 100.4561005,
+        "minLat": 13.48053217,
+        "maxLon": 100.9682838,
+        "maxLat": 13.71319342
+      }
+    },
+    "TH74": {
+      "name": "Samut Sakhon",
+      "sub_id": "TH74",
+      "sub_num": "74",
+      "bbox": {
+        "minLon": 100.0333935,
+        "minLat": 13.42462683,
+        "maxLon": 100.4119263,
+        "maxLat": 13.72653317
+      }
+    },
+    "TH75": {
+      "name": "Samut Songkhram",
+      "sub_id": "TH75",
+      "sub_num": "75",
+      "bbox": {
+        "minLon": 99.84375,
+        "minLat": 13.24172223,
+        "maxLon": 100.0786465,
+        "maxLat": 13.51919174
+      }
+    },
+    "TH19": {
+      "name": "Saraburi",
+      "sub_id": "TH19",
+      "sub_num": "19",
+      "bbox": {
+        "minLon": 100.5766306,
+        "minLat": 14.20918465,
+        "maxLon": 101.2421963,
+        "maxLat": 14.88388824
+      }
+    },
+    "TH91": {
+      "name": "Satun",
+      "sub_id": "TH91",
+      "sub_num": "91",
+      "bbox": {
+        "minLon": 99.15413022,
+        "minLat": 6.422753334,
+        "maxLon": 100.2161347,
+        "maxLat": 7.149589062
+      }
+    },
+    "TH33": {
+      "name": "Si sa ket",
+      "sub_id": "TH33",
+      "sub_num": "33",
+      "bbox": {
+        "minLon": 103.902673,
+        "minLat": 14.34224367,
+        "maxLon": 104.9037943,
+        "maxLat": 15.57221889
+      }
+    },
+    "TH17": {
+      "name": "Sing Buri",
+      "sub_id": "TH17",
+      "sub_num": "17",
+      "bbox": {
+        "minLon": 100.1818948,
+        "minLat": 14.72643316,
+        "maxLon": 100.4898555,
+        "maxLat": 15.179196
+      }
+    },
+    "TH90": {
+      "name": "Songkhla",
+      "sub_id": "TH90",
+      "sub_num": "90",
+      "bbox": {
+        "minLon": 100.0161619,
+        "minLat": 6.294967532,
+        "maxLon": 101.1027143,
+        "maxLat": 7.943097949
+      }
+    },
+    "TH64": {
+      "name": "Sukhothai",
+      "sub_id": "TH64",
+      "sub_num": "64",
+      "bbox": {
+        "minLon": 99.26745117,
+        "minLat": 16.68634415,
+        "maxLon": 100.1232599,
+        "maxLat": 17.81651902
+      }
+    },
+    "TH72": {
+      "name": "Suphan Buri",
+      "sub_id": "TH72",
+      "sub_num": "72",
+      "bbox": {
+        "minLon": 99.27956784,
+        "minLat": 14.06340122,
+        "maxLon": 100.2793373,
+        "maxLat": 15.0837779
+      }
+    },
+    "TH84": {
+      "name": "Surat Thani",
+      "sub_id": "TH84",
+      "sub_num": "84",
+      "bbox": {
+        "minLon": 98.44492042,
+        "minLat": 8.320098042,
+        "maxLon": 100.0905068,
+        "maxLat": 9.804542065
+      }
+    },
+    "TH32": {
+      "name": "Surin",
+      "sub_id": "TH32",
+      "sub_num": "32",
+      "bbox": {
+        "minLon": 103.0893254,
+        "minLat": 14.32701337,
+        "maxLon": 104.0862794,
+        "maxLat": 15.48003674
+      }
+    },
+    "TH63": {
+      "name": "Tak",
+      "sub_id": "TH63",
+      "sub_num": "63",
+      "bbox": {
+        "minLon": 97.90821457,
+        "minLat": 15.18259048,
+        "maxLon": 99.34966576,
+        "maxLat": 17.75969982
+      }
+    },
+    "TH92": {
+      "name": "Trang",
+      "sub_id": "TH92",
+      "sub_num": "92",
+      "bbox": {
+        "minLon": 99.05344617,
+        "minLat": 7.057091355,
+        "maxLon": 100.0381799,
+        "maxLat": 8.018013239
+      }
+    },
+    "TH23": {
+      "name": "Trat",
+      "sub_id": "TH23",
+      "sub_num": "23",
+      "bbox": {
+        "minLon": 102.2439631,
+        "minLat": 11.56142151,
+        "maxLon": 102.9141361,
+        "maxLat": 12.75478363
+      }
+    },
+    "TH34": {
+      "name": "Ubon Ratchathani",
+      "sub_id": "TH34",
+      "sub_num": "34",
+      "bbox": {
+        "minLon": 104.3820002,
+        "minLat": 14.21115875,
+        "maxLon": 105.6360174,
+        "maxLat": 16.03158474
+      }
+    },
+    "TH41": {
+      "name": "Udon Thani",
+      "sub_id": "TH41",
+      "sub_num": "41",
+      "bbox": {
+        "minLon": 102.0182079,
+        "minLat": 16.80222642,
+        "maxLon": 103.6638654,
+        "maxLat": 18.0905875
+      }
+    },
+    "TH61": {
+      "name": "Uthai Thani",
+      "sub_id": "TH61",
+      "sub_num": "61",
+      "bbox": {
+        "minLon": 98.98119474,
+        "minLat": 14.94018745,
+        "maxLon": 100.0795466,
+        "maxLat": 15.78430653
+      }
+    },
+    "TH53": {
+      "name": "Uttaradit",
+      "sub_id": "TH53",
+      "sub_num": "53",
+      "bbox": {
+        "minLon": 99.89515996,
+        "minLat": 17.16252208,
+        "maxLon": 101.1919245,
+        "maxLat": 18.382689
+      }
+    },
+    "TH95": {
+      "name": "Yala",
+      "sub_id": "TH95",
+      "sub_num": "95",
+      "bbox": {
+        "minLon": 100.8355038,
+        "minLat": 5.61006546,
+        "maxLon": 101.6091299,
+        "maxLat": 6.679953337
+      }
+    },
+    "TH35": {
+      "name": "Yasothon",
+      "sub_id": "TH35",
+      "sub_num": "35",
+      "bbox": {
+        "minLon": 103.9999037,
+        "minLat": 15.28748632,
+        "maxLon": 104.8223809,
+        "maxLat": 16.35003805
+      }
+    }
+  }
+  

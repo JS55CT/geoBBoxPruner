@@ -1,0 +1,14 @@
+[
+    {
+      "Martinique": {
+        "sub_num": "972",
+        "name": "Martinique",
+        "bbox": {
+            "minLon": -61.22893548,
+            "minLat": 14.38815367,
+            "maxLon": -60.80875659,
+            "maxLat": 14.87892246
+          }
+      }
+    }
+  ]

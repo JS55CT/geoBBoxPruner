@@ -1,0 +1,58 @@
+{
+    "SG01": {
+      "name": "Central Singapore",
+      "sub_id": "SG01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 103.7923207,
+        "minLat": 1.260242581,
+        "maxLon": 103.8980556,
+        "maxLat": 1.431956053
+      }
+    },
+    "SG02": {
+      "name": "North East",
+      "sub_id": "SG02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 103.8735917,
+        "minLat": 1.325848102,
+        "maxLon": 103.9784843,
+        "maxLat": 1.421795487
+      }
+    },
+    "SG03": {
+      "name": "North West",
+      "sub_id": "SG03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 103.7396919,
+        "minLat": 1.300120354,
+        "maxLon": 103.8658752,
+        "maxLat": 1.471268177
+      }
+    },
+    "SG04": {
+      "name": "South East",
+      "sub_id": "SG04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 103.8573875,
+        "minLat": 1.28074944,
+        "maxLon": 104.0857444,
+        "maxLat": 1.432933449
+      }
+    },
+    "SG05": {
+      "name": "South West",
+      "sub_id": "SG05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 103.6048872,
+        "minLat": 1.15847826,
+        "maxLon": 103.8622936,
+        "maxLat": 1.451378226
+      }
+    }
+  }
+  

@@ -1,0 +1,201 @@
+{
+    "BIBB": {
+      "name": "Bubanza",
+      "sub_id": "BIBB",
+      "sub_num": "BB",
+      "bbox": {
+        "minLon": 29.22324109,
+        "minLat": -3.314888835,
+        "maxLon": 29.5541774,
+        "maxLat": -2.914938927
+      }
+    },
+    "BIBM": {
+      "name": "Bujumbura Mairie",
+      "sub_id": "BIBM",
+      "sub_num": "BM",
+      "bbox": {
+        "minLon": 29.28733003,
+        "minLat": -3.488126993,
+        "maxLon": 29.42507994,
+        "maxLat": -3.300889969
+      }
+    },
+    "BIBL": {
+      "name": "Bujumbura Rural",
+      "sub_id": "BIBL",
+      "sub_num": "BL",
+      "bbox": {
+        "minLon": 29.20918238,
+        "minLat": -3.742904663,
+        "maxLon": 29.59961641,
+        "maxLat": -3.243348599
+      }
+    },
+    "BIBR": {
+      "name": "Bururi",
+      "sub_id": "BIBR",
+      "sub_num": "BR",
+      "bbox": {
+        "minLon": 29.49124742,
+        "minLat": -4.162445068,
+        "maxLon": 29.91726744,
+        "maxLat": -3.57175827
+      }
+    },
+    "BICA": {
+      "name": "Cankuzo",
+      "sub_id": "BICA",
+      "sub_num": "CA",
+      "bbox": {
+        "minLon": 30.31601894,
+        "minLat": -3.395602345,
+        "maxLon": 30.84945333,
+        "maxLat": -2.893567085
+      }
+    },
+    "BICI": {
+      "name": "Cibitoke",
+      "sub_id": "BICI",
+      "sub_num": "CI",
+      "bbox": {
+        "minLon": 29.00135934,
+        "minLat": -3.101577759,
+        "maxLon": 29.4851675,
+        "maxLat": -2.592086792
+      }
+    },
+    "BIGI": {
+      "name": "Gitega",
+      "sub_id": "BIGI",
+      "sub_num": "GI",
+      "bbox": {
+        "minLon": 29.71780503,
+        "minLat": -3.838691712,
+        "maxLon": 30.1061635,
+        "maxLat": -3.056688309
+      }
+    },
+    "BIKR": {
+      "name": "Karuzi",
+      "sub_id": "BIKR",
+      "sub_num": "KR",
+      "bbox": {
+        "minLon": 29.89757514,
+        "minLat": -3.393230438,
+        "maxLon": 30.35165596,
+        "maxLat": -2.902987003
+      }
+    },
+    "BIKY": {
+      "name": "Kayanza",
+      "sub_id": "BIKY",
+      "sub_num": "KY",
+      "bbox": {
+        "minLon": 29.43167055,
+        "minLat": -3.229207992,
+        "maxLon": 29.88083327,
+        "maxLat": -2.787480354
+      }
+    },
+    "BIKI": {
+      "name": "Kirundo",
+      "sub_id": "BIKI",
+      "sub_num": "KI",
+      "bbox": {
+        "minLon": 29.92149067,
+        "minLat": -2.784487009,
+        "maxLon": 30.4182651,
+        "maxLat": -2.319874763
+      }
+    },
+    "BIMA": {
+      "name": "Makamba",
+      "sub_id": "BIMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": 29.38388741,
+        "minLat": -4.464054108,
+        "maxLon": 30.19243324,
+        "maxLat": -3.993873596
+      }
+    },
+    "BIMU": {
+      "name": "Muramvya",
+      "sub_id": "BIMU",
+      "sub_num": "MU",
+      "bbox": {
+        "minLon": 29.50222099,
+        "minLat": -3.430137635,
+        "maxLon": 29.85379541,
+        "maxLat": -3.105268479
+      }
+    },
+    "BIMY": {
+      "name": "Muyinga",
+      "sub_id": "BIMY",
+      "sub_num": "MY",
+      "bbox": {
+        "minLon": 30.07775497,
+        "minLat": -3.156981468,
+        "maxLon": 30.54273021,
+        "maxLat": -2.310476303
+      }
+    },
+    "BIMW": {
+      "name": "Mwaro",
+      "sub_id": "BIMW",
+      "sub_num": "MW",
+      "bbox": {
+        "minLon": 29.55918276,
+        "minLat": -3.711662293,
+        "maxLon": 29.87757254,
+        "maxLat": -3.2845366
+      }
+    },
+    "BING": {
+      "name": "Ngozi",
+      "sub_id": "BING",
+      "sub_num": "NG",
+      "bbox": {
+        "minLon": 29.63674331,
+        "minLat": -3.08638978,
+        "maxLon": 30.18926024,
+        "maxLat": -2.653198242
+      }
+    },
+    "BIRM": {
+      "name": "Rumonge",
+      "sub_id": "BIRM",
+      "sub_num": "RM",
+      "bbox": {
+        "minLon": 29.22983539,
+        "minLat": -4.227676392,
+        "maxLon": 29.60749996,
+        "maxLat": -3.705484629
+      }
+    },
+    "BIRT": {
+      "name": "Rutana",
+      "sub_id": "BIRT",
+      "sub_num": "RT",
+      "bbox": {
+        "minLon": 29.81259346,
+        "minLat": -4.097385406,
+        "maxLon": 30.40982795,
+        "maxLat": -3.624114991
+      }
+    },
+    "BIRY": {
+      "name": "Ruyigi",
+      "sub_id": "BIRY",
+      "sub_num": "RY",
+      "bbox": {
+        "minLon": 30.04092896,
+        "minLat": -3.724708557,
+        "maxLon": 30.66670096,
+        "maxLat": -3.187365532
+      }
+    }
+  }
+  

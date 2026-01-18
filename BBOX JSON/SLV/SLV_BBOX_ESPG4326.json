@@ -1,0 +1,157 @@
+{
+    "SVAH": {
+      "name": "Ahuachapán",
+      "sub_id": "SVAH",
+      "sub_num": "AH",
+      "bbox": {
+        "minLon": -90.13276708,
+        "minLat": 13.6709404,
+        "maxLon": -89.65904486,
+        "maxLat": 14.06370163
+      }
+    },
+    "SVCA": {
+      "name": "Cabañas",
+      "sub_id": "SVCA",
+      "sub_num": "CA",
+      "bbox": {
+        "minLon": -88.9880203,
+        "minLat": 13.74251246,
+        "maxLon": -88.49116683,
+        "maxLat": 14.02576447
+      }
+    },
+    "SVCH": {
+      "name": "Chalatenango",
+      "sub_id": "SVCH",
+      "sub_num": "CH",
+      "bbox": {
+        "minLon": -89.43440664,
+        "minLat": 13.93341064,
+        "maxLon": -88.68147802,
+        "maxLat": 14.43848133
+      }
+    },
+    "SVCU": {
+      "name": "Cuscatlán",
+      "sub_id": "SVCU",
+      "sub_num": "CU",
+      "bbox": {
+        "minLon": -89.17312276,
+        "minLat": 13.64375353,
+        "maxLon": -88.85789084,
+        "maxLat": 14.07628453
+      }
+    },
+    "SVLI": {
+      "name": "La Libertad",
+      "sub_id": "SVLI",
+      "sub_num": "LI",
+      "bbox": {
+        "minLon": -89.65182138,
+        "minLat": 13.41890323,
+        "maxLon": -89.13617897,
+        "maxLat": 14.06481743
+      }
+    },
+    "SVPA": {
+      "name": "La Paz",
+      "sub_id": "SVPA",
+      "sub_num": "PA",
+      "bbox": {
+        "minLon": -89.16501594,
+        "minLat": 13.25674701,
+        "maxLon": -88.77578425,
+        "maxLat": 13.67559671
+      }
+    },
+    "SVUN": {
+      "name": "La Unión",
+      "sub_id": "SVUN",
+      "sub_num": "UN",
+      "bbox": {
+        "minLon": -88.08924437,
+        "minLat": 13.15276051,
+        "maxLon": -87.68378687,
+        "maxLat": 13.90371323
+      }
+    },
+    "SVMO": {
+      "name": "Morazán",
+      "sub_id": "SVMO",
+      "sub_num": "MO",
+      "bbox": {
+        "minLon": -88.2807343,
+        "minLat": 13.54429722,
+        "maxLon": -87.93769801,
+        "maxLat": 14.00156021
+      }
+    },
+    "SVSM": {
+      "name": "San Miguel",
+      "sub_id": "SVSM",
+      "sub_num": "SM",
+      "bbox": {
+        "minLon": -88.52877557,
+        "minLat": 13.16826749,
+        "maxLon": -88.01688588,
+        "maxLat": 13.91452789
+      }
+    },
+    "SVSS": {
+      "name": "San Salvador",
+      "sub_id": "SVSS",
+      "sub_num": "SS",
+      "bbox": {
+        "minLon": -89.2924968,
+        "minLat": 13.48051596,
+        "maxLon": -89.02880073,
+        "maxLat": 14.06400204
+      }
+    },
+    "SVSV": {
+      "name": "San Vicente",
+      "sub_id": "SVSV",
+      "sub_num": "SV",
+      "bbox": {
+        "minLon": -88.89834034,
+        "minLat": 13.25763714,
+        "maxLon": -88.49470222,
+        "maxLat": 13.79899311
+      }
+    },
+    "SVSA": {
+      "name": "Santa Ana",
+      "sub_id": "SVSA",
+      "sub_num": "SA",
+      "bbox": {
+        "minLon": -89.74575329,
+        "minLat": 13.78585064,
+        "maxLon": -89.24722743,
+        "maxLat": 14.44959641
+      }
+    },
+    "SVSO": {
+      "name": "Sonsonate",
+      "sub_id": "SVSO",
+      "sub_num": "SO",
+      "bbox": {
+        "minLon": -89.96897995,
+        "minLat": 13.52332234,
+        "maxLon": -89.44280815,
+        "maxLat": 13.9019537
+      }
+    },
+    "SVUS": {
+      "name": "Usulután",
+      "sub_id": "SVUS",
+      "sub_num": "US",
+      "bbox": {
+        "minLon": -88.82015932,
+        "minLat": 13.1587522,
+        "maxLon": -88.11848378,
+        "maxLat": 13.70647431
+      }
+    }
+  }
+  

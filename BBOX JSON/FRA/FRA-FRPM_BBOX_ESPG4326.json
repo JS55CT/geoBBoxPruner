@@ -1,0 +1,14 @@
+[
+    {
+      "Saint Pierre and Miquelon": {
+        "sub_num": "PM",
+        "name": "Saint Pierre and Miquelon",
+        "bbox": {
+            "minLon": -56.40595078,
+            "minLat": 46.74888885,
+            "maxLon": -56.126652,
+            "maxLat": 47.14503527
+          }
+      }
+    }
+  ]

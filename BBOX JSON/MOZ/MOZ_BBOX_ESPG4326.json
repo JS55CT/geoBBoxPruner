@@ -1,0 +1,124 @@
+{
+    "MZP": {
+      "name": "Cabo Delgado",
+      "sub_id": "MZP",
+      "sub_num": "P",
+      "bbox": {
+        "minLon": 37.83919632,
+        "minLat": -14.165411,
+        "maxLon": 40.72546458,
+        "maxLat": -10.47369421
+      }
+    },
+    "MZG": {
+      "name": "Gaza",
+      "sub_id": "MZG",
+      "sub_num": "G",
+      "bbox": {
+        "minLon": 31.30741,
+        "minLat": -25.38302863,
+        "maxLon": 34.47317696,
+        "maxLat": -21.3098073
+      }
+    },
+    "MZI": {
+      "name": "Inhambane",
+      "sub_id": "MZI",
+      "sub_num": "I",
+      "bbox": {
+        "minLon": 33.15827322,
+        "minLat": -24.86246455,
+        "maxLon": 35.6039505,
+        "maxLat": -20.9569416
+      }
+    },
+    "MZB": {
+      "name": "Manica",
+      "sub_id": "MZB",
+      "sub_num": "B",
+      "bbox": {
+        "minLon": 32.36432719,
+        "minLat": -21.58427238,
+        "maxLon": 34.59192562,
+        "maxLat": -16.38675213
+      }
+    },
+    "MZMPM": {
+      "name": "Maputo (City)",
+      "sub_id": "MZMPM",
+      "sub_num": "MPM",
+      "bbox": {
+        "minLon": 32.41840005,
+        "minLat": -26.07166004,
+        "maxLon": 32.70143509,
+        "maxLat": -25.65249395
+      }
+    },
+    "MZL": {
+      "name": "Maputo (Province)",
+      "sub_id": "MZL",
+      "sub_num": "L",
+      "bbox": {
+        "minLon": 31.93063259,
+        "minLat": -26.86764479,
+        "maxLon": 33.13621855,
+        "maxLat": -24.20391083
+      }
+    },
+    "MZN": {
+      "name": "Nampula",
+      "sub_id": "MZN",
+      "sub_num": "N",
+      "bbox": {
+        "minLon": 36.69622421,
+        "minLat": -16.89426506,
+        "maxLon": 40.83935869,
+        "maxLat": -13.44537735
+      }
+    },
+    "MZA": {
+      "name": "Niassa",
+      "sub_id": "MZA",
+      "sub_num": "A",
+      "bbox": {
+        "minLon": 34.37265837,
+        "minLat": -15.48103452,
+        "maxLon": 38.48280179,
+        "maxLat": -11.2575531
+      }
+    },
+    "MZS": {
+      "name": "Sofala",
+      "sub_id": "MZS",
+      "sub_num": "S",
+      "bbox": {
+        "minLon": 33.39140057,
+        "minLat": -21.31587982,
+        "maxLon": 36.19151711,
+        "maxLat": -16.8302393
+      }
+    },
+    "MZT": {
+      "name": "Tete",
+      "sub_id": "MZT",
+      "sub_num": "T",
+      "bbox": {
+        "minLon": 30.21138418,
+        "minLat": -17.69810855,
+        "maxLon": 35.34468007,
+        "maxLat": -14.00087357
+      }
+    },
+    "MZQ": {
+      "name": "Zambézia",
+      "sub_id": "MZQ",
+      "sub_num": "Q",
+      "bbox": {
+        "minLon": 35.14323652,
+        "minLat": -18.92237043,
+        "maxLon": 39.13686895,
+        "maxLat": -15.00177741
+      }
+    }
+  }
+  

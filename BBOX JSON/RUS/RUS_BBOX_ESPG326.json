@@ -1,0 +1,501 @@
+{
+    "RUAD": {
+      "name": "Adygeya, Respublika",
+      "sub_id": "RUAD",
+      "sub_num": "AD",
+      "bbox": { "minLon": 38.68437374, "minLat": 43.73652935, "maxLon": 40.77536678, "maxLat": 45.21805286 }
+    },
+    "RUAL": {
+      "name": "Altay, Respublika",
+      "sub_id": "RUAL",
+      "sub_num": "AL",
+      "bbox": { "minLon": 83.94728148, "minLat": 49.06974793, "maxLon": 89.86939132, "maxLat": 52.65583992 }
+    },
+    "RUALT": {
+      "name": "Altayskiy kray",
+      "sub_id": "RUALT",
+      "sub_num": "ALT",
+      "bbox": { "minLon": 77.89144659, "minLat": 50.63993454, "maxLon": 87.17546368, "maxLat": 54.4342314 }
+    },
+    "RUAMU": {
+      "name": "Amurskaya oblast'",
+      "sub_id": "RUAMU",
+      "sub_num": "AMU",
+      "bbox": { "minLon": 119.6560816, "minLat": 48.85255337, "maxLon": 134.9160687, "maxLat": 57.06040263 }
+    },
+    "RUARK": {
+      "name": "Arkhangel'skaya oblast'",
+      "sub_id": "RUARK",
+      "sub_num": "ARK",
+      "bbox": { "minLon": 35.50272381, "minLat": 60.64041138, "maxLon": 69.09074247, "maxLat": 81.85913086 }
+    },
+    "RUAST": {
+      "name": "Astrakhanskaya oblast'",
+      "sub_id": "RUAST",
+      "sub_num": "AST",
+      "bbox": { "minLon": 44.96140993, "minLat": 45.00362575, "maxLon": 49.60536432, "maxLat": 48.86208057 }
+    },
+    "RUBA": {
+      "name": "Bashkortostan, Respublika",
+      "sub_id": "RUBA",
+      "sub_num": "BA",
+      "bbox": { "minLon": 53.15569758, "minLat": 51.57128334, "maxLon": 60.00000000, "maxLat": 56.53578293 }
+    },
+    "RUBEL": {
+      "name": "Belgorodskaya oblast'",
+      "sub_id": "RUBEL",
+      "sub_num": "BEL",
+      "bbox": { "minLon": 35.33052218, "minLat": 49.796121, "maxLon": 39.28102064, "maxLat": 51.42942667 }
+    },
+    "RUBRY": {
+      "name": "Bryanskaya oblast'",
+      "sub_id": "RUBRY",
+      "sub_num": "BRY",
+      "bbox": { "minLon": 31.24173117, "minLat": 51.84259415, "maxLon": 35.32503557, "maxLat": 54.03538227 }
+    },
+    "RUBU": {
+      "name": "Buryatiya, Respublika",
+      "sub_id": "RUBU",
+      "sub_num": "BU",
+      "bbox": { "minLon": 98.61585653, "minLat": 49.96057391, "maxLon": 116.9217288, "maxLat": 57.25004554 }
+    },
+    "RUCE": {
+      "name": "Chechenskaya Respublika",
+      "sub_id": "RUCE",
+      "sub_num": "CE",
+      "bbox": { "minLon": 44.83616102, "minLat": 42.47554779, "maxLon": 46.65609956, "maxLat": 44.01155186 }
+    },
+    "RUCHE": {
+      "name": "Chelyabinskaya oblast'",
+      "sub_id": "RUCHE",
+      "sub_num": "CHE",
+      "bbox": { "minLon": 57.13584483, "minLat": 51.99176788, "maxLon": 63.36312163, "maxLat": 56.37067795 }
+    },
+    "RUCHU": {
+      "name": "Chukotskiy avtonomnyy okrug",
+      "sub_id": "RUCHU",
+      "sub_num": "CHU",
+      "bbox": { "minLon": -179.9999885, "minLat": 61.80778623, "maxLon": 179.9999885, "maxLat": 71.60574782 }
+    },
+    "RUCU": {
+      "name": "Chuvashskaya Respublika",
+      "sub_id": "RUCU",
+      "sub_num": "CU",
+      "bbox": { "minLon": 45.91141307, "minLat": 54.63316441, "maxLon": 48.42069447, "maxLat": 56.32775724 }
+    },
+    "RUDA": {
+      "name": "Dagestan, Respublika",
+      "sub_id": "RUDA",
+      "sub_num": "DA",
+      "bbox": { "minLon": 45.10419917, "minLat": 41.18534088, "maxLon": 48.59391093, "maxLat": 44.99794006 }
+    },
+    "RUIN": {
+      "name": "Ingushskaya, Respublika",
+      "sub_id": "RUIN",
+      "sub_num": "IN",
+      "bbox": { "minLon": 44.47628796, "minLat": 42.61116028, "maxLon": 45.29291654, "maxLat": 43.61426353 }
+    },
+    "RUIRK": {
+      "name": "Irkutskaya oblast'",
+      "sub_id": "RUIRK",
+      "sub_num": "IRK",
+      "bbox": { "minLon": 95.65206802, "minLat": 51.13105774, "maxLon": 119.1315597, "maxLat": 64.32190418 }
+    },
+    "RUIVA": {
+      "name": "Ivanovskaya oblast'",
+      "sub_id": "RUIVA",
+      "sub_num": "IVA",
+      "bbox": { "minLon": 39.37595367, "minLat": 56.34904861, "maxLon": 43.25335741, "maxLat": 57.74010658 }
+    },
+    "RUKB": {
+      "name": "Kabardino-Balkarskaya Respublika",
+      "sub_id": "RUKB",
+      "sub_num": "KB",
+      "bbox": { "minLon": 42.40743327, "minLat": 42.88908005, "maxLon": 44.45562804, "maxLat": 44.02084351 }
+    },
+    "RUKGD": {
+      "name": "Kaliningradskaya oblast'",
+      "sub_id": "RUKGD",
+      "sub_num": "KGD",
+      "bbox": { "minLon": 19.63932836, "minLat": 54.32001114, "maxLon": 22.88638699, "maxLat": 55.29320538 }
+    },
+    "RUKL": {
+      "name": "Kalmykiya, Respublika",
+      "sub_id": "RUKL",
+      "sub_num": "KL",
+      "bbox": { "minLon": 41.63416672, "minLat": 44.71152806, "maxLon": 47.56901324, "maxLat": 48.25015068 }
+    },
+    "RUKLU": {
+      "name": "Kaluzhskaya oblast'",
+      "sub_id": "RUKLU",
+      "sub_num": "KLU",
+      "bbox": { "minLon": 33.44319153, "minLat": 53.27828407, "maxLon": 37.27598178, "maxLat": 55.35254359 }
+    },
+    "RUKAM": {
+      "name": "Kamchatskiy kray",
+      "sub_id": "RUKAM",
+      "sub_num": "KAM",
+      "bbox": { "minLon": 83.83058143, "minLat": 50.864887, "maxLon": 174.5133057, "maxLat": 69.14146543 }
+    },
+    "RUKC": {
+      "name": "Karachayevo-Cherkesskaya Respublika",
+      "sub_id": "RUKC",
+      "sub_num": "KC",
+      "bbox": { "minLon": 40.66953552, "minLat": 43.18854868, "maxLon": 42.68187916, "maxLat": 44.49743986 }
+    },
+    "RUKR": {
+      "name": "Kareliya, Respublika",
+      "sub_id": "RUKR",
+      "sub_num": "KR",
+      "bbox": { "minLon": 29.30933774, "minLat": 60.68082976, "maxLon": 37.94063067, "maxLat": 66.66898727 }
+    },
+    "RUKEM": {
+      "name": "Kemerovskaya oblast'",
+      "sub_id": "RUKEM",
+      "sub_num": "KEM",
+      "bbox": { "minLon": 84.4513166, "minLat": 52.16261387, "maxLon": 89.40241325, "maxLat": 56.83553696 }
+    },
+    "RUKHA": {
+      "name": "Khabarovskiy kray",
+      "sub_id": "RUKHA",
+      "sub_num": "KHA",
+      "bbox": { "minLon": 130.3846042, "minLat": 46.63200498, "maxLon": 147.2122015, "maxLat": 62.53078938 }
+    },
+    "RUKK": {
+      "name": "Khakasiya, Respublika",
+      "sub_id": "RUKK",
+      "sub_num": "KK",
+      "bbox": { "minLon": 87.83360291, "minLat": 51.28452301, "maxLon": 91.93097532, "maxLat": 55.44427907 }
+    },
+    "RUKHM": {
+      "name": "Khanty-Mansiyskiy avtonomnyy okrug",
+      "sub_id": "RUKHM",
+      "sub_num": "KHM",
+      "bbox": { "minLon": 59.21108258, "minLat": 58.58367407, "maxLon": 85.97333324, "maxLat": 65.71815491 }
+    },
+    "RUKIR": {
+      "name": "Kirovskaya oblast'",
+      "sub_id": "RUKIR",
+      "sub_num": "KIR",
+      "bbox": { "minLon": 46.2688874, "minLat": 56.06429458, "maxLon": 53.93023896, "maxLat": 61.06413603 }
+    },
+    "RUKO": {
+      "name": "Komi, Respublika",
+      "sub_id": "RUKO",
+      "sub_num": "KO",
+      "bbox": { "minLon": 45.39660215, "minLat": 59.19636369, "maxLon": 66.27115989, "maxLat": 68.42289448 }
+    },
+    "RUKOS": {
+      "name": "Kostromskaya oblast'",
+      "sub_id": "RUKOS",
+      "sub_num": "KOS",
+      "bbox": { "minLon": 40.39332223, "minLat": 57.26964712, "maxLon": 47.64555061, "maxLat": 59.62381125 }
+    },
+    "RUKDA": {
+      "name": "Krasnodyarskiy kray",
+      "sub_id": "RUKDA",
+      "sub_num": "KDA",
+      "bbox": { "minLon": 36.5906868, "minLat": 43.38474894, "maxLon": 41.74336338, "maxLat": 46.87970364 }
+    },
+    "RUKYA": {
+      "name": "Krasnoyarskiy kray",
+      "sub_id": "RUKYA",
+      "sub_num": "KYA",
+      "bbox": { "minLon": 76.09319389, "minLat": 51.7745738, "maxLon": 113.9251724, "maxLat": 81.27779961 }
+    },
+    "RUKGN": {
+      "name": "Kurganskaya oblast'",
+      "sub_id": "RUKGN",
+      "sub_num": "KGN",
+      "bbox": { "minLon": 61.97008657, "minLat": 54.1869843, "maxLon": 68.72307837, "maxLat": 56.8406297 }
+    },
+    "RUKRS": {
+      "name": "Kurskaya oblast'",
+      "sub_id": "RUKRS",
+      "sub_num": "KRS",
+      "bbox": { "minLon": 34.08064544, "minLat": 50.90058625, "maxLon": 38.52491879, "maxLat": 52.44459987 }
+    },
+    "RULEN": {
+      "name": "Leningradskaya oblast'",
+      "sub_id": "RULEN",
+      "sub_num": "LEN",
+      "bbox": { "minLon": 26.85875368, "minLat": 58.41997147, "maxLon": 35.78093493, "maxLat": 61.3301928 }
+    },
+    "RULIP": {
+      "name": "Lipetskaya oblast'",
+      "sub_id": "RULIP",
+      "sub_num": "LIP",
+      "bbox": { "minLon": 37.71689439, "minLat": 51.88707578, "maxLon": 40.76495576, "maxLat": 53.58425975 }
+    },
+    "RUMAG": {
+      "name": "Magadanskaya oblast'",
+      "sub_id": "RUMAG",
+      "sub_num": "MAG",
+      "bbox": { "minLon": 144.7212321, "minLat": 58.83691514, "maxLon": 163.4967606, "maxLat": 66.34373188 }
+    },
+    "RUME": {
+      "name": "Mariy El, Respublika",
+      "sub_id": "RUME",
+      "sub_num": "ME",
+      "bbox": { "minLon": 45.60917366, "minLat": 55.82434058, "maxLon": 50.20212555, "maxLat": 57.342453 }
+    },
+    "RUMO": {
+      "name": "Mordoviya, Respublika",
+      "sub_id": "RUMO",
+      "sub_num": "MO",
+      "bbox": { "minLon": 42.15345299, "minLat": 53.64400864, "maxLon": 46.72766328, "maxLat": 55.18930435 }
+    },
+    "RUMOS": {
+      "name": "Moskovskaya oblast'",
+      "sub_id": "RUMOS",
+      "sub_num": "MOS",
+      "bbox": { "minLon": 35.13306582, "minLat": 54.25569177, "maxLon": 40.20434272, "maxLat": 56.95262074 }
+    },
+    "RUMOW": {
+      "name": "Moskva",
+      "sub_id": "RUMOW",
+      "sub_num": "MOW",
+      "bbox": { "minLon": 37.12947321, "minLat": 55.49117088, "maxLon": 37.94355953, "maxLat": 56.02008104 }
+    },
+    "RUMUR": {
+      "name": "Murmanskaya oblast'",
+      "sub_id": "RUMUR",
+      "sub_num": "MUR",
+      "bbox": { "minLon": 28.41564083, "minLat": 66.05671048, "maxLon": 41.41003811, "maxLat": 69.95377612 }
+    },
+    "RUNEN": {
+      "name": "Nenetskiy avtonomnyy okrug",
+      "sub_id": "RUNEN",
+      "sub_num": "NEN",
+      "bbox": { "minLon": 43.27023554, "minLat": 65.8197248, "maxLon": 65.67050123, "maxLat": 70.46474111 }
+    },
+    "RUNIZ": {
+      "name": "Nizhegorodskaya oblast'",
+      "sub_id": "RUNIZ",
+      "sub_num": "NIZ",
+      "bbox": { "minLon": 41.7776109, "minLat": 54.46111679, "maxLon": 47.77150202, "maxLat": 58.09214115 }
+    },
+    "RUNGR": {
+      "name": "Novgorodskaya oblast'",
+      "sub_id": "RUNGR",
+      "sub_num": "NGR",
+      "bbox": { "minLon": 29.61735904, "minLat": 56.91347122, "maxLon": 36.22769475, "maxLat": 59.43878174 }
+    },
+    "RUNVS": {
+      "name": "Novosibirskaya oblast'",
+      "sub_id": "RUNVS",
+      "sub_num": "NVS",
+      "bbox": { "minLon": 75.08702791, "minLat": 53.29141617, "maxLon": 85.11909986, "maxLat": 57.23565817 }
+    },
+    "RUOMS": {
+      "name": "Omskaya oblast'",
+      "sub_id": "RUOMS",
+      "sub_num": "OMS",
+      "bbox": { "minLon": 70.35652256, "minLat": 53.43509674, "maxLon": 76.3034451, "maxLat": 58.57498169 }
+    },
+    "RUORE": {
+      "name": "Orenburgskaya oblast'",
+      "sub_id": "RUORE",
+      "sub_num": "ORE",
+      "bbox": { "minLon": 50.7677511, "minLat": 50.4983139, "maxLon": 61.6922555, "maxLat": 54.36301231 }
+    },
+    "RUORL": {
+      "name": "Orlovskaya oblast'",
+      "sub_id": "RUORL",
+      "sub_num": "ORL",
+      "bbox": { "minLon": 34.79229009, "minLat": 51.93476558, "maxLon": 38.06547904, "maxLat": 53.64200234 }
+    },
+    "RUPNZ": {
+      "name": "Penzenskaya oblast'",
+      "sub_id": "RUPNZ",
+      "sub_num": "PNZ",
+      "bbox": { "minLon": 42.08252037, "minLat": 52.29164958, "maxLon": 46.98094356, "maxLat": 54.02949572 }
+    },
+    "RUPER": {
+      "name": "Permskiy kray",
+      "sub_id": "RUPER",
+      "sub_num": "PER",
+      "bbox": { "minLon": 51.77361202, "minLat": 56.10855103, "maxLon": 59.47294366, "maxLat": 61.66162491 }
+    },
+    "RUPRI": {
+      "name": "Primorskiy kray",
+      "sub_id": "RUPRI",
+      "sub_num": "PRI",
+      "bbox": { "minLon": 130.3936838, "minLat": 42.29385054, "maxLon": 139.0339773, "maxLat": 48.46232414 }
+    },
+    "RUPSK": {
+      "name": "Pskovskaya oblast'",
+      "sub_id": "RUPSK",
+      "sub_num": "PSK",
+      "bbox": { "minLon": 27.32329404, "minLat": 55.59202194, "maxLon": 31.52335823, "maxLat": 59.02040005 }
+    },
+    "RUROS": {
+      "name": "Rostovskaya oblast'",
+      "sub_id": "RUROS",
+      "sub_num": "ROS",
+      "bbox": { "minLon": 38.22144163, "minLat": 45.95182025, "maxLon": 44.32477665, "maxLat": 50.22740018 }
+    },
+    "RURYA": {
+      "name": "Ryazanskaya oblast'",
+      "sub_id": "RURYA",
+      "sub_num": "RYA",
+      "bbox": { "minLon": 38.65780163, "minLat": 53.30832481, "maxLon": 42.69824314, "maxLat": 55.35917938 }
+    },
+    "RUSA": {
+      "name": "Sakha, Respublika",
+      "sub_id": "RUSA",
+      "sub_num": "SA",
+      "bbox": { "minLon": 105.5258865, "minLat": 55.48542023, "maxLon": 162.8453064, "maxLat": 77.11651325 }
+    },
+    "RUSAK": {
+      "name": "Sakhalinskaya oblast'",
+      "sub_id": "RUSAK",
+      "sub_num": "SAK",
+      "bbox": { "minLon": 141.2103227, "minLat": 43.36002266, "maxLon": 156.5144445, "maxLat": 54.42488253 }
+    },
+    "RUSAM": {
+      "name": "Samarskaya oblast'",
+      "sub_id": "RUSAM",
+      "sub_num": "SAM",
+      "bbox": { "minLon": 47.9313786, "minLat": 51.771698, "maxLon": 52.56748533, "maxLat": 54.67792511 }
+    },
+    "RUSPE": {
+      "name": "Sankt-Peterburg",
+      "sub_id": "RUSPE",
+      "sub_num": "SPE",
+      "bbox": { "minLon": 29.42473447, "minLat": 59.63429332, "maxLon": 30.75963819, "maxLat": 60.24271488 }
+    },
+    "RUSAR": {
+      "name": "Saratovskaya oblast'",
+      "sub_id": "RUSAR",
+      "sub_num": "SAR",
+      "bbox": { "minLon": 42.50385177, "minLat": 49.80102539, "maxLon": 50.83171797, "maxLat": 52.81250775 }
+    },
+    "RUSE": {
+      "name": "Severnaya Osetiya-Alaniya, Respublika",
+      "sub_id": "RUSE",
+      "sub_num": "SE",
+      "bbox": { "minLon": 43.39361739, "minLat": 42.55142212, "maxLon": 44.95792651, "maxLat": 43.83583546 }
+    },
+    "RUSMO": {
+      "name": "Smolenskaya oblast'",
+      "sub_id": "RUSMO",
+      "sub_num": "SMO",
+      "bbox": { "minLon": 30.74927127, "minLat": 53.41217995, "maxLon": 35.39130032, "maxLat": 56.06841445 }
+    },
+    "RUSTA": {
+      "name": "Stavropol'skiy kray",
+      "sub_id": "RUSTA",
+      "sub_num": "STA",
+      "bbox": { "minLon": 40.84630585, "minLat": 43.65829468, "maxLon": 45.71664095, "maxLat": 46.23767853 }
+    },
+    "RUSVE": {
+      "name": "Sverdlovskaya oblast'",
+      "sub_id": "RUSVE",
+      "sub_num": "SVE",
+      "bbox": { "minLon": 57.22379231, "minLat": 56.05452061, "maxLon": 66.18676949, "maxLat": 61.94915772 }
+    },
+    "RUTAM": {
+      "name": "Tambovskaya oblast'",
+      "sub_id": "RUTAM",
+      "sub_num": "TAM",
+      "bbox": { "minLon": 39.91054833, "minLat": 51.587677, "maxLon": 43.24942935, "maxLat": 53.82219315 }
+    },
+    "RUTA": {
+      "name": "Tatarstan, Respublika",
+      "sub_id": "RUTA",
+      "sub_num": "TA",
+      "bbox": { "minLon": 47.25893903, "minLat": 53.9739418, "maxLon": 54.26574838, "maxLat": 56.67760849 }
+    },
+    "RUTOM": {
+      "name": "Tomskaya oblast'",
+      "sub_id": "RUTOM",
+      "sub_num": "TOM",
+      "bbox": { "minLon": 75.05988419, "minLat": 55.66453171, "maxLon": 89.37882602, "maxLat": 61.03541005 }
+    },
+    "RUTUL": {
+      "name": "Tul'skaya oblast'",
+      "sub_id": "RUTUL",
+      "sub_num": "TUL",
+      "bbox": { "minLon": 35.90413117, "minLat": 52.94619441, "maxLon": 38.95020616, "maxLat": 54.8507452 }
+    },
+    "RUTVE": {
+      "name": "Tverskaya oblast'",
+      "sub_id": "RUTVE",
+      "sub_num": "TVE",
+      "bbox": { "minLon": 30.77683556, "minLat": 55.63639653, "maxLon": 38.32827985, "maxLat": 58.86348009 }
+    },
+    "RUTYU": {
+      "name": "Tyumenskaya oblast'",
+      "sub_id": "RUTYU",
+      "sub_num": "TYU",
+      "bbox": { "minLon": 64.83137512, "minLat": 55.14587402, "maxLon": 75.20355284, "maxLat": 59.98715889 }
+    },
+    "RUTY": {
+      "name": "Tyva, Respublika",
+      "sub_id": "RUTY",
+      "sub_num": "TY",
+      "bbox": { "minLon": 88.79939616, "minLat": 49.74300385, "maxLon": 99.24996948, "maxLat": 53.72971344 }
+    },
+    "RUUD": {
+      "name": "Udmurtskaya Respublika",
+      "sub_id": "RUUD",
+      "sub_num": "UD",
+      "bbox": { "minLon": 51.11980474, "minLat": 55.856359, "maxLon": 54.45290756, "maxLat": 58.54700089 }
+    },
+    "RUULY": {
+      "name": "Ul'yanovskaya oblast'",
+      "sub_id": "RUULY",
+      "sub_num": "ULY",
+      "bbox": { "minLon": 45.78280222, "minLat": 52.53267288, "maxLon": 50.24347723, "maxLat": 54.88946557 }
+    },
+    "RUVLA": {
+      "name": "Vladimirskaya oblast'",
+      "sub_id": "RUVLA",
+      "sub_num": "VLA",
+      "bbox": { "minLon": 38.27931368, "minLat": 55.1132108, "maxLon": 42.97414184, "maxLat": 56.81219101 }
+    },
+    "RUVGG": {
+      "name": "Volgogradskaya oblast'",
+      "sub_id": "RUVGG",
+      "sub_num": "VGG",
+      "bbox": { "minLon": 41.16728985, "minLat": 47.44751573, "maxLon": 47.43327427, "maxLat": 51.24617815 }
+    },
+    "RUVLG": {
+      "name": "Vologodskaya oblast'",
+      "sub_id": "RUVLG",
+      "sub_num": "VLG",
+      "bbox": { "minLon": 34.73060775, "minLat": 58.46560121, "maxLon": 47.16382885, "maxLat": 61.60410762 }
+    },
+    "RUVOR": {
+      "name": "Voronezhskaya oblast'",
+      "sub_id": "RUVOR",
+      "sub_num": "VOR",
+      "bbox": { "minLon": 38.13940155, "minLat": 49.55709457, "maxLon": 42.9477247, "maxLat": 52.10245729 }
+    },
+    "RUYAN": {
+      "name": "Yamalo-Nenentskiy avtonomnyy okrug",
+      "sub_id": "RUYAN",
+      "sub_num": "YAN",
+      "bbox": { "minLon": 62.00186098, "minLat": 62.19561529, "maxLon": 86.03109741, "maxLat": 73.92773771 }
+    },
+    "RUYAR": {
+      "name": "Yaroslavskaya oblast'",
+      "sub_id": "RUYAR",
+      "sub_num": "YAR",
+      "bbox": { "minLon": 37.32826114, "minLat": 56.53479695, "maxLon": 41.1948427, "maxLat": 58.95116675 }
+    },
+    "RUYEV": {
+      "name": "Yeveryskaya avtonomnaya oblast'",
+      "sub_id": "RUYEV",
+      "sub_num": "YEV",
+      "bbox": { "minLon": 130.5230274, "minLat": 47.65212536, "maxLon": 134.9997803, "maxLat": 49.49426651 }
+    },
+    "RUZAB": {
+      "name": "Zabaykal'skiy kray",
+      "sub_id": "RUZAB",
+      "sub_num": "ZAB",
+      "bbox": { "minLon": 107.7377589, "minLat": 49.15592194, "maxLon": 122.1438364, "maxLat": 58.43499184 }
+    }
+  }
+  

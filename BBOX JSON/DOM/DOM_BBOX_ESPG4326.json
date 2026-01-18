@@ -1,0 +1,113 @@
+{
+    "DO35": {
+      "name": "Cibao Nord",
+      "sub_id": "DO35",
+      "sub_num": "35",
+      "bbox": {
+        "minLon": -71.25709093,
+        "minLat": 19.02299881,
+        "maxLon": -70.08105838,
+        "maxLat": 19.93212259
+      }
+    },
+    "DO33": {
+      "name": "Cibao Nordeste",
+      "sub_id": "DO33",
+      "sub_num": "33",
+      "bbox": {
+        "minLon": -70.4632653,
+        "minLat": 18.98231506,
+        "maxLon": -69.15005672,
+        "maxLat": 19.68350375
+      }
+    },
+    "DO34": {
+      "name": "Cibao Noroeste",
+      "sub_id": "DO34",
+      "sub_num": "34",
+      "bbox": {
+        "minLon": -71.81937349,
+        "minLat": 19.16891098,
+        "maxLon": -70.89489698,
+        "maxLat": 19.91231871
+      }
+    },
+    "DO36": {
+      "name": "Cibao Sur",
+      "sub_id": "DO36",
+      "sub_num": "36",
+      "bbox": {
+        "minLon": -70.92954588,
+        "minLat": 18.68276596,
+        "maxLon": -69.92229831,
+        "maxLat": 19.38159943
+      }
+    },
+    "DO37": {
+      "name": "El Valle",
+      "sub_id": "DO37",
+      "sub_num": "37",
+      "bbox": {
+        "minLon": -71.88623476,
+        "minLat": 18.50140572,
+        "maxLon": -70.88484561,
+        "maxLat": 19.31276321
+      }
+    },
+    "DO38": {
+      "name": "Enriquillo",
+      "sub_id": "DO38",
+      "sub_num": "38",
+      "bbox": {
+        "minLon": -72.00815976,
+        "minLat": 17.4702096,
+        "maxLon": -70.94725204,
+        "maxLat": 18.66800308
+      }
+    },
+    "DO39": {
+      "name": "Higuamo",
+      "sub_id": "DO39",
+      "sub_num": "39",
+      "bbox": {
+        "minLon": -70.25141263,
+        "minLat": 18.39303064,
+        "maxLon": -69.06806517,
+        "maxLat": 19.10316682
+      }
+    },
+    "DO40": {
+      "name": "Ozama",
+      "sub_id": "DO40",
+      "sub_num": "40",
+      "bbox": {
+        "minLon": -70.16619027,
+        "minLat": 18.40009785,
+        "maxLon": -69.51117468,
+        "maxLat": 18.74765396
+      }
+    },
+    "DO41": {
+      "name": "Valdesia",
+      "sub_id": "DO41",
+      "sub_num": "41",
+      "bbox": {
+        "minLon": -71.06990182,
+        "minLat": 18.19393921,
+        "maxLon": -70.00253415,
+        "maxLat": 19.00342941
+      }
+    },
+    "DO42": {
+      "name": "Yuma",
+      "sub_id": "DO42",
+      "sub_num": "42",
+      "bbox": {
+        "minLon": -69.21203768,
+        "minLat": 18.10997939,
+        "maxLon": -68.32287633,
+        "maxLat": 19.04349673
+      }
+    }
+  }
+  

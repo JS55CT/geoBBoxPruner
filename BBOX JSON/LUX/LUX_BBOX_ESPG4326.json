@@ -1,0 +1,135 @@
+{
+    "LUCA": {
+      "name": "Capellen",
+      "sub_id": "LUCA",
+      "sub_num": "CA",
+      "bbox": {
+        "minLon": 5.848074794,
+        "minLat": 49.54426289,
+        "maxLon": 6.103761673,
+        "maxLat": 49.72400844
+      }
+    },
+    "LUCL": {
+      "name": "Clervaux",
+      "sub_id": "LUCL",
+      "sub_num": "CL",
+      "bbox": {
+        "minLon": 5.819314003,
+        "minLat": 49.94631302,
+        "maxLon": 6.171147585,
+        "maxLat": 50.18606186
+      }
+    },
+    "LUDI": {
+      "name": "Diekirch",
+      "sub_id": "LUDI",
+      "sub_num": "DI",
+      "bbox": {
+        "minLon": 5.967038632,
+        "minLat": 49.78538895,
+        "maxLon": 6.315298796,
+        "maxLat": 49.98710632
+      }
+    },
+    "LUEC": {
+      "name": "Echternach",
+      "sub_id": "LUEC",
+      "sub_num": "EC",
+      "bbox": {
+        "minLon": 6.238502144,
+        "minLat": 49.72757578,
+        "maxLon": 6.531288147,
+        "maxLat": 49.85836029
+      }
+    },
+    "LUES": {
+      "name": "Esch an der Alzette",
+      "sub_id": "LUES",
+      "sub_num": "ES",
+      "bbox": {
+        "minLon": 5.81286645,
+        "minLat": 49.44811106,
+        "maxLon": 6.240499973,
+        "maxLat": 49.59039688
+      }
+    },
+    "LUGR": {
+      "name": "Grevenmacher",
+      "sub_id": "LUGR",
+      "sub_num": "GR",
+      "bbox": {
+        "minLon": 6.166726827,
+        "minLat": 49.59091985,
+        "maxLon": 6.517577172,
+        "maxLat": 49.75577116
+      }
+    },
+    "LULU": {
+      "name": "Luxembourg",
+      "sub_id": "LULU",
+      "sub_num": "LU",
+      "bbox": {
+        "minLon": 5.997109413,
+        "minLat": 49.51679707,
+        "maxLon": 6.309754252,
+        "maxLat": 49.69202042
+      }
+    },
+    "LUME": {
+      "name": "Mersch",
+      "sub_id": "LUME",
+      "sub_num": "ME",
+      "bbox": {
+        "minLon": 5.985848308,
+        "minLat": 49.68129158,
+        "maxLon": 6.278564453,
+        "maxLat": 49.83424187
+      }
+    },
+    "LURD": {
+      "name": "Redange",
+      "sub_id": "LURD",
+      "sub_num": "RD",
+      "bbox": {
+        "minLon": 5.741058826,
+        "minLat": 49.70235229,
+        "maxLon": 6.040682793,
+        "maxLat": 49.88899648
+      }
+    },
+    "LURM": {
+      "name": "Remich",
+      "sub_id": "LURM",
+      "sub_num": "RM",
+      "bbox": {
+        "minLon": 6.21913898,
+        "minLat": 49.45928514,
+        "maxLon": 6.383593797,
+        "maxLat": 49.6278137
+      }
+    },
+    "LUVD": {
+      "name": "Vianden",
+      "sub_id": "LUVD",
+      "sub_num": "VD",
+      "bbox": {
+        "minLon": 6.086830258,
+        "minLat": 49.87132072,
+        "maxLon": 6.236811519,
+        "maxLat": 49.98722434
+      }
+    },
+    "LUWI": {
+      "name": "Wiltz",
+      "sub_id": "LUWI",
+      "sub_num": "WI",
+      "bbox": {
+        "minLon": 5.739399195,
+        "minLat": 49.85257781,
+        "maxLon": 6.059582114,
+        "maxLat": 50.03347099
+      }
+    }
+  }
+  

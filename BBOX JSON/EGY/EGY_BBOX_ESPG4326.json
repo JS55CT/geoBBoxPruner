@@ -1,0 +1,300 @@
+{
+    "EGDK": {
+      "name": "Ad Daqahlīyah",
+      "sub_id": "EGDK",
+      "sub_num": "DK",
+      "bbox": {
+        "minLon": 31.21596229,
+        "minLat": 30.56147575,
+        "maxLon": 32.29886544,
+        "maxLat": 31.52684796
+      }
+    },
+    "EGBA": {
+      "name": "Al Baḥr al Aḥmar",
+      "sub_id": "EGBA",
+      "sub_num": "BA",
+      "bbox": {
+        "minLon": 30.82564664,
+        "minLat": 21.72463775,
+        "maxLon": 36.24837685,
+        "maxLat": 29.28783417
+      }
+    },
+    "EGBH": {
+      "name": "Al Buḥayrah",
+      "sub_id": "EGBH",
+      "sub_num": "BH",
+      "bbox": {
+        "minLon": 29.63275754,
+        "minLat": 29.89251137,
+        "maxLon": 30.87715638,
+        "maxLat": 31.4664948
+      }
+    },
+    "EGFYM": {
+      "name": "Al Fayyūm",
+      "sub_id": "EGFYM",
+      "sub_num": "FYM",
+      "bbox": {
+        "minLon": 29.82485294,
+        "minLat": 28.95309448,
+        "maxLon": 31.10376859,
+        "maxLat": 29.73312378
+      }
+    },
+    "EGGH": {
+      "name": "Al Gharbīyah",
+      "sub_id": "EGGH",
+      "sub_num": "GH",
+      "bbox": {
+        "minLon": 30.74858177,
+        "minLat": 30.58353269,
+        "maxLon": 31.30749571,
+        "maxLat": 31.1366272
+      }
+    },
+    "EGALX": {
+      "name": "Al Iskandariyah",
+      "sub_id": "EGALX",
+      "sub_num": "ALX",
+      "bbox": {
+        "minLon": 29.59814823,
+        "minLat": 30.33745766,
+        "maxLon": 30.10864413,
+        "maxLat": 31.35906994
+      }
+    },
+    "EGIS": {
+      "name": "Al Ismā‘īlīyah",
+      "sub_id": "EGIS",
+      "sub_num": "IS",
+      "bbox": {
+        "minLon": 31.76069546,
+        "minLat": 30.20072937,
+        "maxLon": 32.79637337,
+        "maxLat": 31.1246109
+      }
+    },
+    "EGGZ": {
+      "name": "Al Jīzah",
+      "sub_id": "EGGZ",
+      "sub_num": "GZ",
+      "bbox": {
+        "minLon": 27.34365809,
+        "minLat": 27.65001297,
+        "maxLon": 31.93722153,
+        "maxLat": 30.34016132
+      }
+    },
+    "EGMN": {
+      "name": "Al Minyā",
+      "sub_id": "EGMN",
+      "sub_num": "MN",
+      "bbox": {
+        "minLon": 28.67441142,
+        "minLat": 27.59765625,
+        "maxLon": 30.96853554,
+        "maxLat": 28.77319336
+      }
+    },
+    "EGMNF": {
+      "name": "Al Minūfīyah",
+      "sub_id": "EGMNF",
+      "sub_num": "MNF",
+      "bbox": {
+        "minLon": 30.78654146,
+        "minLat": 30.17098904,
+        "maxLon": 31.26064122,
+        "maxLat": 30.71751595
+      }
+    },
+    "EGKB": {
+      "name": "Al Qalyūbīyah",
+      "sub_id": "EGKB",
+      "sub_num": "KB",
+      "bbox": {
+        "minLon": 31.05462432,
+        "minLat": 30.11318207,
+        "maxLon": 31.59194469,
+        "maxLat": 30.58465004
+      }
+    },
+    "EGC": {
+      "name": "Al Qāhirah",
+      "sub_id": "EGC",
+      "sub_num": "C",
+      "bbox": {
+        "minLon": 31.22003329,
+        "minLat": 29.75578308,
+        "maxLon": 31.94166565,
+        "maxLat": 30.1890564
+      }
+    },
+    "EGLX": {
+      "name": "Al Uqṣur",
+      "sub_id": "EGLX",
+      "sub_num": "LX",
+      "bbox": {
+        "minLon": 32.58658218,
+        "minLat": 25.60333729,
+        "maxLon": 32.6977452,
+        "maxLat": 25.73227656
+      }
+    },
+    "EGWAD": {
+      "name": "Al Wādī al Jadīd",
+      "sub_id": "EGWAD",
+      "sub_num": "WAD",
+      "bbox": {
+        "minLon": 24.99714267,
+        "minLat": 21.9990921,
+        "maxLon": 32.91040993,
+        "maxLat": 27.65722275
+      }
+    },
+    "EGSUZ": {
+      "name": "As Suways",
+      "sub_id": "EGSUZ",
+      "sub_num": "SUZ",
+      "bbox": {
+        "minLon": 31.87154639,
+        "minLat": 28.94702196,
+        "maxLon": 32.85472107,
+        "maxLat": 30.2690506
+      }
+    },
+    "EGSHR": {
+      "name": "Ash Sharqīyah",
+      "sub_id": "EGSHR",
+      "sub_num": "SHR",
+      "bbox": {
+        "minLon": 31.26949072,
+        "minLat": 30.16777039,
+        "maxLon": 32.20205951,
+        "maxLat": 31.10857964
+      }
+    },
+    "EGASN": {
+      "name": "Aswān",
+      "sub_id": "EGASN",
+      "sub_num": "ASN",
+      "bbox": {
+        "minLon": 31.23017776,
+        "minLat": 21.99966002,
+        "maxLon": 33.34723198,
+        "maxLat": 25.25919914
+      }
+    },
+    "EGAST": {
+      "name": "Asyūṭ",
+      "sub_id": "EGAST",
+      "sub_num": "AST",
+      "bbox": {
+        "minLon": 30.67201447,
+        "minLat": 26.81651115,
+        "maxLon": 31.62172723,
+        "maxLat": 27.62374878
+      }
+    },
+    "EGBNS": {
+      "name": "Banī Suwayf",
+      "sub_id": "EGBNS",
+      "sub_num": "BNS",
+      "bbox": {
+        "minLon": 29.7600944,
+        "minLat": 28.70676041,
+        "maxLon": 31.26610124,
+        "maxLat": 29.39711809
+      }
+    },
+    "EGPTS": {
+      "name": "Būr Sa‘īd",
+      "sub_id": "EGPTS",
+      "sub_num": "PTS",
+      "bbox": {
+        "minLon": 32.24860692,
+        "minLat": 30.98041534,
+        "maxLon": 32.60990477,
+        "maxLat": 31.29961968
+      }
+    },
+    "EGDT": {
+      "name": "Dumyāṭ",
+      "sub_id": "EGDT",
+      "sub_num": "DT",
+      "bbox": {
+        "minLon": 31.49723792,
+        "minLat": 31.15559578,
+        "maxLon": 32.05932617,
+        "maxLat": 31.52757525
+      }
+    },
+    "EGJS": {
+      "name": "Janūb Sīnāʼ",
+      "sub_id": "EGJS",
+      "sub_num": "JS",
+      "bbox": {
+        "minLon": 32.64745224,
+        "minLat": 27.72329009,
+        "maxLon": 34.90227687,
+        "maxLat": 29.92637157
+      }
+    },
+    "EGKFS": {
+      "name": "Kafr ash Shaykh",
+      "sub_id": "EGKFS",
+      "sub_num": "KFS",
+      "bbox": {
+        "minLon": 30.3646251,
+        "minLat": 30.97732544,
+        "maxLon": 31.35679638,
+        "maxLat": 31.60264862
+      }
+    },
+    "EGMT": {
+      "name": "Maṭrūḥ",
+      "sub_id": "EGMT",
+      "sub_num": "MT",
+      "bbox": {
+        "minLon": 24.69675243,
+        "minLat": 27.65001297,
+        "maxLon": 30.33142674,
+        "maxLat": 31.67049408
+      }
+    },
+    "EGKN": {
+      "name": "Qinā",
+      "sub_id": "EGKN",
+      "sub_num": "KN",
+      "bbox": {
+        "minLon": 31.95557725,
+        "minLat": 25.1371479,
+        "maxLon": 32.93396258,
+        "maxLat": 26.25174522
+      }
+    },
+    "EGSIN": {
+      "name": "Shamāl Sīnāʼ",
+      "sub_id": "EGSIN",
+      "sub_num": "SIN",
+      "bbox": {
+        "minLon": 32.59886992,
+        "minLat": 29.48981535,
+        "maxLon": 34.90361798,
+        "maxLat": 31.32493305
+      }
+    },
+    "EGSHG": {
+      "name": "Sūhāj",
+      "sub_id": "EGSHG",
+      "sub_num": "SHG",
+      "bbox": {
+        "minLon": 31.30176973,
+        "minLat": 26.11484527,
+        "maxLon": 32.31322622,
+        "maxLat": 26.93507755
+      }
+    }
+  }
+  

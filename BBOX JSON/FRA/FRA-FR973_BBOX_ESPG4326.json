@@ -1,0 +1,14 @@
+[
+    {
+      "French Guiana": {
+        "sub_num": "973",
+        "name": "French Guiana",
+        "bbox": {
+            "minLon": -54.60053873,
+            "minLat": 2.112636566,
+            "maxLon": -51.62019837,
+            "maxLat": 5.75170362
+          }
+      }
+    }
+  ]

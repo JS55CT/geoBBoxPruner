@@ -1,0 +1,190 @@
+{
+    "NIBO": {
+      "name": "Boaco",
+      "sub_id": "NIBO",
+      "sub_num": "BO",
+      "bbox": {
+        "minLon": -85.96187449,
+        "minLat": 11.95810032,
+        "maxLon": -84.9973017,
+        "maxLat": 12.80097663
+      }
+    },
+    "NICA": {
+      "name": "Carazo",
+      "sub_id": "NICA",
+      "sub_num": "CA",
+      "bbox": {
+        "minLon": -86.44876742,
+        "minLat": 11.51848638,
+        "maxLon": -86.07550693,
+        "maxLat": 11.9508934
+      }
+    },
+    "NICI": {
+      "name": "Chinandega",
+      "sub_id": "NICI",
+      "sub_num": "CI",
+      "bbox": {
+        "minLon": -87.69089079,
+        "minLat": 12.45464134,
+        "maxLon": -86.64815879,
+        "maxLat": 13.31199646
+      }
+    },
+    "NICO": {
+      "name": "Chontales",
+      "sub_id": "NICO",
+      "sub_num": "CO",
+      "bbox": {
+        "minLon": -85.7866106,
+        "minLat": 11.39080429,
+        "maxLon": -84.70109415,
+        "maxLat": 12.37944603
+      }
+    },
+    "NIAN": {
+      "name": "Costa Caribe Norte",
+      "sub_id": "NIAN",
+      "sub_num": "AN",
+      "bbox": {
+        "minLon": -85.51286662,
+        "minLat": 13.02472115,
+        "maxLon": -82.73448777,
+        "maxLat": 15.02994061
+      }
+    },
+    "NIAS": {
+      "name": "Costa Caribe Sur",
+      "sub_id": "NIAS",
+      "sub_num": "AS",
+      "bbox": {
+        "minLon": -85.2937609,
+        "minLat": 10.94257951,
+        "maxLon": -82.96986687,
+        "maxLat": 13.31130981
+      }
+    },
+    "NIES": {
+      "name": "Estelí",
+      "sub_id": "NIES",
+      "sub_num": "ES",
+      "bbox": {
+        "minLon": -86.69546258,
+        "minLat": 12.90942907,
+        "maxLon": -86.14142179,
+        "maxLat": 13.43748093
+      }
+    },
+    "NIGR": {
+      "name": "Granada",
+      "sub_id": "NIGR",
+      "sub_num": "GR",
+      "bbox": {
+        "minLon": -86.14422739,
+        "minLat": 11.62628174,
+        "maxLon": -85.76997137,
+        "maxLat": 12.31327057
+      }
+    },
+    "NIJI": {
+      "name": "Jinotega",
+      "sub_id": "NIJI",
+      "sub_num": "JI",
+      "bbox": {
+        "minLon": -86.25407875,
+        "minLat": 12.95519829,
+        "maxLon": -84.82087016,
+        "maxLat": 14.5860672
+      }
+    },
+    "NILE": {
+      "name": "León",
+      "sub_id": "NILE",
+      "sub_num": "LE",
+      "bbox": {
+        "minLon": -87.18192387,
+        "minLat": 11.99223804,
+        "maxLon": -86.25583971,
+        "maxLat": 13.08282328
+      }
+    },
+    "NIMD": {
+      "name": "Madriz",
+      "sub_id": "NIMD",
+      "sub_num": "MD",
+      "bbox": {
+        "minLon": -86.74703753,
+        "minLat": 13.20661104,
+        "maxLon": -86.05249488,
+        "maxLat": 13.62802505
+      }
+    },
+    "NIMN": {
+      "name": "Managua",
+      "sub_id": "NIMN",
+      "sub_num": "MN",
+      "bbox": {
+        "minLon": -86.67499888,
+        "minLat": 11.72053564,
+        "maxLon": -85.89124584,
+        "maxLat": 12.63833284
+      }
+    },
+    "NIMS": {
+      "name": "Masaya",
+      "sub_id": "NIMS",
+      "sub_num": "MS",
+      "bbox": {
+        "minLon": -86.41866756,
+        "minLat": 11.86652184,
+        "maxLon": -85.96067977,
+        "maxLat": 12.15034664
+      }
+    },
+    "NIMT": {
+      "name": "Matagalpa",
+      "sub_id": "NIMT",
+      "sub_num": "MT",
+      "bbox": {
+        "minLon": -86.28917921,
+        "minLat": 12.55193353,
+        "maxLon": -85.12131882,
+        "maxLat": 13.34201705
+      }
+    },
+    "NINS": {
+      "name": "Nueva Segovia",
+      "sub_id": "NINS",
+      "sub_num": "NS",
+      "bbox": {
+        "minLon": -86.78520107,
+        "minLat": 13.45085442,
+        "maxLon": -85.75214589,
+        "maxLat": 14.07897949
+      }
+    },
+    "NIRI": {
+      "name": "Rivas",
+      "sub_id": "NIRI",
+      "sub_num": "RI",
+      "bbox": {
+        "minLon": -86.17377031,
+        "minLat": 11.03916991,
+        "maxLon": -85.16412354,
+        "maxLat": 11.90593362
+      }
+    },
+    "NISJ": {
+      "name": "Río San Juan",
+      "sub_id": "NISJ",
+      "sub_num": "SJ",
+      "bbox": {
+        "minLon": -85.18934393,
+        "minLat": 10.70943832,
+        "maxLon": -83.66007018,
+        "maxLat": 11.86372674
+      }
+    }
+  }
+  

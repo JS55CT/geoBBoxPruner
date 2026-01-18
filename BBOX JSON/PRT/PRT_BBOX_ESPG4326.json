@@ -1,0 +1,223 @@
+{
+    "PT20": {
+      "name": "Região Autónoma dos Açores",
+      "sub_id": "PT20",
+      "sub_num": "20",
+      "bbox": {
+        "minLon": -31.27519238,
+        "minLat": 36.92722511,
+        "maxLon": -24.77988875,
+        "maxLat": 39.72749364
+      }
+    },
+    "PT30": {
+      "name": "Região Autónoma da Madeira",
+      "sub_id": "PT30",
+      "sub_num": "30",
+      "bbox": {
+        "minLon": -17.26564693,
+        "minLat": 30.02887273,
+        "maxLon": -15.85411322,
+        "maxLat": 33.12866259
+      }
+    },
+    "PT01": {
+      "name": "Aveiro",
+      "sub_id": "PT01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": -8.788874626,
+        "minLat": 40.27673721,
+        "maxLon": -8.085747838,
+        "maxLat": 41.07933688
+      }
+    },
+    "PT02": {
+      "name": "Beja",
+      "sub_id": "PT02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": -8.819959163,
+        "minLat": 37.32287407,
+        "maxLon": -6.936324477,
+        "maxLat": 38.33069801
+      }
+    },
+    "PT03": {
+      "name": "Braga",
+      "sub_id": "PT03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -8.809917211,
+        "minLat": 41.31913507,
+        "maxLon": -7.801482439,
+        "maxLat": 41.8218869
+      }
+    },
+    "PT04": {
+      "name": "Bragança",
+      "sub_id": "PT04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": -7.432403445,
+        "minLat": 41.02458,
+        "maxLon": -6.184924483,
+        "maxLat": 41.99146271
+      }
+    },
+    "PT05": {
+      "name": "Castelo Branco",
+      "sub_id": "PT05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -8.292588711,
+        "minLat": 39.53747725,
+        "maxLon": -6.859920621,
+        "maxLat": 40.41327739
+      }
+    },
+    "PT06": {
+      "name": "Coimbra",
+      "sub_id": "PT06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": -8.90916717,
+        "minLat": 39.93253469,
+        "maxLon": -7.731015325,
+        "maxLat": 40.50055802
+      }
+    },
+    "PT08": {
+      "name": "Faro",
+      "sub_id": "PT08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": -8.99783206,
+        "minLat": 36.96101272,
+        "maxLon": -7.400054455,
+        "maxLat": 37.52894318
+      }
+    },
+    "PT09": {
+      "name": "Guarda",
+      "sub_id": "PT09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": -7.844891548,
+        "minLat": 40.23073196,
+        "maxLon": -6.782479525,
+        "maxLat": 41.21460915
+      }
+    },
+    "PT10": {
+      "name": "Leiria",
+      "sub_id": "PT10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": -9.547027827,
+        "minLat": 39.21203435,
+        "maxLon": -8.108017206,
+        "maxLat": 40.08722305
+      }
+    },
+    "PT11": {
+      "name": "Lisboa",
+      "sub_id": "PT11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": -9.500316739,
+        "minLat": 38.67304981,
+        "maxLon": -8.79646492,
+        "maxLat": 39.32249844
+      }
+    },
+    "PT12": {
+      "name": "Portalegre",
+      "sub_id": "PT12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": -8.344474792,
+        "minLat": 38.75291371,
+        "maxLon": -6.95264399,
+        "maxLat": 39.66402411
+      }
+    },
+    "PT13": {
+      "name": "Porto",
+      "sub_id": "PT13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": -8.786736131,
+        "minLat": 40.97599983,
+        "maxLon": -7.871623039,
+        "maxLat": 41.48148799
+      }
+    },
+    "PT14": {
+      "name": "Santarém",
+      "sub_id": "PT14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": -8.999303579,
+        "minLat": 38.7314415,
+        "maxLon": -7.809273601,
+        "maxLat": 39.83163393
+      }
+    },
+    "PT15": {
+      "name": "Setúbal",
+      "sub_id": "PT15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": -9.299533248,
+        "minLat": 37.75151253,
+        "maxLon": -8.128767968,
+        "maxLat": 38.84181976
+      }
+    },
+    "PT16": {
+      "name": "Viana do Castelo",
+      "sub_id": "PT16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": -8.880498648,
+        "minLat": 41.60616875,
+        "maxLon": -8.082447172,
+        "maxLat": 42.1541667
+      }
+    },
+    "PT17": {
+      "name": "Vila Real",
+      "sub_id": "PT17",
+      "sub_num": "17",
+      "bbox": {
+        "minLon": -8.119858026,
+        "minLat": 41.13156641,
+        "maxLon": -7.170833349,
+        "maxLat": 41.92743301
+      }
+    },
+    "PT18": {
+      "name": "Viseu",
+      "sub_id": "PT18",
+      "sub_num": "18",
+      "bbox": {
+        "minLon": -8.359337687,
+        "minLat": 40.32875061,
+        "maxLon": -7.391423822,
+        "maxLat": 41.18954659
+      }
+    },
+    "PT07": {
+      "name": "Évora",
+      "sub_id": "PT07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": -8.652935266,
+        "minLat": 38.15637589,
+        "maxLon": -7.109085799,
+        "maxLat": 39.05056
+      }
+    }
+  }
+  

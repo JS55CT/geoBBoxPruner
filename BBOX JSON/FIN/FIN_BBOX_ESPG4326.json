@@ -1,0 +1,212 @@
+{
+    "FI01": {
+      "name": "Ahvenanmaan maakunta",
+      "sub_id": "FI01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 19.11401427,
+        "minLat": 59.75999832,
+        "maxLon": 21.32573962,
+        "maxLat": 60.71964204
+      }
+    },
+    "FI02": {
+      "name": "Etelä-Karjala",
+      "sub_id": "FI02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 26.95084643,
+        "minLat": 60.66152072,
+        "maxLon": 30.14309406,
+        "maxLat": 61.86109543
+      }
+    },
+    "FI03": {
+      "name": "Etelä-Pohjanmaa",
+      "sub_id": "FI03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 21.51956952,
+        "minLat": 61.98037863,
+        "maxLon": 24.58674753,
+        "maxLat": 63.45527172
+      }
+    },
+    "FI04": {
+      "name": "Etelä-Savo",
+      "sub_id": "FI04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 26.23396695,
+        "minLat": 61.15213394,
+        "maxLon": 29.69848883,
+        "maxLat": 62.65745401
+      }
+    },
+    "FI05": {
+      "name": "Kainuu",
+      "sub_id": "FI05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 26.24329817,
+        "minLat": 63.67007577,
+        "maxLon": 30.55325544,
+        "maxLat": 65.48761797
+      }
+    },
+    "FI06": {
+      "name": "Kanta-Häme",
+      "sub_id": "FI06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 23.13790023,
+        "minLat": 60.55372238,
+        "maxLon": 25.29407132,
+        "maxLat": 61.31916046
+      }
+    },
+    "FI07": {
+      "name": "Keski-Pohjanmaa",
+      "sub_id": "FI07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 22.78342533,
+        "minLat": 63.08146334,
+        "maxLon": 25.03537989,
+        "maxLat": 64.21914804
+      }
+    },
+    "FI08": {
+      "name": "Keski-Suomi",
+      "sub_id": "FI08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 24.00945592,
+        "minLat": 61.45048141,
+        "maxLon": 26.7759881,
+        "maxLat": 63.61083984
+      }
+    },
+    "FI09": {
+      "name": "Kymenlaakso",
+      "sub_id": "FI09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 26.036623,
+        "minLat": 60.23774183,
+        "maxLon": 27.97887158,
+        "maxLat": 61.29127073
+      }
+    },
+    "FI10": {
+      "name": "Lappi",
+      "sub_id": "FI10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 20.55288506,
+        "minLat": 65.49753368,
+        "maxLon": 30.01859951,
+        "maxLat": 70.09225845
+      }
+    },
+    "FI11": {
+      "name": "Pirkanmaa",
+      "sub_id": "FI11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 22.53501797,
+        "minLat": 60.94528198,
+        "maxLon": 25.00361919,
+        "maxLat": 62.49375343
+      }
+    },
+    "FI12": {
+      "name": "Pohjanmaa",
+      "sub_id": "FI12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 20.60155964,
+        "minLat": 61.95267475,
+        "maxLon": 23.65375841,
+        "maxLat": 63.93806136
+      }
+    },
+    "FI13": {
+      "name": "Pohjois-Karjala",
+      "sub_id": "FI13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 28.35957694,
+        "minLat": 61.71878815,
+        "maxLon": 31.58387339,
+        "maxLat": 63.88223648
+      }
+    },
+    "FI14": {
+      "name": "Pohjois-Pohjanmaa",
+      "sub_id": "FI14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 23.44284189,
+        "minLat": 63.42673302,
+        "maxLon": 30.13933265,
+        "maxLat": 66.48668289
+      }
+    },
+    "FI15": {
+      "name": "Pohjois-Savo",
+      "sub_id": "FI15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 26.04127467,
+        "minLat": 62.11953163,
+        "maxLon": 29.10034728,
+        "maxLat": 64.03924227
+      }
+    },
+    "FI16": {
+      "name": "Päijät-Häme",
+      "sub_id": "FI16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 24.85526645,
+        "minLat": 60.67547321,
+        "maxLon": 26.49527812,
+        "maxLat": 61.79843903
+      }
+    },
+    "FI17": {
+      "name": "Satakunta",
+      "sub_id": "FI17",
+      "sub_num": "17",
+      "bbox": {
+        "minLon": 21.27568805,
+        "minLat": 60.87249756,
+        "maxLon": 22.99897087,
+        "maxLat": 62.31114864
+      }
+    },
+    "FI18": {
+      "name": "Uusimaa",
+      "sub_id": "FI18",
+      "sub_num": "18",
+      "bbox": {
+        "minLon": 22.79661417,
+        "minLat": 59.75234187,
+        "maxLon": 26.75584769,
+        "maxLat": 60.84144831
+      }
+    },
+    "FI19": {
+      "name": "Varsinais-Suomi",
+      "sub_id": "FI19",
+      "sub_num": "19",
+      "bbox": {
+        "minLon": 21.00173414,
+        "minLat": 59.72080338,
+        "maxLon": 23.92179859,
+        "maxLat": 61.11306393
+      }
+    }
+  }
+  

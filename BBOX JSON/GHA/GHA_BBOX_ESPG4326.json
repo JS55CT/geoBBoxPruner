@@ -1,0 +1,179 @@
+{
+    "GHAF": {
+      "name": "Ahafo",
+      "sub_id": "GHAF",
+      "sub_num": "AF",
+      "bbox": {
+        "minLon": -2.879083038,
+        "minLat": 6.350698471,
+        "maxLon": -1.846728921,
+        "maxLat": 7.371023774
+      }
+    },
+    "GHAH": {
+      "name": "Ashanti",
+      "sub_id": "GHAH",
+      "sub_num": "AH",
+      "bbox": {
+        "minLon": -2.449957013,
+        "minLat": 5.854682922,
+        "maxLon": -0.23713851,
+        "maxLat": 7.623653412
+      }
+    },
+    "GHBO": {
+      "name": "Bono",
+      "sub_id": "GHBO",
+      "sub_num": "BO",
+      "bbox": {
+        "minLon": -3.11750567,
+        "minLat": 6.838817597,
+        "maxLon": -1.895794034,
+        "maxLat": 8.786829114
+      }
+    },
+    "GHBE": {
+      "name": "Bono East",
+      "sub_id": "GHBE",
+      "sub_num": "BE",
+      "bbox": {
+        "minLon": -2.122085214,
+        "minLat": 7.152583122,
+        "maxLon": 0.236615181,
+        "maxLat": 8.774943351
+      }
+    },
+    "GHCP": {
+      "name": "Central",
+      "sub_id": "GHCP",
+      "sub_num": "CP",
+      "bbox": {
+        "minLon": -2.199000955,
+        "minLat": 5.031201244,
+        "maxLon": -0.402483225,
+        "maxLat": 6.311130523
+      }
+    },
+    "GHEP": {
+      "name": "Eastern",
+      "sub_id": "GHEP",
+      "sub_num": "EP",
+      "bbox": {
+        "minLon": -1.263425112,
+        "minLat": 5.681819916,
+        "maxLon": 0.369963049,
+        "maxLat": 7.21200943
+      }
+    },
+    "GHAA": {
+      "name": "Greater Accra",
+      "sub_id": "GHAA",
+      "sub_num": "AA",
+      "bbox": {
+        "minLon": -0.500821591,
+        "minLat": 5.471571207,
+        "maxLon": 0.66479683,
+        "maxLat": 6.008491516
+      }
+    },
+    "GHNE": {
+      "name": "North East",
+      "sub_id": "GHNE",
+      "sub_num": "NE",
+      "bbox": {
+        "minLon": -1.661643863,
+        "minLat": 9.939537048,
+        "maxLon": 0.417671085,
+        "maxLat": 10.71012497
+      }
+    },
+    "GHNP": {
+      "name": "Northern",
+      "sub_id": "GHNP",
+      "sub_num": "NP",
+      "bbox": {
+        "minLon": -1.373768448,
+        "minLat": 8.228416442,
+        "maxLon": 0.5625,
+        "maxLat": 10.3127718
+      }
+    },
+    "GHOT": {
+      "name": "Oti",
+      "sub_id": "GHOT",
+      "sub_num": "OT",
+      "bbox": {
+        "minLon": -0.366080403,
+        "minLat": 7.076679706,
+        "maxLon": 0.729492188,
+        "maxLat": 8.775157929
+      }
+    },
+    "GHSV": {
+      "name": "Savannah",
+      "sub_id": "GHSV",
+      "sub_num": "SV",
+      "bbox": {
+        "minLon": -2.780222893,
+        "minLat": 7.949123383,
+        "maxLon": -0.145344377,
+        "maxLat": 10.07866859
+      }
+    },
+    "GHUE": {
+      "name": "Upper East",
+      "sub_id": "GHUE",
+      "sub_num": "UE",
+      "bbox": {
+        "minLon": -1.572630644,
+        "minLat": 10.27393341,
+        "maxLon": 0.03275609,
+        "maxLat": 11.17584228
+      }
+    },
+    "GHUW": {
+      "name": "Upper West",
+      "sub_id": "GHUW",
+      "sub_num": "UW",
+      "bbox": {
+        "minLon": -2.941013456,
+        "minLat": 9.641962052,
+        "maxLon": -1.424268842,
+        "maxLat": 11.02375031
+      }
+    },
+    "GHTV": {
+      "name": "Volta",
+      "sub_id": "GHTV",
+      "sub_num": "TV",
+      "bbox": {
+        "minLon": 0.101603627,
+        "minLat": 5.770705819,
+        "maxLon": 1.200585723,
+        "maxLat": 7.30419159
+      }
+    },
+    "GHWP": {
+      "name": "Western",
+      "sub_id": "GHWP",
+      "sub_num": "WP",
+      "bbox": {
+        "minLon": -3.112292052,
+        "minLat": 4.738856792,
+        "maxLon": -1.427092314,
+        "maxLat": 6.128804684
+      }
+    },
+    "GHWN": {
+      "name": "Western North",
+      "sub_id": "GHWN",
+      "sub_num": "WN",
+      "bbox": {
+        "minLon": -3.258353829,
+        "minLat": 5.341243744,
+        "maxLon": -2.092114449,
+        "maxLat": 7.007345915
+      }
+    }
+  }
+  

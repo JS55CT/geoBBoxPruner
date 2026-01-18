@@ -1,0 +1,69 @@
+{
+    "CY04": {
+      "name": "Ammochostos [Mağusa]",
+      "sub_id": "CY04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 33.53865254,
+        "minLat": 34.95592117,
+        "maxLon": 34.60674894,
+        "maxLat": 35.71094954
+      }
+    },
+    "CY06": {
+      "name": "Keryneia [Girne]",
+      "sub_id": "CY06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 32.91940904,
+        "minLat": 35.23478508,
+        "maxLon": 33.67138791,
+        "maxLat": 35.40428197
+      }
+    },
+    "CY03": {
+      "name": "Larnaka",
+      "sub_id": "CY03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 33.12788641,
+        "minLat": 34.71595454,
+        "maxLon": 33.90246928,
+        "maxLat": 35.11719704
+      }
+    },
+    "CY01": {
+      "name": "Lefkosia [Lefkoşa]",
+      "sub_id": "CY01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 32.5652827,
+        "minLat": 34.88646269,
+        "maxLon": 33.59246194,
+        "maxLat": 35.28327942
+      }
+    },
+    "CY02": {
+      "name": "Lemesos [Leymasun]",
+      "sub_id": "CY02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 32.64158428,
+        "minLat": 34.56189096,
+        "maxLon": 33.27637959,
+        "maxLat": 34.96156454
+      }
+    },
+    "CY05": {
+      "name": "Pafos [Baf]",
+      "sub_id": "CY05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 32.26956403,
+        "minLat": 34.65741742,
+        "maxLon": 32.79468191,
+        "maxLat": 35.17566097
+      }
+    }
+  }
+  

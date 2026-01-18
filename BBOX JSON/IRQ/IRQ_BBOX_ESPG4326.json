@@ -1,0 +1,201 @@
+{
+    "IQAN": {
+      "name": "Al Anbar",
+      "sub_id": "IQAN",
+      "sub_num": "AN",
+      "bbox": {
+        "minLon": 38.7943902,
+        "minLat": 30.51280975,
+        "maxLon": 44.31332874,
+        "maxLat": 35.08518219
+      }
+    },
+    "IQBA": {
+      "name": "Al Basrah",
+      "sub_id": "IQBA",
+      "sub_num": "BA",
+      "bbox": {
+        "minLon": 46.55305481,
+        "minLat": 29.101143,
+        "maxLon": 48.61311007,
+        "maxLat": 31.29060745
+      }
+    },
+    "IQMU": {
+      "name": "Al Muthanna",
+      "sub_id": "IQMU",
+      "sub_num": "MU",
+      "bbox": {
+        "minLon": 43.8227309,
+        "minLat": 29.05797958,
+        "maxLon": 46.73841083,
+        "maxLat": 31.73916245
+      }
+    },
+    "IQQA": {
+      "name": "Al Qadisiyah",
+      "sub_id": "IQQA",
+      "sub_num": "QA",
+      "bbox": {
+        "minLon": 44.42472076,
+        "minLat": 31.27859116,
+        "maxLon": 45.79193878,
+        "maxLat": 32.40470886
+      }
+    },
+    "IQNA": {
+      "name": "An Najaf",
+      "sub_id": "IQNA",
+      "sub_num": "NA",
+      "bbox": {
+        "minLon": 42.92505276,
+        "minLat": 29.86544013,
+        "maxLon": 44.77193451,
+        "maxLat": 32.32812881
+      }
+    },
+    "IQAR": {
+      "name": "Arbil",
+      "sub_id": "IQAR",
+      "sub_num": "AR",
+      "bbox": {
+        "minLon": 43.28735793,
+        "minLat": 35.41099548,
+        "maxLon": 45.07205486,
+        "maxLat": 37.32141495
+      }
+    },
+    "IQSU": {
+      "name": "As Sulaymaniyah",
+      "sub_id": "IQSU",
+      "sub_num": "SU",
+      "bbox": {
+        "minLon": 44.4547677,
+        "minLat": 34.57251549,
+        "maxLon": 46.34774852,
+        "maxLat": 36.52439117
+      }
+    },
+    "IQBG": {
+      "name": "Baghdad",
+      "sub_id": "IQBG",
+      "sub_num": "BG",
+      "bbox": {
+        "minLon": 44.17635298,
+        "minLat": 33.18283081,
+        "maxLon": 44.57939088,
+        "maxLat": 33.54606628
+      }
+    },
+    "IQBB": {
+      "name": "Babil",
+      "sub_id": "IQBB",
+      "sub_num": "BB",
+      "bbox": {
+        "minLon": 43.7679733,
+        "minLat": 32.09638596,
+        "maxLon": 45.21604002,
+        "maxLat": 33.31041813
+      }
+    },
+    "IQDA": {
+      "name": "Dahuk",
+      "sub_id": "IQDA",
+      "sub_num": "DA",
+      "bbox": {
+        "minLon": 42.34994519,
+        "minLat": 36.70336533,
+        "maxLon": 44.10093796,
+        "maxLat": 37.37892151
+      }
+    },
+    "IQDQ": {
+      "name": "Dhi Qar",
+      "sub_id": "IQDQ",
+      "sub_num": "DQ",
+      "bbox": {
+        "minLon": 45.61943054,
+        "minLat": 30.51554871,
+        "maxLon": 47.134377,
+        "maxLat": 31.98575974
+      }
+    },
+    "IQDI": {
+      "name": "Diyala",
+      "sub_id": "IQDI",
+      "sub_num": "DI",
+      "bbox": {
+        "minLon": 44.28615689,
+        "minLat": 32.99949646,
+        "maxLon": 45.99024808,
+        "maxLat": 35.10911536
+      }
+    },
+    "IQKA": {
+      "name": "Karbala",
+      "sub_id": "IQKA",
+      "sub_num": "KA",
+      "bbox": {
+        "minLon": 43.1738162,
+        "minLat": 32.14026642,
+        "maxLon": 44.3376838,
+        "maxLat": 32.77496338
+      }
+    },
+    "IQKI": {
+      "name": "Kirkuk",
+      "sub_id": "IQKI",
+      "sub_num": "KI",
+      "bbox": {
+        "minLon": 43.26343131,
+        "minLat": 34.71696854,
+        "maxLon": 44.82009518,
+        "maxLat": 35.87465286
+      }
+    },
+    "IQMA": {
+      "name": "Maysan",
+      "sub_id": "IQMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": 46.31666565,
+        "minLat": 31.12545395,
+        "maxLon": 47.86612773,
+        "maxLat": 32.84640002
+      }
+    },
+    "IQNI": {
+      "name": "Ninawa",
+      "sub_id": "IQNI",
+      "sub_num": "NI",
+      "bbox": {
+        "minLon": 41.20993519,
+        "minLat": 34.85687256,
+        "maxLon": 44.30416906,
+        "maxLat": 37.06672251
+      }
+    },
+    "IQWA": {
+      "name": "Wasit",
+      "sub_id": "IQWA",
+      "sub_num": "WA",
+      "bbox": {
+        "minLon": 44.529441,
+        "minLat": 31.95968628,
+        "maxLon": 46.59562445,
+        "maxLat": 33.50390196
+      }
+    },
+    "IQSD": {
+      "name": "Salah ad Din",
+      "sub_id": "IQSD",
+      "sub_num": "SD",
+      "bbox": {
+        "minLon": 42.46233451,
+        "minLat": 33.44272614,
+        "maxLon": 44.92722189,
+        "maxLat": 35.68728447
+      }
+    }
+  }
+  

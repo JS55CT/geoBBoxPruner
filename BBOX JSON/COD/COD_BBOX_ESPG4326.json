@@ -1,0 +1,289 @@
+{
+    "CDBU": {
+      "name": "Bas-Uélé",
+      "sub_id": "CDBU",
+      "sub_num": "BU",
+      "bbox": {
+        "minLon": 22.45534468,
+        "minLat": 1.938998341,
+        "maxLon": 27.68919969,
+        "maxLat": 5.391969681
+      }
+    },
+    "CDHK": {
+      "name": "Haut-Katanga",
+      "sub_id": "CDHK",
+      "sub_num": "HK",
+      "bbox": {
+        "minLon": 25.51670659,
+        "minLat": -13.45923901,
+        "maxLon": 29.81545103,
+        "maxLat": -7.648887634
+      }
+    },
+    "CDHL": {
+      "name": "Haut-Lomami",
+      "sub_id": "CDHL",
+      "sub_num": "HL",
+      "bbox": {
+        "minLon": 23.63546085,
+        "minLat": -10.14995098,
+        "maxLon": 27.83039284,
+        "maxLat": -6.176376342
+      }
+    },
+    "CDHU": {
+      "name": "Haut-Uélé",
+      "sub_id": "CDHU",
+      "sub_num": "HU",
+      "bbox": {
+        "minLon": 26.88427937,
+        "minLat": 1.459379196,
+        "maxLon": 30.58541977,
+        "maxLat": 5.209150315
+      }
+    },
+    "CDIT": {
+      "name": "Ituri",
+      "sub_id": "CDIT",
+      "sub_num": "IT",
+      "bbox": {
+        "minLon": 27.43654966,
+        "minLat": 0.505027771,
+        "maxLon": 31.30755138,
+        "maxLat": 3.680441379
+      }
+    },
+    "CDKS": {
+      "name": "Kasaï",
+      "sub_id": "CDKS",
+      "sub_num": "KS",
+      "bbox": {
+        "minLon": 19.67363477,
+        "minLat": -7.286510468,
+        "maxLon": 22.55312598,
+        "maxLat": -2.224044799
+      }
+    },
+    "CDKC": {
+      "name": "Kasaï Central",
+      "sub_id": "CDKC",
+      "sub_num": "KC",
+      "bbox": {
+        "minLon": 21.42503762,
+        "minLat": -7.942943573,
+        "maxLon": 23.73786724,
+        "maxLat": -4.202110768
+      }
+    },
+    "CDKE": {
+      "name": "Kasaï Oriental",
+      "sub_id": "CDKE",
+      "sub_num": "KE",
+      "bbox": {
+        "minLon": 22.95150983,
+        "minLat": -6.834483147,
+        "maxLon": 24.158149,
+        "maxLat": -5.658624172
+      }
+    },
+    "CDKN": {
+      "name": "Kinshasa",
+      "sub_id": "CDKN",
+      "sub_num": "KN",
+      "bbox": {
+        "minLon": 15.17408311,
+        "minLat": -5.050964355,
+        "maxLon": 16.53435969,
+        "maxLat": -3.927826881
+      }
+    },
+    "CDBC": {
+      "name": "Kongo Central",
+      "sub_id": "CDBC",
+      "sub_num": "BC",
+      "bbox": {
+        "minLon": 12.19968271,
+        "minLat": -6.058258295,
+        "maxLon": 16.25785673,
+        "maxLat": -4.277973175
+      }
+    },
+    "CDKG": {
+      "name": "Kwango",
+      "sub_id": "CDKG",
+      "sub_num": "KG",
+      "bbox": {
+        "minLon": 16.10738421,
+        "minLat": -8.130569458,
+        "maxLon": 19.97544682,
+        "maxLat": -4.275226593
+      }
+    },
+    "CDKL": {
+      "name": "Kwilu",
+      "sub_id": "CDKL",
+      "sub_num": "KL",
+      "bbox": {
+        "minLon": 16.47975504,
+        "minLat": -6.433868409,
+        "maxLon": 20.20546091,
+        "maxLat": -3.223478794
+      }
+    },
+    "CDLO": {
+      "name": "Lomami",
+      "sub_id": "CDLO",
+      "sub_num": "LO",
+      "bbox": {
+        "minLon": 23.01797438,
+        "minLat": -7.988433838,
+        "maxLon": 26.24552763,
+        "maxLat": -4.856706262
+      }
+    },
+    "CDLU": {
+      "name": "Lualaba",
+      "sub_id": "CDLU",
+      "sub_num": "LU",
+      "bbox": {
+        "minLon": 21.75077403,
+        "minLat": -11.7897892,
+        "maxLon": 27.18226624,
+        "maxLat": -7.683820724
+      }
+    },
+    "CDMN": {
+      "name": "Mai-Ndombe",
+      "sub_id": "CDMN",
+      "sub_num": "MN",
+      "bbox": {
+        "minLon": 15.89542222,
+        "minLat": -4.3866992,
+        "maxLon": 21.00526988,
+        "maxLat": -0.735397339
+      }
+    },
+    "CDMA": {
+      "name": "Maniema",
+      "sub_id": "CDMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": 24.19093728,
+        "minLat": -5.049419403,
+        "maxLon": 28.59541535,
+        "maxLat": -0.068492889
+      }
+    },
+    "CDMO": {
+      "name": "Mongala",
+      "sub_id": "CDMO",
+      "sub_num": "MO",
+      "bbox": {
+        "minLon": 19.20189476,
+        "minLat": 0.78174591,
+        "maxLon": 23.63254404,
+        "maxLat": 3.263196945
+      }
+    },
+    "CDNK": {
+      "name": "Nord-Kivu",
+      "sub_id": "CDNK",
+      "sub_num": "NK",
+      "bbox": {
+        "minLon": 27.26319909,
+        "minLat": -2.134437561,
+        "maxLon": 29.9814012,
+        "maxLat": 0.893669128
+      }
+    },
+    "CDNU": {
+      "name": "Nord-Ubangi",
+      "sub_id": "CDNU",
+      "sub_num": "NU",
+      "bbox": {
+        "minLon": 19.00688481,
+        "minLat": 2.786579132,
+        "maxLon": 23.53200924,
+        "maxLat": 5.149841309
+      }
+    },
+    "CDSA": {
+      "name": "Sankuru",
+      "sub_id": "CDSA",
+      "sub_num": "SA",
+      "bbox": {
+        "minLon": 21.93852782,
+        "minLat": -5.891040802,
+        "maxLon": 25.1159097,
+        "maxLat": -1.714897156
+      }
+    },
+    "CDSK": {
+      "name": "Sud-Kivu",
+      "sub_id": "CDSK",
+      "sub_num": "SK",
+      "bbox": {
+        "minLon": 26.85555041,
+        "minLat": -5.048046112,
+        "maxLon": 29.41759288,
+        "maxLat": -1.752920151
+      }
+    },
+    "CDSU": {
+      "name": "Sud-Ubangi",
+      "sub_id": "CDSU",
+      "sub_num": "SU",
+      "bbox": {
+        "minLon": 18.07719588,
+        "minLat": 1.873168945,
+        "maxLon": 20.90631926,
+        "maxLat": 4.776992798
+      }
+    },
+    "CDTA": {
+      "name": "Tanganyika",
+      "sub_id": "CDTA",
+      "sub_num": "TA",
+      "bbox": {
+        "minLon": 25.88715971,
+        "minLat": -8.412507177,
+        "maxLon": 30.7676307,
+        "maxLat": -5.04525876
+      }
+    },
+    "CDTO": {
+      "name": "Tshopo",
+      "sub_id": "CDTO",
+      "sub_num": "TO",
+      "bbox": {
+        "minLon": 22.26023793,
+        "minLat": -2.192685843,
+        "maxLon": 28.182217,
+        "maxLat": 2.386608124
+      }
+    },
+    "CDTU": {
+      "name": "Tshuapa",
+      "sub_id": "CDTU",
+      "sub_num": "TU",
+      "bbox": {
+        "minLon": 19.45391977,
+        "minLat": -2.682380677,
+        "maxLon": 24.2204746,
+        "maxLat": 1.740646362
+      }
+    },
+    "CDEQ": {
+      "name": "Équateur",
+      "sub_id": "CDEQ",
+      "sub_num": "EQ",
+      "bbox": {
+        "minLon": 16.5159049,
+        "minLat": -2.010498047,
+        "maxLon": 20.730829,
+        "maxLat": 2.095985412
+      }
+    }
+  }
+  

@@ -1,0 +1,102 @@
+{
+    "GA1": {
+      "name": "Estuaire",
+      "sub_id": "GA1",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 9.301209092,
+        "minLat": -0.577777862,
+        "maxLon": 10.97387052,
+        "maxLat": 1.059913158
+      }
+    },
+    "GA2": {
+      "name": "Haut-Ogooué",
+      "sub_id": "GA2",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 12.75387752,
+        "minLat": -2.513465881,
+        "maxLon": 14.52938318,
+        "maxLat": 0.04040134
+      }
+    },
+    "GA3": {
+      "name": "Moyen-Ogooué",
+      "sub_id": "GA3",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 9.560970306,
+        "minLat": -1.255555629,
+        "maxLon": 11.58808744,
+        "maxLat": 0.230283737
+      }
+    },
+    "GA4": {
+      "name": "Ngounié",
+      "sub_id": "GA4",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 9.859107494,
+        "minLat": -2.811641693,
+        "maxLon": 12.51420009,
+        "maxLat": -0.574005723
+      }
+    },
+    "GA5": {
+      "name": "Nyanga",
+      "sub_id": "GA5",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 9.958123326,
+        "minLat": -3.95472312,
+        "maxLon": 12.01581478,
+        "maxLat": -2.251942992
+      }
+    },
+    "GA6": {
+      "name": "Ogooué-Ivindo",
+      "sub_id": "GA6",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 11.25079787,
+        "minLat": -0.753611207,
+        "maxLon": 14.49592864,
+        "maxLat": 1.437320709
+      }
+    },
+    "GA7": {
+      "name": "Ogooué-Lolo",
+      "sub_id": "GA7",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 11.50069344,
+        "minLat": -1.927928924,
+        "maxLon": 13.57372975,
+        "maxLat": 0.31053543
+      }
+    },
+    "GA8": {
+      "name": "Ogooué-Maritime",
+      "sub_id": "GA8",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 8.699298501,
+        "minLat": -2.747613192,
+        "maxLon": 10.5865283,
+        "maxLat": -0.274829865
+      }
+    },
+    "GA9": {
+      "name": "Woleu-Ntem",
+      "sub_id": "GA9",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 10.3544476,
+        "minLat": 0.222558975,
+        "maxLon": 13.30550194,
+        "maxLat": 2.318201065
+      }
+    }
+  }
+  

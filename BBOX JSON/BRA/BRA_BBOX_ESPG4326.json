@@ -1,0 +1,300 @@
+{
+    "BRAC": {
+      "name": "Acre",
+      "sub_id": "BRAC",
+      "sub_num": "AC",
+      "bbox": {
+        "minLon": -73.99378359,
+        "minLat": -11.14648819,
+        "maxLon": -66.62516046,
+        "maxLat": -7.115020752
+      }
+    },
+    "BRAL": {
+      "name": "Alagoas",
+      "sub_id": "BRAL",
+      "sub_num": "AL",
+      "bbox": {
+        "minLon": -38.23560166,
+        "minLat": -10.50150931,
+        "maxLon": -35.14982784,
+        "maxLat": -8.816459656
+      }
+    },
+    "BRAP": {
+      "name": "Amapá",
+      "sub_id": "BRAP",
+      "sub_num": "AP",
+      "bbox": {
+        "minLon": -54.85692644,
+        "minLat": -1.235961914,
+        "maxLon": -49.86665893,
+        "maxLat": 4.44223404
+      }
+    },
+    "BRAM": {
+      "name": "Amazonas",
+      "sub_id": "BRAM",
+      "sub_num": "AM",
+      "bbox": {
+        "minLon": -73.80145013,
+        "minLat": -9.835958481,
+        "maxLon": -56.10132456,
+        "maxLat": 2.243270874
+      }
+    },
+    "BRBA": {
+      "name": "Bahia",
+      "sub_id": "BRBA",
+      "sub_num": "BA",
+      "bbox": {
+        "minLon": -46.59148121,
+        "minLat": -18.33165526,
+        "maxLon": -37.3491112,
+        "maxLat": -8.531364441
+      }
+    },
+    "BRCE": {
+      "name": "Ceará",
+      "sub_id": "BRCE",
+      "sub_num": "CE",
+      "bbox": {
+        "minLon": -41.43557441,
+        "minLat": -7.856619358,
+        "maxLon": -37.25042045,
+        "maxLat": -2.784817577
+      }
+    },
+    "BRDF": {
+      "name": "Distrito Federal",
+      "sub_id": "BRDF",
+      "sub_num": "DF",
+      "bbox": {
+        "minLon": -48.285923,
+        "minLat": -16.04913712,
+        "maxLon": -47.30809998,
+        "maxLat": -15.49979258
+      }
+    },
+    "BRES": {
+      "name": "Espírito Santo",
+      "sub_id": "BRES",
+      "sub_num": "ES",
+      "bbox": {
+        "minLon": -41.87946355,
+        "minLat": -21.31066859,
+        "maxLon": -28.84722221,
+        "maxLat": -17.87677288
+      }
+    },
+    "BRGO": {
+      "name": "Goiás",
+      "sub_id": "BRGO",
+      "sub_num": "GO",
+      "bbox": {
+        "minLon": -53.24835408,
+        "minLat": -19.47963393,
+        "maxLon": -45.90548551,
+        "maxLat": -12.39880562
+      }
+    },
+    "BRMA": {
+      "name": "Maranhão",
+      "sub_id": "BRMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": -48.75664365,
+        "minLat": -10.306602,
+        "maxLon": -41.79432702,
+        "maxLat": -1.048342705
+      }
+    },
+    "BRMT": {
+      "name": "Mato Grosso",
+      "sub_id": "BRMT",
+      "sub_num": "MT",
+      "bbox": {
+        "minLon": -61.62037766,
+        "minLat": -18.06487644,
+        "maxLon": -50.22328162,
+        "maxLat": -7.349338531
+      }
+    },
+    "BRMS": {
+      "name": "Mato Grosso do Sul",
+      "sub_id": "BRMS",
+      "sub_num": "MS",
+      "bbox": {
+        "minLon": -58.16959798,
+        "minLat": -24.06606674,
+        "maxLon": -50.92824721,
+        "maxLat": -17.16776395
+      }
+    },
+    "BRMG": {
+      "name": "Minas Gerais",
+      "sub_id": "BRMG",
+      "sub_num": "MG",
+      "bbox": {
+        "minLon": -51.04851377,
+        "minLat": -22.91952968,
+        "maxLon": -39.85475194,
+        "maxLat": -14.23242331
+      }
+    },
+    "BRPR": {
+      "name": "Paraná",
+      "sub_id": "BRPR",
+      "sub_num": "PR",
+      "bbox": {
+        "minLon": -54.62006307,
+        "minLat": -26.6105175,
+        "maxLon": -48.02002156,
+        "maxLat": -22.51750946
+      }
+    },
+    "BRPB": {
+      "name": "Paraíba",
+      "sub_id": "BRPB",
+      "sub_num": "PB",
+      "bbox": {
+        "minLon": -38.76761234,
+        "minLat": -8.292789459,
+        "maxLon": -34.79294932,
+        "maxLat": -6.018168926
+      }
+    },
+    "BRPA": {
+      "name": "Pará",
+      "sub_id": "BRPA",
+      "sub_num": "PA",
+      "bbox": {
+        "minLon": -58.94702697,
+        "minLat": -9.842376232,
+        "maxLon": -46.06168568,
+        "maxLat": 2.639808654
+      }
+    },
+    "BRPE": {
+      "name": "Pernambuco",
+      "sub_id": "BRPE",
+      "sub_num": "PE",
+      "bbox": {
+        "minLon": -41.35429478,
+        "minLat": -9.47467804,
+        "maxLon": -29.34404993,
+        "maxLat": 0.91845274
+      }
+    },
+    "BRPI": {
+      "name": "Piauí",
+      "sub_id": "BRPI",
+      "sub_num": "PI",
+      "bbox": {
+        "minLon": -45.99541318,
+        "minLat": -10.92957258,
+        "maxLon": -40.37101054,
+        "maxLat": -2.753148913
+      }
+    },
+    "BRRN": {
+      "name": "Rio Grande do Norte",
+      "sub_id": "BRRN",
+      "sub_num": "RN",
+      "bbox": {
+        "minLon": -38.6117897,
+        "minLat": -6.980481148,
+        "maxLon": -34.96903312,
+        "maxLat": -4.834671021
+      }
+    },
+    "BRRS": {
+      "name": "Rio Grande do Sul",
+      "sub_id": "BRRS",
+      "sub_num": "RS",
+      "bbox": {
+        "minLon": -57.64708972,
+        "minLat": -33.75051498,
+        "maxLon": -49.70218956,
+        "maxLat": -27.0820713
+      }
+    },
+    "BRRJ": {
+      "name": "Rio de Janeiro",
+      "sub_id": "BRRJ",
+      "sub_num": "RJ",
+      "bbox": {
+        "minLon": -44.89599645,
+        "minLat": -23.36949193,
+        "maxLon": -40.95841503,
+        "maxLat": -20.76321602
+      }
+    },
+    "BRRO": {
+      "name": "Rondônia",
+      "sub_id": "BRRO",
+      "sub_num": "RO",
+      "bbox": {
+        "minLon": -66.79547548,
+        "minLat": -13.69249463,
+        "maxLon": -59.81764686,
+        "maxLat": -7.980891466
+      }
+    },
+    "BRRR": {
+      "name": "Roraima",
+      "sub_id": "BRRR",
+      "sub_num": "RR",
+      "bbox": {
+        "minLon": -64.83016205,
+        "minLat": -1.441354751,
+        "maxLon": -58.82448089,
+        "maxLat": 5.268115998
+      }
+    },
+    "BRSC": {
+      "name": "Santa Catarina",
+      "sub_id": "BRSC",
+      "sub_num": "SC",
+      "bbox": {
+        "minLon": -53.83856177,
+        "minLat": -29.34937477,
+        "maxLon": -48.32798219,
+        "maxLat": -25.9552002
+      }
+    },
+    "BRSE": {
+      "name": "Sergipe",
+      "sub_id": "BRSE",
+      "sub_num": "SE",
+      "bbox": {
+        "minLon": -38.24378836,
+        "minLat": -11.56808853,
+        "maxLon": -36.40024734,
+        "maxLat": -9.51587677
+      }
+    },
+    "BRSP": {
+      "name": "São Paulo",
+      "sub_id": "BRSP",
+      "sub_num": "SP",
+      "bbox": {
+        "minLon": -53.09914613,
+        "minLat": -25.27478981,
+        "maxLon": -44.15942061,
+        "maxLat": -19.77836168
+      }
+    },
+    "BRTO": {
+      "name": "Tocantins",
+      "sub_id": "BRTO",
+      "sub_num": "TO",
+      "bbox": {
+        "minLon": -50.74016261,
+        "minLat": -13.308707,
+        "maxLon": -45.77865219,
+        "maxLat": -5.169978977
+      }
+    }
+  }
+  

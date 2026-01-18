@@ -1,0 +1,344 @@
+{
+    "TZ01": {
+      "name": "Arusha",
+      "sub_id": "TZ01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 34.85733855,
+        "minLat": -4.23866272,
+        "maxLon": 37.41686046,
+        "maxLat": -1.726162553
+      }
+    },
+    "TZ02": {
+      "name": "Dar es Salaam",
+      "sub_id": "TZ02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 39.03933823,
+        "minLat": -7.02747345,
+        "maxLon": 39.55224931,
+        "maxLat": -6.574275255
+      }
+    },
+    "TZ03": {
+      "name": "Dodoma",
+      "sub_id": "TZ03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 35.07916534,
+        "minLat": -7.366370558,
+        "maxLon": 36.81182969,
+        "maxLat": -4.235401154
+      }
+    },
+    "TZ27": {
+      "name": "Geita",
+      "sub_id": "TZ27",
+      "sub_num": "27",
+      "bbox": {
+        "minLon": 31.14844608,
+        "minLat": -4.380712509,
+        "maxLon": 32.78918529,
+        "maxLat": -2.163276673
+      }
+    },
+    "TZ04": {
+      "name": "Iringa",
+      "sub_id": "TZ04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 34.12660623,
+        "minLat": -9.046069622,
+        "maxLon": 36.97811008,
+        "maxLat": -6.888717413
+      }
+    },
+    "TZ05": {
+      "name": "Kagera",
+      "sub_id": "TZ05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 30.40645051,
+        "minLat": -3.365035057,
+        "maxLon": 32.74417055,
+        "maxLat": -0.984992981
+      }
+    },
+    "TZ06": {
+      "name": "Kaskazini Pemba",
+      "sub_id": "TZ06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 39.60420883,
+        "minLat": -5.175153971,
+        "maxLon": 39.87668359,
+        "maxLat": -4.864411354
+      }
+    },
+    "TZ07": {
+      "name": "Kaskazini Unguja",
+      "sub_id": "TZ07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 39.18158448,
+        "minLat": -6.031605124,
+        "maxLon": 39.39515579,
+        "maxLat": -5.721866489
+      }
+    },
+    "TZ28": {
+      "name": "Katavi",
+      "sub_id": "TZ28",
+      "sub_num": "28",
+      "bbox": {
+        "minLon": 29.95129597,
+        "minLat": -7.716350555,
+        "maxLon": 32.8714155,
+        "maxLat": -5.169754028
+      }
+    },
+    "TZ08": {
+      "name": "Kigoma",
+      "sub_id": "TZ08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 29.32903779,
+        "minLat": -6.817874909,
+        "maxLon": 31.49509668,
+        "maxLat": -2.831382752
+      }
+    },
+    "TZ09": {
+      "name": "Kilimanjaro",
+      "sub_id": "TZ09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 36.84635484,
+        "minLat": -4.647388458,
+        "maxLon": 38.46864545,
+        "maxLat": -2.768383026
+      }
+    },
+    "TZ10": {
+      "name": "Kusini Pemba",
+      "sub_id": "TZ10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 39.56236541,
+        "minLat": -5.486928224,
+        "maxLon": 39.85815072,
+        "maxLat": -5.154304505
+      }
+    },
+    "TZ11": {
+      "name": "Kusini Unguja",
+      "sub_id": "TZ11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 39.26326931,
+        "minLat": -6.478581309,
+        "maxLon": 39.58183229,
+        "maxLat": -6.01297617
+      }
+    },
+    "TZ12": {
+      "name": "Lindi",
+      "sub_id": "TZ12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 36.83370221,
+        "minLat": -10.76848984,
+        "maxLon": 39.98232639,
+        "maxLat": -7.950453759
+      }
+    },
+    "TZ26": {
+      "name": "Manyara",
+      "sub_id": "TZ26",
+      "sub_num": "26",
+      "bbox": {
+        "minLon": 34.7337054,
+        "minLat": -6.089515686,
+        "maxLon": 38.05974126,
+        "maxLat": -3.602313995
+      }
+    },
+    "TZ13": {
+      "name": "Mara",
+      "sub_id": "TZ13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 32.74415517,
+        "minLat": -2.499904633,
+        "maxLon": 35.35850203,
+        "maxLat": -0.999412536
+      }
+    },
+    "TZ14": {
+      "name": "Mbeya",
+      "sub_id": "TZ14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 32.90502763,
+        "minLat": -9.718838811,
+        "maxLon": 34.98305869,
+        "maxLat": -6.866884232
+      }
+    },
+    "TZ15": {
+      "name": "Mjini Magharibi",
+      "sub_id": "TZ15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 39.12426674,
+        "minLat": -6.386899352,
+        "maxLon": 39.31010377,
+        "maxLat": -6.020507812
+      }
+    },
+    "TZ16": {
+      "name": "Morogoro",
+      "sub_id": "TZ16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 35.32510614,
+        "minLat": -10.00874877,
+        "maxLon": 38.51863372,
+        "maxLat": -5.802927017
+      }
+    },
+    "TZ17": {
+      "name": "Mtwara",
+      "sub_id": "TZ17",
+      "sub_num": "17",
+      "bbox": {
+        "minLon": 37.97000003,
+        "minLat": -11.42272663,
+        "maxLon": 40.44520736,
+        "maxLat": -10.12832975
+      }
+    },
+    "TZ18": {
+      "name": "Mwanza",
+      "sub_id": "TZ18",
+      "sub_num": "18",
+      "bbox": {
+        "minLon": 31.84536231,
+        "minLat": -3.471851349,
+        "maxLon": 34.09614146,
+        "maxLat": -1.452657461
+      }
+    },
+    "TZ29": {
+      "name": "Njombe",
+      "sub_id": "TZ29",
+      "sub_num": "29",
+      "bbox": {
+        "minLon": 33.7624768,
+        "minLat": -10.53915024,
+        "maxLon": 35.83968019,
+        "maxLat": -8.624095917
+      }
+    },
+    "TZ19": {
+      "name": "Pwani",
+      "sub_id": "TZ19",
+      "sub_num": "19",
+      "bbox": {
+        "minLon": 37.79582167,
+        "minLat": -8.400421143,
+        "maxLon": 39.90974176,
+        "maxLat": -5.815029144
+      }
+    },
+    "TZ20": {
+      "name": "Rukwa",
+      "sub_id": "TZ20",
+      "sub_num": "20",
+      "bbox": {
+        "minLon": 30.32783937,
+        "minLat": -9.07711029,
+        "maxLon": 32.47319484,
+        "maxLat": -6.962778568
+      }
+    },
+    "TZ21": {
+      "name": "Ruvuma",
+      "sub_id": "TZ21",
+      "sub_num": "21",
+      "bbox": {
+        "minLon": 34.57212424,
+        "minLat": -11.7615509,
+        "maxLon": 38.11398149,
+        "maxLat": -9.189852953
+      }
+    },
+    "TZ22": {
+      "name": "Shinyanga",
+      "sub_id": "TZ22",
+      "sub_num": "22",
+      "bbox": {
+        "minLon": 31.63595617,
+        "minLat": -4.364561557,
+        "maxLon": 34.27870321,
+        "maxLat": -3.158655167
+      }
+    },
+    "TZ30": {
+      "name": "Simiyu",
+      "sub_id": "TZ30",
+      "sub_num": "30",
+      "bbox": {
+        "minLon": 33.44996881,
+        "minLat": -4.024772644,
+        "maxLon": 35.31067312,
+        "maxLat": -2.257272005
+      }
+    },
+    "TZ23": {
+      "name": "Singida",
+      "sub_id": "TZ23",
+      "sub_num": "23",
+      "bbox": {
+        "minLon": 33.4765023,
+        "minLat": -7.563893795,
+        "maxLon": 35.38399398,
+        "maxLat": -3.802986145
+      }
+    },
+    "TZ31": {
+      "name": "Songwe",
+      "sub_id": "TZ31",
+      "sub_num": "31",
+      "bbox": {
+        "minLon": 31.94614041,
+        "minLat": -9.626255036,
+        "maxLon": 33.77410746,
+        "maxLat": -6.905679703
+      }
+    },
+    "TZ24": {
+      "name": "Tabora",
+      "sub_id": "TZ24",
+      "sub_num": "24",
+      "bbox": {
+        "minLon": 31.03897274,
+        "minLat": -6.962242126,
+        "maxLon": 34.46388221,
+        "maxLat": -3.849678039
+      }
+    },
+    "TZ25": {
+      "name": "Tanga",
+      "sub_id": "TZ25",
+      "sub_num": "25",
+      "bbox": {
+        "minLon": 36.97849679,
+        "minLat": -6.020507812,
+        "maxLon": 39.221452,
+        "maxLat": -4.155703902
+      }
+    }
+  }
+  

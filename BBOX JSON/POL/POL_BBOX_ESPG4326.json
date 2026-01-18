@@ -1,0 +1,179 @@
+{
+    "PL02": {
+      "name": "Dolnośląskie",
+      "sub_id": "PL02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 14.81707764,
+        "minLat": 50.09638596,
+        "maxLon": 17.75949681,
+        "maxLat": 51.78319931
+      }
+    },
+    "PL04": {
+      "name": "Kujawsko-pomorskie",
+      "sub_id": "PL04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 17.24757135,
+        "minLat": 52.32625008,
+        "maxLon": 19.77521121,
+        "maxLat": 53.72520447
+      }
+    },
+    "PL06": {
+      "name": "Lubelskie",
+      "sub_id": "PL06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 21.64508939,
+        "minLat": 50.24494171,
+        "maxLon": 24.14581108,
+        "maxLat": 52.28646755
+      }
+    },
+    "PL08": {
+      "name": "Lubuskie",
+      "sub_id": "PL08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 14.53459382,
+        "minLat": 51.36387348,
+        "maxLon": 16.38017225,
+        "maxLat": 53.09314728
+      }
+    },
+    "PL14": {
+      "name": "Mazowieckie",
+      "sub_id": "PL14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 19.23961318,
+        "minLat": 51.02044344,
+        "maxLon": 23.13005018,
+        "maxLat": 53.44698429
+      }
+    },
+    "PL12": {
+      "name": "Małopolskie",
+      "sub_id": "PL12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 19.15728903,
+        "minLat": 49.17862952,
+        "maxLon": 21.41574645,
+        "maxLat": 50.49934387
+      }
+    },
+    "PL16": {
+      "name": "Opolskie",
+      "sub_id": "PL16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 16.90936542,
+        "minLat": 49.97249603,
+        "maxLon": 18.71452296,
+        "maxLat": 51.19676113
+      }
+    },
+    "PL18": {
+      "name": "Podkarpackie",
+      "sub_id": "PL18",
+      "sub_num": "18",
+      "bbox": {
+        "minLon": 21.10184383,
+        "minLat": 49.00211334,
+        "maxLon": 23.53445971,
+        "maxLat": 50.78258514
+      }
+    },
+    "PL20": {
+      "name": "Podlaskie",
+      "sub_id": "PL20",
+      "sub_num": "20",
+      "bbox": {
+        "minLon": 21.59335184,
+        "minLat": 52.280159,
+        "maxLon": 23.94632113,
+        "maxLat": 54.41082001
+      }
+    },
+    "PL22": {
+      "name": "Pomorskie",
+      "sub_id": "PL22",
+      "sub_num": "22",
+      "bbox": {
+        "minLon": 16.6637671,
+        "minLat": 53.48882675,
+        "maxLon": 19.64789748,
+        "maxLat": 54.83565843
+      }
+    },
+    "PL28": {
+      "name": "Warmińsko-mazurskie",
+      "sub_id": "PL28",
+      "sub_num": "28",
+      "bbox": {
+        "minLon": 19.17888868,
+        "minLat": 53.09550762,
+        "maxLon": 22.79321074,
+        "maxLat": 54.44326901
+      }
+    },
+    "PL30": {
+      "name": "Wielkopolskie",
+      "sub_id": "PL30",
+      "sub_num": "30",
+      "bbox": {
+        "minLon": 15.79162168,
+        "minLat": 51.10624194,
+        "maxLon": 19.12552416,
+        "maxLat": 53.65139008
+      }
+    },
+    "PL32": {
+      "name": "Zachodniopomorskie",
+      "sub_id": "PL32",
+      "sub_num": "32",
+      "bbox": {
+        "minLon": 14.12292683,
+        "minLat": 52.61238813,
+        "maxLon": 16.97271645,
+        "maxLat": 54.56539047
+      }
+    },
+    "PL10": {
+      "name": "Łódzkie",
+      "sub_id": "PL10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 18.14728892,
+        "minLat": 50.94480515,
+        "maxLon": 20.66052473,
+        "maxLat": 52.37807035
+      }
+    },
+    "PL24": {
+      "name": "Śląskie",
+      "sub_id": "PL24",
+      "sub_num": "24",
+      "bbox": {
+        "minLon": 18.03073215,
+        "minLat": 49.39470291,
+        "maxLon": 19.96880662,
+        "maxLat": 51.03913307
+      }
+    },
+    "PL26": {
+      "name": "Świętokrzyskie",
+      "sub_id": "PL26",
+      "sub_num": "26",
+      "bbox": {
+        "minLon": 19.71754146,
+        "minLat": 50.1512146,
+        "maxLon": 21.86992562,
+        "maxLat": 51.25911713
+      }
+    }
+  }
+  

@@ -1,0 +1,36 @@
+{
+    "KMG": {
+      "name": "Andjazîdja [Grande Comore]",
+      "sub_id": "KMG",
+      "sub_num": "G",
+      "bbox": {
+        "minLon": 43.22890151,
+        "minLat": -11.93980837,
+        "maxLon": 43.51806664,
+        "maxLat": -11.3650322
+      }
+    },
+    "KMA": {
+      "name": "Andjouân [Anjouan]",
+      "sub_id": "KMA",
+      "sub_num": "A",
+      "bbox": {
+        "minLon": 44.19859195,
+        "minLat": -12.38573718,
+        "maxLon": 44.54110181,
+        "maxLat": -12.06844187
+      }
+    },
+    "KMM": {
+      "name": "Moûhîlî [Mohéli]",
+      "sub_id": "KMM",
+      "sub_num": "M",
+      "bbox": {
+        "minLon": 43.62205339,
+        "minLat": -12.42270279,
+        "maxLon": 43.92154801,
+        "maxLat": -12.24894345
+      }
+    }
+  }
+  

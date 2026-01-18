@@ -1,0 +1,168 @@
+{
+    "LRBM": {
+      "name": "Bomi",
+      "sub_id": "LRBM",
+      "sub_num": "BM",
+      "bbox": {
+        "minLon": -11.08670032,
+        "minLat": 6.399035097,
+        "maxLon": -10.46882629,
+        "maxLat": 6.995171428
+      }
+    },
+    "LRBG": {
+      "name": "Bong",
+      "sub_id": "LRBG",
+      "sub_num": "BG",
+      "bbox": {
+        "minLon": -10.50560856,
+        "minLat": 6.431465149,
+        "maxLon": -9.101538777,
+        "maxLat": 7.435297966
+      }
+    },
+    "LRGP": {
+      "name": "Gbarpolu",
+      "sub_id": "LRGP",
+      "sub_num": "GP",
+      "bbox": {
+        "minLon": -10.95880437,
+        "minLat": 6.811962366,
+        "maxLon": -9.668612122,
+        "maxLat": 7.945699096
+      }
+    },
+    "LRGB": {
+      "name": "Grand Bassa",
+      "sub_id": "LRGB",
+      "sub_num": "GB",
+      "bbox": {
+        "minLon": -10.38045418,
+        "minLat": 5.574487687,
+        "maxLon": -9.089711427,
+        "maxLat": 6.650041223
+      }
+    },
+    "LRCM": {
+      "name": "Grand Cape Mount",
+      "sub_id": "LRCM",
+      "sub_num": "CM",
+      "bbox": {
+        "minLon": -11.49915528,
+        "minLat": 6.57319045,
+        "maxLon": -10.51398814,
+        "maxLat": 7.547950745
+      }
+    },
+    "LRGG": {
+      "name": "Grand Gedeh",
+      "sub_id": "LRGG",
+      "sub_num": "GG",
+      "bbox": {
+        "minLon": -8.9499048,
+        "minLat": 5.492305756,
+        "maxLon": -7.372570634,
+        "maxLat": 6.504592896
+      }
+    },
+    "LRGK": {
+      "name": "Grand Kru",
+      "sub_id": "LRGK",
+      "sub_num": "GK",
+      "bbox": {
+        "minLon": -8.723781824,
+        "minLat": 4.456648707,
+        "maxLon": -7.82801044,
+        "maxLat": 5.171556473
+      }
+    },
+    "LRLO": {
+      "name": "Lofa",
+      "sub_id": "LRLO",
+      "sub_num": "LO",
+      "bbox": {
+        "minLon": -10.60817063,
+        "minLat": 7.176008821,
+        "maxLon": -9.347263932,
+        "maxLat": 8.551873684
+      }
+    },
+    "LRMG": {
+      "name": "Margibi",
+      "sub_id": "LRMG",
+      "sub_num": "MG",
+      "bbox": {
+        "minLon": -10.63805544,
+        "minLat": 6.128937125,
+        "maxLon": -9.720301032,
+        "maxLat": 6.793498992
+      }
+    },
+    "LRMY": {
+      "name": "Maryland",
+      "sub_id": "LRMY",
+      "sub_num": "MY",
+      "bbox": {
+        "minLon": -8.087502718,
+        "minLat": 4.353065729,
+        "maxLon": -7.533080578,
+        "maxLat": 5.112800002
+      }
+    },
+    "LRMO": {
+      "name": "Montserrado",
+      "sub_id": "LRMO",
+      "sub_num": "MO",
+      "bbox": {
+        "minLon": -10.81834328,
+        "minLat": 6.219933033,
+        "maxLon": -10.3657558,
+        "maxLat": 6.831436157
+      }
+    },
+    "LRNI": {
+      "name": "Nimba",
+      "sub_id": "LRNI",
+      "sub_num": "NI",
+      "bbox": {
+        "minLon": -9.193260312,
+        "minLat": 5.818805695,
+        "maxLon": -8.2748245,
+        "maxLat": 7.701072692
+      }
+    },
+    "LRRI": {
+      "name": "River Cess",
+      "sub_id": "LRRI",
+      "sub_num": "RI",
+      "bbox": {
+        "minLon": -9.732792139,
+        "minLat": 5.270781159,
+        "maxLon": -9.056280017,
+        "maxLat": 6.357079029
+      }
+    },
+    "LRRG": {
+      "name": "River Gee",
+      "sub_id": "LRRG",
+      "sub_num": "RG",
+      "bbox": {
+        "minLon": -8.439825535,
+        "minLat": 4.80463028,
+        "maxLon": -7.367879033,
+        "maxLat": 5.52406311
+      }
+    },
+    "LRSI": {
+      "name": "Sinoe",
+      "sub_id": "LRSI",
+      "sub_num": "SI",
+      "bbox": {
+        "minLon": -9.428960204,
+        "minLat": 4.814492345,
+        "maxLon": -8.296960831,
+        "maxLat": 5.873651504
+      }
+    }
+  }
+  

@@ -1,0 +1,47 @@
+{
+    "IEC": {
+      "name": "Connaught",
+      "sub_id": "IEC",
+      "sub_num": "C",
+      "bbox": {
+        "minLon": -10.32385755,
+        "minLat": 52.96814597,
+        "maxLon": -7.582556724,
+        "maxLat": 54.47982597
+      }
+    },
+    "IEL": {
+      "name": "Leinster",
+      "sub_id": "IEL",
+      "sub_num": "L",
+      "bbox": {
+        "minLon": -8.078431011,
+        "minLat": 52.10775626,
+        "maxLon": -5.993441224,
+        "maxLat": 54.11436081
+      }
+    },
+    "IEM": {
+      "name": "Munster",
+      "sub_id": "IEM",
+      "sub_num": "M",
+      "bbox": {
+        "minLon": -10.66287816,
+        "minLat": 51.38863564,
+        "maxLon": -6.949267626,
+        "maxLat": 53.16687584
+      }
+    },
+    "IEU": {
+      "name": "Ulster",
+      "sub_id": "IEU",
+      "sub_num": "U",
+      "bbox": {
+        "minLon": -8.839057088,
+        "minLat": 53.77155304,
+        "maxLon": -6.547923565,
+        "maxLat": 55.45039451
+      }
+    }
+  }
+  

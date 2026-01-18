@@ -1,0 +1,168 @@
+{
+    "KP04": {
+      "name": "Chagang-do",
+      "sub_id": "KP04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 125.4168061,
+        "minLat": 39.99059916,
+        "maxLon": 127.5062287,
+        "maxLat": 41.8076992
+      }
+    },
+    "KP09": {
+      "name": "Hamgyong-bukto",
+      "sub_id": "KP09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 128.8011302,
+        "minLat": 40.5688057,
+        "maxLon": 130.4626031,
+        "maxLat": 43.00877094
+      }
+    },
+    "KP08": {
+      "name": "Hamgyong-namdo",
+      "sub_id": "KP08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 126.670102,
+        "minLat": 39.20413256,
+        "maxLon": 129.1580386,
+        "maxLat": 41.18499756
+      }
+    },
+    "KP06": {
+      "name": "Hwanghae-bukto",
+      "sub_id": "KP06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 125.5264864,
+        "minLat": 38.04074049,
+        "maxLon": 127.0192215,
+        "maxLat": 39.16879177
+      }
+    },
+    "KP05": {
+      "name": "Hwanghae-namdo",
+      "sub_id": "KP05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 124.6506958,
+        "minLat": 37.6758219,
+        "maxLon": 126.4393965,
+        "maxLat": 38.75058735
+      }
+    },
+    "Kaesong": {
+      "name": "Kaesong Industrial Region",
+      "sub_id": "Kaesong",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 126.3724769,
+        "minLat": 37.77011883,
+        "maxLon": 126.9698174,
+        "maxLat": 38.22603881
+      }
+    },
+    "KP07A": {
+      "name": "Kangwon-do",
+      "sub_id": "KP07A",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 126.6711357,
+        "minLat": 38.15661192,
+        "maxLon": 128.3632935,
+        "maxLat": 39.41860199
+      }
+    },
+    "KP07B": {
+      "name": "Kangwon-do",
+      "sub_id": "KP07B",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 127.4132546,
+        "minLat": 38.63900626,
+        "maxLon": 128.3685958,
+        "maxLat": 39.37888014
+      }
+    },
+    "KP14": {
+      "name": "Nampo",
+      "sub_id": "KP14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 125.1687691,
+        "minLat": 38.62419605,
+        "maxLon": 125.6261803,
+        "maxLat": 38.82851601
+      }
+    },
+    "KP03": {
+      "name": "Pyongan-bukto",
+      "sub_id": "KP03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 124.1801095,
+        "minLat": 39.26816201,
+        "maxLon": 126.3715173,
+        "maxLat": 40.67087173
+      }
+    },
+    "KP02": {
+      "name": "Pyongan-namdo",
+      "sub_id": "KP02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 125.1256461,
+        "minLat": 38.73339403,
+        "maxLon": 127.1802971,
+        "maxLat": 40.33874989
+      }
+    },
+    "KP01": {
+      "name": "Pyongyang",
+      "sub_id": "KP01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 125.5787463,
+        "minLat": 38.88267517,
+        "maxLon": 126.393415,
+        "maxLat": 39.27901983
+      }
+    },
+    "KP13": {
+      "name": "Rason",
+      "sub_id": "KP13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 130.1742506,
+        "minLat": 42.14541519,
+        "maxLon": 130.6976485,
+        "maxLat": 42.6212883
+      }
+    },
+    "KP10": {
+      "name": "Ryanggang-do",
+      "sub_id": "KP10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 126.9086071,
+        "minLat": 40.43118954,
+        "maxLon": 129.0675821,
+        "maxLat": 42.09406257
+      }
+    },
+    "SinuijuSAR": {
+      "name": "Sinuiju Special Administrative Region",
+      "sub_id": "SinuijuSAR",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 124.3357342,
+        "minLat": 40.02857268,
+        "maxLon": 124.4488707,
+        "maxLat": 40.12053609
+      }
+    }
+  }
+  

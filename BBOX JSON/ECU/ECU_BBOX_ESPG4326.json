@@ -1,0 +1,267 @@
+{
+    "ECA": {
+      "name": "Azuay",
+      "sub_id": "ECA",
+      "sub_num": "A",
+      "bbox": {
+        "minLon": -79.76535022,
+        "minLat": -3.631367684,
+        "maxLon": -78.4981643,
+        "maxLat": -2.491750717
+      }
+    },
+    "ECB": {
+      "name": "Bolívar",
+      "sub_id": "ECB",
+      "sub_num": "B",
+      "bbox": {
+        "minLon": -79.3881352,
+        "minLat": -2.174692154,
+        "maxLon": -78.83573925,
+        "maxLat": -1.156783104
+      }
+    },
+    "ECC": {
+      "name": "Carchi",
+      "sub_id": "ECC",
+      "sub_num": "C",
+      "bbox": {
+        "minLon": -78.56161189,
+        "minLat": 0.381692886,
+        "maxLon": -77.53800762,
+        "maxLat": 1.199226379
+      }
+    },
+    "ECF": {
+      "name": "Cañar",
+      "sub_id": "ECF",
+      "sub_num": "F",
+      "bbox": {
+        "minLon": -79.50464666,
+        "minLat": -2.842197419,
+        "maxLon": -78.46343076,
+        "maxLat": -2.21276474
+      }
+    },
+    "ECH": {
+      "name": "Chimborazo",
+      "sub_id": "ECH",
+      "sub_num": "H",
+      "bbox": {
+        "minLon": -79.13705206,
+        "minLat": -2.401885987,
+        "maxLon": -78.35972107,
+        "maxLat": -1.434402466
+      }
+    },
+    "ECX": {
+      "name": "Cotopaxi",
+      "sub_id": "ECX",
+      "sub_num": "X",
+      "bbox": {
+        "minLon": -79.31533051,
+        "minLat": -1.356081963,
+        "maxLon": -78.38694906,
+        "maxLat": -0.329589844
+      }
+    },
+    "ECO": {
+      "name": "El Oro",
+      "sub_id": "ECO",
+      "sub_num": "O",
+      "bbox": {
+        "minLon": -80.30530906,
+        "minLat": -3.895307779,
+        "maxLon": -79.36597145,
+        "maxLat": -3.043556214
+      }
+    },
+    "ECE": {
+      "name": "Esmeraldas",
+      "sub_id": "ECE",
+      "sub_num": "E",
+      "bbox": {
+        "minLon": -80.10298944,
+        "minLat": -0.108146668,
+        "maxLon": -78.43703556,
+        "maxLat": 1.453933955
+      }
+    },
+    "ECW": {
+      "name": "Galápagos",
+      "sub_id": "ECW",
+      "sub_num": "W",
+      "bbox": {
+        "minLon": -91.82632613,
+        "minLat": -1.411379218,
+        "maxLon": -89.240574,
+        "maxLat": 1.399297714
+      }
+    },
+    "ECG": {
+      "name": "Guayas",
+      "sub_id": "ECG",
+      "sub_num": "G",
+      "bbox": {
+        "minLon": -80.64853823,
+        "minLat": -3.178052068,
+        "maxLon": -79.07955349,
+        "maxLat": -0.837171077
+      }
+    },
+    "ECI": {
+      "name": "Imbabura",
+      "sub_id": "ECI",
+      "sub_num": "I",
+      "bbox": {
+        "minLon": -79.26667523,
+        "minLat": 0.118961334,
+        "maxLon": -77.67845309,
+        "maxLat": 0.876073837
+      }
+    },
+    "ECL": {
+      "name": "Loja",
+      "sub_id": "ECL",
+      "sub_num": "L",
+      "bbox": {
+        "minLon": -80.48433065,
+        "minLat": -4.744490146,
+        "maxLon": -79.0939666,
+        "maxLat": -3.329544067
+      }
+    },
+    "ECR": {
+      "name": "Los Ríos",
+      "sub_id": "ECR",
+      "sub_num": "R",
+      "bbox": {
+        "minLon": -79.87780559,
+        "minLat": -2.147483826,
+        "maxLon": -79.08446956,
+        "maxLat": -0.535583496
+      }
+    },
+    "ECM": {
+      "name": "Manabí",
+      "sub_id": "ECM",
+      "sub_num": "M",
+      "bbox": {
+        "minLon": -81.08550262,
+        "minLat": -1.751010418,
+        "maxLon": -79.39639974,
+        "maxLat": 0.369342327
+      }
+    },
+    "ECS": {
+      "name": "Morona Santiago",
+      "sub_id": "ECS",
+      "sub_num": "S",
+      "bbox": {
+        "minLon": -78.9470495,
+        "minLat": -3.788862109,
+        "maxLon": -76.6351254,
+        "maxLat": -1.448333382
+      }
+    },
+    "ECN": {
+      "name": "Napo",
+      "sub_id": "ECN",
+      "sub_num": "N",
+      "bbox": {
+        "minLon": -78.43656361,
+        "minLat": -1.246948242,
+        "maxLon": -77.04570115,
+        "maxLat": 0.032958984
+      }
+    },
+    "ECD": {
+      "name": "Orellana",
+      "sub_id": "ECD",
+      "sub_num": "D",
+      "bbox": {
+        "minLon": -77.66852224,
+        "minLat": -1.564350128,
+        "maxLon": -75.38196731,
+        "maxLat": -0.04368782
+      }
+    },
+    "ECY": {
+      "name": "Pastaza",
+      "sub_id": "ECY",
+      "sub_num": "Y",
+      "bbox": {
+        "minLon": -78.17999995,
+        "minLat": -2.607021332,
+        "maxLon": -75.58182073,
+        "maxLat": -1.002502442
+      }
+    },
+    "ECP": {
+      "name": "Pichincha",
+      "sub_id": "ECP",
+      "sub_num": "P",
+      "bbox": {
+        "minLon": -79.37369263,
+        "minLat": -0.683383942,
+        "maxLon": -77.83917236,
+        "maxLat": 0.322036743
+      }
+    },
+    "ECG_SantaElena": {
+      "name": "Santa Elena",
+      "sub_id": "ECG_SantaElena",
+      "sub_num": "G",
+      "bbox": {
+        "minLon": -81.01343203,
+        "minLat": -2.506599426,
+        "maxLon": -80.22028232,
+        "maxLat": -1.668977738
+      }
+    },
+    "ECSD": {
+      "name": "Santo Domingo de los Tsáchilas",
+      "sub_id": "ECSD",
+      "sub_num": "SD",
+      "bbox": {
+        "minLon": -79.54867792,
+        "minLat": -0.694885254,
+        "maxLon": -78.75485408,
+        "maxLat": 0.009269714
+      }
+    },
+    "ECU": {
+      "name": "Sucumbíos",
+      "sub_id": "ECU",
+      "sub_num": "U",
+      "bbox": {
+        "minLon": -77.97286224,
+        "minLat": -0.987653733,
+        "maxLon": -75.18984079,
+        "maxLat": 0.661840439
+      }
+    },
+    "ECT": {
+      "name": "Tungurahua",
+      "sub_id": "ECT",
+      "sub_num": "T",
+      "bbox": {
+        "minLon": -78.93761146,
+        "minLat": -1.527496576,
+        "maxLon": -78.11137891,
+        "maxLat": -0.999927521
+      }
+    },
+    "ECZ": {
+      "name": "Zamora Chinchipe",
+      "sub_id": "ECZ",
+      "sub_num": "Z",
+      "bbox": {
+        "minLon": -79.43061876,
+        "minLat": -5.015087128,
+        "maxLon": -78.4118998,
+        "maxLat": -3.314437866
+      }
+    }
+  }
+  

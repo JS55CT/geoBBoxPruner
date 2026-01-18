@@ -1,0 +1,157 @@
+{
+    "GRG": {
+      "name": "Aitoloakarnanía",
+      "sub_id": "GRG",
+      "sub_num": "G",
+      "bbox": {
+        "minLon": 20.71858871,
+        "minLat": 38.29050863,
+        "maxLon": 22.04099107,
+        "maxLat": 39.17838335
+      }
+    },
+    "GRA": {
+      "name": "Anatolikí Makedonía kai Thráki",
+      "sub_id": "GRA",
+      "sub_num": "A",
+      "bbox": {
+        "minLon": 23.6223681,
+        "minLat": 40.39168012,
+        "maxLon": 26.63533235,
+        "maxLat": 41.74903929
+      }
+    },
+    "GRI": {
+      "name": "Attikí",
+      "sub_id": "GRI",
+      "sub_num": "I",
+      "bbox": {
+        "minLon": 22.8910501,
+        "minLat": 35.82160461,
+        "maxLon": 24.10595977,
+        "maxLat": 38.34105027
+      }
+    },
+    "GRC": {
+      "name": "Dytikí Makedonía",
+      "sub_id": "GRC",
+      "sub_num": "C",
+      "bbox": {
+        "minLon": 20.77563143,
+        "minLat": 39.83198404,
+        "maxLon": 22.19676971,
+        "maxLat": 40.94381332
+      }
+    },
+    "GRF": {
+      "name": "Ionía Nísia",
+      "sub_id": "GRF",
+      "sub_num": "F",
+      "bbox": {
+        "minLon": 19.37266231,
+        "minLat": 37.23942029,
+        "maxLon": 21.12031996,
+        "maxLat": 39.89904034
+      }
+    },
+    "GRB": {
+      "name": "Kentrikí Makedonía",
+      "sub_id": "GRB",
+      "sub_num": "B",
+      "bbox": {
+        "minLon": 21.71340215,
+        "minLat": 39.9076463,
+        "maxLon": 24.11713278,
+        "maxLat": 41.40592575
+      }
+    },
+    "GRM": {
+      "name": "Kríti",
+      "sub_id": "GRM",
+      "sub_num": "M",
+      "bbox": {
+        "minLon": 23.47373509,
+        "minLat": 34.80053317,
+        "maxLon": 26.35346687,
+        "maxLat": 35.69593191
+      }
+    },
+    "GRL": {
+      "name": "Nótio Aigaío",
+      "sub_id": "GRL",
+      "sub_num": "L",
+      "bbox": {
+        "minLon": 23.87401521,
+        "minLat": 35.33891094,
+        "maxLon": 29.64586198,
+        "maxLat": 37.99965584
+      }
+    },
+    "GRJ": {
+      "name": "Pelopónnisos",
+      "sub_id": "GRJ",
+      "sub_num": "J",
+      "bbox": {
+        "minLon": 21.53854418,
+        "minLat": 36.38508797,
+        "maxLon": 23.45490026,
+        "maxLat": 38.1430639
+      }
+    },
+    "GRH": {
+      "name": "Stereá Elláda",
+      "sub_id": "GRH",
+      "sub_num": "H",
+      "bbox": {
+        "minLon": 21.37448359,
+        "minLat": 37.93044198,
+        "maxLon": 24.6865238,
+        "maxLat": 39.28504944
+      }
+    },
+    "GRE": {
+      "name": "Thessalía",
+      "sub_id": "GRE",
+      "sub_num": "E",
+      "bbox": {
+        "minLon": 21.12143981,
+        "minLat": 38.97275448,
+        "maxLon": 24.3344357,
+        "maxLat": 40.18225908
+      }
+    },
+    "GRD": {
+      "name": "Ípeiros",
+      "sub_id": "GRD",
+      "sub_num": "D",
+      "bbox": {
+        "minLon": 20.15345693,
+        "minLat": 38.98416972,
+        "maxLon": 21.09733713,
+        "maxLat": 39.62614489
+      }
+    },
+    "GRK": {
+      "name": "Vóreio Aigaío",
+      "sub_id": "GRK",
+      "sub_num": "K",
+      "bbox": {
+        "minLon": 24.97003043,
+        "minLat": 37.5030396,
+        "maxLon": 27.06994963,
+        "maxLat": 40.03673565
+      }
+    },
+    "GR69": {
+      "name": "Ágion Óros",
+      "sub_id": "GR69",
+      "sub_num": "69",
+      "bbox": {
+        "minLon": 23.99344921,
+        "minLat": 40.11404765,
+        "maxLon": 24.39962912,
+        "maxLat": 40.45430398
+      }
+    }
+  }
+  

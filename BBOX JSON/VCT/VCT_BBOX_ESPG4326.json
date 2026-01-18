@@ -1,0 +1,69 @@
+{
+    "VC01": {
+      "name": "Charlotte",
+      "sub_id": "VC01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": -61.2004602,
+        "minLat": 13.1631887,
+        "maxLon": -61.11397064,
+        "maxLat": 13.3833096
+      }
+    },
+    "VC06": {
+      "name": "Grenadines",
+      "sub_id": "VC06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": -61.46092951,
+        "minLat": 12.53315806,
+        "maxLon": -61.12465119,
+        "maxLat": 13.04848647
+      }
+    },
+    "VC02": {
+      "name": "Saint Andrew",
+      "sub_id": "VC02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": -61.27804124,
+        "minLat": 13.15394723,
+        "maxLon": -61.19693375,
+        "maxLat": 13.23251724
+      }
+    },
+    "VC03": {
+      "name": "Saint David",
+      "sub_id": "VC03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -61.26437151,
+        "minLat": 13.25350285,
+        "maxLon": -61.16238785,
+        "maxLat": 13.38084543
+      }
+    },
+    "VC04": {
+      "name": "Saint George",
+      "sub_id": "VC04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": -61.23642993,
+        "minLat": 13.12193012,
+        "maxLon": -61.14273846,
+        "maxLat": 13.21208954
+      }
+    },
+    "VC05": {
+      "name": "Saint Patrick",
+      "sub_id": "VC05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -61.27884805,
+        "minLat": 13.20198059,
+        "maxLon": -61.18647218,
+        "maxLat": 13.27178478
+      }
+    }
+  }
+  

@@ -1,0 +1,102 @@
+{
+    "KGB": {
+      "name": "Batken",
+      "sub_id": "KGB",
+      "sub_num": "B",
+      "bbox": {
+        "minLon": 69.26413143,
+        "minLat": 39.38890457,
+        "maxLon": 72.54461503,
+        "maxLat": 40.34514427
+      }
+    },
+    "KGGB": {
+      "name": "Bishkek Shaary",
+      "sub_id": "KGGB",
+      "sub_num": "GB",
+      "bbox": {
+        "minLon": 74.50200486,
+        "minLat": 42.79570162,
+        "maxLon": 74.70631599,
+        "maxLat": 42.93608308
+      }
+    },
+    "KGC": {
+      "name": "Chüy",
+      "sub_id": "KGC",
+      "sub_num": "C",
+      "bbox": {
+        "minLon": 73.04927743,
+        "minLat": 41.90683365,
+        "maxLon": 77.22399795,
+        "maxLat": 43.26545835
+      }
+    },
+    "KGJ": {
+      "name": "Jalal-Abad",
+      "sub_id": "KGJ",
+      "sub_num": "J",
+      "bbox": {
+        "minLon": 70.17602253,
+        "minLat": 40.80734253,
+        "maxLon": 74.71353817,
+        "maxLat": 42.21891403
+      }
+    },
+    "KGN": {
+      "name": "Naryn",
+      "sub_id": "KGN",
+      "sub_num": "N",
+      "bbox": {
+        "minLon": 73.7125169,
+        "minLat": 40.27982712,
+        "maxLon": 78.24232924,
+        "maxLat": 42.45567799
+      }
+    },
+    "KGO": {
+      "name": "Osh",
+      "sub_id": "KGO",
+      "sub_num": "O",
+      "bbox": {
+        "minLon": 71.49479079,
+        "minLat": 39.18050766,
+        "maxLon": 74.90996528,
+        "maxLat": 41.13212585
+      }
+    },
+    "KGGO": {
+      "name": "Osh Shaary",
+      "sub_id": "KGGO",
+      "sub_num": "GO",
+      "bbox": {
+        "minLon": 72.72767043,
+        "minLat": 40.46341896,
+        "maxLon": 72.86678874,
+        "maxLat": 40.57675839
+      }
+    },
+    "KGT": {
+      "name": "Talas",
+      "sub_id": "KGT",
+      "sub_num": "T",
+      "bbox": {
+        "minLon": 70.86727297,
+        "minLat": 42.01248741,
+        "maxLon": 73.66132295,
+        "maxLat": 42.83655167
+      }
+    },
+    "KGY": {
+      "name": "Ysyk-Köl",
+      "sub_id": "KGY",
+      "sub_num": "Y",
+      "bbox": {
+        "minLon": 75.64059043,
+        "minLat": 41.14276886,
+        "maxLon": 80.29529941,
+        "maxLat": 42.93972015
+      }
+    }
+  }
+  

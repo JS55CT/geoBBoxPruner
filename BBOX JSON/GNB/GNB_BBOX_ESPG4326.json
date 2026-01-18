@@ -1,0 +1,91 @@
+{
+    "GWBA": {
+      "name": "Bafatá",
+      "sub_id": "GWBA",
+      "sub_num": "BA",
+      "bbox": {
+        "minLon": -15.07062709,
+        "minLat": 11.58946037,
+        "maxLon": -14.31987488,
+        "maxLat": 12.68238366
+      }
+    },
+    "GWBM": {
+      "name": "Biombo",
+      "sub_id": "GWBM",
+      "sub_num": "BM",
+      "bbox": {
+        "minLon": -15.96810198,
+        "minLat": 11.73402774,
+        "maxLon": -15.58955502,
+        "maxLat": 12.02706468
+      }
+    },
+    "GWBL": {
+      "name": "Bolama/Bijagós",
+      "sub_id": "GWBL",
+      "sub_num": "BL",
+      "bbox": {
+        "minLon": -16.48058474,
+        "minLat": 10.86408031,
+        "maxLon": -15.31954634,
+        "maxLat": 11.68463707
+      }
+    },
+    "GWCA": {
+      "name": "Cacheu",
+      "sub_id": "GWCA",
+      "sub_num": "CA",
+      "bbox": {
+        "minLon": -16.71515739,
+        "minLat": 11.74843752,
+        "maxLon": -15.47778094,
+        "maxLat": 12.51917112
+      }
+    },
+    "GWGA": {
+      "name": "Gabú",
+      "sub_id": "GWGA",
+      "sub_num": "GA",
+      "bbox": {
+        "minLon": -14.5532403,
+        "minLat": 11.57522762,
+        "maxLon": -13.63247526,
+        "maxLat": 12.68121815
+      }
+    },
+    "GWOI": {
+      "name": "Oio",
+      "sub_id": "GWOI",
+      "sub_num": "OI",
+      "bbox": {
+        "minLon": -15.75593019,
+        "minLat": 11.88985002,
+        "maxLon": -14.83021986,
+        "maxLat": 12.68526077
+      }
+    },
+    "GWQU": {
+      "name": "Quinara",
+      "sub_id": "GWQU",
+      "sub_num": "QU",
+      "bbox": {
+        "minLon": -15.61454248,
+        "minLat": 11.32228291,
+        "maxLon": -14.82438767,
+        "maxLat": 11.95696461
+      }
+    },
+    "GWTO": {
+      "name": "Tombali",
+      "sub_id": "GWTO",
+      "sub_num": "TO",
+      "bbox": {
+        "minLon": -15.4190768,
+        "minLat": 10.92106795,
+        "maxLon": -14.37588918,
+        "maxLat": 11.7011261
+      }
+    }
+  }
+  

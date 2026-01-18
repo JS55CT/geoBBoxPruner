@@ -1,0 +1,157 @@
+{
+    "TLAL": {
+      "name": "Aileu",
+      "sub_id": "TLAL",
+      "sub_num": "AL",
+      "bbox": {
+        "minLon": 125.4539182,
+        "minLat": -8.847942352,
+        "maxLon": 125.8148521,
+        "maxLat": -8.559293747
+      }
+    },
+    "TLAN": {
+      "name": "Ainaro",
+      "sub_id": "TLAN",
+      "sub_num": "AN",
+      "bbox": {
+        "minLon": 125.4278612,
+        "minLat": -9.220048308,
+        "maxLon": 125.7247033,
+        "maxLat": -8.756661415
+      }
+    },
+    "TLBA": {
+      "name": "Baucau",
+      "sub_id": "TLBA",
+      "sub_num": "BA",
+      "bbox": {
+        "minLon": 126.1782362,
+        "minLat": -8.701515198,
+        "maxLon": 126.7963756,
+        "maxLat": -8.411891102
+      }
+    },
+    "TLBO": {
+      "name": "Bobonaro",
+      "sub_id": "TLBO",
+      "sub_num": "BO",
+      "bbox": {
+        "minLon": 124.9376632,
+        "minLat": -9.214010239,
+        "maxLon": 125.4347022,
+        "maxLat": -8.734989166
+      }
+    },
+    "TLCO": {
+      "name": "Cova Lima",
+      "sub_id": "TLCO",
+      "sub_num": "CO",
+      "bbox": {
+        "minLon": 124.981468,
+        "minLat": -9.462287903,
+        "maxLon": 125.5393049,
+        "maxLat": -9.00226593
+      }
+    },
+    "TLDI": {
+      "name": "Díli",
+      "sub_id": "TLDI",
+      "sub_num": "DI",
+      "bbox": {
+        "minLon": 125.4939756,
+        "minLat": -8.627258301,
+        "maxLon": 125.8623344,
+        "maxLat": -8.126911878
+      }
+    },
+    "TLER": {
+      "name": "Ermera",
+      "sub_id": "TLER",
+      "sub_num": "ER",
+      "bbox": {
+        "minLon": 125.1894684,
+        "minLat": -8.9957093,
+        "maxLon": 125.5332276,
+        "maxLat": -8.637153388
+      }
+    },
+    "TLLA": {
+      "name": "Lautém",
+      "sub_id": "TLLA",
+      "sub_num": "LA",
+      "bbox": {
+        "minLon": 126.7160267,
+        "minLat": -8.760597348,
+        "maxLon": 127.3423706,
+        "maxLat": -8.322028398
+      }
+    },
+    "TLLI": {
+      "name": "Liquiça",
+      "sub_id": "TLLI",
+      "sub_num": "LI",
+      "bbox": {
+        "minLon": 125.0911903,
+        "minLat": -8.753335476,
+        "maxLon": 125.5291667,
+        "maxLat": -8.555328012
+      }
+    },
+    "TLMT": {
+      "name": "Manatutu",
+      "sub_id": "TLMT",
+      "sub_num": "MT",
+      "bbox": {
+        "minLon": 125.7561823,
+        "minLat": -9.05752182,
+        "maxLon": 126.2216421,
+        "maxLat": -8.474459052
+      }
+    },
+    "TLMF": {
+      "name": "Manufahi",
+      "sub_id": "TLMF",
+      "sub_num": "MF",
+      "bbox": {
+        "minLon": 125.586135,
+        "minLat": -9.195000052,
+        "maxLon": 126.061698,
+        "maxLat": -8.739795685
+      }
+    },
+    "TLOE": {
+      "name": "Oé-Cusse Ambeno",
+      "sub_id": "TLOE",
+      "sub_num": "OE",
+      "bbox": {
+        "minLon": 124.0419133,
+        "minLat": -9.50343132,
+        "maxLon": 124.4829147,
+        "maxLat": -9.166882158
+      }
+    },
+    "TLVI": {
+      "name": "Viqueque",
+      "sub_id": "TLVI",
+      "sub_num": "VI",
+      "bbox": {
+        "minLon": 126.0449451,
+        "minLat": -8.990163088,
+        "maxLon": 126.7379748,
+        "maxLat": -8.593797684
+      }
+    },
+    "TL": {
+      "name": "Timor-Leste",
+      "sub_id": "TL",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 125.84145,
+        "minLat": -8.478194476,
+        "maxLon": 125.8417754,
+        "maxLat": -8.477722406
+      }
+    }
+  }
+  

@@ -1,0 +1,80 @@
+{
+    "CRA": {
+      "name": "Alajuela",
+      "sub_id": "CRA",
+      "sub_num": "A",
+      "bbox": {
+        "minLon": -85.45263338,
+        "minLat": 9.842151404,
+        "maxLon": -84.16300154,
+        "maxLat": 11.08462501
+      }
+    },
+    "CRC": {
+      "name": "Cartago",
+      "sub_id": "CRC",
+      "sub_num": "C",
+      "bbox": {
+        "minLon": -84.08726442,
+        "minLat": 9.482917786,
+        "maxLon": -83.31762302,
+        "maxLat": 10.12681961
+      }
+    },
+    "CRG": {
+      "name": "Guanacaste",
+      "sub_id": "CRG",
+      "sub_num": "G",
+      "bbox": {
+        "minLon": -85.96065354,
+        "minLat": 9.727020264,
+        "maxLon": -84.76560688,
+        "maxLat": 11.21968102
+      }
+    },
+    "CRH": {
+      "name": "Heredia",
+      "sub_id": "CRH",
+      "sub_num": "H",
+      "bbox": {
+        "minLon": -84.20372093,
+        "minLat": 9.960479736,
+        "maxLon": -83.71103203,
+        "maxLat": 10.79320908
+      }
+    },
+    "CRL": {
+      "name": "Limón",
+      "sub_id": "CRL",
+      "sub_num": "L",
+      "bbox": {
+        "minLon": -83.94668329,
+        "minLat": 9.075965882,
+        "maxLon": -82.55177534,
+        "maxLat": 10.93987226
+      }
+    },
+    "CRP": {
+      "name": "Puntarenas",
+      "sub_id": "CRP",
+      "sub_num": "P",
+      "bbox": {
+        "minLon": -87.09452462,
+        "minLat": 5.498920679,
+        "maxLon": -82.71142185,
+        "maxLat": 10.33955097
+      }
+    },
+    "CRSJ": {
+      "name": "San José",
+      "sub_id": "CRSJ",
+      "sub_num": "SJ",
+      "bbox": {
+        "minLon": -84.59472954,
+        "minLat": 9.075307846,
+        "maxLon": -83.42889249,
+        "maxLat": 10.1877594
+      }
+    }
+  }
+  

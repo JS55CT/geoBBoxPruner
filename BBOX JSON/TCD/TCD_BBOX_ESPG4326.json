@@ -1,0 +1,256 @@
+{
+    "TDBA": {
+      "name": "Al Baṭḥāʾ",
+      "sub_id": "TDBA",
+      "sub_num": "BA",
+      "bbox": {
+        "minLon": 16.9453721,
+        "minLat": 12.14506388,
+        "maxLon": 20.30206001,
+        "maxLat": 16.10899997
+      }
+    },
+    "TDLC": {
+      "name": "Al Buḥayrah",
+      "sub_id": "TDLC",
+      "sub_num": "LC",
+      "bbox": {
+        "minLon": 13.46867299,
+        "minLat": 13.00540924,
+        "maxLon": 15.57596064,
+        "maxLat": 14.52049255
+      }
+    },
+    "TDBG": {
+      "name": "Baḥr al Ghazāl",
+      "sub_id": "TDBG",
+      "sub_num": "BG",
+      "bbox": {
+        "minLon": 15.60062063,
+        "minLat": 13.04731607,
+        "maxLon": 18.01969755,
+        "maxLat": 16.2492522
+      }
+    },
+    "TDBO": {
+      "name": "Būrkū",
+      "sub_id": "TDBO",
+      "sub_num": "BO",
+      "bbox": {
+        "minLon": 15.53260219,
+        "minLat": 15.34577608,
+        "maxLon": 21.04573357,
+        "maxLat": 22.00615394
+      }
+    },
+    "TDEO": {
+      "name": "Inīdī al Gharbī",
+      "sub_id": "TDEO",
+      "sub_num": "EO",
+      "bbox": {
+        "minLon": 20.08879983,
+        "minLat": 15.79516411,
+        "maxLon": 22.69056666,
+        "maxLat": 21.04673684
+      }
+    },
+    "TDEE": {
+      "name": "Inīdī ash Sharqī",
+      "sub_id": "TDEE",
+      "sub_num": "EE",
+      "bbox": {
+        "minLon": 21.94840145,
+        "minLat": 15.68401337,
+        "maxLon": 23.99932921,
+        "maxLat": 20.17982781
+      }
+    },
+    "TDKA": {
+      "name": "Kānim",
+      "sub_id": "TDKA",
+      "sub_num": "KA",
+      "bbox": {
+        "minLon": 13.63939536,
+        "minLat": 13.17187786,
+        "maxLon": 16.68919706,
+        "maxLat": 16.74891472
+      }
+    },
+    "TDLO": {
+      "name": "Lūghūn al Gharbī",
+      "sub_id": "TDLO",
+      "sub_num": "LO",
+      "bbox": {
+        "minLon": 15.28207624,
+        "minLat": 8.244380951,
+        "maxLon": 16.61814392,
+        "maxLat": 9.248538256
+      }
+    },
+    "TDLR": {
+      "name": "Lūghūn ash Sharqī",
+      "sub_id": "TDLR",
+      "sub_num": "LR",
+      "bbox": {
+        "minLon": 15.23853421,
+        "minLat": 7.439332009,
+        "maxLon": 17.27678621,
+        "maxLat": 9.141676426
+      }
+    },
+    "TDND": {
+      "name": "Madīnat Injamīnā",
+      "sub_id": "TDND",
+      "sub_num": "ND",
+      "bbox": {
+        "minLon": 14.8852334,
+        "minLat": 11.98303497,
+        "maxLon": 15.15996063,
+        "maxLat": 12.24403501
+      }
+    },
+    "TDMA": {
+      "name": "Māndūl",
+      "sub_id": "TDMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": 17.03761029,
+        "minLat": 7.788963318,
+        "maxLon": 18.21189392,
+        "maxLat": 9.649343491
+      }
+    },
+    "TDMO": {
+      "name": "Māyū Kībbī al Gharbī",
+      "sub_id": "TDMO",
+      "sub_num": "MO",
+      "bbox": {
+        "minLon": 13.97914743,
+        "minLat": 8.431086421,
+        "maxLon": 15.46478188,
+        "maxLat": 10.00940323
+      }
+    },
+    "TDME": {
+      "name": "Māyū Kībbī ash Sharqī",
+      "sub_id": "TDME",
+      "sub_num": "ME",
+      "bbox": {
+        "minLon": 14.72116065,
+        "minLat": 9.200620652,
+        "maxLon": 16.26656616,
+        "maxLat": 11.20879054
+      }
+    },
+    "TDGR": {
+      "name": "Qīrā",
+      "sub_id": "TDGR",
+      "sub_num": "GR",
+      "bbox": {
+        "minLon": 17.30496061,
+        "minLat": 9.880836487,
+        "maxLon": 20.17695451,
+        "maxLat": 13.03103495
+      }
+    },
+    "TDSA": {
+      "name": "Salāmāt",
+      "sub_id": "TDSA",
+      "sub_num": "SA",
+      "bbox": {
+        "minLon": 18.82468474,
+        "minLat": 9.064203501,
+        "maxLon": 22.36703026,
+        "maxLat": 12.14152336
+      }
+    },
+    "TDCB": {
+      "name": "Shārī Bāqirmī",
+      "sub_id": "TDCB",
+      "sub_num": "CB",
+      "bbox": {
+        "minLon": 15.03875256,
+        "minLat": 9.83250618,
+        "maxLon": 17.52248239,
+        "maxLat": 12.43203497
+      }
+    },
+    "TDMC": {
+      "name": "Shārī al Awsaṭ",
+      "sub_id": "TDMC",
+      "sub_num": "MC",
+      "bbox": {
+        "minLon": 17.37084746,
+        "minLat": 8.02722323,
+        "maxLon": 19.90693045,
+        "maxLat": 10.6128788
+      }
+    },
+    "TDSI": {
+      "name": "Sīlā",
+      "sub_id": "TDSI",
+      "sub_num": "SI",
+      "bbox": {
+        "minLon": 19.83013964,
+        "minLat": 10.93182564,
+        "maxLon": 22.98652554,
+        "maxLat": 13.08503747
+      }
+    },
+    "TDTI": {
+      "name": "Tibastī",
+      "sub_id": "TDTI",
+      "sub_num": "TI",
+      "bbox": {
+        "minLon": 15,
+        "minLat": 17.18531072,
+        "maxLon": 19.09599328,
+        "maxLat": 23.44636917
+      }
+    },
+    "TDTA": {
+      "name": "Tānjīlī",
+      "sub_id": "TDTA",
+      "sub_num": "TA",
+      "bbox": {
+        "minLon": 15.44218171,
+        "minLat": 9.013638497,
+        "maxLon": 17.58295703,
+        "maxLat": 10.27573586
+      }
+    },
+    "TDOD": {
+      "name": "Waddāy",
+      "sub_id": "TDOD",
+      "sub_num": "OD",
+      "bbox": {
+        "minLon": 20,
+        "minLat": 12.63153076,
+        "maxLon": 22.29105365,
+        "maxLat": 14.46375847
+      }
+    },
+    "TDWF": {
+      "name": "Wādī Fīrāʾ",
+      "sub_id": "TDWF",
+      "sub_num": "WF",
+      "bbox": {
+        "minLon": 20,
+        "minLat": 13.91165257,
+        "maxLon": 23.11434019,
+        "maxLat": 16.00153327
+      }
+    },
+    "TDHL": {
+      "name": "Ḥajjar Lamīs",
+      "sub_id": "TDHL",
+      "sub_num": "HL",
+      "bbox": {
+        "minLon": 14.51611626,
+        "minLat": 11.47203505,
+        "maxLon": 17.67996061,
+        "maxLat": 13.4318161
+      }
+    }
+  }
+  

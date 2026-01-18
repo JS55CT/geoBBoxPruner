@@ -1,0 +1,201 @@
+{
+    "SOAW": {
+      "name": "Awdal",
+      "sub_id": "SOAW",
+      "sub_num": "AW",
+      "bbox": {
+        "minLon": 42.66951001,
+        "minLat": 9.705734253,
+        "maxLon": 44.24912882,
+        "maxLat": 11.51537323
+      }
+    },
+    "SOBK": {
+      "name": "Bakool",
+      "sub_id": "SOBK",
+      "sub_num": "BK",
+      "bbox": {
+        "minLon": 42.78334105,
+        "minLat": 3.537587404,
+        "maxLon": 44.61277962,
+        "maxLat": 4.962387085
+      }
+    },
+    "SOBN": {
+      "name": "Banaadir",
+      "sub_id": "SOBN",
+      "sub_num": "BN",
+      "bbox": {
+        "minLon": 45.10314536,
+        "minLat": 1.913377166,
+        "maxLon": 45.61726582,
+        "maxLat": 2.191553354
+      }
+    },
+    "SOBR": {
+      "name": "Bari",
+      "sub_id": "SOBR",
+      "sub_num": "BR",
+      "bbox": {
+        "minLon": 48.93478465,
+        "minLat": 8.322880984,
+        "maxLon": 51.41560614,
+        "maxLat": 11.98908877
+      }
+    },
+    "SOBY": {
+      "name": "Bay",
+      "sub_id": "SOBY",
+      "sub_num": "BY",
+      "bbox": {
+        "minLon": 42.33134699,
+        "minLat": 1.614990234,
+        "maxLon": 44.64092851,
+        "maxLat": 3.556177139
+      }
+    },
+    "SOGA": {
+      "name": "Galguduud",
+      "sub_id": "SOGA",
+      "sub_num": "GA",
+      "bbox": {
+        "minLon": 45.49751472,
+        "minLat": 3.513555884,
+        "maxLon": 47.8814286,
+        "maxLat": 6.210021972
+      }
+    },
+    "SOGE": {
+      "name": "Gedo",
+      "sub_id": "SOGE",
+      "sub_num": "GE",
+      "bbox": {
+        "minLon": 40.99518359,
+        "minLat": 2.26171863,
+        "maxLon": 43.01429248,
+        "maxLat": 4.268188477
+      }
+    },
+    "SOHI": {
+      "name": "Hiiraan",
+      "sub_id": "SOHI",
+      "sub_num": "HI",
+      "bbox": {
+        "minLon": 44.4718889,
+        "minLat": 3.316497803,
+        "maxLon": 46.33557963,
+        "maxLat": 5.451260209
+      }
+    },
+    "SOJD": {
+      "name": "Jubbada Dhexe",
+      "sub_id": "SOJD",
+      "sub_num": "JD",
+      "bbox": {
+        "minLon": 40.99200332,
+        "minLat": 0.326843262,
+        "maxLon": 43.46889424,
+        "maxLat": 2.364807129
+      }
+    },
+    "SOJH": {
+      "name": "Jubbada Hoose",
+      "sub_id": "SOJH",
+      "sub_num": "JH",
+      "bbox": {
+        "minLon": 40.99320483,
+        "minLat": -1.654068112,
+        "maxLon": 43.21538472,
+        "maxLat": 1.36505127
+      }
+    },
+    "SOMU": {
+      "name": "Mudug",
+      "sub_id": "SOMU",
+      "sub_num": "MU",
+      "bbox": {
+        "minLon": 46.15166557,
+        "minLat": 4.383544922,
+        "maxLon": 49.64369845,
+        "maxLat": 7.795088172
+      }
+    },
+    "SONU": {
+      "name": "Nugaal",
+      "sub_id": "SONU",
+      "sub_num": "NU",
+      "bbox": {
+        "minLon": 47.7934252,
+        "minLat": 7.399059295,
+        "maxLon": 50.16838884,
+        "maxLat": 8.968681454
+      }
+    },
+    "SOSA": {
+      "name": "Sanaag",
+      "sub_id": "SOSA",
+      "sub_num": "SA",
+      "bbox": {
+        "minLon": 45.88413596,
+        "minLat": 9.247741699,
+        "maxLon": 48.93504632,
+        "maxLat": 11.32570314
+      }
+    },
+    "SOSD": {
+      "name": "Shabeellaha Dhexe",
+      "sub_id": "SOSD",
+      "sub_num": "SD",
+      "bbox": {
+        "minLon": 45.03562856,
+        "minLat": 2.153320313,
+        "maxLon": 47.07815337,
+        "maxLat": 3.975658178
+      }
+    },
+    "SOSH": {
+      "name": "Shabeellaha Hoose",
+      "sub_id": "SOSH",
+      "sub_num": "SH",
+      "bbox": {
+        "minLon": 42.88850522,
+        "minLat": 0.627084136,
+        "maxLon": 45.29568005,
+        "maxLat": 3.322120666
+      }
+    },
+    "SOSO": {
+      "name": "Sool",
+      "sub_id": "SOSO",
+      "sub_num": "SO",
+      "bbox": {
+        "minLon": 45.98417687,
+        "minLat": 8.000450134,
+        "maxLon": 48.95948851,
+        "maxLat": 9.747619629
+      }
+    },
+    "SOTO": {
+      "name": "Togdheer",
+      "sub_id": "SOTO",
+      "sub_num": "TO",
+      "bbox": {
+        "minLon": 44.64572036,
+        "minLat": 8.000450134,
+        "maxLon": 47.00020814,
+        "maxLat": 10.10645723
+      }
+    },
+    "SOWO": {
+      "name": "Woqooyi Galbeed",
+      "sub_id": "SOWO",
+      "sub_num": "WO",
+      "bbox": {
+        "minLon": 43.27681494,
+        "minLat": 8.7815094,
+        "maxLon": 45.95102346,
+        "maxLat": 10.86860156
+      }
+    }
+  }
+  

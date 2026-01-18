@@ -1,0 +1,234 @@
+{
+    "MV01": {
+      "name": "Addu",
+      "sub_id": "MV01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 73.07609594,
+        "minLat": -0.70336914,
+        "maxLon": 73.23967361,
+        "maxLat": -0.576463103
+      }
+    },
+    "MV00": {
+      "name": "Ariatholhu Dhekunuburi",
+      "sub_id": "MV00",
+      "sub_num": "0",
+      "bbox": {
+        "minLon": 72.70714605,
+        "minLat": 3.469142317,
+        "maxLon": 72.97316587,
+        "maxLat": 3.890689015
+      }
+    },
+    "MV02": {
+      "name": "Ariatholhu Uthuruburi",
+      "sub_id": "MV02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 72.71447599,
+        "minLat": 3.919073463,
+        "maxLon": 73.01223123,
+        "maxLat": 4.444366694
+      }
+    },
+    "MV03": {
+      "name": "Faadhippolhu",
+      "sub_id": "MV03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 73.33070314,
+        "minLat": 5.243182182,
+        "maxLon": 73.65766108,
+        "maxLat": 5.555203557
+      }
+    },
+    "MV04": {
+      "name": "Felidheatholhu",
+      "sub_id": "MV04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 73.36402667,
+        "minLat": 3.220528364,
+        "maxLon": 73.75938785,
+        "maxLat": 3.681512952
+      }
+    },
+    "MV29": {
+      "name": "Fuvammulah",
+      "sub_id": "MV29",
+      "sub_num": "29",
+      "bbox": {
+        "minLon": 73.41008759,
+        "minLat": -0.312448025,
+        "maxLon": 73.44055474,
+        "maxLat": -0.27753067
+      }
+    },
+    "MV05": {
+      "name": "Hahdhunmathi",
+      "sub_id": "MV05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 73.23760211,
+        "minLat": 1.778908014,
+        "maxLon": 73.58603334,
+        "maxLat": 2.132828235
+      }
+    },
+    "MV28": {
+      "name": "Huvadhuatholhu Dhekunuburi",
+      "sub_id": "MV28",
+      "sub_num": "28",
+      "bbox": {
+        "minLon": 72.98742163,
+        "minLat": 0.187255859,
+        "maxLon": 73.52122498,
+        "maxLat": 0.54333508
+      }
+    },
+    "MV27": {
+      "name": "Huvadhuatholhu Uthuruburi",
+      "sub_id": "MV27",
+      "sub_num": "27",
+      "bbox": {
+        "minLon": 73.09233344,
+        "minLat": 0.346334815,
+        "maxLon": 73.57437074,
+        "maxLat": 0.897204279
+      }
+    },
+    "MV08": {
+      "name": "Kolhumadulu",
+      "sub_id": "MV08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 72.90819144,
+        "minLat": 2.163416147,
+        "maxLon": 73.36475515,
+        "maxLat": 2.560372353
+      }
+    },
+    "MVMLE": {
+      "name": "Maale",
+      "sub_id": "MVMLE",
+      "sub_num": "MLE",
+      "bbox": {
+        "minLon": 73.50040221,
+        "minLat": 4.168273449,
+        "maxLon": 73.51889134,
+        "maxLat": 4.181122303
+      }
+    },
+    "MV26": {
+      "name": "Maaleatholhu",
+      "sub_id": "MV26",
+      "sub_num": "26",
+      "bbox": {
+        "minLon": 73.35083759,
+        "minLat": 3.810170412,
+        "maxLon": 73.71884096,
+        "maxLat": 4.967105627
+      }
+    },
+    "MV20": {
+      "name": "Maalhosmadulu Dhekunuburi",
+      "sub_id": "MV20",
+      "sub_num": "20",
+      "bbox": {
+        "minLon": 72.83630061,
+        "minLat": 4.86132145,
+        "maxLon": 73.16925728,
+        "maxLat": 5.354935646
+      }
+    },
+    "MV13": {
+      "name": "Maalhosmadulu Uthuruburi",
+      "sub_id": "MV13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": 72.80036318,
+        "minLat": 5.358184576,
+        "maxLon": 73.04826844,
+        "maxLat": 5.980450391
+      }
+    },
+    "MV25": {
+      "name": "Miladhunmadulu Dhekunuburi",
+      "sub_id": "MV25",
+      "sub_num": "25",
+      "bbox": {
+        "minLon": 73.13056552,
+        "minLat": 5.644483566,
+        "maxLon": 73.48237288,
+        "maxLat": 6.003191471
+      }
+    },
+    "MV24": {
+      "name": "Miladhunmadulu Uthuruburi",
+      "sub_id": "MV24",
+      "sub_num": "24",
+      "bbox": {
+        "minLon": 72.89995873,
+        "minLat": 5.966756344,
+        "maxLon": 73.30119288,
+        "maxLat": 6.479980945
+      }
+    },
+    "MV12": {
+      "name": "Mulakatholhu",
+      "sub_id": "MV12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 73.36851883,
+        "minLat": 2.763453126,
+        "maxLon": 73.64177322,
+        "maxLat": 3.114141226
+      }
+    },
+    "MV17": {
+      "name": "Nilandheatholhu Dhekunuburi",
+      "sub_id": "MV17",
+      "sub_num": "17",
+      "bbox": {
+        "minLon": 72.83537316,
+        "minLat": 2.664503693,
+        "maxLon": 73.02818871,
+        "maxLat": 3.004610539
+      }
+    },
+    "MV14": {
+      "name": "Nilandheatholhu Uthuruburi",
+      "sub_id": "MV14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 72.81655359,
+        "minLat": 3.052162051,
+        "maxLon": 73.04001796,
+        "maxLat": 3.272237301
+      }
+    },
+    "MV23": {
+      "name": "Thiladhunmathee Dhekunuburi",
+      "sub_id": "MV23",
+      "sub_num": "23",
+      "bbox": {
+        "minLon": 72.63907397,
+        "minLat": 6.316561937,
+        "maxLon": 73.18471396,
+        "maxLat": 6.787748337
+      }
+    },
+    "MV07": {
+      "name": "Thiladhunmathee Uthuruburi",
+      "sub_id": "MV07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 72.80902338,
+        "minLat": 6.807231903,
+        "maxLon": 73.23602366,
+        "maxLat": 7.106552958
+      }
+    }
+  }
+  

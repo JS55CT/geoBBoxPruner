@@ -1,0 +1,91 @@
+{
+    "NE1": {
+      "name": "Agadez",
+      "sub_id": "NE1",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 4.238738537,
+        "minLat": 15.33450317,
+        "maxLon": 15.99967229,
+        "maxLat": 23.50061417
+      }
+    },
+    "NE2": {
+      "name": "Diffa",
+      "sub_id": "NE2",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 10.60263836,
+        "minLat": 13.06128502,
+        "maxLon": 15.57061911,
+        "maxLat": 18.00162041
+      }
+    },
+    "NE3": {
+      "name": "Dosso",
+      "sub_id": "NE3",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 2.474676967,
+        "minLat": 11.69674015,
+        "maxLon": 4.626286029,
+        "maxLat": 14.65781784
+      }
+    },
+    "NE4": {
+      "name": "Maradi",
+      "sub_id": "NE4",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 6.273507595,
+        "minLat": 13.00128937,
+        "maxLon": 8.541461468,
+        "maxLat": 15.45561791
+      }
+    },
+    "NE8": {
+      "name": "Niamey",
+      "sub_id": "NE8",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 2.052217841,
+        "minLat": 13.45737219,
+        "maxLon": 2.162528753,
+        "maxLat": 13.56114149
+      }
+    },
+    "NE5": {
+      "name": "Tahoua",
+      "sub_id": "NE5",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 3.876961351,
+        "minLat": 13.65016937,
+        "maxLon": 6.685938596,
+        "maxLat": 18.64533424
+      }
+    },
+    "NE6": {
+      "name": "Tillabéri",
+      "sub_id": "NE6",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 0.166015625,
+        "minLat": 11.90006554,
+        "maxLon": 4.253705025,
+        "maxLat": 15.70941925
+      }
+    },
+    "NE7": {
+      "name": "Zinder",
+      "sub_id": "NE7",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 7.324393272,
+        "minLat": 12.80937195,
+        "maxLon": 12.00391352,
+        "maxLat": 17.50335777
+      }
+    }
+  }
+  

@@ -1,0 +1,80 @@
+{
+    "BYBR": {
+      "name": "Bresckaja voblasć",
+      "sub_id": "BYBR",
+      "sub_num": "BR",
+      "bbox": {
+        "minLon": 23.18132901,
+        "minLat": 51.50090218,
+        "maxLon": 27.61568308,
+        "maxLat": 53.40398312
+      }
+    },
+    "BYHO": {
+      "name": "Homieĺskaja voblasć",
+      "sub_id": "BYHO",
+      "sub_num": "HO",
+      "bbox": {
+        "minLon": 27.25078273,
+        "minLat": 51.26237869,
+        "maxLon": 31.79927003,
+        "maxLat": 53.35061789
+      }
+    },
+    "BYHM": {
+      "name": "Horad Minsk",
+      "sub_id": "BYHM",
+      "sub_num": "HM",
+      "bbox": {
+        "minLon": 27.36854899,
+        "minLat": 53.79781723,
+        "maxLon": 27.91186667,
+        "maxLat": 53.97194624
+      }
+    },
+    "BYHR": {
+      "name": "Hrodzienskaja voblasć",
+      "sub_id": "BYHR",
+      "sub_num": "HR",
+      "bbox": {
+        "minLon": 23.5115695,
+        "minLat": 52.74094105,
+        "maxLon": 26.69632518,
+        "maxLat": 54.99747276
+      }
+    },
+    "BYMA": {
+      "name": "Mahilioŭskaja voblasć",
+      "sub_id": "BYMA",
+      "sub_num": "MA",
+      "bbox": {
+        "minLon": 28.08545792,
+        "minLat": 52.67414331,
+        "maxLon": 32.77304959,
+        "maxLat": 54.47390556
+      }
+    },
+    "BYMI": {
+      "name": "Minskaja voblasć",
+      "sub_id": "BYMI",
+      "sub_num": "MI",
+      "bbox": {
+        "minLon": 26.00347495,
+        "minLat": 52.3909235,
+        "maxLon": 29.4966166,
+        "maxLat": 55.02296448
+      }
+    },
+    "BYVI": {
+      "name": "Viciebskaja voblasć",
+      "sub_id": "BYVI",
+      "sub_num": "VI",
+      "bbox": {
+        "minLon": 26.20854092,
+        "minLat": 54.23323631,
+        "maxLon": 31.21080685,
+        "maxLat": 56.17120743
+      }
+    }
+  }
+  

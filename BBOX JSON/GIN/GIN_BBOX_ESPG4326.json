@@ -1,0 +1,91 @@
+{
+    "GNB": {
+      "name": "Boké",
+      "sub_id": "GNB",
+      "sub_num": "B",
+      "bbox": {
+        "minLon": -15.07622111,
+        "minLat": 9.810619354,
+        "maxLon": -12.56426549,
+        "maxLat": 12.67675781
+      }
+    },
+    "GNC": {
+      "name": "Conakry",
+      "sub_id": "GNC",
+      "sub_num": "C",
+      "bbox": {
+        "minLon": -13.84083223,
+        "minLat": 9.431468964,
+        "maxLon": -13.59270525,
+        "maxLat": 9.634666801
+      }
+    },
+    "GNF": {
+      "name": "Faranah",
+      "sub_id": "GNF",
+      "sub_num": "F",
+      "bbox": {
+        "minLon": -11.61190438,
+        "minLat": 8.858585358,
+        "maxLon": -9.423150182,
+        "maxLat": 12.23103941
+      }
+    },
+    "GNK": {
+      "name": "Kankan",
+      "sub_id": "GNK",
+      "sub_num": "K",
+      "bbox": {
+        "minLon": -10.90151501,
+        "minLat": 8.771896362,
+        "maxLon": -7.947894573,
+        "maxLat": 12.50553131
+      }
+    },
+    "GND": {
+      "name": "Kindia",
+      "sub_id": "GND",
+      "sub_num": "D",
+      "bbox": {
+        "minLon": -13.97672021,
+        "minLat": 9.037655235,
+        "maxLon": -12.11096895,
+        "maxLat": 11.38320923
+      }
+    },
+    "GNL": {
+      "name": "Labé",
+      "sub_id": "GNL",
+      "sub_num": "L",
+      "bbox": {
+        "minLon": -13.00127792,
+        "minLat": 10.99804604,
+        "maxLon": -11.09679425,
+        "maxLat": 12.45162964
+      }
+    },
+    "GNM": {
+      "name": "Mamou",
+      "sub_id": "GNM",
+      "sub_num": "M",
+      "bbox": {
+        "minLon": -12.97410011,
+        "minLat": 9.871902466,
+        "maxLon": -11.36938417,
+        "maxLat": 11.33367419
+      }
+    },
+    "GNN": {
+      "name": "Nzérékoré",
+      "sub_id": "GNN",
+      "sub_num": "N",
+      "bbox": {
+        "minLon": -10.70145667,
+        "minLat": 7.190208435,
+        "maxLon": -7.636704326,
+        "maxLat": 9.587084055
+      }
+    }
+  }
+  

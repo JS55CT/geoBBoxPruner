@@ -1,0 +1,14 @@
+[
+    {
+      "French Polynesia": {
+        "sub_num": "PF",
+        "name": "French Polynesia",
+        "bbox": {
+            "minLon": -154.7273016,
+            "minLat": -27.90062773,
+            "maxLon": -134.4511079,
+            "maxLat": -7.894856811
+          }
+      }
+    }
+  ]

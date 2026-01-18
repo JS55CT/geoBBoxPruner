@@ -1,0 +1,157 @@
+{
+    "JM13": {
+      "name": "Clarendon",
+      "sub_id": "JM13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": -77.48390961,
+        "minLat": 17.70563614,
+        "maxLon": -77.07126391,
+        "maxLat": 18.22340012
+      }
+    },
+    "JM09": {
+      "name": "Hanover",
+      "sub_id": "JM09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": -78.34900486,
+        "minLat": 18.30562592,
+        "maxLon": -77.91821468,
+        "maxLat": 18.462834
+      }
+    },
+    "JM01": {
+      "name": "Kingston",
+      "sub_id": "JM01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": -77.82391548,
+        "minLat": 16.94616973,
+        "maxLon": -75.96988499,
+        "maxLat": 17.9817009
+      }
+    },
+    "JM12": {
+      "name": "Manchester",
+      "sub_id": "JM12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": -77.63322318,
+        "minLat": 17.8424418,
+        "maxLon": -77.35941672,
+        "maxLat": 18.2528615
+      }
+    },
+    "JM04": {
+      "name": "Portland",
+      "sub_id": "JM04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": -76.7604363,
+        "minLat": 17.989254,
+        "maxLon": -76.26008427,
+        "maxLat": 18.26851177
+      }
+    },
+    "JM02": {
+      "name": "Saint Andrew",
+      "sub_id": "JM02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": -76.89227259,
+        "minLat": 17.92725003,
+        "maxLon": -76.61786163,
+        "maxLat": 18.17996979
+      }
+    },
+    "JM06": {
+      "name": "Saint Ann",
+      "sub_id": "JM06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": -77.48558962,
+        "minLat": 18.17790985,
+        "maxLon": -77.00003481,
+        "maxLat": 18.48010242
+      }
+    },
+    "JM14": {
+      "name": "Saint Catherine",
+      "sub_id": "JM14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": -77.21812045,
+        "minLat": 17.83729434,
+        "maxLon": -76.83922863,
+        "maxLat": 18.25962067
+      }
+    },
+    "JM11": {
+      "name": "Saint Elizabeth",
+      "sub_id": "JM11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": -77.96009135,
+        "minLat": 17.85415065,
+        "maxLon": -77.56508815,
+        "maxLat": 18.2563591
+      }
+    },
+    "JM08": {
+      "name": "Saint James",
+      "sub_id": "JM08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": -77.99656403,
+        "minLat": 18.22256124,
+        "maxLon": -77.72924805,
+        "maxLat": 18.52504206
+      }
+    },
+    "JM05": {
+      "name": "Saint Mary",
+      "sub_id": "JM05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -77.07241845,
+        "minLat": 18.15130234,
+        "maxLon": -76.70225179,
+        "maxLat": 18.42403603
+      }
+    },
+    "JM03": {
+      "name": "Saint Thomas",
+      "sub_id": "JM03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -76.66729784,
+        "minLat": 17.84963882,
+        "maxLon": -76.18180966,
+        "maxLat": 18.09328079
+      }
+    },
+    "JM07": {
+      "name": "Trelawny",
+      "sub_id": "JM07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": -77.772632,
+        "minLat": 18.19850922,
+        "maxLon": -77.44262993,
+        "maxLat": 18.51093328
+      }
+    },
+    "JM10": {
+      "name": "Westmoreland",
+      "sub_id": "JM10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": -78.36880469,
+        "minLat": 18.07072127,
+        "maxLon": -77.87295592,
+        "maxLat": 18.3657074
+      }
+    }
+  }
+  

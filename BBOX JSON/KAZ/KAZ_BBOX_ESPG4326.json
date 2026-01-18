@@ -1,0 +1,190 @@
+{
+    "KZALA": {
+      "name": "Almaty",
+      "sub_id": "KZALA",
+      "sub_num": "ALA",
+      "bbox": {
+        "minLon": 76.7978636,
+        "minLat": 43.19075346,
+        "maxLon": 76.98974478,
+        "maxLat": 43.31300855
+      }
+    },
+    "KZALM": {
+      "name": "Almaty oblysy",
+      "sub_id": "KZALM",
+      "sub_num": "ALM",
+      "bbox": {
+        "minLon": 73.90067625,
+        "minLat": 42.21067989,
+        "maxLon": 82.62936759,
+        "maxLat": 47.2850275
+      }
+    },
+    "KZAKM": {
+      "name": "Aqmola oblysy",
+      "sub_id": "KZAKM",
+      "sub_num": "AKM",
+      "bbox": {
+        "minLon": 67.40348947,
+        "minLat": 48.64025116,
+        "maxLon": 74.25934875,
+        "maxLat": 52.81829596
+      }
+    },
+    "KZAKT": {
+      "name": "Aqtöbe oblysy",
+      "sub_id": "KZAKT",
+      "sub_num": "AKT",
+      "bbox": {
+        "minLon": 53.61366427,
+        "minLat": 45.16709876,
+        "maxLon": 64.27439642,
+        "maxLat": 51.31675243
+      }
+    },
+    "KZATY": {
+      "name": "Atyraū oblysy",
+      "sub_id": "KZATY",
+      "sub_num": "ATY",
+      "bbox": {
+        "minLon": 47.04980135,
+        "minLat": 45.73264718,
+        "maxLon": 56.45864534,
+        "maxLat": 49.23007965
+      }
+    },
+    "KZZAP": {
+      "name": "Batys Qazaqstan oblysy",
+      "sub_id": "KZZAP",
+      "sub_num": "ZAP",
+      "bbox": {
+        "minLon": 46.49142039,
+        "minLat": 47.97656536,
+        "maxLon": 54.57816863,
+        "maxLat": 51.77547455
+      }
+    },
+    "KZMAN": {
+      "name": "Mangghystau oblysy",
+      "sub_id": "KZMAN",
+      "sub_num": "MAN",
+      "bbox": {
+        "minLon": 50.00367033,
+        "minLat": 41.24610901,
+        "maxLon": 56.74628353,
+        "maxLat": 46.53611183
+      }
+    },
+    "KZAST": {
+      "name": "Nur-Sultan",
+      "sub_id": "KZAST",
+      "sub_num": "AST",
+      "bbox": {
+        "minLon": 71.30624747,
+        "minLat": 51.11581206,
+        "maxLon": 71.5974642,
+        "maxLat": 51.22869015
+      }
+    },
+    "KZPAV": {
+      "name": "Pavlodar oblysy",
+      "sub_id": "KZPAV",
+      "sub_num": "PAV",
+      "bbox": {
+        "minLon": 73.40308535,
+        "minLat": 50.00920773,
+        "maxLon": 79.34889638,
+        "maxLat": 54.45802689
+      }
+    },
+    "KZKAR": {
+      "name": "Qaraghandy oblysy",
+      "sub_id": "KZKAR",
+      "sub_num": "KAR",
+      "bbox": {
+        "minLon": 62.68694758,
+        "minLat": 45.99992752,
+        "maxLon": 77.7052089,
+        "maxLat": 51.31085157
+      }
+    },
+    "KZKUS": {
+      "name": "Qostanay oblysy",
+      "sub_id": "KZKUS",
+      "sub_num": "KUS",
+      "bbox": {
+        "minLon": 60,
+        "minLat": 48.16919088,
+        "maxLon": 68.09925485,
+        "maxLat": 54.71775055
+      }
+    },
+    "KZKZY": {
+      "name": "Qyzylorda oblysy",
+      "sub_id": "KZKZY",
+      "sub_num": "KZY",
+      "bbox": {
+        "minLon": 59.03206551,
+        "minLat": 42.33169556,
+        "maxLon": 68.05891883,
+        "maxLat": 47.83942938
+      }
+    },
+    "KZVOS": {
+      "name": "Shyghys Qazaqstan oblysy",
+      "sub_id": "KZVOS",
+      "sub_num": "VOS",
+      "bbox": {
+        "minLon": 76.78410852,
+        "minLat": 45.53300858,
+        "maxLon": 87.31653118,
+        "maxLat": 51.70716178
+      }
+    },
+    "KZSHY": {
+      "name": "Shymkent",
+      "sub_id": "KZSHY",
+      "sub_num": "SHY",
+      "bbox": {
+        "minLon": 69.30186093,
+        "minLat": 42.10982323,
+        "maxLon": 69.93527031,
+        "maxLat": 42.48198509
+      }
+    },
+    "KZSEV": {
+      "name": "Soltüstik Qazaqstan oblysy",
+      "sub_id": "KZSEV",
+      "sub_num": "SEV",
+      "bbox": {
+        "minLon": 65.96289134,
+        "minLat": 52.20703125,
+        "maxLon": 74.0362339,
+        "maxLat": 55.44130325
+      }
+    },
+    "KZYUZ": {
+      "name": "Türkistan oblysy",
+      "sub_id": "KZYUZ",
+      "sub_num": "YUZ",
+      "bbox": {
+        "minLon": 65.99890566,
+        "minLat": 40.56858301,
+        "maxLon": 70.94526875,
+        "maxLat": 46.00031805
+      }
+    },
+    "KZZHA": {
+      "name": "Zhambyl oblysy",
+      "sub_id": "KZZHA",
+      "sub_num": "ZHA",
+      "bbox": {
+        "minLon": 69.06925559,
+        "minLat": 42.31967926,
+        "maxLon": 75.82199669,
+        "maxLat": 46.00044251
+      }
+    }
+  }
+  

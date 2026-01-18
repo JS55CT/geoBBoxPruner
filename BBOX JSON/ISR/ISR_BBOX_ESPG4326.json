@@ -1,0 +1,69 @@
+{
+    "ILD": {
+      "name": "HaDarom",
+      "sub_id": "ILD",
+      "sub_num": "D",
+      "bbox": {
+        "minLon": 34.26730978,
+        "minLat": 29.48981535,
+        "maxLon": 35.47781897,
+        "maxLat": 31.88421249
+      }
+    },
+    "ILM": {
+      "name": "HaMerkaz",
+      "sub_id": "ILM",
+      "sub_num": "M",
+      "bbox": {
+        "minLon": 34.67016518,
+        "minLat": 31.75992966,
+        "maxLon": 35.05157161,
+        "maxLat": 32.41155624
+      }
+    },
+    "ILZ": {
+      "name": "HaTsafon",
+      "sub_id": "ILZ",
+      "sub_num": "Z",
+      "bbox": {
+        "minLon": 35.02445674,
+        "minLat": 32.38623619,
+        "maxLon": 35.66993201,
+        "maxLat": 33.29034984
+      }
+    },
+    "ILHA": {
+      "name": "Haifa",
+      "sub_id": "ILHA",
+      "sub_num": "HA",
+      "bbox": {
+        "minLon": 34.86915302,
+        "minLat": 32.38254547,
+        "maxLon": 35.21149206,
+        "maxLat": 32.88672566
+      }
+    },
+    "ILTA": {
+      "name": "Tel-Aviv",
+      "sub_id": "ILTA",
+      "sub_num": "TA",
+      "bbox": {
+        "minLon": 34.73571002,
+        "minLat": 31.99407578,
+        "maxLon": 34.88058412,
+        "maxLat": 32.19406128
+      }
+    },
+    "ILJM": {
+      "name": "Yerushalayim",
+      "sub_id": "ILJM",
+      "sub_num": "JM",
+      "bbox": {
+        "minLon": 34.81979978,
+        "minLat": 31.60203266,
+        "maxLon": 35.22889435,
+        "maxLat": 31.85118914
+      }
+    }
+  }
+  

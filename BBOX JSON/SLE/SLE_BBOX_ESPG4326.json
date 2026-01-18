@@ -1,0 +1,58 @@
+{
+    "SLE": {
+      "name": "Eastern",
+      "sub_id": "SLE",
+      "sub_num": "E",
+      "bbox": {
+        "minLon": -11.58773649,
+        "minLat": 7.339682579,
+        "maxLon": -10.27453101,
+        "maxLat": 9.04531002
+      }
+    },
+    "SLNW": {
+      "name": "North Western",
+      "sub_id": "SLNW",
+      "sub_num": "NW",
+      "bbox": {
+        "minLon": -13.30229342,
+        "minLat": 8.259401322,
+        "maxLon": -11.87345612,
+        "maxLat": 9.944171906
+      }
+    },
+    "SLN": {
+      "name": "Northern",
+      "sub_id": "SLN",
+      "sub_num": "N",
+      "bbox": {
+        "minLon": -13.25753856,
+        "minLat": 8.23674202,
+        "maxLon": -10.57102358,
+        "maxLat": 10.00047684
+      }
+    },
+    "SLS": {
+      "name": "Southern",
+      "sub_id": "SLS",
+      "sub_num": "S",
+      "bbox": {
+        "minLon": -13.07105982,
+        "minLat": 6.924208164,
+        "maxLon": -11.14285827,
+        "maxLat": 8.490371704
+      }
+    },
+    "SLW": {
+      "name": "Western Area",
+      "sub_id": "SLW",
+      "sub_num": "W",
+      "bbox": {
+        "minLon": -13.29846871,
+        "minLat": 8.092620373,
+        "maxLon": -12.91393435,
+        "maxLat": 8.499468803
+      }
+    }
+  }
+  

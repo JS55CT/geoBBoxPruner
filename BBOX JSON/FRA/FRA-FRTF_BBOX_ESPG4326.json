@@ -1,0 +1,14 @@
+[
+    {
+      "French Southern Territories": {
+        "sub_num": "TF",
+        "name": "French Southern Territories",
+        "bbox": {
+            "minLon": 39.62763607,
+            "minLat": -50.0187211,
+            "maxLon": 77.59871447,
+            "maxLat": -11.51397204
+          }
+      }
+    }
+  ]

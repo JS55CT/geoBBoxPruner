@@ -1,0 +1,14 @@
+[
+    {
+      "Mayotte": {
+        "sub_num": "976",
+        "name": "Mayotte",
+        "bbox": {
+            "minLon": 45.01806927,
+            "minLat": -13.00582242,
+            "maxLon": 45.30028415,
+            "maxLat": -12.63609195
+          }
+      }
+    }
+  ]

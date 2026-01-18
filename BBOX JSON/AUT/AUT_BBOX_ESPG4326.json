@@ -1,0 +1,102 @@
+{
+    "AT1": {
+      "name": "Burgenland",
+      "sub_id": "AT1",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 16.00485921,
+        "minLat": 46.83162689,
+        "maxLon": 17.1606878,
+        "maxLat": 48.12097549
+      }
+    },
+    "AT2": {
+      "name": "Kärnten",
+      "sub_id": "AT2",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 12.65764332,
+        "minLat": 46.37226105,
+        "maxLon": 15.11611259,
+        "maxLat": 47.13089704
+      }
+    },
+    "AT3": {
+      "name": "Niederösterreich",
+      "sub_id": "AT3",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 14.45521891,
+        "minLat": 47.4203825,
+        "maxLon": 17.06631005,
+        "maxLat": 49.02067673
+      }
+    },
+    "AT4": {
+      "name": "Oberösterreich",
+      "sub_id": "AT4",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 12.74853158,
+        "minLat": 47.4599719,
+        "maxLon": 14.98988366,
+        "maxLat": 48.77122879
+      }
+    },
+    "AT5": {
+      "name": "Salzburg",
+      "sub_id": "AT5",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 12.07731569,
+        "minLat": 46.94279909,
+        "maxLon": 13.99406898,
+        "maxLat": 48.03604603
+      }
+    },
+    "AT6": {
+      "name": "Steiermark",
+      "sub_id": "AT6",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 13.57007694,
+        "minLat": 46.61464691,
+        "maxLon": 16.1699028,
+        "maxLat": 47.82342196
+      }
+    },
+    "AT7": {
+      "name": "Tirol",
+      "sub_id": "AT7",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 10.09771562,
+        "minLat": 46.65138245,
+        "maxLon": 12.96635163,
+        "maxLat": 47.74400711
+      }
+    },
+    "AT8": {
+      "name": "Vorarlberg",
+      "sub_id": "AT8",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 9.530726075,
+        "minLat": 46.84432983,
+        "maxLon": 10.23947525,
+        "maxLat": 47.59328842
+      }
+    },
+    "AT9": {
+      "name": "Wien",
+      "sub_id": "AT9",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 16.18577981,
+        "minLat": 48.11962366,
+        "maxLon": 16.57537246,
+        "maxLat": 48.31978083
+      }
+    }
+  }
+  

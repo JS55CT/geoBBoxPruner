@@ -1,0 +1,146 @@
+{
+    "SA11": {
+      "name": "Al Bāḥah",
+      "sub_id": "SA11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 40.79305267,
+        "minLat": 19.36222076,
+        "maxLon": 42.03888702,
+        "maxLat": 20.76563179
+      }
+    },
+    "SA12": {
+      "name": "Al Jawf",
+      "sub_id": "SA12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 34.82178628,
+        "minLat": 28.13406312,
+        "maxLon": 41.9127655,
+        "maxLat": 31.74919879
+      }
+    },
+    "SA03": {
+      "name": "Al Madīnah al Munawwarah",
+      "sub_id": "SA03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 36.7722168,
+        "minLat": 22.48916626,
+        "maxLon": 42.11277771,
+        "maxLat": 27.39789855
+      }
+    },
+    "SA05": {
+      "name": "Al Qaṣīm",
+      "sub_id": "SA05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 41.40144765,
+        "minLat": 24.62082672,
+        "maxLon": 44.83916473,
+        "maxLat": 27.32623124
+      }
+    },
+    "SA08": {
+      "name": "Al Ḥudūd ash Shamāliyah",
+      "sub_id": "SA08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 37.86083221,
+        "minLat": 27.45249557,
+        "maxLon": 46.10931241,
+        "maxLat": 32.15354919
+      }
+    },
+    "SA01": {
+      "name": "Ar Riyāḍ",
+      "sub_id": "SA01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 41.97638702,
+        "minLat": 19.25610733,
+        "maxLon": 48.30999756,
+        "maxLat": 27.53255463
+      }
+    },
+    "SA04": {
+      "name": "Ash Sharqīyah",
+      "sub_id": "SA04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 44.93725121,
+        "minLat": 17.09266722,
+        "maxLon": 55.66670001,
+        "maxLat": 29.101143
+      }
+    },
+    "SA09": {
+      "name": "Jāzān",
+      "sub_id": "SA09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 41.02128255,
+        "minLat": 16.29690516,
+        "maxLon": 43.33649993,
+        "maxLat": 18.32805252
+      }
+    },
+    "SA02": {
+      "name": "Makkah al Mukarramah",
+      "sub_id": "SA02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 38.66057551,
+        "minLat": 18.06172001,
+        "maxLon": 43.67696381,
+        "maxLat": 23.9719429
+      }
+    },
+    "SA10": {
+      "name": "Najrān",
+      "sub_id": "SA10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 43.61779988,
+        "minLat": 16.94999695,
+        "maxLon": 47.74501038,
+        "maxLat": 19.53113174
+      }
+    },
+    "SA07": {
+      "name": "Tabūk",
+      "sub_id": "SA07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 34.49462342,
+        "minLat": 24.53162646,
+        "maxLon": 40.16971588,
+        "maxLat": 28.98785496
+      }
+    },
+    "SA14": {
+      "name": "Āsīr",
+      "sub_id": "SA14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 41.38257074,
+        "minLat": 17.42610049,
+        "maxLon": 44.52194214,
+        "maxLat": 20.98557234
+      }
+    },
+    "SA06": {
+      "name": "Ḥā'il",
+      "sub_id": "SA06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 38.99985504,
+        "minLat": 25.30944061,
+        "maxLon": 44.79426932,
+        "maxLat": 28.88332748
+      }
+    }
+  }
+  

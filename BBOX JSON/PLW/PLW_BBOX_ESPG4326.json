@@ -1,0 +1,179 @@
+{
+    "PW002": {
+      "name": "Aimeliik",
+      "sub_id": "PW002",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 134.4624729,
+        "minLat": 7.391180992,
+        "maxLon": 134.5408334,
+        "maxLat": 7.503152371
+      }
+    },
+    "PW004": {
+      "name": "Airai",
+      "sub_id": "PW004",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 134.5008105,
+        "minLat": 7.325120687,
+        "maxLon": 134.5957786,
+        "maxLat": 7.423110008
+      }
+    },
+    "PW010": {
+      "name": "Angaur",
+      "sub_id": "PW010",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 134.1216916,
+        "minLat": 6.887652397,
+        "maxLon": 134.1532409,
+        "maxLat": 6.925223231
+      }
+    },
+    "PW050": {
+      "name": "Hatohobei",
+      "sub_id": "PW050",
+      "sub_num": "50",
+      "bbox": {
+        "minLon": 131.1200277,
+        "minLat": 2.971244692,
+        "maxLon": 131.8120157,
+        "maxLat": 3.012586593
+      }
+    },
+    "PW100": {
+      "name": "Kayangel",
+      "sub_id": "PW100",
+      "sub_num": "100",
+      "bbox": {
+        "minLon": 134.6421462,
+        "minLat": 8.038597107,
+        "maxLon": 134.721398,
+        "maxLat": 8.172138333
+      }
+    },
+    "PW150": {
+      "name": "Koror",
+      "sub_id": "PW150",
+      "sub_num": "150",
+      "bbox": {
+        "minLon": 134.2244002,
+        "minLat": 7.100638986,
+        "maxLon": 134.5176507,
+        "maxLat": 7.368964195
+      }
+    },
+    "PW212": {
+      "name": "Melekeok",
+      "sub_id": "PW212",
+      "sub_num": "212",
+      "bbox": {
+        "minLon": 134.5716063,
+        "minLat": 7.483878374,
+        "maxLon": 134.639546,
+        "maxLat": 7.536935806
+      }
+    },
+    "PW214": {
+      "name": "Ngaraard",
+      "sub_id": "PW214",
+      "sub_num": "214",
+      "bbox": {
+        "minLon": 134.5947218,
+        "minLat": 7.568721771,
+        "maxLon": 134.6467487,
+        "maxLat": 7.685190558
+      }
+    },
+    "PW218": {
+      "name": "Ngarchelong",
+      "sub_id": "PW218",
+      "sub_num": "218",
+      "bbox": {
+        "minLon": 134.6075464,
+        "minLat": 7.682198405,
+        "maxLon": 134.6453029,
+        "maxLat": 7.75934577
+      }
+    },
+    "PW222": {
+      "name": "Ngardmau",
+      "sub_id": "PW222",
+      "sub_num": "222",
+      "bbox": {
+        "minLon": 134.5344706,
+        "minLat": 7.55352974,
+        "maxLon": 134.6020583,
+        "maxLat": 7.620479107
+      }
+    },
+    "PW224": {
+      "name": "Ngatpang",
+      "sub_id": "PW224",
+      "sub_num": "224",
+      "bbox": {
+        "minLon": 134.5104114,
+        "minLat": 7.414226532,
+        "maxLon": 134.5678396,
+        "maxLat": 7.508854866
+      }
+    },
+    "PW226": {
+      "name": "Ngchesar",
+      "sub_id": "PW226",
+      "sub_num": "226",
+      "bbox": {
+        "minLon": 134.5526482,
+        "minLat": 7.407726884,
+        "maxLon": 134.6241666,
+        "maxLat": 7.495079041
+      }
+    },
+    "PW227": {
+      "name": "Ngeremlengui",
+      "sub_id": "PW227",
+      "sub_num": "227",
+      "bbox": {
+        "minLon": 134.4960008,
+        "minLat": 7.482590675,
+        "maxLon": 134.5980989,
+        "maxLat": 7.572712898
+      }
+    },
+    "PW228": {
+      "name": "Ngiwai",
+      "sub_id": "PW228",
+      "sub_num": "228",
+      "bbox": {
+        "minLon": 134.5962806,
+        "minLat": 7.527542114,
+        "maxLon": 134.6387728,
+        "maxLat": 7.574129105
+      }
+    },
+    "PW350": {
+      "name": "Peleliu",
+      "sub_id": "PW350",
+      "sub_num": "350",
+      "bbox": {
+        "minLon": 134.2195823,
+        "minLat": 6.973386049,
+        "maxLon": 134.3352673,
+        "maxLat": 7.099166632
+      }
+    },
+    "PW370": {
+      "name": "Sonsorol",
+      "sub_id": "PW370",
+      "sub_num": "370",
+      "bbox": {
+        "minLon": 131.9477836,
+        "minLat": 4.302646041,
+        "maxLon": 132.3145525,
+        "maxLat": 5.358020544
+      }
+    }
+  }
+  

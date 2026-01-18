@@ -1,0 +1,784 @@
+{
+    "MK802": {
+      "name": "Aračinovo",
+      "sub_id": "MK802",
+      "sub_num": "802",
+      "bbox": {
+        "minLon": 21.50583899,
+        "minLat": 42.01648235,
+        "maxLon": 21.60422754,
+        "maxLat": 42.08304405
+      }
+    },
+    "MK201": {
+      "name": "Berovo",
+      "sub_id": "MK201",
+      "sub_num": "201",
+      "bbox": {
+        "minLon": 22.64159811,
+        "minLat": 41.51866436,
+        "maxLon": 23.01331902,
+        "maxLat": 41.81761265
+      }
+    },
+    "MK501": {
+      "name": "Bitola",
+      "sub_id": "MK501",
+      "sub_num": "501",
+      "bbox": {
+        "minLon": 21.08566034,
+        "minLat": 40.85905552,
+        "maxLon": 21.51928532,
+        "maxLat": 41.22190475
+      }
+    },
+    "MK401": {
+      "name": "Bogdanci",
+      "sub_id": "MK401",
+      "sub_num": "401",
+      "bbox": {
+        "minLon": 22.51790225,
+        "minLat": 41.12180471,
+        "maxLon": 22.66812754,
+        "maxLat": 41.24713898
+      }
+    },
+    "MK601": {
+      "name": "Bogovinje",
+      "sub_id": "MK601",
+      "sub_num": "601",
+      "bbox": {
+        "minLon": 20.75478494,
+        "minLat": 41.89155579,
+        "maxLon": 21.00233793,
+        "maxLat": 42.01171875
+      }
+    },
+    "MK402": {
+      "name": "Bosilovo",
+      "sub_id": "MK402",
+      "sub_num": "402",
+      "bbox": {
+        "minLon": 22.69845593,
+        "minLat": 41.38541222,
+        "maxLon": 22.88326287,
+        "maxLat": 41.56153679
+      }
+    },
+    "MK602": {
+      "name": "Brvenica",
+      "sub_id": "MK602",
+      "sub_num": "602",
+      "bbox": {
+        "minLon": 20.96910608,
+        "minLat": 41.79267883,
+        "maxLon": 21.21280634,
+        "maxLat": 41.98493958
+      }
+    },
+    "MK313": {
+      "name": "Centar Župa",
+      "sub_id": "MK313",
+      "sub_num": "313",
+      "bbox": {
+        "minLon": 20.51547408,
+        "minLat": 41.4085865,
+        "maxLon": 20.69785285,
+        "maxLat": 41.53347015
+      }
+    },
+    "MK303": {
+      "name": "Debar",
+      "sub_id": "MK303",
+      "sub_num": "303",
+      "bbox": {
+        "minLon": 20.45272839,
+        "minLat": 41.4224472,
+        "maxLon": 20.74519646,
+        "maxLat": 41.58152413
+      }
+    },
+    "MK304": {
+      "name": "Debrca",
+      "sub_id": "MK304",
+      "sub_num": "304",
+      "bbox": {
+        "minLon": 20.69785285,
+        "minLat": 41.16182327,
+        "maxLon": 21.0201441,
+        "maxLat": 41.44339085
+      }
+    },
+    "MK203": {
+      "name": "Delčevo",
+      "sub_id": "MK203",
+      "sub_num": "203",
+      "bbox": {
+        "minLon": 22.59141242,
+        "minLat": 41.7998457,
+        "maxLon": 22.90268469,
+        "maxLat": 42.0826149
+      }
+    },
+    "MK502": {
+      "name": "Demir Hisar",
+      "sub_id": "MK502",
+      "sub_num": "502",
+      "bbox": {
+        "minLon": 20.95450997,
+        "minLat": 41.12534523,
+        "maxLon": 21.30986071,
+        "maxLat": 41.39146328
+      }
+    },
+    "MK103": {
+      "name": "Demir Kapija",
+      "sub_id": "MK103",
+      "sub_num": "103",
+      "bbox": {
+        "minLon": 22.0867542,
+        "minLat": 41.28499031,
+        "maxLon": 22.37889218,
+        "maxLat": 41.49012566
+      }
+    },
+    "MK406": {
+      "name": "Dojran",
+      "sub_id": "MK406",
+      "sub_num": "406",
+      "bbox": {
+        "minLon": 22.57515442,
+        "minLat": 41.14019394,
+        "maxLon": 22.76350892,
+        "maxLat": 41.29928112
+      }
+    },
+    "MK503": {
+      "name": "Dolneni",
+      "sub_id": "MK503",
+      "sub_num": "503",
+      "bbox": {
+        "minLon": 21.2744112,
+        "minLat": 41.34893417,
+        "maxLon": 21.61991715,
+        "maxLat": 41.60041809
+      }
+    },
+    "MK405": {
+      "name": "Gevgelija",
+      "sub_id": "MK405",
+      "sub_num": "405",
+      "bbox": {
+        "minLon": 22.21610916,
+        "minLat": 41.11794233,
+        "maxLon": 22.59895909,
+        "maxLat": 41.37768745
+      }
+    },
+    "MK604": {
+      "name": "Gostivar",
+      "sub_id": "MK604",
+      "sub_num": "604",
+      "bbox": {
+        "minLon": 20.5591681,
+        "minLat": 41.64402008,
+        "maxLon": 21.09926415,
+        "maxLat": 41.89279902
+      }
+    },
+    "MK102": {
+      "name": "Gradsko",
+      "sub_id": "MK102",
+      "sub_num": "102",
+      "bbox": {
+        "minLon": 21.76778448,
+        "minLat": 41.48815155,
+        "maxLon": 22.00614858,
+        "maxLat": 41.73650265
+      }
+    },
+    "MK807": {
+      "name": "Ilinden",
+      "sub_id": "MK807",
+      "sub_num": "807",
+      "bbox": {
+        "minLon": 21.51868641,
+        "minLat": 41.93764687,
+        "maxLon": 21.65499139,
+        "maxLat": 42.05047131
+      }
+    },
+    "MK606": {
+      "name": "Jegunovce",
+      "sub_id": "MK606",
+      "sub_num": "606",
+      "bbox": {
+        "minLon": 21.04571581,
+        "minLat": 41.9959259,
+        "maxLon": 21.21670794,
+        "maxLat": 42.20621109
+      }
+    },
+    "MK205": {
+      "name": "Karbinci",
+      "sub_id": "MK205",
+      "sub_num": "205",
+      "bbox": {
+        "minLon": 22.07819521,
+        "minLat": 41.71714783,
+        "maxLon": 22.44854438,
+        "maxLat": 41.87477589
+      }
+    },
+    "MK104": {
+      "name": "Kavadarci",
+      "sub_id": "MK104",
+      "sub_num": "104",
+      "bbox": {
+        "minLon": 21.78554606,
+        "minLat": 41.10094786,
+        "maxLon": 22.30724966,
+        "maxLat": 41.50686264
+      }
+    },
+    "MK307": {
+      "name": "Kičevo",
+      "sub_id": "MK307",
+      "sub_num": "307",
+      "bbox": {
+        "minLon": 20.70779908,
+        "minLat": 41.32820606,
+        "maxLon": 21.14504778,
+        "maxLat": 41.67800903
+      }
+    },
+    "MK407": {
+      "name": "Konče",
+      "sub_id": "MK407",
+      "sub_num": "407",
+      "bbox": {
+        "minLon": 22.2502985,
+        "minLat": 41.42832756,
+        "maxLon": 22.52911734,
+        "maxLat": 41.60479546
+      }
+    },
+    "MK206": {
+      "name": "Kočani",
+      "sub_id": "MK206",
+      "sub_num": "206",
+      "bbox": {
+        "minLon": 22.20339799,
+        "minLat": 41.85997009,
+        "maxLon": 22.5125066,
+        "maxLat": 42.13230014
+      }
+    },
+    "MK701": {
+      "name": "Kratovo",
+      "sub_id": "MK701",
+      "sub_num": "701",
+      "bbox": {
+        "minLon": 21.84946859,
+        "minLat": 42.01691151,
+        "maxLon": 22.33020794,
+        "maxLat": 42.19264984
+      }
+    },
+    "MK702": {
+      "name": "Kriva Palanka",
+      "sub_id": "MK702",
+      "sub_num": "702",
+      "bbox": {
+        "minLon": 22.03176916,
+        "minLat": 42.10848379,
+        "maxLon": 22.50550735,
+        "maxLat": 42.37328696
+      }
+    },
+    "MK504": {
+      "name": "Krivogaštani",
+      "sub_id": "MK504",
+      "sub_num": "504",
+      "bbox": {
+        "minLon": 21.31665802,
+        "minLat": 41.24722481,
+        "maxLon": 21.45103705,
+        "maxLat": 41.39380825
+      }
+    },
+    "MK505": {
+      "name": "Kruševo",
+      "sub_id": "MK505",
+      "sub_num": "505",
+      "bbox": {
+        "minLon": 21.1328032,
+        "minLat": 41.24293327,
+        "maxLon": 21.34353387,
+        "maxLat": 41.46909714
+      }
+    },
+    "MK703": {
+      "name": "Kumanovo",
+      "sub_id": "MK703",
+      "sub_num": "703",
+      "bbox": {
+        "minLon": 21.56941521,
+        "minLat": 41.96172237,
+        "maxLon": 21.91348004,
+        "maxLat": 42.25363255
+      }
+    },
+    "MK704": {
+      "name": "Lipkovo",
+      "sub_id": "MK704",
+      "sub_num": "704",
+      "bbox": {
+        "minLon": 21.45421124,
+        "minLat": 42.05566406,
+        "maxLon": 21.62932813,
+        "maxLat": 42.27066994
+      }
+    },
+    "MK105": {
+      "name": "Lozovo",
+      "sub_id": "MK105",
+      "sub_num": "105",
+      "bbox": {
+        "minLon": 21.79760087,
+        "minLat": 41.65307522,
+        "maxLon": 21.96703052,
+        "maxLat": 41.85507774
+      }
+    },
+    "MK207": {
+      "name": "Makedonska Kamenica",
+      "sub_id": "MK207",
+      "sub_num": "207",
+      "bbox": {
+        "minLon": 22.41301501,
+        "minLat": 41.96167946,
+        "maxLon": 22.64616501,
+        "maxLat": 42.17102051
+      }
+    },
+    "MK308": {
+      "name": "Makedonski Brod",
+      "sub_id": "MK308",
+      "sub_num": "308",
+      "bbox": {
+        "minLon": 21.03911567,
+        "minLat": 41.43862724,
+        "maxLon": 21.40043473,
+        "maxLat": 41.85173035
+      }
+    },
+    "MK607": {
+      "name": "Mavrovo i Rostuša",
+      "sub_id": "MK607",
+      "sub_num": "607",
+      "bbox": {
+        "minLon": 20.51435483,
+        "minLat": 41.49579048,
+        "maxLon": 20.91563964,
+        "maxLat": 41.80499554
+      }
+    },
+    "MK506": {
+      "name": "Mogila",
+      "sub_id": "MK506",
+      "sub_num": "506",
+      "bbox": {
+        "minLon": 21.29385626,
+        "minLat": 41.08071327,
+        "maxLon": 21.60184729,
+        "maxLat": 41.27022743
+      }
+    },
+    "MK106": {
+      "name": "Negotino",
+      "sub_id": "MK106",
+      "sub_num": "106",
+      "bbox": {
+        "minLon": 21.95217168,
+        "minLat": 41.34807587,
+        "maxLon": 22.30924654,
+        "maxLat": 41.65577888
+      }
+    },
+    "MK507": {
+      "name": "Novaci",
+      "sub_id": "MK507",
+      "sub_num": "507",
+      "bbox": {
+        "minLon": 21.43250549,
+        "minLat": 40.86581468,
+        "maxLon": 21.91291833,
+        "maxLat": 41.16997719
+      }
+    },
+    "MK408": {
+      "name": "Novo Selo",
+      "sub_id": "MK408",
+      "sub_num": "408",
+      "bbox": {
+        "minLon": 22.79848921,
+        "minLat": 41.33520126,
+        "maxLon": 22.97876394,
+        "maxLat": 41.52558172
+      }
+    },
+    "MK310": {
+      "name": "Ohrid",
+      "sub_id": "MK310",
+      "sub_num": "310",
+      "bbox": {
+        "minLon": 20.66972005,
+        "minLat": 40.89797974,
+        "maxLon": 21.04348111,
+        "maxLat": 41.25537872
+      }
+    },
+    "MK208": {
+      "name": "Pehčevo",
+      "sub_id": "MK208",
+      "sub_num": "208",
+      "bbox": {
+        "minLon": 22.78680575,
+        "minLat": 41.69242859,
+        "maxLon": 23.03401268,
+        "maxLat": 41.87746346
+      }
+    },
+    "MK810": {
+      "name": "Petrovec",
+      "sub_id": "MK810",
+      "sub_num": "810",
+      "bbox": {
+        "minLon": 21.559901,
+        "minLat": 41.81538105,
+        "maxLon": 21.76847315,
+        "maxLat": 42.00326443
+      }
+    },
+    "MK311": {
+      "name": "Plasnica",
+      "sub_id": "MK311",
+      "sub_num": "311",
+      "bbox": {
+        "minLon": 21.04608226,
+        "minLat": 41.41504061,
+        "maxLon": 21.19041932,
+        "maxLat": 41.49072647
+      }
+    },
+    "MK508": {
+      "name": "Prilep",
+      "sub_id": "MK508",
+      "sub_num": "508",
+      "bbox": {
+        "minLon": 21.39315164,
+        "minLat": 41.07764387,
+        "maxLon": 21.92905795,
+        "maxLat": 41.48368835
+      }
+    },
+    "MK209": {
+      "name": "Probištip",
+      "sub_id": "MK209",
+      "sub_num": "209",
+      "bbox": {
+        "minLon": 21.94259906,
+        "minLat": 41.85700893,
+        "maxLon": 22.30805659,
+        "maxLat": 42.07330227
+      }
+    },
+    "MK409": {
+      "name": "Radoviš",
+      "sub_id": "MK409",
+      "sub_num": "409",
+      "bbox": {
+        "minLon": 22.2864846,
+        "minLat": 41.50360107,
+        "maxLon": 22.663831,
+        "maxLat": 41.78632736
+      }
+    },
+    "MK705": {
+      "name": "Rankovce",
+      "sub_id": "MK705",
+      "sub_num": "705",
+      "bbox": {
+        "minLon": 21.93556023,
+        "minLat": 42.11694717,
+        "maxLon": 22.15560651,
+        "maxLat": 42.3282516
+      }
+    },
+    "MK509": {
+      "name": "Resen",
+      "sub_id": "MK509",
+      "sub_num": "509",
+      "bbox": {
+        "minLon": 20.82948089,
+        "minLat": 40.85472107,
+        "maxLon": 21.25277197,
+        "maxLat": 41.20945931
+      }
+    },
+    "MK107": {
+      "name": "Rosoman",
+      "sub_id": "MK107",
+      "sub_num": "107",
+      "bbox": {
+        "minLon": 21.81795692,
+        "minLat": 41.43218994,
+        "maxLon": 21.98011756,
+        "maxLat": 41.56385422
+      }
+    },
+    "MK": {
+      "name": "Skopje",
+      "sub_id": "MK",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 21.17229497,
+        "minLat": 41.88996792,
+        "maxLon": 21.57320833,
+        "maxLat": 42.16423988
+      }
+    },
+    "MK812": {
+      "name": "Sopište",
+      "sub_id": "MK812",
+      "sub_num": "812",
+      "bbox": {
+        "minLon": 21.23704886,
+        "minLat": 41.73002243,
+        "maxLon": 21.46095288,
+        "maxLat": 41.96455479
+      }
+    },
+    "MK706": {
+      "name": "Staro Nagoričane",
+      "sub_id": "MK706",
+      "sub_num": "706",
+      "bbox": {
+        "minLon": 21.69185531,
+        "minLat": 42.12698936,
+        "maxLon": 21.97452116,
+        "maxLat": 42.34455037
+      }
+    },
+    "MK312": {
+      "name": "Struga",
+      "sub_id": "MK312",
+      "sub_num": "312",
+      "bbox": {
+        "minLon": 20.49213767,
+        "minLat": 41.08673799,
+        "maxLon": 20.77748203,
+        "maxLat": 41.43433571
+      }
+    },
+    "MK410": {
+      "name": "Strumica",
+      "sub_id": "MK410",
+      "sub_num": "410",
+      "bbox": {
+        "minLon": 22.46712959,
+        "minLat": 41.30893707,
+        "maxLon": 22.80979562,
+        "maxLat": 41.49355888
+      }
+    },
+    "MK813": {
+      "name": "Studeničani",
+      "sub_id": "MK813",
+      "sub_num": "813",
+      "bbox": {
+        "minLon": 21.34424305,
+        "minLat": 41.71105385,
+        "maxLon": 21.57386017,
+        "maxLat": 41.94378376
+      }
+    },
+    "MK108": {
+      "name": "Sveti Nikole",
+      "sub_id": "MK108",
+      "sub_num": "108",
+      "bbox": {
+        "minLon": 21.76403534,
+        "minLat": 41.74384117,
+        "maxLon": 22.04903543,
+        "maxLat": 42.02733994
+      }
+    },
+    "MK608": {
+      "name": "Tearce",
+      "sub_id": "MK608",
+      "sub_num": "608",
+      "bbox": {
+        "minLon": 20.94660986,
+        "minLat": 42.03300476,
+        "maxLon": 21.15567589,
+        "maxLat": 42.17497945
+      }
+    },
+    "MK609": {
+      "name": "Tetovo",
+      "sub_id": "MK609",
+      "sub_num": "609",
+      "bbox": {
+        "minLon": 20.74766457,
+        "minLat": 41.96279526,
+        "maxLon": 21.07066476,
+        "maxLat": 42.13823318
+      }
+    },
+    "MK403": {
+      "name": "Valandovo",
+      "sub_id": "MK403",
+      "sub_num": "403",
+      "bbox": {
+        "minLon": 22.3232429,
+        "minLat": 41.21066093,
+        "maxLon": 22.77363193,
+        "maxLat": 41.45454884
+      }
+    },
+    "MK404": {
+      "name": "Vasilevo",
+      "sub_id": "MK404",
+      "sub_num": "404",
+      "bbox": {
+        "minLon": 22.51387477,
+        "minLat": 41.45493507,
+        "maxLon": 22.76775026,
+        "maxLat": 41.63646698
+      }
+    },
+    "MK101": {
+      "name": "Veles",
+      "sub_id": "MK101",
+      "sub_num": "101",
+      "bbox": {
+        "minLon": 21.58145011,
+        "minLat": 41.61097527,
+        "maxLon": 21.84126127,
+        "maxLat": 41.9220686
+      }
+    },
+    "MK301": {
+      "name": "Vevčani",
+      "sub_id": "MK301",
+      "sub_num": "301",
+      "bbox": {
+        "minLon": 20.51703656,
+        "minLat": 41.22694731,
+        "maxLon": 20.67049849,
+        "maxLat": 41.27226591
+      }
+    },
+    "MK202": {
+      "name": "Vinica",
+      "sub_id": "MK202",
+      "sub_num": "202",
+      "bbox": {
+        "minLon": 22.42251921,
+        "minLat": 41.72877789,
+        "maxLon": 22.73068309,
+        "maxLat": 41.99026108
+      }
+    },
+    "MK603": {
+      "name": "Vrapčište",
+      "sub_id": "MK603",
+      "sub_num": "603",
+      "bbox": {
+        "minLon": 20.740466,
+        "minLat": 41.81671142,
+        "maxLon": 20.97187543,
+        "maxLat": 41.9355011
+      }
+    },
+    "MK806": {
+      "name": "Zelenikovo",
+      "sub_id": "MK806",
+      "sub_num": "806",
+      "bbox": {
+        "minLon": 21.47107017,
+        "minLat": 41.75165176,
+        "maxLon": 21.63216817,
+        "maxLat": 41.91168308
+      }
+    },
+    "MK204": {
+      "name": "Zrnovci",
+      "sub_id": "MK204",
+      "sub_num": "204",
+      "bbox": {
+        "minLon": 22.34082127,
+        "minLat": 41.79250717,
+        "maxLon": 22.45696974,
+        "maxLat": 41.87850952
+      }
+    },
+    "MK109": {
+      "name": "Čaška",
+      "sub_id": "MK109",
+      "sub_num": "109",
+      "bbox": {
+        "minLon": 21.37001848,
+        "minLat": 41.43176079,
+        "maxLon": 21.82466495,
+        "maxLat": 41.75778866
+      }
+    },
+    "MK210": {
+      "name": "Češinovo-Obleševo",
+      "sub_id": "MK210",
+      "sub_num": "210",
+      "bbox": {
+        "minLon": 22.14906919,
+        "minLat": 41.80254936,
+        "maxLon": 22.38632345,
+        "maxLat": 41.94661617
+      }
+    },
+    "MK816": {
+      "name": "Čučer Sandevo",
+      "sub_id": "MK816",
+      "sub_num": "816",
+      "bbox": {
+        "minLon": 21.30234396,
+        "minLat": 42.04386234,
+        "maxLon": 21.50943994,
+        "maxLat": 42.27974653
+      }
+    },
+    "MK211": {
+      "name": "Štip",
+      "sub_id": "MK211",
+      "sub_num": "211",
+      "bbox": {
+        "minLon": 21.90958035,
+        "minLat": 41.54462814,
+        "maxLon": 22.39881849,
+        "maxLat": 41.88520432
+      }
+    },
+    "MK605": {
+      "name": "Želino",
+      "sub_id": "MK605",
+      "sub_num": "605",
+      "bbox": {
+        "minLon": 21.03277934,
+        "minLat": 41.8355341,
+        "maxLon": 21.25037241,
+        "maxLat": 42.0199585
+      }
+    }
+  }
+  

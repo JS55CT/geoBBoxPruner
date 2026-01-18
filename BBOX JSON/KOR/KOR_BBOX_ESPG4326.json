@@ -1,0 +1,190 @@
+{
+    "KR26": {
+      "name": "Busan-gwangyeoksi",
+      "sub_id": "KR26",
+      "sub_num": "26",
+      "bbox": {
+        "minLon": 128.9349324,
+        "minLat": 34.977705,
+        "maxLon": 129.3632386,
+        "maxLat": 35.48262119
+      }
+    },
+    "KR43": {
+      "name": "Chungcheongbuk-do",
+      "sub_id": "KR43",
+      "sub_num": "43",
+      "bbox": {
+        "minLon": 127.2755318,
+        "minLat": 36.01164937,
+        "maxLon": 128.6596994,
+        "maxLat": 37.25566864
+      }
+    },
+    "KR44": {
+      "name": "Chungcheongnam-do",
+      "sub_id": "KR44",
+      "sub_num": "44",
+      "bbox": {
+        "minLon": 125.5412518,
+        "minLat": 35.9817481,
+        "maxLon": 127.6351272,
+        "maxLat": 37.06539619
+      }
+    },
+    "KR27": {
+      "name": "Daegu-gwangyeoksi",
+      "sub_id": "KR27",
+      "sub_num": "27",
+      "bbox": {
+        "minLon": 128.3516108,
+        "minLat": 35.60664916,
+        "maxLon": 128.763559,
+        "maxLat": 36.01603746
+      }
+    },
+    "KR30": {
+      "name": "Daejeon-gwangyeoksi",
+      "sub_id": "KR30",
+      "sub_num": "30",
+      "bbox": {
+        "minLon": 127.2032596,
+        "minLat": 36.16248608,
+        "maxLon": 127.5554889,
+        "maxLat": 36.51793718
+      }
+    },
+    "KR42": {
+      "name": "Gangwon-do",
+      "sub_id": "KR42",
+      "sub_num": "42",
+      "bbox": {
+        "minLon": 127.0952574,
+        "minLat": 37.03093219,
+        "maxLon": 129.3626171,
+        "maxLat": 38.6164968
+      }
+    },
+    "KR29": {
+      "name": "Gwangju-gwangyeoksi",
+      "sub_id": "KR29",
+      "sub_num": "29",
+      "bbox": {
+        "minLon": 126.6514983,
+        "minLat": 35.03485107,
+        "maxLon": 127.066803,
+        "maxLat": 35.21531224
+      }
+    },
+    "KR41": {
+      "name": "Gyeonggi-do",
+      "sub_id": "KR41",
+      "sub_num": "41",
+      "bbox": {
+        "minLon": 126.2971739,
+        "minLat": 36.90020084,
+        "maxLon": 127.8439302,
+        "maxLat": 38.2810235
+      }
+    },
+    "KR47": {
+      "name": "Gyeongsangbuk-do",
+      "sub_id": "KR47",
+      "sub_num": "47",
+      "bbox": {
+        "minLon": 127.7939116,
+        "minLat": 35.56616998,
+        "maxLon": 131.8720485,
+        "maxLat": 37.54942846
+      }
+    },
+    "KR48": {
+      "name": "Gyeongsangnam-do",
+      "sub_id": "KR48",
+      "sub_num": "48",
+      "bbox": {
+        "minLon": 127.5758933,
+        "minLat": 34.53497553,
+        "maxLon": 129.2160475,
+        "maxLat": 35.91191101
+      }
+    },
+    "KR28": {
+      "name": "Incheon-gwangyeoksi",
+      "sub_id": "KR28",
+      "sub_num": "28",
+      "bbox": {
+        "minLon": 124.609611,
+        "minLat": 36.92607272,
+        "maxLon": 126.8027292,
+        "maxLat": 37.98517859
+      }
+    },
+    "KR49": {
+      "name": "Jeju-teukbyeoljachido",
+      "sub_id": "KR49",
+      "sub_num": "49",
+      "bbox": {
+        "minLon": 126.14323,
+        "minLat": 33.11199701,
+        "maxLon": 126.9732318,
+        "maxLat": 33.73067081
+      }
+    },
+    "KR45": {
+      "name": "Jeollabuk-do",
+      "sub_id": "KR45",
+      "sub_num": "45",
+      "bbox": {
+        "minLon": 125.9668666,
+        "minLat": 35.30150771,
+        "maxLon": 127.9146019,
+        "maxLat": 36.15469694
+      }
+    },
+    "KR46": {
+      "name": "Jeollanam-do",
+      "sub_id": "KR46",
+      "sub_num": "46",
+      "bbox": {
+        "minLon": 125.0817821,
+        "minLat": 33.90066552,
+        "maxLon": 127.9049865,
+        "maxLat": 35.48798561
+      }
+    },
+    "KR50": {
+      "name": "Sejong",
+      "sub_id": "KR50",
+      "sub_num": "50",
+      "bbox": {
+        "minLon": 127.1281608,
+        "minLat": 36.43616617,
+        "maxLon": 127.4098153,
+        "maxLat": 36.73084617
+      }
+    },
+    "KR11": {
+      "name": "Seoul-teukbyeolsi",
+      "sub_id": "KR11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 126.7669681,
+        "minLat": 37.42316854,
+        "maxLon": 127.1795591,
+        "maxLat": 37.70022869
+      }
+    },
+    "KR31": {
+      "name": "Ulsan-gwangyeoksi",
+      "sub_id": "KR31",
+      "sub_num": "31",
+      "bbox": {
+        "minLon": 129.0524771,
+        "minLat": 35.38531959,
+        "maxLon": 129.465377,
+        "maxLat": 35.72277546
+      }
+    }
+  }
+  

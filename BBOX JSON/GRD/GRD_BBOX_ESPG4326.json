@@ -1,0 +1,80 @@
+{
+    "GD01": {
+      "name": "Saint Andrew",
+      "sub_id": "GD01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": -61.70241976,
+        "minLat": 12.04886544,
+        "maxLon": -61.60186768,
+        "maxLat": 12.17140853
+      }
+    },
+    "GD02": {
+      "name": "Saint David",
+      "sub_id": "GD02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": -61.71729398,
+        "minLat": 12.00591886,
+        "maxLon": -61.63528574,
+        "maxLat": 12.07785845
+      }
+    },
+    "GD03": {
+      "name": "Saint George",
+      "sub_id": "GD03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -61.80179346,
+        "minLat": 11.98439288,
+        "maxLon": -61.69547522,
+        "maxLat": 12.11080885
+      }
+    },
+    "GD04": {
+      "name": "Saint John",
+      "sub_id": "GD04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": -61.75322676,
+        "minLat": 12.10679412,
+        "maxLon": -61.68022144,
+        "maxLat": 12.177513
+      }
+    },
+    "GD05": {
+      "name": "Saint Mark",
+      "sub_id": "GD05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -61.72478914,
+        "minLat": 12.15331972,
+        "maxLon": -61.6681385,
+        "maxLat": 12.2204864
+      }
+    },
+    "GD06": {
+      "name": "Saint Patrick",
+      "sub_id": "GD06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": -61.67978477,
+        "minLat": 12.16188753,
+        "maxLon": -61.54808819,
+        "maxLat": 12.25675642
+      }
+    },
+    "GD10": {
+      "name": "Southern Grenadine Islands",
+      "sub_id": "GD10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": -61.61135602,
+        "minLat": 12.28262901,
+        "maxLon": -61.37827158,
+        "maxLat": 12.53042078
+      }
+    }
+  }
+  

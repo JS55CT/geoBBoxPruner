@@ -1,0 +1,36 @@
+{
+    "BABRC": {
+      "name": "Brčko Distrikt",
+      "sub_id": "BABRC",
+      "sub_num": "BRC",
+      "bbox": {
+        "minLon": 18.51053155,
+        "minLat": 44.72025633,
+        "maxLon": 19.02809501,
+        "maxLat": 44.95164514
+      }
+    },
+    "BABIH": {
+      "name": "Federacija Bosne i Hercegovine",
+      "sub_id": "BABIH",
+      "sub_num": "BIH",
+      "bbox": {
+        "minLon": 15.72873199,
+        "minLat": 42.60270596,
+        "maxLon": 19.04859698,
+        "maxLat": 45.22985458
+      }
+    },
+    "BASRP": {
+      "name": "Republika Srpska",
+      "sub_id": "BASRP",
+      "sub_num": "SRP",
+      "bbox": {
+        "minLon": 16.20730412,
+        "minLat": 42.55563188,
+        "maxLon": 19.62342191,
+        "maxLat": 45.27637482
+      }
+    }
+  }
+  
