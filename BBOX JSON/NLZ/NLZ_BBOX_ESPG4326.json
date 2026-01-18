@@ -1,300 +1,299 @@
 {
-    "NZCK": {
-      "name": "Cook Islands (NZ)",
-      "sub_id": "NZCK",
-      "sub_num": "",
-      "bbox": {
-        "minLon": -165.8794789,
-        "minLat": -21.95929289,
-        "maxLon": -157.3207531,
-        "maxLat": -8.915166735
-      }
-    },
-    "Antipodes": {
-      "name": "Antipodes Islands",
-      "sub_id": "Antipodes",
-      "sub_num": "",
-      "bbox": {
-        "minLon": 178.716868,
-        "minLat": -49.71526992,
-        "maxLon": 178.8244592,
-        "maxLat": -49.6383704
-      }
-    },
-    "NZAUK": {
-      "name": "Auckland",
-      "sub_id": "NZAUK",
-      "sub_num": "AUK",
-      "bbox": {
-        "minLon": 174.1608175,
-        "minLat": -37.27657914,
-        "maxLon": 175.5516666,
-        "maxLat": -35.8991667
-      }
-    },
-    "Auckland": {
-      "name": "Auckland Islands",
-      "sub_id": "Auckland",
-      "sub_num": "",
-      "bbox": {
-        "minLon": 165.8683412,
-        "minLat": -50.92961359,
-        "maxLon": 166.3627778,
-        "maxLat": -50.4844445
-      }
-    },
-    "NZBOP": {
-      "name": "Bay of Plenty",
-      "sub_id": "NZBOP",
-      "sub_num": "BOP",
-      "bbox": {
-        "minLon": 175.7515094,
-        "minLat": -38.99657059,
-        "maxLon": 178.0536097,
-        "maxLat": -37.26724017
-      }
-    },
-    "Bounty": {
-      "name": "Bounty Islands",
-      "sub_id": "Bounty",
-      "sub_num": "",
-      "bbox": {
-        "minLon": 179.0159291,
-        "minLat": -47.76839459,
-        "maxLon": 179.0656089,
-        "maxLat": -47.74724734
-      }
-    },
-    "Campbell": {
-      "name": "Campbell Islands",
-      "sub_id": "Campbell",
-      "sub_num": "",
-      "bbox": {
-        "minLon": 168.9827845,
-        "minLat": -52.62075388,
-        "maxLon": 169.2692932,
-        "maxLat": -52.46547103
-      }
-    },
-    "NZCAN": {
-      "name": "Canterbury",
-      "sub_id": "NZCAN",
-      "sub_num": "CAN",
-      "bbox": {
-        "minLon": 169.5600613,
-        "minLat": -45.05986691,
-        "maxLon": 174.1191901,
-        "maxLat": -41.87033415
-      }
-    },
-    "NZCIT": {
-      "name": "Chatham Islands Territory",
-      "sub_id": "NZCIT",
-      "sub_num": "CIT",
-      "bbox": {
-        "minLon": -176.9342542,
-        "minLat": -44.43508732,
-        "maxLon": -175.8247958,
-        "maxLat": -43.56246293
-      }
-    },
-    "NZGIS": {
-      "name": "Gisborne District",
-      "sub_id": "NZGIS",
-      "sub_num": "GIS",
-      "bbox": {
-        "minLon": 177.1593018,
-        "minLat": -38.93249357,
-        "maxLon": 178.5785532,
-        "maxLat": -37.53268921
-      }
-    },
-    "NZHKB": {
-      "name": "Hawke's Bay",
-      "sub_id": "NZHKB",
-      "sub_num": "HKB",
-      "bbox": {
-        "minLon": 176.0773695,
-        "minLat": -40.37955272,
-        "maxLon": 178.0037782,
-        "maxLat": -38.52684021
-      }
-    },
-    "Kermadec": {
-      "name": "Kermadec Islands",
-      "sub_id": "Kermadec",
-      "sub_num": "",
-      "bbox": {
-        "minLon": -178.8252137,
-        "minLat": -31.35435283,
-        "maxLon": -177.8526701,
-        "maxLat": -29.23125958
-      }
-    },
-    "NZMWT": {
-      "name": "Manawatu-Wanganui",
-      "sub_id": "NZMWT",
-      "sub_num": "MWT",
-      "bbox": {
-        "minLon": 174.7159684,
-        "minLat": -40.72249889,
-        "maxLon": 176.641412,
-        "maxLat": -38.39850426
-      }
-    },
-    "NZMBH": {
-      "name": "Marlborough District",
-      "sub_id": "NZMBH",
-      "sub_num": "MBH",
-      "bbox": {
-        "minLon": 172.6911011,
-        "minLat": -42.48796105,
-        "maxLon": 174.4431731,
-        "maxLat": -40.66300237
-      }
-    },
-    "NZNSN": {
-      "name": "Nelson City",
-      "sub_id": "NZNSN",
-      "sub_num": "NSN",
-      "bbox": {
-        "minLon": 173.2061003,
-        "minLat": -41.39476776,
-        "maxLon": 173.6371976,
-        "maxLat": -41.0519743
-      }
-    },
-    "NZNTL": {
-      "name": "Northland",
-      "sub_id": "NZNTL",
-      "sub_num": "NTL",
-      "bbox": {
-        "minLon": 172.6344821,
-        "minLat": -36.40017533,
-        "maxLon": 174.7835464,
-        "maxLat": -34.3931433
-      }
-    },
-    "NZOTA": {
-      "name": "Otago",
-      "sub_id": "NZOTA",
-      "sub_num": "OTA",
-      "bbox": {
-        "minLon": 168.2243428,
-        "minLat": -46.67270946,
-        "maxLon": 171.1327735,
-        "maxLat": -43.94771957
-      }
-    },
-    "NZSTL": {
-      "name": "Southland",
-      "sub_id": "NZSTL",
-      "sub_num": "STL",
-      "bbox": {
-        "minLon": 166.4254637,
-        "minLat": -47.29065323,
-        "maxLon": 169.1921836,
-        "maxLat": -44.2428056
-      }
-    },
-    "NZTKI": {
-      "name": "Taranaki",
-      "sub_id": "NZTKI",
-      "sub_num": "TKI",
-      "bbox": {
-        "minLon": 173.7512195,
-        "minLat": -39.86911118,
-        "maxLon": 175.0267992,
-        "maxLat": -38.67867947
-      }
-    },
-    "NZTAS": {
-      "name": "Tasman District",
-      "sub_id": "NZTAS",
-      "sub_num": "TAS",
-      "bbox": {
-        "minLon": 172.1079329,
-        "minLat": -42.30755568,
-        "maxLon": 173.3810648,
-        "maxLat": -40.497558
-      }
-    },
-    "NZ_Snares": {
-      "name": "The Snares",
-      "sub_id": "NZ_Snares",
-      "sub_num": "",
-      "bbox": {
-        "minLon": 166.4947222,
-        "minLat": -48.06416667,
-        "maxLon": 166.63,
-        "maxLat": -48.00999999
-      }
-    },
-    "Three_Kings": {
-      "name": "Three Kings Islands",
-      "sub_id": "Three_Kings",
-      "sub_num": "",
-      "bbox": {
-        "minLon": 172.0300239,
-        "minLat": -34.19083333,
-        "maxLon": 172.1694784,
-        "maxLat": -34.12960565
-      }
-    },
-    "NZWKO": {
-      "name": "Waikato",
-      "sub_id": "NZWKO",
-      "sub_num": "WKO",
-      "bbox": {
-        "minLon": 174.5641215,
-        "minLat": -39.24093246,
-        "maxLon": 176.5065602,
-        "maxLat": -36.42122006
-      }
-    },
-    "NZWGN": {
-      "name": "Wellington",
-      "sub_id": "NZWGN",
-      "sub_num": "WGN",
-      "bbox": {
-        "minLon": 174.6121939,
-        "minLat": -41.61431742,
-        "maxLon": 176.3712968,
-        "maxLat": -40.61454392
-      }
-    },
-    "NZWTC": {
-      "name": "West Coast",
-      "sub_id": "NZWTC",
-      "sub_num": "WTC",
-      "bbox": {
-        "minLon": 168.1043154,
-        "minLat": -44.44900131,
-        "maxLon": 172.6840854,
-        "maxLat": -40.76458549
-      }
-    },
-    "NU": {
-      "name": "Niue (NZ)",
-      "sub_id": "NU",
-      "sub_num": "",
-      "bbox": {
-        "minLon": -169.9507256,
-        "minLat": -19.15591705,
-        "maxLon": -169.7738012,
-        "maxLat": -18.95236003
-      }
-    },
-    "TK": {
-      "name": "Tokelau (NZ)",
-      "sub_id": "TK",
-      "sub_num": "",
-      "bbox": {
-        "minLon": -172.5209382,
-        "minLat": -9.443650604,
-        "maxLon": -171.1814851,
-        "maxLat": -8.531766891
-      }
+  "NZCK": {
+    "name": "Cook Islands (NZ)",
+    "sub_id": "NZCK",
+    "sub_num": "",
+    "bbox": {
+      "minLon": -165.8794789,
+      "minLat": -21.95929289,
+      "maxLon": -157.3207531,
+      "maxLat": -8.915166735
+    }
+  },
+  "NZ_Antipodes": {
+    "name": "Antipodes Islands",
+    "sub_id": "NZ_Antipodes",
+    "sub_num": "",
+    "bbox": {
+      "minLon": 178.716868,
+      "minLat": -49.71526992,
+      "maxLon": 178.8244592,
+      "maxLat": -49.6383704
+    }
+  },
+  "NZAUK": {
+    "name": "Auckland",
+    "sub_id": "NZAUK",
+    "sub_num": "AUK",
+    "bbox": {
+      "minLon": 174.1608175,
+      "minLat": -37.27657914,
+      "maxLon": 175.5516666,
+      "maxLat": -35.8991667
+    }
+  },
+  "NZ_Auckland_Islands": {
+    "name": "Auckland Islands",
+    "sub_id": "NZ_Auckland_Islands",
+    "sub_num": "",
+    "bbox": {
+      "minLon": 165.8683412,
+      "minLat": -50.92961359,
+      "maxLon": 166.3627778,
+      "maxLat": -50.4844445
+    }
+  },
+  "NZBOP": {
+    "name": "Bay of Plenty",
+    "sub_id": "NZBOP",
+    "sub_num": "BOP",
+    "bbox": {
+      "minLon": 175.7515094,
+      "minLat": -38.99657059,
+      "maxLon": 178.0536097,
+      "maxLat": -37.26724017
+    }
+  },
+  "NZ_Bounty": {
+    "name": "Bounty Islands",
+    "sub_id": "NZ_Bounty",
+    "sub_num": "",
+    "bbox": {
+      "minLon": 179.0159291,
+      "minLat": -47.76839459,
+      "maxLon": 179.0656089,
+      "maxLat": -47.74724734
+    }
+  },
+  "NZ_Campbell": {
+    "name": "Campbell Islands",
+    "sub_id": "NZ_Campbell",
+    "sub_num": "",
+    "bbox": {
+      "minLon": 168.9827845,
+      "minLat": -52.62075388,
+      "maxLon": 169.2692932,
+      "maxLat": -52.46547103
+    }
+  },
+  "NZCAN": {
+    "name": "Canterbury",
+    "sub_id": "NZCAN",
+    "sub_num": "CAN",
+    "bbox": {
+      "minLon": 169.5600613,
+      "minLat": -45.05986691,
+      "maxLon": 174.1191901,
+      "maxLat": -41.87033415
+    }
+  },
+  "NZCIT": {
+    "name": "Chatham Islands Territory",
+    "sub_id": "NZCIT",
+    "sub_num": "CIT",
+    "bbox": {
+      "minLon": -176.9342542,
+      "minLat": -44.43508732,
+      "maxLon": -175.8247958,
+      "maxLat": -43.56246293
+    }
+  },
+  "NZGIS": {
+    "name": "Gisborne District",
+    "sub_id": "NZGIS",
+    "sub_num": "GIS",
+    "bbox": {
+      "minLon": 177.1593018,
+      "minLat": -38.93249357,
+      "maxLon": 178.5785532,
+      "maxLat": -37.53268921
+    }
+  },
+  "NZHKB": {
+    "name": "Hawke's Bay",
+    "sub_id": "NZHKB",
+    "sub_num": "HKB",
+    "bbox": {
+      "minLon": 176.0773695,
+      "minLat": -40.37955272,
+      "maxLon": 178.0037782,
+      "maxLat": -38.52684021
+    }
+  },
+  "NZ_Kermadec": {
+    "name": "Kermadec Islands",
+    "sub_id": "NZ_Kermadec",
+    "sub_num": "",
+    "bbox": {
+      "minLon": -178.8252137,
+      "minLat": -31.35435283,
+      "maxLon": -177.8526701,
+      "maxLat": -29.23125958
+    }
+  },
+  "NZMWT": {
+    "name": "Manawatu-Wanganui",
+    "sub_id": "NZMWT",
+    "sub_num": "MWT",
+    "bbox": {
+      "minLon": 174.7159684,
+      "minLat": -40.72249889,
+      "maxLon": 176.641412,
+      "maxLat": -38.39850426
+    }
+  },
+  "NZMBH": {
+    "name": "Marlborough District",
+    "sub_id": "NZMBH",
+    "sub_num": "MBH",
+    "bbox": {
+      "minLon": 172.6911011,
+      "minLat": -42.48796105,
+      "maxLon": 174.4431731,
+      "maxLat": -40.66300237
+    }
+  },
+  "NZNSN": {
+    "name": "Nelson City",
+    "sub_id": "NZNSN",
+    "sub_num": "NSN",
+    "bbox": {
+      "minLon": 173.2061003,
+      "minLat": -41.39476776,
+      "maxLon": 173.6371976,
+      "maxLat": -41.0519743
+    }
+  },
+  "NZNTL": {
+    "name": "Northland",
+    "sub_id": "NZNTL",
+    "sub_num": "NTL",
+    "bbox": {
+      "minLon": 172.6344821,
+      "minLat": -36.40017533,
+      "maxLon": 174.7835464,
+      "maxLat": -34.3931433
+    }
+  },
+  "NZOTA": {
+    "name": "Otago",
+    "sub_id": "NZOTA",
+    "sub_num": "OTA",
+    "bbox": {
+      "minLon": 168.2243428,
+      "minLat": -46.67270946,
+      "maxLon": 171.1327735,
+      "maxLat": -43.94771957
+    }
+  },
+  "NZSTL": {
+    "name": "Southland",
+    "sub_id": "NZSTL",
+    "sub_num": "STL",
+    "bbox": {
+      "minLon": 166.4254637,
+      "minLat": -47.29065323,
+      "maxLon": 169.1921836,
+      "maxLat": -44.2428056
+    }
+  },
+  "NZTKI": {
+    "name": "Taranaki",
+    "sub_id": "NZTKI",
+    "sub_num": "TKI",
+    "bbox": {
+      "minLon": 173.7512195,
+      "minLat": -39.86911118,
+      "maxLon": 175.0267992,
+      "maxLat": -38.67867947
+    }
+  },
+  "NZTAS": {
+    "name": "Tasman District",
+    "sub_id": "NZTAS",
+    "sub_num": "TAS",
+    "bbox": {
+      "minLon": 172.1079329,
+      "minLat": -42.30755568,
+      "maxLon": 173.3810648,
+      "maxLat": -40.497558
+    }
+  },
+  "NZ_Snares": {
+    "name": "The Snares",
+    "sub_id": "NZ_Snares",
+    "sub_num": "",
+    "bbox": {
+      "minLon": 166.4947222,
+      "minLat": -48.06416667,
+      "maxLon": 166.63,
+      "maxLat": -48.00999999
+    }
+  },
+  "NZ_Three_Kings": {
+    "name": "Three Kings Islands",
+    "sub_id": "NZ_Three_Kings",
+    "sub_num": "",
+    "bbox": {
+      "minLon": 172.0300239,
+      "minLat": -34.19083333,
+      "maxLon": 172.1694784,
+      "maxLat": -34.12960565
+    }
+  },
+  "NZWKO": {
+    "name": "Waikato",
+    "sub_id": "NZWKO",
+    "sub_num": "WKO",
+    "bbox": {
+      "minLon": 174.5641215,
+      "minLat": -39.24093246,
+      "maxLon": 176.5065602,
+      "maxLat": -36.42122006
+    }
+  },
+  "NZWGN": {
+    "name": "Wellington",
+    "sub_id": "NZWGN",
+    "sub_num": "WGN",
+    "bbox": {
+      "minLon": 174.6121939,
+      "minLat": -41.61431742,
+      "maxLon": 176.3712968,
+      "maxLat": -40.61454392
+    }
+  },
+  "NZWTC": {
+    "name": "West Coast",
+    "sub_id": "NZWTC",
+    "sub_num": "WTC",
+    "bbox": {
+      "minLon": 168.1043154,
+      "minLat": -44.44900131,
+      "maxLon": 172.6840854,
+      "maxLat": -40.76458549
+    }
+  },
+  "NU": {
+    "name": "Niue (NZ)",
+    "sub_id": "NU",
+    "sub_num": "",
+    "bbox": {
+      "minLon": -169.9507256,
+      "minLat": -19.15591705,
+      "maxLon": -169.7738012,
+      "maxLat": -18.95236003
+    }
+  },
+  "TK": {
+    "name": "Tokelau (NZ)",
+    "sub_id": "TK",
+    "sub_num": "",
+    "bbox": {
+      "minLon": -172.5209382,
+      "minLat": -9.443650604,
+      "maxLon": -171.1814851,
+      "maxLat": -8.531766891
     }
   }
-  
+}
