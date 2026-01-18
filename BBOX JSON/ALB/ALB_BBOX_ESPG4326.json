@@ -1,0 +1,135 @@
+{
+    "AL01": {
+      "name": "Berat",
+      "sub_id": "AL01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": 19.72027731,
+        "minLat": 40.36308289,
+        "maxLon": 20.46345162,
+        "maxLat": 40.87577105
+      }
+    },
+    "AL09": {
+      "name": "Dibër",
+      "sub_id": "AL09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 19.76980674,
+        "minLat": 41.27649307,
+        "maxLon": 20.57386208,
+        "maxLat": 41.89730644
+      }
+    },
+    "AL02": {
+      "name": "Durrës",
+      "sub_id": "AL02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 19.39144373,
+        "minLat": 41.16495955,
+        "maxLon": 19.91717386,
+        "maxLat": 41.70753479
+      }
+    },
+    "AL03": {
+      "name": "Elbasan",
+      "sub_id": "AL03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 19.67205751,
+        "minLat": 40.7174778,
+        "maxLon": 20.60833132,
+        "maxLat": 41.38206482
+      }
+    },
+    "AL04": {
+      "name": "Fier",
+      "sub_id": "AL04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 19.31239223,
+        "minLat": 40.3961277,
+        "maxLon": 19.90788162,
+        "maxLat": 41.0701561
+      }
+    },
+    "AL05": {
+      "name": "Gjirokastër",
+      "sub_id": "AL05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 19.75356829,
+        "minLat": 39.78456259,
+        "maxLon": 20.61935377,
+        "maxLat": 40.52528143
+      }
+    },
+    "AL06": {
+      "name": "Korçë",
+      "sub_id": "AL06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 20.29594243,
+        "minLat": 40.08404732,
+        "maxLon": 21.05738974,
+        "maxLat": 41.09251499
+      }
+    },
+    "AL07": {
+      "name": "Kukës",
+      "sub_id": "AL07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 19.79875004,
+        "minLat": 41.81490898,
+        "maxLon": 20.62580323,
+        "maxLat": 42.55933464
+      }
+    },
+    "AL08": {
+      "name": "Lezhë",
+      "sub_id": "AL08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 19.53362012,
+        "minLat": 41.50514603,
+        "maxLon": 20.27915895,
+        "maxLat": 42.06895793
+      }
+    },
+    "AL10": {
+      "name": "Shkodër",
+      "sub_id": "AL10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 19.28939867,
+        "minLat": 41.8359375,
+        "maxLon": 20.20377779,
+        "maxLat": 42.66034126
+      }
+    },
+    "AL11": {
+      "name": "Tiranë",
+      "sub_id": "AL11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 19.43680894,
+        "minLat": 41.02508593,
+        "maxLon": 20.24153996,
+        "maxLat": 41.51621819
+      }
+    },
+    "AL12": {
+      "name": "Vlorë",
+      "sub_id": "AL12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 19.26334715,
+        "minLat": 39.64508772,
+        "maxLon": 20.3219831,
+        "maxLat": 40.66447747
+      }
+    }
+  }
+  

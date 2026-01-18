@@ -1,0 +1,80 @@
+{
+    "AD07": {
+      "name": "Andorra la Vella",
+      "sub_id": "AD07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 1.460335016,
+        "minLat": 42.46820652,
+        "maxLon": 1.559055924,
+        "maxLat": 42.52208376
+      }
+    },
+    "AD02": {
+      "name": "Canillo",
+      "sub_id": "AD02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 1.565442323,
+        "minLat": 42.54384756,
+        "maxLon": 1.789707422,
+        "maxLat": 42.62993574
+      }
+    },
+    "AD03": {
+      "name": "Encamp",
+      "sub_id": "AD03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 1.546176314,
+        "minLat": 42.48860478,
+        "maxLon": 1.736484885,
+        "maxLat": 42.56043148
+      }
+    },
+    "AD08": {
+      "name": "Escaldes-Engordany",
+      "sub_id": "AD08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": 1.522096753,
+        "minLat": 42.44933724,
+        "maxLon": 1.662376523,
+        "maxLat": 42.52423525
+      }
+    },
+    "AD04": {
+      "name": "La Massana",
+      "sub_id": "AD04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 1.414161563,
+        "minLat": 42.51030922,
+        "maxLon": 1.561561584,
+        "maxLat": 42.60626793
+      }
+    },
+    "AD05": {
+      "name": "Ordino",
+      "sub_id": "AD05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 1.467874646,
+        "minLat": 42.54552126,
+        "maxLon": 1.606102944,
+        "maxLat": 42.65548646
+      }
+    },
+    "AD06": {
+      "name": "Sant Julià de Lòria",
+      "sub_id": "AD06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 1.407517195,
+        "minLat": 42.42873788,
+        "maxLon": 1.560648203,
+        "maxLat": 42.50510037
+      }
+    }
+  }
+  

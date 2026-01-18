@@ -1,0 +1,201 @@
+{
+    "AOBGO": {
+      "name": "Bengo",
+      "sub_id": "AOBGO",
+      "sub_num": "BGO",
+      "bbox": {
+        "minLon": 13.09653223,
+        "minLat": -10.45632362,
+        "maxLon": 14.74027431,
+        "maxLat": -7.635283471
+      }
+    },
+    "AOBGU": {
+      "name": "Benguela",
+      "sub_id": "AOBGU",
+      "sub_num": "BGU",
+      "bbox": {
+        "minLon": 12.5212301,
+        "minLat": -13.96856904,
+        "maxLon": 15.11713398,
+        "maxLat": -11.76730156
+      }
+    },
+    "AOBIE": {
+      "name": "Bié",
+      "sub_id": "AOBIE",
+      "sub_num": "BIE",
+      "bbox": {
+        "minLon": 15.7009567,
+        "minLat": -14.3080616,
+        "maxLon": 19.27248812,
+        "maxLat": -10.57118428
+      }
+    },
+    "AOCAB": {
+      "name": "Cabinda",
+      "sub_id": "AOCAB",
+      "sub_num": "CAB",
+      "bbox": {
+        "minLon": 12.00958014,
+        "minLat": -5.768916607,
+        "maxLon": 13.10306632,
+        "maxLat": -4.360542297
+      }
+    },
+    "AOCCU": {
+      "name": "Cuando Cubango",
+      "sub_id": "AOCCU",
+      "sub_num": "CCU",
+      "bbox": {
+        "minLon": 16.46048486,
+        "minLat": -18.0394274,
+        "maxLon": 23.42912042,
+        "maxLat": -13.5573864
+      }
+    },
+    "AOCNO": {
+      "name": "Cuanza-Norte",
+      "sub_id": "AOCNO",
+      "sub_num": "CNO",
+      "bbox": {
+        "minLon": 13.99445677,
+        "minLat": -9.792852402,
+        "maxLon": 15.82934594,
+        "maxLat": -7.960259914
+      }
+    },
+    "AOCUS": {
+      "name": "Cuanza-Sul",
+      "sub_id": "AOCUS",
+      "sub_num": "CUS",
+      "bbox": {
+        "minLon": 13.49351597,
+        "minLat": -12.22482204,
+        "maxLon": 16.60537255,
+        "maxLat": -9.669942856
+      }
+    },
+    "AOCNN": {
+      "name": "Cunene",
+      "sub_id": "AOCNN",
+      "sub_num": "CNN",
+      "bbox": {
+        "minLon": 13.15086687,
+        "minLat": -17.43839264,
+        "maxLon": 17.40209973,
+        "maxLat": -15.12056625
+      }
+    },
+    "AOHUA": {
+      "name": "Huambo",
+      "sub_id": "AOHUA",
+      "sub_num": "HUA",
+      "bbox": {
+        "minLon": 14.78242672,
+        "minLat": -13.76767159,
+        "maxLon": 16.59795558,
+        "maxLat": -11.45213127
+      }
+    },
+    "AOHUI": {
+      "name": "Huíla",
+      "sub_id": "AOHUI",
+      "sub_num": "HUI",
+      "bbox": {
+        "minLon": 13.19216228,
+        "minLat": -16.34703398,
+        "maxLon": 16.75588369,
+        "maxLat": -13.32418633
+      }
+    },
+    "AOLUA": {
+      "name": "Luanda",
+      "sub_id": "AOLUA",
+      "sub_num": "LUA",
+      "bbox": {
+        "minLon": 12.99241746,
+        "minLat": -9.345248937,
+        "maxLon": 13.63551962,
+        "maxLat": -8.633193969
+      }
+    },
+    "AOLNO": {
+      "name": "Lunda-Norte",
+      "sub_id": "AOLNO",
+      "sub_num": "LNO",
+      "bbox": {
+        "minLon": 17.28802466,
+        "minLat": -10.42410278,
+        "maxLon": 21.93313015,
+        "maxLat": -6.91409111
+      }
+    },
+    "AOLSU": {
+      "name": "Lunda-Sul",
+      "sub_id": "AOLSU",
+      "sub_num": "LSU",
+      "bbox": {
+        "minLon": 18.45634377,
+        "minLat": -11.50071144,
+        "maxLon": 22.32819319,
+        "maxLat": -8.409851789
+      }
+    },
+    "AOMAL": {
+      "name": "Malange",
+      "sub_id": "AOMAL",
+      "sub_num": "MAL",
+      "bbox": {
+        "minLon": 15.083637,
+        "minLat": -11.77837372,
+        "maxLon": 18.83875799,
+        "maxLat": -7.351226807
+      }
+    },
+    "AOMOX": {
+      "name": "Moxico",
+      "sub_id": "AOMOX",
+      "sub_num": "MOX",
+      "bbox": {
+        "minLon": 17.870929,
+        "minLat": -16.20809555,
+        "maxLon": 24.08629358,
+        "maxLat": -10.57846069
+      }
+    },
+    "AONAM": {
+      "name": "Namibe",
+      "sub_id": "AONAM",
+      "sub_num": "NAM",
+      "bbox": {
+        "minLon": 11.66864705,
+        "minLat": -17.27401614,
+        "maxLon": 13.67250049,
+        "maxLat": -13.53052139
+      }
+    },
+    "AOUIG": {
+      "name": "Uíge",
+      "sub_id": "AOUIG",
+      "sub_num": "UIG",
+      "bbox": {
+        "minLon": 13.78438532,
+        "minLat": -8.432478904,
+        "maxLon": 17.10990894,
+        "maxLat": -5.843868256
+      }
+    },
+    "AOZAI": {
+      "name": "Zaire",
+      "sub_id": "AOZAI",
+      "sub_num": "ZAI",
+      "bbox": {
+        "minLon": 12.27322698,
+        "minLat": -7.815861464,
+        "maxLon": 15,
+        "maxLat": -5.83526373
+      }
+    }
+  }
+  

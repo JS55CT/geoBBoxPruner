@@ -1,0 +1,124 @@
+{
+    "AMAG": {
+      "name": "Aragacotn",
+      "sub_id": "AMAG",
+      "sub_num": "AG",
+      "bbox": {
+        "minLon": 43.59017479,
+        "minLat": 40.16067266,
+        "maxLon": 44.54504299,
+        "maxLat": 40.73953629
+      }
+    },
+    "AMAR": {
+      "name": "Ararat",
+      "sub_id": "AMAR",
+      "sub_num": "AR",
+      "bbox": {
+        "minLon": 44.34084356,
+        "minLat": 39.7134304,
+        "maxLon": 45.12641776,
+        "maxLat": 40.16833305
+      }
+    },
+    "AMAV": {
+      "name": "Armavir",
+      "sub_id": "AMAV",
+      "sub_num": "AV",
+      "bbox": {
+        "minLon": 43.64853907,
+        "minLat": 40.00173569,
+        "maxLon": 44.46256459,
+        "maxLat": 40.26772499
+      }
+    },
+    "AMER": {
+      "name": "Erevan",
+      "sub_id": "AMER",
+      "sub_num": "ER",
+      "bbox": {
+        "minLon": 44.43438554,
+        "minLat": 40.06265402,
+        "maxLon": 44.66476238,
+        "maxLat": 40.22444487
+      }
+    },
+    "AMGR": {
+      "name": "Geghark'unik'",
+      "sub_id": "AMGR",
+      "sub_num": "GR",
+      "bbox": {
+        "minLon": 44.77652764,
+        "minLat": 39.8714447,
+        "maxLon": 45.97988641,
+        "maxLat": 40.72957993
+      }
+    },
+    "AMKT": {
+      "name": "Kotayk'",
+      "sub_id": "AMKT",
+      "sub_num": "KT",
+      "bbox": {
+        "minLon": 44.40313601,
+        "minLat": 40.07580757,
+        "maxLon": 45.04045153,
+        "maxLat": 40.71187735
+      }
+    },
+    "AMLO": {
+      "name": "Lory",
+      "sub_id": "AMLO",
+      "sub_num": "LO",
+      "bbox": {
+        "minLon": 43.95319569,
+        "minLat": 40.65859795,
+        "maxLon": 44.93256152,
+        "maxLat": 41.24816895
+      }
+    },
+    "AMSU": {
+      "name": "Syunik'",
+      "sub_id": "AMSU",
+      "sub_num": "SU",
+      "bbox": {
+        "minLon": 45.69286192,
+        "minLat": 38.83945942,
+        "maxLon": 46.63495719,
+        "maxLat": 39.87142324
+      }
+    },
+    "AMTV": {
+      "name": "Tavush",
+      "sub_id": "AMTV",
+      "sub_num": "TV",
+      "bbox": {
+        "minLon": 44.72991669,
+        "minLat": 40.62915802,
+        "maxLon": 45.60793889,
+        "maxLat": 41.30116403
+      }
+    },
+    "AMVD": {
+      "name": "Vayoc Jor",
+      "sub_id": "AMVD",
+      "sub_num": "VD",
+      "bbox": {
+        "minLon": 45.09004319,
+        "minLat": 39.49000776,
+        "maxLon": 45.81206024,
+        "maxLat": 40.00759363
+      }
+    },
+    "AMSH": {
+      "name": "Shirak",
+      "sub_id": "AMSH",
+      "sub_num": "SH",
+      "bbox": {
+        "minLon": 43.44626546,
+        "minLat": 40.39818764,
+        "maxLon": 44.20885646,
+        "maxLat": 41.17606998
+      }
+    }
+  }
+  

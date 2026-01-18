@@ -1,0 +1,267 @@
+{
+    "ARB": {
+      "name": "Buenos Aires",
+      "sub_id": "ARB",
+      "sub_num": "B",
+      "bbox": {
+        "minLon": -63.39471364,
+        "minLat": -41.03539073,
+        "maxLon": -56.66741705,
+        "maxLat": -33.26375997
+      }
+    },
+    "ARK": {
+      "name": "Catamarca",
+      "sub_id": "ARK",
+      "sub_num": "K",
+      "bbox": {
+        "minLon": -69.08976996,
+        "minLat": -30.07049692,
+        "maxLon": -64.89616251,
+        "maxLat": -25.16819
+      }
+    },
+    "ARH": {
+      "name": "Chaco",
+      "sub_id": "ARH",
+      "sub_num": "H",
+      "bbox": {
+        "minLon": -63.42277729,
+        "minLat": -28.06354523,
+        "maxLon": -58.37660348,
+        "maxLat": -24.08571124
+      }
+    },
+    "ARU": {
+      "name": "Chubut",
+      "sub_id": "ARU",
+      "sub_num": "U",
+      "bbox": {
+        "minLon": -72.18930697,
+        "minLat": -46.00041974,
+        "maxLon": -63.58261275,
+        "maxLat": -41.99934304
+      }
+    },
+    "ARC": {
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "sub_id": "ARC",
+      "sub_num": "C",
+      "bbox": {
+        "minLon": -58.53072762,
+        "minLat": -34.67362404,
+        "maxLon": -58.35246825,
+        "maxLat": -34.52863228
+      }
+    },
+    "ARW": {
+      "name": "Corrientes",
+      "sub_id": "ARW",
+      "sub_num": "W",
+      "bbox": {
+        "minLon": -59.71168554,
+        "minLat": -30.72611153,
+        "maxLon": -55.62181663,
+        "maxLat": -27.24849701
+      }
+    },
+    "ARX": {
+      "name": "Córdoba",
+      "sub_id": "ARX",
+      "sub_num": "X",
+      "bbox": {
+        "minLon": -65.76983464,
+        "minLat": -35.0023973,
+        "maxLon": -61.7719028,
+        "maxLat": -29.43443298
+      }
+    },
+    "ARE": {
+      "name": "Entre Ríos",
+      "sub_id": "ARE",
+      "sub_num": "E",
+      "bbox": {
+        "minLon": -60.79510272,
+        "minLat": -34.03543532,
+        "maxLon": -57.80002308,
+        "maxLat": -30.15904152
+      }
+    },
+    "ARP": {
+      "name": "Formosa",
+      "sub_id": "ARP",
+      "sub_num": "P",
+      "bbox": {
+        "minLon": -62.34216976,
+        "minLat": -26.87376022,
+        "maxLon": -57.55912721,
+        "maxLat": -22.47578502
+      }
+    },
+    "ARY": {
+      "name": "Jujuy",
+      "sub_id": "ARY",
+      "sub_num": "Y",
+      "bbox": {
+        "minLon": -67.21406674,
+        "minLat": -24.62357998,
+        "maxLon": -64.15115023,
+        "maxLat": -21.84577703
+      }
+    },
+    "ARL": {
+      "name": "La Pampa",
+      "sub_id": "ARL",
+      "sub_num": "L",
+      "bbox": {
+        "minLon": -68.29463839,
+        "minLat": -39.33062553,
+        "maxLon": -63.38293791,
+        "maxLat": -35.00198114
+      }
+    },
+    "ARF": {
+      "name": "La Rioja",
+      "sub_id": "ARF",
+      "sub_num": "F",
+      "bbox": {
+        "minLon": -69.72446489,
+        "minLat": -31.93347931,
+        "maxLon": -65.11854863,
+        "maxLat": -27.70889282
+      }
+    },
+    "ARM": {
+      "name": "Mendoza",
+      "sub_id": "ARM",
+      "sub_num": "M",
+      "bbox": {
+        "minLon": -70.58369005,
+        "minLat": -37.57698822,
+        "maxLon": -66.47831905,
+        "maxLat": -32.00042725
+      }
+    },
+    "ARN": {
+      "name": "Misiones",
+      "sub_id": "ARN",
+      "sub_num": "N",
+      "bbox": {
+        "minLon": -56.05848241,
+        "minLat": -28.16448212,
+        "maxLon": -53.64191139,
+        "maxLat": -25.49411774
+      }
+    },
+    "ARQ": {
+      "name": "Neuquén",
+      "sub_id": "ARQ",
+      "sub_num": "Q",
+      "bbox": {
+        "minLon": -71.96619403,
+        "minLat": -41.09584045,
+        "maxLon": -68.0003314,
+        "maxLat": -36.09089804
+      }
+    },
+    "ARR": {
+      "name": "Río Negro",
+      "sub_id": "ARR",
+      "sub_num": "R",
+      "bbox": {
+        "minLon": -71.91169798,
+        "minLat": -42.00854278,
+        "maxLon": -62.79542291,
+        "maxLat": -37.57698822
+      }
+    },
+    "ARA": {
+      "name": "Salta",
+      "sub_id": "ARA",
+      "sub_num": "A",
+      "bbox": {
+        "minLon": -68.56804001,
+        "minLat": -26.37508392,
+        "maxLon": -62.33913362,
+        "maxLat": -21.99789047
+      }
+    },
+    "ARJ": {
+      "name": "San Juan",
+      "sub_id": "ARJ",
+      "sub_num": "J",
+      "bbox": {
+        "minLon": -70.57059002,
+        "minLat": -32.3143959,
+        "maxLon": -66.72400391,
+        "maxLat": -28.66733193
+      }
+    },
+    "ARD": {
+      "name": "San Luis",
+      "sub_id": "ARD",
+      "sub_num": "D",
+      "bbox": {
+        "minLon": -67.37227368,
+        "minLat": -36.00285172,
+        "maxLon": -64.88546443,
+        "maxLat": -31.86138153
+      }
+    },
+    "ARZ": {
+      "name": "Santa Cruz",
+      "sub_id": "ARZ",
+      "sub_num": "Z",
+      "bbox": {
+        "minLon": -73.56746554,
+        "minLat": -52.39802325,
+        "maxLon": -65.71029723,
+        "maxLat": -46.00018501
+      }
+    },
+    "ARS": {
+      "name": "Santa Fe",
+      "sub_id": "ARS",
+      "sub_num": "S",
+      "bbox": {
+        "minLon": -62.87323892,
+        "minLat": -34.38601613,
+        "maxLon": -58.86750901,
+        "maxLat": -27.99900055
+      }
+    },
+    "ARG": {
+      "name": "Santiago del Estero",
+      "sub_id": "ARG",
+      "sub_num": "G",
+      "bbox": {
+        "minLon": -65.1691742,
+        "minLat": -30.49873352,
+        "maxLon": -61.71102428,
+        "maxLat": -25.55685997
+      }
+    },
+    "ARV": {
+      "name": "Tierra del Fuego",
+      "sub_id": "ARV",
+      "sub_num": "V",
+      "bbox": {
+        "minLon": -68.61069024,
+        "minLat": -55.06150365,
+        "maxLon": -63.79442322,
+        "maxLat": -52.65779054
+      }
+    },
+    "ART": {
+      "name": "Tucumán",
+      "sub_id": "ART",
+      "sub_num": "T",
+      "bbox": {
+        "minLon": -66.19776499,
+        "minLat": -28.00432205,
+        "maxLon": -64.48695588,
+        "maxLat": -26.05793953
+      }
+    }
+  }
+  

@@ -1,0 +1,531 @@
+{
+    "DZ01": {
+      "name": "Adrar",
+      "sub_id": "DZ01",
+      "sub_num": "1",
+      "bbox": {
+        "minLon": -5.765854359,
+        "minLat": 20.22583008,
+        "maxLon": 2.251860023,
+        "maxLat": 31.66898
+      }
+    },
+    "DZ16": {
+      "name": "Alger",
+      "sub_id": "DZ16",
+      "sub_num": "16",
+      "bbox": {
+        "minLon": 2.985730052,
+        "minLat": 36.61331999,
+        "maxLon": 3.310009956,
+        "maxLat": 36.82018113
+      }
+    },
+    "DZ23": {
+      "name": "Annaba",
+      "sub_id": "DZ23",
+      "sub_num": "23",
+      "bbox": {
+        "minLon": 7.359050036,
+        "minLat": 36.57006001,
+        "maxLon": 7.831994534,
+        "maxLat": 36.99923861
+      }
+    },
+    "DZ44": {
+      "name": "Aïn Defla",
+      "sub_id": "DZ44",
+      "sub_num": "44",
+      "bbox": {
+        "minLon": 1.611400008,
+        "minLat": 35.83448994,
+        "maxLon": 2.743100047,
+        "maxLat": 36.42228997
+      }
+    },
+    "DZ46": {
+      "name": "Aïn Témouchent",
+      "sub_id": "DZ46",
+      "sub_num": "46",
+      "bbox": {
+        "minLon": -1.57345891,
+        "minLat": 35.06517005,
+        "maxLon": -0.543580055,
+        "maxLat": 35.73243248
+      }
+    },
+    "DZ05": {
+      "name": "Batna",
+      "sub_id": "DZ05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": 4.835440039,
+        "minLat": 34.74203002,
+        "maxLon": 6.839249968,
+        "maxLat": 35.90091002
+      }
+    },
+    "DZ07": {
+      "name": "Biskra",
+      "sub_id": "DZ07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": 4.225280047,
+        "minLat": 33.58203995,
+        "maxLon": 6.815160036,
+        "maxLat": 35.28182995
+      }
+    },
+    "DZ09": {
+      "name": "Blida",
+      "sub_id": "DZ09",
+      "sub_num": "9",
+      "bbox": {
+        "minLon": 2.525589943,
+        "minLat": 36.32922006,
+        "maxLon": 3.38143003,
+        "maxLat": 36.67069995
+      }
+    },
+    "DZ34": {
+      "name": "Bordj Bou Arréridj",
+      "sub_id": "DZ34",
+      "sub_num": "34",
+      "bbox": {
+        "minLon": 4.140689969,
+        "minLat": 35.74127996,
+        "maxLon": 5.307530045,
+        "maxLat": 36.41074002
+      }
+    },
+    "DZ10": {
+      "name": "Bouira",
+      "sub_id": "DZ10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": 3.375710011,
+        "minLat": 35.82710004,
+        "maxLon": 4.47439003,
+        "maxLat": 36.58975005
+      }
+    },
+    "DZ35": {
+      "name": "Boumerdès",
+      "sub_id": "DZ35",
+      "sub_num": "35",
+      "bbox": {
+        "minLon": 3.301880002,
+        "minLat": 36.52680004,
+        "maxLon": 4.117830038,
+        "maxLat": 36.92324221
+      }
+    },
+    "DZ08": {
+      "name": "Béchar",
+      "sub_id": "DZ08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": -5.294180632,
+        "minLat": 28.26076996,
+        "maxLon": 0.341750025,
+        "maxLat": 32.34249997
+      }
+    },
+    "DZ06": {
+      "name": "Béjaïa",
+      "sub_id": "DZ06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": 4.41387999,
+        "minLat": 36.18813002,
+        "maxLon": 5.534000039,
+        "maxLat": 36.89532447
+      }
+    },
+    "DZ02": {
+      "name": "Chlef",
+      "sub_id": "DZ02",
+      "sub_num": "2",
+      "bbox": {
+        "minLon": 0.739830017,
+        "minLat": 35.83667004,
+        "maxLon": 1.785590052,
+        "maxLat": 36.56194949
+      }
+    },
+    "DZ25": {
+      "name": "Constantine",
+      "sub_id": "DZ25",
+      "sub_num": "25",
+      "bbox": {
+        "minLon": 6.372169971,
+        "minLat": 36.06265998,
+        "maxLon": 7.10195005,
+        "maxLat": 36.57897949
+      }
+    },
+    "DZ17": {
+      "name": "Djelfa",
+      "sub_id": "DZ17",
+      "sub_num": "17",
+      "bbox": {
+        "minLon": 2.34168005,
+        "minLat": 32.87788999,
+        "maxLon": 5.105730057,
+        "maxLat": 35.81326997
+      }
+    },
+    "DZ32": {
+      "name": "El Bayadh",
+      "sub_id": "DZ32",
+      "sub_num": "32",
+      "bbox": {
+        "minLon": -0.484150052,
+        "minLat": 30.70700002,
+        "maxLon": 2.384170056,
+        "maxLat": 34.43754995
+      }
+    },
+    "DZ39": {
+      "name": "El Oued",
+      "sub_id": "DZ39",
+      "sub_num": "39",
+      "bbox": {
+        "minLon": 5.192999959,
+        "minLat": 31.74748027,
+        "maxLon": 9.163699627,
+        "maxLat": 34.49636996
+      }
+    },
+    "DZ36": {
+      "name": "El Tarf",
+      "sub_id": "DZ36",
+      "sub_num": "36",
+      "bbox": {
+        "minLon": 7.730849981,
+        "minLat": 36.36993003,
+        "maxLon": 8.682700753,
+        "maxLat": 36.95193076
+      }
+    },
+    "DZ47": {
+      "name": "Ghardaïa",
+      "sub_id": "DZ47",
+      "sub_num": "47",
+      "bbox": {
+        "minLon": 1.886719942,
+        "minLat": 28.95871997,
+        "maxLon": 4.991780043,
+        "maxLat": 33.01025999
+      }
+    },
+    "DZ24": {
+      "name": "Guelma",
+      "sub_id": "DZ24",
+      "sub_num": "24",
+      "bbox": {
+        "minLon": 7.015030026,
+        "minLat": 36.01098001,
+        "maxLon": 8.068169951,
+        "maxLat": 36.62284005
+      }
+    },
+    "DZ33": {
+      "name": "Illizi",
+      "sub_id": "DZ33",
+      "sub_num": "33",
+      "bbox": {
+        "minLon": 5.865829945,
+        "minLat": 23.00674438,
+        "maxLon": 12.00076842,
+        "maxLat": 30.11250126
+      }
+    },
+    "DZ18": {
+      "name": "Jijel",
+      "sub_id": "DZ18",
+      "sub_num": "18",
+      "bbox": {
+        "minLon": 5.48714006,
+        "minLat": 36.48614001,
+        "maxLon": 6.563809991,
+        "maxLat": 36.94637609
+      }
+    },
+    "DZ40": {
+      "name": "Khenchela",
+      "sub_id": "DZ40",
+      "sub_num": "40",
+      "bbox": {
+        "minLon": 6.564530015,
+        "minLat": 34.12670004,
+        "maxLon": 7.608360052,
+        "maxLat": 35.66657996
+      }
+    },
+    "DZ03": {
+      "name": "Laghouat",
+      "sub_id": "DZ03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": 1.434960008,
+        "minLat": 32.69816995,
+        "maxLon": 4.262040019,
+        "maxLat": 34.67577004
+      }
+    },
+    "DZ29": {
+      "name": "Mascara",
+      "sub_id": "DZ29",
+      "sub_num": "29",
+      "bbox": {
+        "minLon": -0.498710037,
+        "minLat": 34.98422003,
+        "maxLon": 0.932450056,
+        "maxLat": 35.76477003
+      }
+    },
+    "DZ43": {
+      "name": "Mila",
+      "sub_id": "DZ43",
+      "sub_num": "43",
+      "bbox": {
+        "minLon": 5.81408,
+        "minLat": 35.84398997,
+        "maxLon": 6.592936873,
+        "maxLat": 36.59147
+      }
+    },
+    "DZ27": {
+      "name": "Mostaganem",
+      "sub_id": "DZ27",
+      "sub_num": "27",
+      "bbox": {
+        "minLon": -0.108605504,
+        "minLat": 35.59095001,
+        "maxLon": 0.778589964,
+        "maxLat": 36.34317613
+      }
+    },
+    "DZ28": {
+      "name": "Msila",
+      "sub_id": "DZ28",
+      "sub_num": "28",
+      "bbox": {
+        "minLon": 3.435969949,
+        "minLat": 34.22298002,
+        "maxLon": 5.422170043,
+        "maxLat": 36.01496994
+      }
+    },
+    "DZ26": {
+      "name": "Médéa",
+      "sub_id": "DZ26",
+      "sub_num": "26",
+      "bbox": {
+        "minLon": 2.212689995,
+        "minLat": 35.43589997,
+        "maxLon": 3.710680008,
+        "maxLat": 36.48657
+      }
+    },
+    "DZ45": {
+      "name": "Naama",
+      "sub_id": "DZ45",
+      "sub_num": "45",
+      "bbox": {
+        "minLon": -1.738582491,
+        "minLat": 32.10852003,
+        "maxLon": 0.13409996,
+        "maxLat": 34.29059994
+      }
+    },
+    "DZ31": {
+      "name": "Oran",
+      "sub_id": "DZ31",
+      "sub_num": "31",
+      "bbox": {
+        "minLon": -1.055602432,
+        "minLat": 35.31461,
+        "maxLon": -0.089529991,
+        "maxLat": 35.90974319
+      }
+    },
+    "DZ30": {
+      "name": "Ouargla",
+      "sub_id": "DZ30",
+      "sub_num": "30",
+      "bbox": {
+        "minLon": 3.068879962,
+        "minLat": 28.47551,
+        "maxLon": 9.55050528,
+        "maxLat": 33.62553
+      }
+    },
+    "DZ04": {
+      "name": "Oum el Bouaghi",
+      "sub_id": "DZ04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": 6.179340005,
+        "minLat": 35.41222,
+        "maxLon": 7.932360053,
+        "maxLat": 36.16778004
+      }
+    },
+    "DZ48": {
+      "name": "Relizane",
+      "sub_id": "DZ48",
+      "sub_num": "48",
+      "bbox": {
+        "minLon": 0.256600022,
+        "minLat": 35.42172003,
+        "maxLon": 1.478170037,
+        "maxLat": 36.18832004
+      }
+    },
+    "DZ20": {
+      "name": "Saïda",
+      "sub_id": "DZ20",
+      "sub_num": "20",
+      "bbox": {
+        "minLon": -0.451949954,
+        "minLat": 33.88622999,
+        "maxLon": 1.156219959,
+        "maxLat": 35.13853002
+      }
+    },
+    "DZ22": {
+      "name": "Sidi Bel Abbès",
+      "sub_id": "DZ22",
+      "sub_num": "22",
+      "bbox": {
+        "minLon": -1.094400048,
+        "minLat": 34.18974996,
+        "maxLon": -0.004780054,
+        "maxLat": 35.42724001
+      }
+    },
+    "DZ21": {
+      "name": "Skikda",
+      "sub_id": "DZ21",
+      "sub_num": "21",
+      "bbox": {
+        "minLon": 6.23953259,
+        "minLat": 36.38902998,
+        "maxLon": 7.570930004,
+        "maxLat": 37.09525371
+      }
+    },
+    "DZ41": {
+      "name": "Souk Ahras",
+      "sub_id": "DZ41",
+      "sub_num": "41",
+      "bbox": {
+        "minLon": 7.397959948,
+        "minLat": 35.78102005,
+        "maxLon": 8.390547633,
+        "maxLat": 36.46357
+      }
+    },
+    "DZ19": {
+      "name": "Sétif",
+      "sub_id": "DZ19",
+      "sub_num": "19",
+      "bbox": {
+        "minLon": 4.802950025,
+        "minLat": 35.59748995,
+        "maxLon": 6.07573998,
+        "maxLat": 36.55895996
+      }
+    },
+    "DZ11": {
+      "name": "Tamanrasset",
+      "sub_id": "DZ11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": 0.822669983,
+        "minLat": 18.95467758,
+        "maxLon": 11.12493372,
+        "maxLat": 29.12372589
+      }
+    },
+    "DZ14": {
+      "name": "Tiaret",
+      "sub_id": "DZ14",
+      "sub_num": "14",
+      "bbox": {
+        "minLon": 0.529960036,
+        "minLat": 34.09064996,
+        "maxLon": 2.726439953,
+        "maxLat": 35.66578996
+      }
+    },
+    "DZ37": {
+      "name": "Tindouf",
+      "sub_id": "DZ37",
+      "sub_num": "37",
+      "bbox": {
+        "minLon": -8.670220018,
+        "minLat": 25.57401562,
+        "maxLon": -3.107079983,
+        "maxLat": 29.87193131
+      }
+    },
+    "DZ42": {
+      "name": "Tipaza",
+      "sub_id": "DZ42",
+      "sub_num": "42",
+      "bbox": {
+        "minLon": 1.705639958,
+        "minLat": 36.33176994,
+        "maxLon": 3.136489988,
+        "maxLat": 36.81574547
+      }
+    },
+    "DZ38": {
+      "name": "Tissemsilt",
+      "sub_id": "DZ38",
+      "sub_num": "38",
+      "bbox": {
+        "minLon": 1.328439951,
+        "minLat": 35.51047003,
+        "maxLon": 2.406039954,
+        "maxLat": 35.99504995
+      }
+    },
+    "DZ15": {
+      "name": "Tizi Ouzou",
+      "sub_id": "DZ15",
+      "sub_num": "15",
+      "bbox": {
+        "minLon": 3.790670037,
+        "minLat": 36.43325996,
+        "maxLon": 4.719609976,
+        "maxLat": 36.91015005
+      }
+    },
+    "DZ13": {
+      "name": "Tlemcen",
+      "sub_id": "DZ13",
+      "sub_num": "13",
+      "bbox": {
+        "minLon": -2.218297481,
+        "minLat": 34.07564223,
+        "maxLon": -0.72420001,
+        "maxLat": 35.2495383
+      }
+    },
+    "DZ12": {
+      "name": "Tébessa",
+      "sub_id": "DZ12",
+      "sub_num": "12",
+      "bbox": {
+        "minLon": 7.202419997,
+        "minLat": 34.07528996,
+        "maxLon": 8.479830027,
+        "maxLat": 35.98037005
+      }
+    }
+  }
+  

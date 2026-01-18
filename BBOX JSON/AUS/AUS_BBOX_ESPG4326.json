@@ -1,0 +1,135 @@
+{
+    "AUACT": {
+      "name": "Australian Capital Territory",
+      "sub_id": "AUACT",
+      "sub_num": "ACT",
+      "bbox": {
+        "minLon": 148.7638245,
+        "minLat": -35.91971397,
+        "maxLon": 150.7727778,
+        "maxLat": -35.11194444
+      }
+    },
+    "AUNSW": {
+      "name": "New South Wales",
+      "sub_id": "AUNSW",
+      "sub_num": "NSW",
+      "bbox": {
+        "minLon": 141,
+        "minLat": -37.50548458,
+        "maxLon": 159.2561816,
+        "maxLat": -28.15658569
+      }
+    },
+    "AUNT": {
+      "name": "Northern Territory",
+      "sub_id": "AUNT",
+      "sub_num": "NT",
+      "bbox": {
+        "minLon": 128.9990554,
+        "minLat": -26.00034559,
+        "maxLon": 137.9999661,
+        "maxLat": -10.90235472
+      }
+    },
+    "AUQLD": {
+      "name": "Queensland",
+      "sub_id": "AUQLD",
+      "sub_num": "QLD",
+      "bbox": {
+        "minLon": 137.9951117,
+        "minLat": -29.17891502,
+        "maxLon": 155.8711258,
+        "maxLat": -9.140625
+      }
+    },
+    "AUSA": {
+      "name": "South Australia",
+      "sub_id": "AUSA",
+      "sub_num": "SA",
+      "bbox": {
+        "minLon": 128.9995812,
+        "minLat": -38.06219256,
+        "maxLon": 141.0022064,
+        "maxLat": -25.99833012
+      }
+    },
+    "AUTAS": {
+      "name": "Tasmania",
+      "sub_id": "AUTAS",
+      "sub_num": "TAS",
+      "bbox": {
+        "minLon": 143.8174912,
+        "minLat": -55.11684895,
+        "maxLon": 158.9499552,
+        "maxLat": -39.19904435
+      }
+    },
+    "AUVIC": {
+      "name": "Victoria",
+      "sub_id": "AUVIC",
+      "sub_num": "VIC",
+      "bbox": {
+        "minLon": 140.9619144,
+        "minLat": -39.15952456,
+        "maxLon": 149.9765906,
+        "maxLat": -33.98020864
+      }
+    },
+    "AUWA": {
+      "name": "Western Australia",
+      "sub_id": "AUWA",
+      "sub_num": "WA",
+      "bbox": {
+        "minLon": 112.9197425,
+        "minLat": -35.19276202,
+        "maxLon": 129.0014511,
+        "maxLat": -12.23719466
+      }
+    },
+    "CX": {
+      "name": "Christmas Island (AU)",
+      "sub_id": "CX",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 105.5329651,
+        "minLat": -10.57079852,
+        "maxLon": 105.7131759,
+        "maxLat": -10.41241789
+      }
+    },
+    "CC": {
+      "name": "Cocos (Keeling) Islands (AU)",
+      "sub_id": "CC",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 96.81698799,
+        "minLat": -12.20784366,
+        "maxLon": 96.93027782,
+        "maxLat": -11.82221711
+      }
+    },
+    "HM": {
+      "name": "Heard Island and McDonald Islands (AU)",
+      "sub_id": "HM",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 72.58284116,
+        "minLat": -53.19496429,
+        "maxLon": 73.83206928,
+        "maxLat": -52.9022218
+      }
+    },
+    "NF": {
+      "name": "Norfolk Island (AU)",
+      "sub_id": "NF",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 167.9138463732,
+        "minLat": -29.1327381133,
+        "maxLon": 167.9979546069,
+        "maxLat": -28.9953191281
+      }
+    }
+  }
+  

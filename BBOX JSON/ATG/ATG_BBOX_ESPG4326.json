@@ -1,0 +1,91 @@
+{
+    "AG10": {
+      "name": "Barbuda",
+      "sub_id": "AG10",
+      "sub_num": "10",
+      "bbox": {
+        "minLon": -61.88626242,
+        "minLat": 17.5429244,
+        "maxLon": -61.73074079,
+        "maxLat": 17.72928226
+      }
+    },
+    "AG11": {
+      "name": "Redonda",
+      "sub_id": "AG11",
+      "sub_num": "11",
+      "bbox": {
+        "minLon": -62.34885371,
+        "minLat": 16.93135095,
+        "maxLon": -62.34087789,
+        "maxLat": 16.94505775
+      }
+    },
+    "AG03": {
+      "name": "Saint George",
+      "sub_id": "AG03",
+      "sub_num": "3",
+      "bbox": {
+        "minLon": -61.82119989,
+        "minLat": 17.07921481,
+        "maxLon": -61.74572217,
+        "maxLat": 17.17015302
+      }
+    },
+    "AG04": {
+      "name": "Saint John",
+      "sub_id": "AG04",
+      "sub_num": "4",
+      "bbox": {
+        "minLon": -61.9273386,
+        "minLat": 17.04616785,
+        "maxLon": -61.7933296,
+        "maxLat": 17.1730206
+      }
+    },
+    "AG05": {
+      "name": "Saint Mary",
+      "sub_id": "AG05",
+      "sub_num": "5",
+      "bbox": {
+        "minLon": -61.90632772,
+        "minLat": 17.00339913,
+        "maxLon": -61.80607951,
+        "maxLat": 17.09753752
+      }
+    },
+    "AG06": {
+      "name": "Saint Paul",
+      "sub_id": "AG06",
+      "sub_num": "6",
+      "bbox": {
+        "minLon": -61.81974804,
+        "minLat": 16.99726582,
+        "maxLon": -61.72957802,
+        "maxLat": 17.06446052
+      }
+    },
+    "AG07": {
+      "name": "Saint Peter",
+      "sub_id": "AG07",
+      "sub_num": "7",
+      "bbox": {
+        "minLon": -61.79373813,
+        "minLat": 17.05893517,
+        "maxLon": -61.71232748,
+        "maxLat": 17.14935947
+      }
+    },
+    "AG08": {
+      "name": "Saint Philip",
+      "sub_id": "AG08",
+      "sub_num": "8",
+      "bbox": {
+        "minLon": -61.75175738,
+        "minLat": 17.0299145,
+        "maxLon": -61.65656447,
+        "maxLat": 17.10774612
+      }
+    }
+  }
+  

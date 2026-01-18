@@ -1,0 +1,377 @@
+{
+    "AFBDS": {
+      "name": "Badakhshān",
+      "sub_id": "AFBDS",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 69.96632469,
+        "minLat": 35.44395447,
+        "maxLon": 74.88891923,
+        "maxLat": 38.4911263
+      }
+    },
+    "AFBGL": {
+      "name": "Baghlān",
+      "sub_id": "AFBGL",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 68.08374882,
+        "minLat": 35.00244141,
+        "maxLon": 69.98487222,
+        "maxLat": 36.57400131
+      }
+    },
+    "AFBAL": {
+      "name": "Balkh",
+      "sub_id": "AFBAL",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 66.38117349,
+        "minLat": 35.57132721,
+        "maxLon": 68.20399427,
+        "maxLat": 37.38327742
+      }
+    },
+    "AFBDG": {
+      "name": "Bādghīs",
+      "sub_id": "AFBDG",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 62.63249266,
+        "minLat": 34.51114655,
+        "maxLon": 65.17526078,
+        "maxLat": 36.00040197
+      }
+    },
+    "AFBAM": {
+      "name": "Bāmyān",
+      "sub_id": "AFBAM",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 66.41359103,
+        "minLat": 33.96234512,
+        "maxLon": 68.27300251,
+        "maxLat": 35.47657013
+      }
+    },
+    "AFDAY": {
+      "name": "Dāykundī",
+      "sub_id": "AFDAY",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 65.30961812,
+        "minLat": 33.10369491,
+        "maxLon": 67.40760887,
+        "maxLat": 34.40042496
+      }
+    },
+    "AFFRA": {
+      "name": "Farāh",
+      "sub_id": "AFFRA",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 60.58157504,
+        "minLat": 31.38793945,
+        "maxLon": 64.7291435,
+        "maxLat": 33.53919983
+      }
+    },
+    "AFFYB": {
+      "name": "Fāryāb",
+      "sub_id": "AFFYB",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 63.80863464,
+        "minLat": 35.16706467,
+        "maxLon": 65.87461567,
+        "maxLat": 37.29403496
+      }
+    },
+    "AFGHA": {
+      "name": "Ghaznī",
+      "sub_id": "AFGHA",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 66.71458113,
+        "minLat": 32.06531525,
+        "maxLon": 68.80624711,
+        "maxLat": 34.22918773
+      }
+    },
+    "AFGHO": {
+      "name": "Ghōr",
+      "sub_id": "AFGHO",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 63.06655347,
+        "minLat": 33.16257477,
+        "maxLon": 66.78854561,
+        "maxLat": 35.27074814
+      }
+    },
+    "AFHEL": {
+      "name": "Helmand",
+      "sub_id": "AFHEL",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 62.5396136,
+        "minLat": 29.37726974,
+        "maxLon": 65.37254536,
+        "maxLat": 33.403759
+      }
+    },
+    "AFHER": {
+      "name": "Herāt",
+      "sub_id": "AFHER",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 60.47261894,
+        "minLat": 32.73548126,
+        "maxLon": 64.45844495,
+        "maxLat": 35.6255722
+      }
+    },
+    "AFJOW": {
+      "name": "Jowzjān",
+      "sub_id": "AFJOW",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 65.40997887,
+        "minLat": 36.25505447,
+        "maxLon": 66.56880379,
+        "maxLat": 37.55023956
+      }
+    },
+    "AFKAN": {
+      "name": "Kandahār",
+      "sub_id": "AFKAN",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 64.78851092,
+        "minLat": 29.53470469,
+        "maxLon": 67.7965138,
+        "maxLat": 32.48056412
+      }
+    },
+    "AFKHO": {
+      "name": "Khōst",
+      "sub_id": "AFKHO",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 69.3502059,
+        "minLat": 33.01065445,
+        "maxLon": 70.32888663,
+        "maxLat": 33.73558044
+      }
+    },
+    "AFKNR": {
+      "name": "Kunaṛ",
+      "sub_id": "AFKNR",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 70.58889174,
+        "minLat": 34.52505112,
+        "maxLon": 71.68101501,
+        "maxLat": 35.48434854
+      }
+    },
+    "AFKDZ": {
+      "name": "Kunduz",
+      "sub_id": "AFKDZ",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 68.03125322,
+        "minLat": 36.27943039,
+        "maxLon": 69.36315274,
+        "maxLat": 37.33875275
+      }
+    },
+    "AFKAB": {
+      "name": "Kābul",
+      "sub_id": "AFKAB",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 68.8274281,
+        "minLat": 34.19769287,
+        "maxLon": 69.9438163,
+        "maxLat": 34.87335205
+      }
+    },
+    "AFKAP": {
+      "name": "Kāpīsā",
+      "sub_id": "AFKAP",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 69.27679908,
+        "minLat": 34.63439941,
+        "maxLon": 69.92599475,
+        "maxLat": 35.20002365
+      }
+    },
+    "AFLAG": {
+      "name": "Laghmān",
+      "sub_id": "AFLAG",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 69.80427122,
+        "minLat": 34.38497543,
+        "maxLon": 70.62992024,
+        "maxLat": 35.22010803
+      }
+    },
+    "AFLOG": {
+      "name": "Lōgar",
+      "sub_id": "AFLOG",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 68.6802628,
+        "minLat": 33.59945297,
+        "maxLon": 69.8831352,
+        "maxLat": 34.36712265
+      }
+    },
+    "AFNAN": {
+      "name": "Nangarhār",
+      "sub_id": "AFNAN",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 69.45426679,
+        "minLat": 33.93985748,
+        "maxLon": 71.17615628,
+        "maxLat": 34.81601715
+      }
+    },
+    "AFNIM": {
+      "name": "Nīmrōz",
+      "sub_id": "AFNIM",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 60.87316251,
+        "minLat": 29.3788147,
+        "maxLon": 63.54013848,
+        "maxLat": 32.21423149
+      }
+    },
+    "AFNUR": {
+      "name": "Nūristān",
+      "sub_id": "AFNUR",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 69.91252732,
+        "minLat": 34.88845825,
+        "maxLon": 71.61910236,
+        "maxLat": 36.04305267
+      }
+    },
+    "AFPIA": {
+      "name": "Paktiyā",
+      "sub_id": "AFPIA",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 68.76709521,
+        "minLat": 33.15553665,
+        "maxLon": 70.04013729,
+        "maxLat": 34.08458948
+      }
+    },
+    "AFPKA": {
+      "name": "Paktīkā",
+      "sub_id": "AFPKA",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 67.85680747,
+        "minLat": 31.59539223,
+        "maxLon": 69.54636991,
+        "maxLat": 33.4233284
+      }
+    },
+    "AFPAN": {
+      "name": "Panjshayr",
+      "sub_id": "AFPAN",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 69.15190482,
+        "minLat": 35.07471085,
+        "maxLon": 70.29408765,
+        "maxLat": 35.88993072
+      }
+    },
+    "AFPAR": {
+      "name": "Parwān",
+      "sub_id": "AFPAR",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 68.18737531,
+        "minLat": 34.58341598,
+        "maxLon": 69.62144923,
+        "maxLat": 35.4202652
+      }
+    },
+    "AFSAM": {
+      "name": "Samangān",
+      "sub_id": "AFSAM",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 66.89753664,
+        "minLat": 35.35709381,
+        "maxLon": 68.54611039,
+        "maxLat": 36.59631729
+      }
+    },
+    "AFSAR": {
+      "name": "Sar-e Pul",
+      "sub_id": "AFSAR",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 65.42852926,
+        "minLat": 34.8415947,
+        "maxLon": 67.14573205,
+        "maxLat": 36.3949585
+      }
+    },
+    "AFTAK": {
+      "name": "Takhār",
+      "sub_id": "AFTAK",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 69.17369854,
+        "minLat": 35.78504562,
+        "maxLon": 70.52162445,
+        "maxLat": 37.62111425
+      }
+    },
+    "AFURU": {
+      "name": "Uruzgān",
+      "sub_id": "AFURU",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 65.16697276,
+        "minLat": 32.22478867,
+        "maxLon": 67.10319042,
+        "maxLat": 33.31998825
+      }
+    },
+    "AFWAR": {
+      "name": "Wardak",
+      "sub_id": "AFWAR",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 67.27670681,
+        "minLat": 33.65833282,
+        "maxLon": 68.96923244,
+        "maxLat": 34.79644775
+      }
+    },
+    "AFZAB": {
+      "name": "Zābul",
+      "sub_id": "AFZAB",
+      "sub_num": "",
+      "bbox": {
+        "minLon": 66.19409108,
+        "minLat": 31.51333809,
+        "maxLon": 68.12276733,
+        "maxLat": 33.12669754
+      }
+    }
+  }
+  
