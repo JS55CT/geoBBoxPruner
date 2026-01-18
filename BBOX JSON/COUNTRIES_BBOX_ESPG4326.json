@@ -1374,7 +1374,7 @@
     "id": "ESP",
     "ISO_ALPHA2": "ES",
     "ISO_ALPHA3": "ESP",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [
       { "minLon": -9.293336684, "minLat": 35.26443614, "maxLon": 4.316945099, "maxLat": 43.76430021 },
       { "minLon": -18.16986387, "minLat": 27.63750018, "maxLon": -13.42139082, "maxLat": 29.24250019 }
