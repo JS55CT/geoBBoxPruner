@@ -462,7 +462,7 @@
     "id": "EST",
     "ISO_ALPHA2": "EE",
     "ISO_ALPHA3": "EST",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 21.83735405, "minLat": 57.52263607, "maxLon": 28.1940912, "maxLat": 59.6647181 }]
   },
   "SWZ": {
@@ -969,7 +969,7 @@
     "id": "MNG",
     "ISO_ALPHA2": "MN",
     "ISO_ALPHA3": "MNG",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 87.76110032, "minLat": 41.58665409, "maxLon": 119.9315093, "maxLat": 52.14277319 }]
   },
   "MNE": {
@@ -1366,7 +1366,7 @@
     "id": "SSD",
     "ISO_ALPHA2": "SS",
     "ISO_ALPHA3": "SSD",
-    "Sub_level": 0,
+    "Sub_level": 1,
     "bbox": [{ "minLon": 24.14027323, "minLat": 3.493391133, "maxLon": 35.9405541, "maxLat": 12.10117546 }]
   },
   "ESP": {
